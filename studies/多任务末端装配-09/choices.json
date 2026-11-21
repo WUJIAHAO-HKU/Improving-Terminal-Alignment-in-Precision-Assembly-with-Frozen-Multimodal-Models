@@ -1,0 +1,332 @@
+{
+  "P000": {
+    "batch": 0,
+    "priority": 0.14703484651835383,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 2
+  },
+  "P001": {
+    "batch": 0,
+    "priority": 0.07315048110609987,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 4
+  },
+  "P002": {
+    "batch": 0,
+    "priority": 0.17084558802365435,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 1
+  },
+  "P003": {
+    "batch": 0,
+    "priority": 0.12668401738158877,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 3
+  },
+  "P004": {
+    "batch": 0,
+    "priority": 0.007464094782481709,
+    "view": false,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 5
+  },
+  "P005": {
+    "batch": 1,
+    "priority": 0.20218238081841305,
+    "view": false,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 3
+  },
+  "P006": {
+    "batch": 1,
+    "priority": 0.06024095963154507,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 4
+  },
+  "P007": {
+    "batch": 1,
+    "priority": 0.33119318190787705,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 2
+  },
+  "P008": {
+    "batch": 1,
+    "priority": 0.04595757041633413,
+    "view": false,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 5
+  },
+  "P009": {
+    "batch": 1,
+    "priority": 0.3848431369212033,
+    "view": false,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 1
+  },
+  "P010": {
+    "batch": 2,
+    "priority": 0.17469583846476805,
+    "view": true,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 2
+  },
+  "P011": {
+    "batch": 2,
+    "priority": 0.14758209792611934,
+    "view": true,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 3
+  },
+  "P012": {
+    "batch": 2,
+    "priority": 0.025103349803343444,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 5
+  },
+  "P013": {
+    "batch": 2,
+    "priority": 0.09053316726160136,
+    "view": true,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 4
+  },
+  "P014": {
+    "batch": 2,
+    "priority": 0.2890168129499005,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 1
+  },
+  "P015": {
+    "batch": 3,
+    "priority": 0.12448069111554538,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 4
+  },
+  "P016": {
+    "batch": 3,
+    "priority": 0.29728554646314653,
+    "view": true,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 2
+  },
+  "P017": {
+    "batch": 3,
+    "priority": 0.022388536778099932,
+    "view": false,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 5
+  },
+  "P018": {
+    "batch": 3,
+    "priority": 0.5072608700829,
+    "view": true,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 1
+  },
+  "P019": {
+    "batch": 3,
+    "priority": 0.13122994414515046,
+    "view": true,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 3
+  },
+  "P020": {
+    "batch": 4,
+    "priority": 0.10315390550972654,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 3
+  },
+  "P021": {
+    "batch": 4,
+    "priority": null,
+    "view": false,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": false,
+      "top": false
+    },
+    "rank": 1
+  },
+  "P022": {
+    "batch": 4,
+    "priority": 0.04796719177419863,
+    "view": false,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 5
+  },
+  "P023": {
+    "batch": 4,
+    "priority": 0.13588496207665074,
+    "view": false,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 2
+  },
+  "P024": {
+    "batch": 4,
+    "priority": 0.0757543856488474,
+    "view": false,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 4
+  },
+  "P025": {
+    "batch": 5,
+    "priority": 0.20605342809007382,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 3
+  },
+  "P026": {
+    "batch": 5,
+    "priority": 0.33440802106924294,
+    "view": true,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 2
+  },
+  "P027": {
+    "batch": 5,
+    "priority": 0.7949258166285023,
+    "view": true,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 1
+  },
+  "P028": {
+    "batch": 5,
+    "priority": 0.04192973426005125,
+    "view": false,
+    "repeat": false,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 5
+  },
+  "P029": {
+    "batch": 5,
+    "priority": 0.17131126502724964,
+    "view": true,
+    "repeat": true,
+    "geometry_valid": {
+      "rgb": true,
+      "top": true
+    },
+    "rank": 4
+  }
+}

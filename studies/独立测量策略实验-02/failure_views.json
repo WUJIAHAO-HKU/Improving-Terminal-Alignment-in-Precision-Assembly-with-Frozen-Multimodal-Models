@@ -1,0 +1,112 @@
+[
+  {
+    "id": "B00P00",
+    "task": "round",
+    "gap": 2.0,
+    "category": "joint_skip_harms",
+    "mode": "direct",
+    "action": [
+      7.3,
+      32.0
+    ]
+  },
+  {
+    "id": "B00P00",
+    "task": "round",
+    "gap": 2.0,
+    "category": "joint_skip_harms",
+    "mode": "always",
+    "action": [
+      12.5,
+      -4.0
+    ]
+  },
+  {
+    "id": "B00P09",
+    "task": "square",
+    "gap": 1.0,
+    "category": "joint_measures_harms",
+    "mode": "direct",
+    "action": [
+      -13.7,
+      -4.3
+    ]
+  },
+  {
+    "id": "B00P09",
+    "task": "square",
+    "gap": 1.0,
+    "category": "joint_measures_harms",
+    "mode": "always",
+    "action": [
+      -13.8,
+      -8.1
+    ]
+  },
+  {
+    "id": "B08P04",
+    "task": "square",
+    "gap": 2.0,
+    "category": "joint_beats_simple",
+    "mode": "direct",
+    "action": [
+      -15.5,
+      4.2
+    ]
+  },
+  {
+    "id": "B08P04",
+    "task": "square",
+    "gap": 2.0,
+    "category": "joint_beats_simple",
+    "mode": "always",
+    "action": [
+      -14.7,
+      10.8
+    ]
+  },
+  {
+    "id": "B00P01",
+    "task": "round",
+    "gap": 0.25,
+    "category": "simple_rescues_joint_skip",
+    "mode": "direct",
+    "action": [
+      12.9,
+      -5.4
+    ]
+  },
+  {
+    "id": "B00P01",
+    "task": "round",
+    "gap": 0.25,
+    "category": "simple_rescues_joint_skip",
+    "mode": "always",
+    "action": [
+      5.8,
+      0.0
+    ]
+  },
+  {
+    "id": "B01P03",
+    "task": "round",
+    "gap": 0.25,
+    "category": "both_actions_fail",
+    "mode": "direct",
+    "action": [
+      -7.7,
+      -7.7
+    ]
+  },
+  {
+    "id": "B01P03",
+    "task": "round",
+    "gap": 0.25,
+    "category": "both_actions_fail",
+    "mode": "always",
+    "action": [
+      -6.2,
+      -10.0
+    ]
+  }
+]

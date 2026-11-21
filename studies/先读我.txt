@@ -1,0 +1,17 @@
+﻿精密装配仿真实验原始结果包
+
+先读“关键结果复核.csv”（UTF-8 BOM，Excel 可直接打开）。每一行由逐件记录重算。各轮的 summary.json 含完整汇总，部分轮次另有区间和预算扫描。CSV 仅选论文主对照。下列路径按文件夹末尾编号定位。
+
+01 公差与姿态诊断　使用 validated 合并校正版本。test-outcomes.json 是主测试，stress-manifest.json 和 stress-scores.json 是姿态及遮挡诊断。120 个公差测试条件来自 24 个场景种子；同一种子的五档间隙相互配对。
+02 简单测量规则　case-outcomes.json、locked-ranks.json 和 budget-results.csv 给出公差、视角及联合规则的比较。300 件。
+03 测后动作选择　case-outcomes.json、policy-lock.json、isolated-responses/ 是正式开发组数据。300 件。
+04 独立强对照　400 件，40 批。decisions.json 中 rank 为批内优先级，accept 为测后决定。仅当选中补测且 accept 为真时执行第二动作。模型原答见 isolated-responses/。
+05 混流、顺序、公差消融和节拍　300 件，30 批。decisions.json → batches → selections → 8 或 6 → stream_natural 是自然顺序下的实测名单；其他键为顺序或规则对照。capture-times.json 和逐件 query_s 记录采集、请求时间。
+06 等调用及模型迁移　沿用 05 的 300 件与原图。Sol 第一次与深度回复来自 05；本轮 responses/ 提供新的 RGB 重采样和两种迁移模型的回复。case-outcomes.json 中 transfer 的 direct、ok、strong 分别为直接动作、预算策略、全测强对照。
+07 几何平移基线　沿用 05 中的 150 个方孔件和 90 个圆孔件。test-predictions.json、actions.json、case-outcomes.json 包含定位、动作和就位结果。failure_views/ 是案例图。
+08 合格件工位占用　paired-cases.json 按零件记录各策略的秒数与首次就位结果，timing.json 和 summary.json 为计时明细及汇总。以相同设置时间、返工占用本站、每次返工最终合格为假设，按逐件 base 均值差除以成功率差，全测 Sol 与 RGB 几何法的交点是 41.7 分钟/次返工；这不是实测工厂返工时间。
+
+共同字段与使用说明
+id 标识零件/场景，batch 是统计配对的批次；gap 为单边间隙（mm），angle 为拍摄俯角（度）。dx、dy 或 action 前两项为毫米。success/strict 为严格就位结果，official 为模拟器自带判定。direct 表示首次 RGB 动作；always 在候选动作记录中指深度动作；oracle 是使用真值的参考动作。ground truth、未选动作的回放结果和离线取得的深度仅供评估，不能当作部署时已知的输入。模型回复文件内可查 prompt、raw、action 以及各轮实际记录的耗时/重试字段。
+01 至 05 的 frames/ 保存模型输入图；额外深度输入为 manifest 等记录中的 near/far 两个平面读数。06 至 08 按 id 与 05 关联，不能作为额外独立样本累计。论文案例帧/ 含六张固定相机装配过程帧以及补充回放终态图。
+保留正式结果所用的原始文件内容。01 已替换的旧圆柱数据、03 早期未完成的回复、重复的观测 tar、论文编译及运行环境文件不在本数据包内。清单 SHA256.csv 记录除清单自身之外每个文件的相对路径、字节数和 SHA-256。

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "E01P00",
+    "task": "square",
+    "gap": 0.5,
+    "category": "\u6d41\u5f0f\u6f0f\u6d4b",
+    "mode": "direct",
+    "action": [
+      -6.6,
+      1.6
+    ]
+  },
+  {
+    "id": "E01P00",
+    "task": "square",
+    "gap": 0.5,
+    "category": "\u6d41\u5f0f\u6f0f\u6d4b",
+    "mode": "always",
+    "action": [
+      -6.3,
+      6.1
+    ]
+  },
+  {
+    "id": "E09P09",
+    "task": "square",
+    "gap": 4.0,
+    "category": "\u8bef\u62d2\u4fee\u6b63",
+    "mode": "direct",
+    "action": [
+      6.0,
+      11.9
+    ]
+  },
+  {
+    "id": "E09P09",
+    "task": "square",
+    "gap": 4.0,
+    "category": "\u8bef\u62d2\u4fee\u6b63",
+    "mode": "always",
+    "action": [
+      -5.5,
+      11.6
+    ]
+  },
+  {
+    "id": "E05P02",
+    "task": "square",
+    "gap": 0.5,
+    "category": "\u4e24\u52a8\u4f5c\u5747\u5931\u8d25",
+    "mode": "direct",
+    "action": [
+      -14.0,
+      12.4
+    ]
+  },
+  {
+    "id": "E05P02",
+    "task": "square",
+    "gap": 0.5,
+    "category": "\u4e24\u52a8\u4f5c\u5747\u5931\u8d25",
+    "mode": "always",
+    "action": [
+      -16.0,
+      -21.5
+    ]
+  }
+]

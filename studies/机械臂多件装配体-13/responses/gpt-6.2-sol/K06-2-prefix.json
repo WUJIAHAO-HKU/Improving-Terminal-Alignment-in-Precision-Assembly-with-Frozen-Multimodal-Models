@@ -1,0 +1,34 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[177,178],[201,181]],[[87,180],[111,179]],[[183,127],[205,126]]],\"anchor\":[[313,175],[328,174]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Blade clamp sandwich. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. backing in staging nest near world XY [-30, 0] mm, profile slot, thickness 5 mm, destination M; 2. wear plate in staging nest near world XY [-83, 0] mm, profile slot, thickness 4 mm, destination M; 3. cap in staging nest near world XY [-30, 47] mm, profile slot, thickness 5 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.81 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "K06-2",
+  "anchor": [
+    45.853694159379785,
+    -7.626374936090997,
+    6.739004594283784
+  ],
+  "inputs": [
+    "observations/K06-2/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 16.06437520007603,
+  "picks": [
+    [
+      -30.06381302785092,
+      -0.8769295175456335,
+      -7.6635845128949995
+    ],
+    [
+      -83.96909040834551,
+      -1.580479768251692,
+      4.879068514805965
+    ],
+    [
+      -31.051165021925016,
+      45.150263727802326,
+      5.486158297331286
+    ]
+  ]
+}

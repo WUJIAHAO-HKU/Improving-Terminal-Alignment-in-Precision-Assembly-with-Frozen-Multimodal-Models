@@ -1,0 +1,14 @@
+[
+  {
+    "id": "K19-4",
+    "model": "gpt-6.2-sol",
+    "mode": "first",
+    "recipe": "20 Mixed-profile bridge stack"
+  },
+  {
+    "id": "K18-3",
+    "model": "gpt-6.1-terra",
+    "mode": "overhead",
+    "recipe": "19 Double-deck blade cage"
+  }
+]

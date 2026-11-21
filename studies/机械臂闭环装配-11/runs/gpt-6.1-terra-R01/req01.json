@@ -1,0 +1,23 @@
+{
+  "folder": "runs/gpt-6.1-terra-R01",
+  "scene": {
+    "id": "R01",
+    "tx": 43,
+    "ty": 8,
+    "ta": -7,
+    "sx": -45,
+    "sy": -11,
+    "sa": -8,
+    "gap": 0.75,
+    "pitch_mm": 28,
+    "recovery_challenge": true,
+    "disturb_mm": -5.0
+  },
+  "step": 1,
+  "action": {
+    "op": "pick",
+    "x": -44.78892532596123,
+    "y": -11.446982714413238,
+    "yaw": -9.334897269170114
+  }
+}

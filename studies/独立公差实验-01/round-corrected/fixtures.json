@@ -1,0 +1,227 @@
+[
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "seated",
+    "expected": true,
+    "strict": true,
+    "official": true,
+    "height": 10.000000000000009
+  },
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "hover",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 160.00000000000003
+  },
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "partial",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 118.0
+  },
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "tilted",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 140.0
+  },
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "miss",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 10.000000000000009
+  },
+  {
+    "task": "round",
+    "gap": 2,
+    "label": "seated",
+    "expected": true,
+    "strict": true,
+    "official": true,
+    "height": 10.000000000000009
+  },
+  {
+    "task": "round",
+    "gap": 2,
+    "label": "hover",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 160.00000000000003
+  },
+  {
+    "task": "round",
+    "gap": 2,
+    "label": "partial",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 118.0
+  },
+  {
+    "task": "round",
+    "gap": 2,
+    "label": "tilted",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 140.0
+  },
+  {
+    "task": "round",
+    "gap": 2,
+    "label": "miss",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 10.000000000000009
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "seated",
+    "expected": true,
+    "strict": true,
+    "official": true,
+    "height": 10.000000000000009
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "hover",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 160.00000000000003
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "partial",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 118.0
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "tilted",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 140.0
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "miss",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 10.000000000000009
+  },
+  {
+    "task": "round",
+    "gap": 0.5,
+    "label": "seated",
+    "expected": true,
+    "strict": true,
+    "official": true,
+    "height": 10.000000000000009
+  },
+  {
+    "task": "round",
+    "gap": 0.5,
+    "label": "hover",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 160.00000000000003
+  },
+  {
+    "task": "round",
+    "gap": 0.5,
+    "label": "partial",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 118.0
+  },
+  {
+    "task": "round",
+    "gap": 0.5,
+    "label": "tilted",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 140.0
+  },
+  {
+    "task": "round",
+    "gap": 0.5,
+    "label": "miss",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 10.000000000000009
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "seated",
+    "expected": true,
+    "strict": true,
+    "official": true,
+    "height": 10.000000000000009
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "hover",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 160.00000000000003
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "partial",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 118.0
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "tilted",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 140.0
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "miss",
+    "expected": false,
+    "strict": false,
+    "official": false,
+    "height": 10.000000000000009
+  }
+]

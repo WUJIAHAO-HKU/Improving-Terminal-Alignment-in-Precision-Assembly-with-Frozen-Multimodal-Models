@@ -1,0 +1,26 @@
+Terminated
+
+
+  warnings.warn('resource_tracker: There appear to be %d '
+
+Traceback (most recent call last):
+
+  File "studies/机械臂多件装配体-13\terra_replay.py", line 21, in <module>
+
+    do(['ssh',*opts,'-p','22',host,'cd '+dest+' && tar xzf '+pack+' && '+py+' render_kit.py finish '+model+' && tar czf '+archive+' runs/'+model+'/*/results.json'])
+
+    ~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  File "studies/机械臂多件装配体-13\terra_replay.py", line 10, in do
+
+    def do(args):subprocess.run(args,cwd=D,check=True)
+
+                 ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+
+  File "subprocess.py", line 577, in run
+
+    raise CalledProcessError(retcode, process.args,
+
+                             output=stdout, stderr=stderr)
+
+

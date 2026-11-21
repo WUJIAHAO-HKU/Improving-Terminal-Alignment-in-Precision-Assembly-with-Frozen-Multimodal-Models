@@ -1,0 +1,17 @@
+{
+  "model": "gpt-6.1-terra",
+  "mode": "grip",
+  "id": "B053",
+  "raw": "{\"op\":\"pick\",\"points\":[[127,171],[168,177]]}",
+  "action": {
+    "x": -55.176,
+    "y": 1.897,
+    "yaw": -9.194
+  },
+  "prompt": "You operate an XYZ+yaw Cartesian robot with a parallel-jaw gripper. Reply JSON only. No tools. World X increases toward image right, Y away; yaw is counterclockwise from above. Images 480x360. Pixel coordinates (u,v) from top left. The gray movable component starts left of the dark receiving fixture with brass mating features. The task is to insert the unmarked slotted blade collar. Recipe dimension 33.5 mm, part outer width 23.0 mm, clearance per side 1.5 mm. Command pick and lift; locate two points on its longitudinal centerline, symmetric about the MOVABLE component center, left then right, on the top face. Do not target the receiving fixture. Use visible long plate edges to judge yaw. Return {\"op\":\"pick\",\"points\":[[u,v],[u,v]]}.",
+  "input_images": [
+    "initial/B053/00-eye.png"
+  ],
+  "seconds": 5.998078199918382,
+  "attempts": 1
+}

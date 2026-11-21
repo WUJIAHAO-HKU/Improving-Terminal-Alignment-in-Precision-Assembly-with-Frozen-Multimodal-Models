@@ -1,0 +1,254 @@
+[
+  {
+    "scene": "A00",
+    "model": "gpt-6.1-terra",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": true,
+    "retries": 0,
+    "success": true,
+    "final_pin_errors": [
+      0.18613974471583966,
+      0.14509485674683922
+    ],
+    "final_height": 7.001179487573975,
+    "release_drift_mm": 0.00316227766016775,
+    "video_seconds": 4.88,
+    "calls": 4,
+    "first_insert_seated": false,
+    "trace_frames": 122
+  },
+  {
+    "scene": "A01",
+    "model": "gpt-6.1-terra",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": true,
+    "retries": 0,
+    "success": true,
+    "final_pin_errors": [
+      0.9305237681188842,
+      0.9525345905123989
+    ],
+    "final_height": 6.999907571595218,
+    "release_drift_mm": 0.0,
+    "video_seconds": 4.88,
+    "calls": 4,
+    "first_insert_seated": true,
+    "trace_frames": 122
+  },
+  {
+    "scene": "A02",
+    "model": "gpt-6.1-terra",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": true,
+    "retries": 0,
+    "success": true,
+    "final_pin_errors": [
+      0.310910750355339,
+      0.4556834564723073
+    ],
+    "final_height": 7.001508726679376,
+    "release_drift_mm": 0.004123105625617529,
+    "video_seconds": 4.88,
+    "calls": 4,
+    "first_insert_seated": false,
+    "trace_frames": 122
+  },
+  {
+    "scene": "A03",
+    "model": "gpt-6.1-terra",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": false,
+    "retries": 0,
+    "success": true,
+    "final_pin_errors": [
+      1.3391187019158597,
+      1.3263475566789864
+    ],
+    "final_height": 6.9999075226653655,
+    "release_drift_mm": 0.0,
+    "video_seconds": 5.52,
+    "calls": 4,
+    "first_insert_seated": true,
+    "trace_frames": 138
+  },
+  {
+    "scene": "R00",
+    "model": "gpt-6.1-terra",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": false,
+    "retries": 1,
+    "success": true,
+    "final_pin_errors": [
+      0.856181489765979,
+      0.8323523672288629
+    ],
+    "final_height": 6.999907595641159,
+    "release_drift_mm": 0.0,
+    "video_seconds": 7.64,
+    "calls": 5,
+    "first_insert_seated": false,
+    "trace_frames": 191
+  },
+  {
+    "scene": "R01",
+    "model": "gpt-6.1-terra",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": false,
+    "retries": 1,
+    "success": false,
+    "final_pin_errors": [
+      2.3335947683562557,
+      2.2687295357195394
+    ],
+    "final_height": 16.999665606492705,
+    "release_drift_mm": 0.0,
+    "video_seconds": 7.44,
+    "calls": 5,
+    "first_insert_seated": false,
+    "trace_frames": 186
+  },
+  {
+    "scene": "A00",
+    "model": "gpt-6.2-sol",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": true,
+    "retries": 0,
+    "success": true,
+    "final_pin_errors": [
+      0.2784678344871305,
+      0.5063847854938505
+    ],
+    "final_height": 6.99988088954007,
+    "release_drift_mm": 0.0,
+    "video_seconds": 4.88,
+    "calls": 4,
+    "first_insert_seated": false,
+    "trace_frames": 122
+  },
+  {
+    "scene": "A01",
+    "model": "gpt-6.2-sol",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": true,
+    "retries": 0,
+    "success": true,
+    "final_pin_errors": [
+      0.21564498241891214,
+      0.22323780911353794
+    ],
+    "final_height": 6.999907572775067,
+    "release_drift_mm": 0.0,
+    "video_seconds": 4.88,
+    "calls": 4,
+    "first_insert_seated": true,
+    "trace_frames": 122
+  },
+  {
+    "scene": "A02",
+    "model": "gpt-6.2-sol",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": true,
+    "retries": 0,
+    "success": true,
+    "final_pin_errors": [
+      0.731169259095249,
+      0.40822422040520945
+    ],
+    "final_height": 6.999907601775764,
+    "release_drift_mm": 0.0,
+    "video_seconds": 4.88,
+    "calls": 4,
+    "first_insert_seated": true,
+    "trace_frames": 122
+  },
+  {
+    "scene": "A03",
+    "model": "gpt-6.2-sol",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": true,
+    "retries": 0,
+    "success": true,
+    "final_pin_errors": [
+      0.33738112104886303,
+      0.31438405862152763
+    ],
+    "final_height": 6.999907363575333,
+    "release_drift_mm": 0.0,
+    "video_seconds": 4.88,
+    "calls": 4,
+    "first_insert_seated": true,
+    "trace_frames": 122
+  },
+  {
+    "scene": "R00",
+    "model": "gpt-6.2-sol",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": true,
+    "retries": 1,
+    "success": true,
+    "final_pin_errors": [
+      0.5375967281393785,
+      0.2814230576449628
+    ],
+    "final_height": 6.99990759592933,
+    "release_drift_mm": 0.0,
+    "video_seconds": 7.0,
+    "calls": 5,
+    "first_insert_seated": false,
+    "trace_frames": 175
+  },
+  {
+    "scene": "R01",
+    "model": "gpt-6.2-sol",
+    "grasp": true,
+    "lift": true,
+    "carry": true,
+    "measure": true,
+    "kept": true,
+    "retries": 1,
+    "success": true,
+    "final_pin_errors": [
+      0.7019459431318433,
+      0.5643725784671784
+    ],
+    "final_height": 7.001200646189618,
+    "release_drift_mm": 0.0009999999999994458,
+    "video_seconds": 7.0,
+    "calls": 5,
+    "first_insert_seated": false,
+    "trace_frames": 175
+  }
+]

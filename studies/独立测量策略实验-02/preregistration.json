@@ -1,0 +1,14 @@
+[
+  {
+    "Hash": "38FB22F573616F58EAE57067EDE8EB2771D8FE89B8E6EB7BD19FF9F0368B3EA5",
+    "Path": "studies/独立测量策略实验-02\\protocol.txt"
+  },
+  {
+    "Hash": "BF29881E93533A93090956090759B77896A985AA33605BE0FF17A68C66889C96",
+    "Path": "studies/独立测量策略实验-02\\locked-weights.json"
+  },
+  {
+    "Hash": "D84F01696C61A916629AD7A3F21AB85537DCFB3408BE7EA0D946FB3A5F504634",
+    "Path": "studies/独立测量策略实验-02\\rules.py"
+  }
+]

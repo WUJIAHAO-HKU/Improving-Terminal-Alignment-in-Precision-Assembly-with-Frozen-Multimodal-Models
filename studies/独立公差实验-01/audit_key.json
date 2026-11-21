@@ -1,0 +1,227 @@
+[
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "partial"
+  },
+  {
+    "task": "square",
+    "gap": 0.25,
+    "label": "seated"
+  },
+  {
+    "task": "square",
+    "gap": 0.25,
+    "label": "partial"
+  },
+  {
+    "task": "dual",
+    "gap": 0.25,
+    "label": "tilted"
+  },
+  {
+    "task": "dual",
+    "gap": 4,
+    "label": "tilted"
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "partial"
+  },
+  {
+    "task": "square",
+    "gap": 1,
+    "label": "partial"
+  },
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "tilted"
+  },
+  {
+    "task": "dual",
+    "gap": 4,
+    "label": "partial"
+  },
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "seated"
+  },
+  {
+    "task": "dual",
+    "gap": 4,
+    "label": "seated"
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "seated"
+  },
+  {
+    "task": "square",
+    "gap": 4,
+    "label": "hover"
+  },
+  {
+    "task": "dual",
+    "gap": 0.25,
+    "label": "hover"
+  },
+  {
+    "task": "dual",
+    "gap": 4,
+    "label": "miss"
+  },
+  {
+    "task": "square",
+    "gap": 4,
+    "label": "seated"
+  },
+  {
+    "task": "dual",
+    "gap": 4,
+    "label": "hover"
+  },
+  {
+    "task": "dual",
+    "gap": 0.25,
+    "label": "partial"
+  },
+  {
+    "task": "square",
+    "gap": 1,
+    "label": "seated"
+  },
+  {
+    "task": "square",
+    "gap": 1,
+    "label": "miss"
+  },
+  {
+    "task": "square",
+    "gap": 4,
+    "label": "tilted"
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "seated"
+  },
+  {
+    "task": "dual",
+    "gap": 1,
+    "label": "seated"
+  },
+  {
+    "task": "square",
+    "gap": 1,
+    "label": "hover"
+  },
+  {
+    "task": "dual",
+    "gap": 1,
+    "label": "tilted"
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "partial"
+  },
+  {
+    "task": "dual",
+    "gap": 1,
+    "label": "partial"
+  },
+  {
+    "task": "square",
+    "gap": 0.25,
+    "label": "hover"
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "miss"
+  },
+  {
+    "task": "dual",
+    "gap": 1,
+    "label": "miss"
+  },
+  {
+    "task": "square",
+    "gap": 4,
+    "label": "partial"
+  },
+  {
+    "task": "square",
+    "gap": 0.25,
+    "label": "tilted"
+  },
+  {
+    "task": "square",
+    "gap": 0.25,
+    "label": "miss"
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "hover"
+  },
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "miss"
+  },
+  {
+    "task": "round",
+    "gap": 0.25,
+    "label": "tilted"
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "tilted"
+  },
+  {
+    "task": "square",
+    "gap": 4,
+    "label": "miss"
+  },
+  {
+    "task": "dual",
+    "gap": 0.25,
+    "label": "seated"
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "hover"
+  },
+  {
+    "task": "dual",
+    "gap": 0.25,
+    "label": "miss"
+  },
+  {
+    "task": "round",
+    "gap": 4,
+    "label": "hover"
+  },
+  {
+    "task": "round",
+    "gap": 1,
+    "label": "miss"
+  },
+  {
+    "task": "dual",
+    "gap": 1,
+    "label": "hover"
+  },
+  {
+    "task": "square",
+    "gap": 1,
+    "label": "tilted"
+  }
+]

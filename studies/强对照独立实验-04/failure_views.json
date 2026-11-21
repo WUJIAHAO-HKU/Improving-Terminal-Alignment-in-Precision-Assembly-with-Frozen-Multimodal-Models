@@ -1,0 +1,112 @@
+[
+  {
+    "id": "D00P02",
+    "task": "square",
+    "gap": 4.0,
+    "category": "\u6f0f\u6d4b\uff0c\u5f3a\u5bf9\u7167\u6210\u529f",
+    "mode": "direct",
+    "action": [
+      -12.5,
+      -18.7
+    ]
+  },
+  {
+    "id": "D00P02",
+    "task": "square",
+    "gap": 4.0,
+    "category": "\u6f0f\u6d4b\uff0c\u5f3a\u5bf9\u7167\u6210\u529f",
+    "mode": "always",
+    "action": [
+      -9.8,
+      -10.4
+    ]
+  },
+  {
+    "id": "D08P00",
+    "task": "square",
+    "gap": 0.5,
+    "category": "\u5df2\u6d4b\uff0c\u8bef\u62d2\u6709\u6548\u4fee\u6b63",
+    "mode": "direct",
+    "action": [
+      16.9,
+      18.4
+    ]
+  },
+  {
+    "id": "D08P00",
+    "task": "square",
+    "gap": 0.5,
+    "category": "\u5df2\u6d4b\uff0c\u8bef\u62d2\u6709\u6548\u4fee\u6b63",
+    "mode": "always",
+    "action": [
+      17.0,
+      19.5
+    ]
+  },
+  {
+    "id": "D03P00",
+    "task": "square",
+    "gap": 1.0,
+    "category": "\u4fdd\u7559\u539f\u52a8\u4f5c\u633d\u56de\u6210\u529f",
+    "mode": "direct",
+    "action": [
+      -6.7,
+      11.1
+    ]
+  },
+  {
+    "id": "D03P00",
+    "task": "square",
+    "gap": 1.0,
+    "category": "\u4fdd\u7559\u539f\u52a8\u4f5c\u633d\u56de\u6210\u529f",
+    "mode": "always",
+    "action": [
+      -7.4,
+      -23.3
+    ]
+  },
+  {
+    "id": "D06P01",
+    "task": "dual",
+    "gap": 1.0,
+    "category": "\u63a5\u53d7\u4fee\u6b63\u540e\u5931\u8d25",
+    "mode": "direct",
+    "action": [
+      -5.7,
+      5.8
+    ]
+  },
+  {
+    "id": "D06P01",
+    "task": "dual",
+    "gap": 1.0,
+    "category": "\u63a5\u53d7\u4fee\u6b63\u540e\u5931\u8d25",
+    "mode": "always",
+    "action": [
+      -4.5,
+      5.7
+    ]
+  },
+  {
+    "id": "D00P03",
+    "task": "dual",
+    "gap": 0.5,
+    "category": "\u4e24\u79cd\u52a8\u4f5c\u5747\u5931\u8d25",
+    "mode": "direct",
+    "action": [
+      14.0,
+      -0.7
+    ]
+  },
+  {
+    "id": "D00P03",
+    "task": "dual",
+    "gap": 0.5,
+    "category": "\u4e24\u79cd\u52a8\u4f5c\u5747\u5931\u8d25",
+    "mode": "always",
+    "action": [
+      13.6,
+      -0.5
+    ]
+  }
+]

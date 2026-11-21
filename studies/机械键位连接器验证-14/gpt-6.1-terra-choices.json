@@ -1,0 +1,302 @@
+{
+  "P000": {
+    "batch": 0,
+    "task": "connector",
+    "pre": 1.7631822178315593,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "P001": {
+    "batch": 0,
+    "task": "connector",
+    "pre": 4.9321231534909655,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "P002": {
+    "batch": 0,
+    "task": "connector",
+    "pre": 7.2015463977158625,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "P003": {
+    "batch": 0,
+    "task": "connector",
+    "pre": 2.2034634669401165,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "P004": {
+    "batch": 0,
+    "task": "connector",
+    "pre": 1.102632664260103,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "P005": {
+    "batch": 1,
+    "task": "connector",
+    "pre": 6.029183378515225,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "P006": {
+    "batch": 1,
+    "task": "connector",
+    "pre": 7.04737280923481,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "P007": {
+    "batch": 1,
+    "task": "connector",
+    "pre": 2.6151165485715917,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "P008": {
+    "batch": 1,
+    "task": "connector",
+    "pre": 2.2483316426088296,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "P009": {
+    "batch": 1,
+    "task": "connector",
+    "pre": 1.922161839924963,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "P010": {
+    "batch": 2,
+    "task": "connector",
+    "pre": 5.492790512295854,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "P011": {
+    "batch": 2,
+    "task": "connector",
+    "pre": 6.423457326350926,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "P012": {
+    "batch": 2,
+    "task": "connector",
+    "pre": 4.2873600935904745,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "P013": {
+    "batch": 2,
+    "task": "connector",
+    "pre": 2.3443465922291553,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "P014": {
+    "batch": 2,
+    "task": "connector",
+    "pre": 3.3565518818096427,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "P015": {
+    "batch": 3,
+    "task": "connector",
+    "pre": 2.8924866296781055,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "P016": {
+    "batch": 3,
+    "task": "connector",
+    "pre": 2.936538274571387,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "P017": {
+    "batch": 3,
+    "task": "connector",
+    "pre": 3.553051295826091,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "P018": {
+    "batch": 3,
+    "task": "connector",
+    "pre": 4.474014874620823,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "P019": {
+    "batch": 3,
+    "task": "connector",
+    "pre": 2.1126449416604465,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "P020": {
+    "batch": 4,
+    "task": "connector",
+    "pre": 5.443141111646582,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "P021": {
+    "batch": 4,
+    "task": "connector",
+    "pre": 1.6834625831818812,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "P022": {
+    "batch": 4,
+    "task": "connector",
+    "pre": 6.894785886039382,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "P023": {
+    "batch": 4,
+    "task": "connector",
+    "pre": 2.690435206282403,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "P024": {
+    "batch": 4,
+    "task": "connector",
+    "pre": 8.728443771798949,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "model": "gpt-6.2-sol",
+  "prompt": "You supervise a simulated Franka Panda from this current unmarked camera view and calibrated production records. Product Shimmed valve bonnet. The station accepts registered fixture skills. Input inventory (nest ID, stock number) [(0, 888), (1, 804), (2, 786)]. Full BOM in process order [('valve seat', 804), ('spacer ring', 786), ('bonnet', 888)]. No tools. Reply JSON only. Next controlled tightening operation: use the left flange fastener. Calibrated driver channel 0 is left and channel 1 is right. Return {\"op\":\"tighten\",\"socket\":integer}.",
+  "raw": "{\"op\":\"tighten\",\"socket\":0}",
+  "image": "live-03.jpg"
+}

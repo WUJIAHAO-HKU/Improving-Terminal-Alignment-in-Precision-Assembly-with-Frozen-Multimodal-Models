@@ -1,0 +1,20 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"anchor\":[[301,174],[337,174]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Paired blade guide block. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. left insert in staging nest near world XY [-83, -47] mm, profile slot, thickness 6 mm, destination L; 2. right insert in staging nest near world XY [-83, 0] mm, profile slot, thickness 6 mm, destination R; 3. guide cap in staging nest near world XY [-30, 47] mm, profile bridge, thickness 5 mm, destination LR. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.03 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Image 1 = initial, image 2 = live AFTER the first commanded component. Using the station and newly observed placement, command remaining assembly in BOM order (grasp targets saved). Report updated mating anchor in the FIRST image, accounting for the live image when helpful. Additional images are initial and live registered depth (fixed 225--370 mm optical depth color range; near yellow, far purple). Reply {\"op\":\"assemble\",\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "depth",
+  "id": "K10-3",
+  "anchor": [
+    45.56616308936606,
+    -4.570303275278604,
+    1.676471046806796
+  ],
+  "inputs": [
+    "observations/K10-3/initial-eye.jpg",
+    "runs/gpt-6.2-sol/K10-3/live-eye.jpg",
+    "observations/K10-3/initial-depth.jpg",
+    "runs/gpt-6.2-sol/K10-3/live-depth.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 21.534005200024694
+}

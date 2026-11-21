@@ -1,0 +1,18 @@
+{
+  "folder": "runs/gpt-6.1-terra-A03",
+  "scene": {
+    "id": "A03",
+    "tx": 42.2,
+    "ty": 4.1,
+    "ta": 5.0,
+    "sx": -42.6,
+    "sy": 5.5,
+    "sa": 10.7,
+    "gap": 1.6,
+    "pitch_mm": 27
+  },
+  "step": 4,
+  "action": {
+    "op": "insert"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "model": "gpt-6.2-sol",
+  "prompt": "You supervise a simulated Franka Panda from this current unmarked camera view and calibrated production records. Product Twin support bridge. The station accepts registered fixture skills. Input inventory (nest ID, stock number) [(0, 162), (1, 392), (2, 818)]. Full BOM in process order [('rear foot', 392), ('front foot', 162), ('bridge', 818)]. No tools. Reply JSON only. Operation 3: grasp the stock belonging to bridge, then place it at its CAD mating column. The runtime uses surveyed nest and fixture coordinates. Choose the nest ID corresponding to that stock. Return {\"op\":\"place\",\"nest\":integer}.",
+  "raw": "{\"op\":\"place\",\"nest\":2}",
+  "image": "live-02.jpg"
+}

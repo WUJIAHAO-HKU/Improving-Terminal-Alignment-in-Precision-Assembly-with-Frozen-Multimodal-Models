@@ -1,0 +1,8 @@
+{
+  "phase": "Engineering pilot: all four independent scenes per requested model; scene seed 114602; paired same scenes across models. No confirmatory NI claim. Observe, predict grasp and jaw angle, verify bilateral tactile grip; predict transport setpoint plus optional view, choose retain or revise, insert then decide release or one retry based on live feedback. Invalid or unexecuted episodes tracked separately. Success requires bilateral lift and carry, released strict two-hole containment, stable endpoint. Oracle commissioning excluded.",
+  "sha256": {
+    "pilot-scenes.json": "70b9f10e8e480a7ba4afd5160884e5838d073428d346bc65ef81a0cb93ff2ed0",
+    "controller.py": "8f4bd8e430337a817a261427f3782d63b9b2e8448b3cef17e380532d73c2a630",
+    "cell.py": "e1fd8197b9923894e8b87c57304dfc82abed6fb5514a2345a13b0b66364a1ff3"
+  }
+}

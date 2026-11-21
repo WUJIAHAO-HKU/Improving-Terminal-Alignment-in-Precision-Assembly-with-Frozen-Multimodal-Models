@@ -1,0 +1,39 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[279,253],[348,260]],[[63,240],[97,243]],[[160,239],[198,244]],[[84,121],[142,125]]],\"anchor\":[[301,178],[338,179]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Split retainer yoke. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. crossbar in staging nest near world XY [42, -50] mm, profile bridge, thickness 4 mm, destination LR; 2. left spacer in staging nest near world XY [-83, -47] mm, profile round, thickness 6 mm, destination L; 3. right spacer in staging nest near world XY [-30, -47] mm, profile dflat, thickness 6 mm, destination R; 4. top yoke in staging nest near world XY [-83, 47] mm, profile bridge, thickness 4 mm, destination LR. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 20.50 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "K14-1",
+  "anchor": [
+    45.06393212877147,
+    -10.650623689873129,
+    -0.39271994891328177
+  ],
+  "inputs": [
+    "observations/K14-1/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 11.16663079999853,
+  "picks": [
+    [
+      40.62596789238359,
+      -52.15192856105399,
+      -5.212731210074324
+    ],
+    [
+      -84.29440347055322,
+      -47.62142297010169,
+      -4.264146769559332
+    ],
+    [
+      -31.18538942578784,
+      -46.06308266873924,
+      -7.223502089420094
+    ],
+    [
+      -85.04259521437882,
+      48.0246632504995,
+      -4.016531491803903
+    ]
+  ]
+}

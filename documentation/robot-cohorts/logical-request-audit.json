@@ -1,0 +1,32 @@
+{
+  "02": {
+    "gpt-6.2-sol": {
+      "logical_acquisitions": 500,
+      "transport_attempts": 500
+    },
+    "gpt-6.1-terra": {
+      "logical_acquisitions": 500,
+      "transport_attempts": 500
+    }
+  },
+  "03": {
+    "gpt-6.2-sol": {
+      "logical_acquisitions": 500,
+      "transport_attempts": 500
+    },
+    "gpt-6.1-terra": {
+      "logical_acquisitions": 500,
+      "transport_attempts": 500
+    }
+  },
+  "04": {
+    "gpt-6.2-sol": {
+      "logical_acquisitions": 125,
+      "transport_attempts": 125
+    },
+    "gpt-6.1-terra": {
+      "logical_acquisitions": 125,
+      "transport_attempts": 125
+    }
+  }
+}

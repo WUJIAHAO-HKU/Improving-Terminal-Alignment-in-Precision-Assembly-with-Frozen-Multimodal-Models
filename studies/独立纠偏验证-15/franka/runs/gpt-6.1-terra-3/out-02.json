@@ -1,0 +1,26 @@
+{
+  "component": "front bearing",
+  "pick": [
+    0.48935038126252334,
+    -0.13986499275219358
+  ],
+  "target": [
+    0.48927394859215867,
+    0.061802920605738054
+  ],
+  "lift_mm": 129.01229367669092,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 201.5816993436005,
+  "xy_mm": 11.288684011746392,
+  "z_mm": -0.0007038236706485151,
+  "tilt": 0.0,
+  "seated": false,
+  "ok": false
+}

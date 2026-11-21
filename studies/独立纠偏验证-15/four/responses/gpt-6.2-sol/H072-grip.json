@@ -1,0 +1,17 @@
+{
+  "model": "gpt-6.2-sol",
+  "mode": "grip",
+  "id": "H072",
+  "raw": "{\"op\":\"pick\",\"points\":[[130,209],[210,196]]}",
+  "action": {
+    "x": -38.875,
+    "y": -19.425,
+    "yaw": 13.642
+  },
+  "prompt": "You operate an XYZ+yaw Cartesian robot with a parallel-jaw gripper. Reply JSON only. No tools. World X increases toward image right, Y away; yaw is counterclockwise from above. Images 480x360. Pixel coordinates (u,v) from top left. The gray movable component starts left of the dark receiving fixture with brass mating features. The task is to insert the unmarked two-dowel cover. Recipe dimension 28.5 mm, part outer width 22.0 mm, clearance per side 1.5 mm. Command pick and lift; locate two points on its longitudinal centerline, symmetric about the MOVABLE component center, left then right, on the top face. Do not target the receiving fixture. Use visible long plate edges to judge yaw. Return {\"op\":\"pick\",\"points\":[[u,v],[u,v]]}.",
+  "input_images": [
+    "initial/H072/00-eye.png"
+  ],
+  "seconds": 18.137942100060172,
+  "attempts": 1
+}

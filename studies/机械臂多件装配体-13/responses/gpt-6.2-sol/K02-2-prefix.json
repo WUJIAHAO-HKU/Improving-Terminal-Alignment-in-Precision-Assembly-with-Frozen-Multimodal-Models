@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[293,126],[317,127]],[[299,252],[329,251]]],\"anchor\":[[314,173],[327,171]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Blade guide and shim. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. shim in staging nest near world XY [42, 50] mm, profile slot, thickness 4 mm, destination M; 2. guide in staging nest near world XY [42, -50] mm, profile slot, thickness 6 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.26 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "K02-2",
+  "anchor": [
+    46.723318397371315,
+    -2.0934366846502286,
+    13.145229100267997
+  ],
+  "inputs": [
+    "observations/K02-2/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 18.68389039998874,
+  "picks": [
+    [
+      41.56780030643743,
+      48.3493493724834,
+      -1.820823214695011
+    ],
+    [
+      40.89420685183954,
+      -50.33196174195264,
+      3.9329520750813316
+    ]
+  ]
+}

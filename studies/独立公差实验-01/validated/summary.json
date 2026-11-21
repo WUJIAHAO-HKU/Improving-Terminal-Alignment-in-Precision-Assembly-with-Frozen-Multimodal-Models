@@ -1,0 +1,229 @@
+{
+  "gate": {
+    "square": 0.7928318679251953,
+    "round": 1.2303540317979818,
+    "dual": 2.03690662032504
+  },
+  "all": {
+    "direct": 70,
+    "always": 104,
+    "on_demand": 96,
+    "terra": 34,
+    "oracle": 120,
+    "measure": 72,
+    "n": 120
+  },
+  "by_gap": {
+    "4": {
+      "direct": 21,
+      "always": 24,
+      "on_demand": 21,
+      "terra": 12,
+      "oracle": 24,
+      "measure": 0,
+      "n": 24
+    },
+    "2": {
+      "direct": 16,
+      "always": 24,
+      "on_demand": 20,
+      "terra": 7,
+      "oracle": 24,
+      "measure": 8,
+      "n": 24
+    },
+    "1": {
+      "direct": 16,
+      "always": 24,
+      "on_demand": 23,
+      "terra": 7,
+      "oracle": 24,
+      "measure": 16,
+      "n": 24
+    },
+    "0.5": {
+      "direct": 12,
+      "always": 21,
+      "on_demand": 21,
+      "terra": 6,
+      "oracle": 24,
+      "measure": 24,
+      "n": 24
+    },
+    "0.25": {
+      "direct": 5,
+      "always": 11,
+      "on_demand": 11,
+      "terra": 2,
+      "oracle": 24,
+      "measure": 24,
+      "n": 24
+    }
+  },
+  "by_task": {
+    "square": {
+      "4": {
+        "direct": 8,
+        "always": 8,
+        "on_demand": 8,
+        "terra": 4,
+        "oracle": 8,
+        "measure": 0,
+        "n": 8
+      },
+      "2": {
+        "direct": 8,
+        "always": 8,
+        "on_demand": 8,
+        "terra": 3,
+        "oracle": 8,
+        "measure": 0,
+        "n": 8
+      },
+      "1": {
+        "direct": 7,
+        "always": 8,
+        "on_demand": 7,
+        "terra": 3,
+        "oracle": 8,
+        "measure": 0,
+        "n": 8
+      },
+      "0.5": {
+        "direct": 7,
+        "always": 8,
+        "on_demand": 8,
+        "terra": 3,
+        "oracle": 8,
+        "measure": 8,
+        "n": 8
+      },
+      "0.25": {
+        "direct": 4,
+        "always": 5,
+        "on_demand": 5,
+        "terra": 2,
+        "oracle": 8,
+        "measure": 8,
+        "n": 8
+      }
+    },
+    "round": {
+      "4": {
+        "direct": 6,
+        "always": 8,
+        "on_demand": 6,
+        "terra": 4,
+        "oracle": 8,
+        "measure": 0,
+        "n": 8
+      },
+      "2": {
+        "direct": 4,
+        "always": 8,
+        "on_demand": 4,
+        "terra": 3,
+        "oracle": 8,
+        "measure": 0,
+        "n": 8
+      },
+      "1": {
+        "direct": 5,
+        "always": 8,
+        "on_demand": 8,
+        "terra": 3,
+        "oracle": 8,
+        "measure": 8,
+        "n": 8
+      },
+      "0.5": {
+        "direct": 4,
+        "always": 6,
+        "on_demand": 6,
+        "terra": 3,
+        "oracle": 8,
+        "measure": 8,
+        "n": 8
+      },
+      "0.25": {
+        "direct": 1,
+        "always": 3,
+        "on_demand": 3,
+        "terra": 0,
+        "oracle": 8,
+        "measure": 8,
+        "n": 8
+      }
+    },
+    "dual": {
+      "4": {
+        "direct": 7,
+        "always": 8,
+        "on_demand": 7,
+        "terra": 4,
+        "oracle": 8,
+        "measure": 0,
+        "n": 8
+      },
+      "2": {
+        "direct": 4,
+        "always": 8,
+        "on_demand": 8,
+        "terra": 1,
+        "oracle": 8,
+        "measure": 8,
+        "n": 8
+      },
+      "1": {
+        "direct": 4,
+        "always": 8,
+        "on_demand": 8,
+        "terra": 1,
+        "oracle": 8,
+        "measure": 8,
+        "n": 8
+      },
+      "0.5": {
+        "direct": 1,
+        "always": 7,
+        "on_demand": 7,
+        "terra": 0,
+        "oracle": 8,
+        "measure": 8,
+        "n": 8
+      },
+      "0.25": {
+        "direct": 0,
+        "always": 3,
+        "on_demand": 3,
+        "terra": 0,
+        "oracle": 8,
+        "measure": 8,
+        "n": 8
+      }
+    }
+  },
+  "paired_boot_CI_pp": [
+    -10.833333333333334,
+    -2.5
+  ],
+  "nut_only": {
+    "direct": 54,
+    "always": 70,
+    "on_demand": 63,
+    "terra": 28,
+    "oracle": 80,
+    "measure": 40,
+    "n": 80
+  },
+  "nut_only_CI": [
+    -15.0,
+    -2.5
+  ],
+  "harmful_seed_count": 6,
+  "upper95_chance_seed_has_harm": 0.43469137890101084,
+  "fixture_correct": 75,
+  "fixture_official": 65,
+  "paired_harm": 8,
+  "paired_gain": 0
+}

@@ -1,0 +1,14 @@
+{
+  "protocol": "Matched previous two cohorts as development only. New 100 four-fixture and 100 kit episodes, 5 per BOM. Two visual models, first and overhead from same state. Old and new allocations and gates evaluated on same candidates. Primary compare revised overhead+gate at 80 and 60 to revised 100. 20 blocks of 5 per cohort; one-sided 97.5% lower paired batch t > -5pp, zero variance inconclusive; 80 before 60 per model, cohorts separate. Report first-pass endpoints including early failures. Difficulty mix and robot unchanged; four-task port is the order-selection fixture. New rules estimate net benefit by public shape family and model; additive group smoothing of strength 8, bounded pre-disagreement as tiebreaker; D-profile top reference offset follows nominal CAD. No endpoint, true pose, new cohort feedback or future optional inputs used in selection.",
+  "sha256": {
+    "collect12.py": "e1e1467d588587ac994e3573dc3bbbe481a67124acd7de41893ec33c817b9ca1",
+    "decide15.py": "bfbc5bd82725c0a62eae5c0fba0ae63fc5aaa314a5ad3c57557b9b9e470e309b",
+    "design.py": "b305f2e60dd894c8e462e65aba62d8e16de0c2e60d9c9b5ae00fab78083c7ce7",
+    "gain.json": "44a4150ce9701034d72012a69e559a6df986d54df6b13c618e965c23dd7293d8",
+    "gantry.py": "dcc6bbcff6cfa9607e9701cea23b3e7570cfb37d1a820f1b5da5c3a5f853c1d1",
+    "policy.py": "9483b50ce27bc2bed69c87a04e9fffd926edc32717fd3c8e07dd8352bc00522b",
+    "policy15.py": "09fb21820c1e9a09f13e1bb818951c4f7f0c7ec3c45c2deef99f9f0f209fe2cc",
+    "profiles.py": "34585b9129422633f3dc7cee39d0cdb83939533a1870e876a821b28c46ae4527",
+    "server.py": "554f079592b369e7c5306249f116465826c8cc5fb218e6977a0b10ec35c2a3ca"
+  }
+}

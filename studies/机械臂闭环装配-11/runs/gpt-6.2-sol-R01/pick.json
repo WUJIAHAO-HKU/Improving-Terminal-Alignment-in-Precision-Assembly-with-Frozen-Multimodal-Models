@@ -1,0 +1,23 @@
+{
+  "requested_model": "gpt-6.2-sol",
+  "images": [
+    "00-eye.png"
+  ],
+  "prompt": "You control a real simulated XYZ yaw gantry with a parallel gripper. No tools. Use the image(s) and telemetry, not internal state. Image resolution 480x360. Pixel (0,0) is top left. Millimetres; world +X is right, +Y away from camera. Positive yaw is counterclockwise from above. Fixed brass pins are on a dark base. Movable gray plate has two holes. Jaws grasp across its short sides. Output exactly one JSON object. Locate the centres of the two moving plate holes in this oblique RGB, left then right. Command grasp, close and lift via {\"op\":\"pick\",\"points\":[[u1,v1],[u2,v2]]}. The top of the loose plate is 6 mm above table.",
+  "raw": "{\"op\":\"pick\",\"points\":[[139,188],[186,195]]}",
+  "answer": {
+    "op": "pick",
+    "points": [
+      [
+        139,
+        188
+      ],
+      [
+        186,
+        195
+      ]
+    ]
+  },
+  "seconds": 8.814626200008206,
+  "attempt": 1
+}

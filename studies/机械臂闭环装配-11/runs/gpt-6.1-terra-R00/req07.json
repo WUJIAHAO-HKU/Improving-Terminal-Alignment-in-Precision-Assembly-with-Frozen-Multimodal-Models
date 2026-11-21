@@ -1,0 +1,20 @@
+{
+  "folder": "runs/gpt-6.1-terra-R00",
+  "scene": {
+    "id": "R00",
+    "tx": 36,
+    "ty": -3,
+    "ta": 4,
+    "sx": -49,
+    "sy": 4,
+    "sa": 5,
+    "gap": 0.9,
+    "pitch_mm": 31,
+    "recovery_challenge": true,
+    "disturb_mm": 4.5
+  },
+  "step": 7,
+  "action": {
+    "op": "release"
+  }
+}

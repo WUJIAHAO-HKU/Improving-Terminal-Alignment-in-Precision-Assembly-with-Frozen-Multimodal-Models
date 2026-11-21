@@ -1,0 +1,6 @@
+{
+  "model": "gpt-6.2-sol",
+  "prompt": "You operate a seven-joint Franka Panda assembly station, from its live 480 by 360 overhead RGB image. Pixel origin top-left. X points right, Y up. Pick parts by friction jaws; two visible gray screws on the long final flange are captive. Lighting can produce dark shadows. No tools. Return JSON only. Product Double-deck guide frame. Next command: pick rear guide, stored in the nest near 0.50,-0.14 metres. Camera principal point at (239.5,179.5) corresponds to world (0.50,0) and scale roughly 1.4 mm/px. Read the ACTUAL center of the LOOSE part in this image. Also locate the geometric center of the stationary rectangular base in the upper central work area (often partially covered by earlier components). Specify the base center; the controller adds the recipe's column offset. Return {\"op\":\"place\",\"pick\":[u,v],\"base\":[u,v]}.",
+  "raw": "{\"op\":\"place\",\"pick\":[234,277],\"base\":[237,123]}",
+  "image": "live-00.jpg"
+}

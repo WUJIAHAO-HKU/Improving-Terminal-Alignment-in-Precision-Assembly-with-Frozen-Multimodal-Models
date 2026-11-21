@@ -1,0 +1,1002 @@
+{
+  "N00-0": {
+    "batch": 0,
+    "old_pre": 3.667525488737959,
+    "new_pre": 0.02140776778201143,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 5
+  },
+  "N00-1": {
+    "batch": 4,
+    "old_pre": 6.345970177184608,
+    "new_pre": 0.0307823241915747,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 5
+  },
+  "N00-2": {
+    "batch": 8,
+    "old_pre": 3.0184817308090692,
+    "new_pre": 0.019136114629260313,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "N00-3": {
+    "batch": 12,
+    "old_pre": 4.766015741771717,
+    "new_pre": 0.025252483667629583,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 5
+  },
+  "N00-4": {
+    "batch": 16,
+    "old_pre": 3.8720491510601995,
+    "new_pre": 0.022123600600139272,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N01-0": {
+    "batch": 1,
+    "old_pre": 8.580583329101811,
+    "new_pre": 0.04336537498518968,
+    "cat": "single_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "N01-1": {
+    "batch": 5,
+    "old_pre": 4.930515660833497,
+    "new_pre": 0.030590138146250574,
+    "cat": "single_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "N01-2": {
+    "batch": 9,
+    "old_pre": 10.509719668279933,
+    "new_pre": 0.04833333333333334,
+    "cat": "single_D",
+    "old_accept": true,
+    "new_accept": false,
+    "old_rank": 2,
+    "new_rank": 2
+  },
+  "N01-3": {
+    "batch": 13,
+    "old_pre": 8.426056959525654,
+    "new_pre": 0.04282453269167312,
+    "cat": "single_D",
+    "old_accept": true,
+    "new_accept": false,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "N01-4": {
+    "batch": 17,
+    "old_pre": 9.156409783686819,
+    "new_pre": 0.0453807675762372,
+    "cat": "single_D",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "N02-0": {
+    "batch": 2,
+    "old_pre": 4.636781879678781,
+    "new_pre": 0.1406731810233202,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 2
+  },
+  "N02-1": {
+    "batch": 6,
+    "old_pre": 4.806558989309187,
+    "new_pre": 0.1412674009070266,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 2
+  },
+  "N02-2": {
+    "batch": 10,
+    "old_pre": 3.870876053644018,
+    "new_pre": 0.13799251063219853,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "N02-3": {
+    "batch": 14,
+    "old_pre": 1.164108875935609,
+    "new_pre": 0.1285188255102191,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "N02-4": {
+    "batch": 18,
+    "old_pre": 3.8368580003498405,
+    "new_pre": 0.1378734474456689,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 2
+  },
+  "N03-0": {
+    "batch": 3,
+    "old_pre": 1.5792090780814458,
+    "new_pre": 0.014098660344713632,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N03-1": {
+    "batch": 7,
+    "old_pre": 1.5117375650992853,
+    "new_pre": 0.01386251004927607,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N03-2": {
+    "batch": 11,
+    "old_pre": 2.9102438829161854,
+    "new_pre": 0.018757282161635223,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "N03-3": {
+    "batch": 15,
+    "old_pre": 1.183282203418327,
+    "new_pre": 0.012712916283392717,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "N03-4": {
+    "batch": 19,
+    "old_pre": 1.5263872538726395,
+    "new_pre": 0.013913783959982811,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 5
+  },
+  "N04-0": {
+    "batch": 4,
+    "old_pre": 9.616917289270752,
+    "new_pre": 0.042230639083876205,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 4
+  },
+  "N04-1": {
+    "batch": 8,
+    "old_pre": 10.198203854831009,
+    "new_pre": 0.04357142857142857,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 3
+  },
+  "N04-2": {
+    "batch": 12,
+    "old_pre": 7.0014679151437225,
+    "new_pre": 0.033076566274431604,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 3
+  },
+  "N04-3": {
+    "batch": 16,
+    "old_pre": 5.149473737015236,
+    "new_pre": 0.026594586650981897,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 3
+  },
+  "N04-4": {
+    "batch": 0,
+    "old_pre": 4.651240373360026,
+    "new_pre": 0.024850769878188662,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "N05-0": {
+    "batch": 5,
+    "old_pre": 6.731443804879869,
+    "new_pre": 0.03689338665041288,
+    "cat": "single_D",
+    "old_accept": true,
+    "new_accept": false,
+    "old_rank": 3,
+    "new_rank": 3
+  },
+  "N05-1": {
+    "batch": 9,
+    "old_pre": 7.148618937180088,
+    "new_pre": 0.03835349961346364,
+    "cat": "single_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "N05-2": {
+    "batch": 13,
+    "old_pre": 5.912284451625489,
+    "new_pre": 0.03402632891402255,
+    "cat": "single_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 3
+  },
+  "N05-3": {
+    "batch": 17,
+    "old_pre": 5.705191583081909,
+    "new_pre": 0.033301503874120016,
+    "cat": "single_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 3
+  },
+  "N05-4": {
+    "batch": 1,
+    "old_pre": 10.760028092672734,
+    "new_pre": 0.04833333333333334,
+    "cat": "single_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "N06-0": {
+    "batch": 6,
+    "old_pre": 11.49615914265941,
+    "new_pre": 0.15944444444444444,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "N06-1": {
+    "batch": 10,
+    "old_pre": 6.913355513206822,
+    "new_pre": 0.14864118874066834,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "N06-2": {
+    "batch": 14,
+    "old_pre": 11.203252535981548,
+    "new_pre": 0.15944444444444444,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 1
+  },
+  "N06-3": {
+    "batch": 18,
+    "old_pre": 11.902408376703455,
+    "new_pre": 0.15944444444444444,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "N06-4": {
+    "batch": 2,
+    "old_pre": 9.722987355153775,
+    "new_pre": 0.15847490018748267,
+    "cat": "single_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "N07-0": {
+    "batch": 7,
+    "old_pre": 4.863937153820874,
+    "new_pre": 0.025595208609801634,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "N07-1": {
+    "batch": 11,
+    "old_pre": 4.173415429055433,
+    "new_pre": 0.02317838257312259,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "N07-2": {
+    "batch": 15,
+    "old_pre": 7.405685552182038,
+    "new_pre": 0.03449132800406571,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "N07-3": {
+    "batch": 19,
+    "old_pre": 6.232930353691275,
+    "new_pre": 0.030386684809348037,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 2
+  },
+  "N07-4": {
+    "batch": 3,
+    "old_pre": 8.29637001760514,
+    "new_pre": 0.03760872363304656,
+    "cat": "single_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "N08-0": {
+    "batch": 8,
+    "old_pre": 0.7132193905103282,
+    "new_pre": 0.04678198215250043,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "N08-1": {
+    "batch": 12,
+    "old_pre": 1.4298332806966327,
+    "new_pre": 0.049290130768152494,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 2
+  },
+  "N08-2": {
+    "batch": 16,
+    "old_pre": 6.873331683347307,
+    "new_pre": 0.06834237517742986,
+    "cat": "paired_round",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 2,
+    "new_rank": 2
+  },
+  "N08-3": {
+    "batch": 0,
+    "old_pre": 0.6675749587571264,
+    "new_pre": 0.04662222664136423,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 2
+  },
+  "N08-4": {
+    "batch": 4,
+    "old_pre": 1.1858530713961815,
+    "new_pre": 0.04843620003560092,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 2
+  },
+  "N09-0": {
+    "batch": 9,
+    "old_pre": 1.4420962499224623,
+    "new_pre": 0.01548211948342427,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N09-1": {
+    "batch": 13,
+    "old_pre": 0.5184905647865516,
+    "new_pre": 0.012249499585448582,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N09-2": {
+    "batch": 17,
+    "old_pre": 3.9962657001624393,
+    "new_pre": 0.02442171255926419,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "N09-3": {
+    "batch": 1,
+    "old_pre": 0.59383011989054,
+    "new_pre": 0.012513188028312541,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N09-4": {
+    "batch": 5,
+    "old_pre": 0.4819381312239246,
+    "new_pre": 0.012121566067979388,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N10-0": {
+    "batch": 10,
+    "old_pre": 0.5412459638389179,
+    "new_pre": 0.009167088146163486,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N10-1": {
+    "batch": 14,
+    "old_pre": 0.44859554232407023,
+    "new_pre": 0.008842811670861518,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N10-2": {
+    "batch": 18,
+    "old_pre": 0.8319196490393083,
+    "new_pre": 0.010184446044364852,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N10-3": {
+    "batch": 2,
+    "old_pre": 1.3664007236779403,
+    "new_pre": 0.012055129805600064,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N10-4": {
+    "batch": 6,
+    "old_pre": 0.9074072050485569,
+    "new_pre": 0.010448652490397222,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N11-0": {
+    "batch": 11,
+    "old_pre": 0.7974782046651516,
+    "new_pre": 0.047076888002042315,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 1
+  },
+  "N11-1": {
+    "batch": 15,
+    "old_pre": 1.0706716871280166,
+    "new_pre": 0.04803306519066234,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 1
+  },
+  "N11-2": {
+    "batch": 19,
+    "old_pre": 0.43274438009998245,
+    "new_pre": 0.04580031961606422,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 1
+  },
+  "N11-3": {
+    "batch": 3,
+    "old_pre": 3.9948982121910452,
+    "new_pre": 0.05826785802838294,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 1
+  },
+  "N11-4": {
+    "batch": 7,
+    "old_pre": 2.2226369248995104,
+    "new_pre": 0.05206494352286257,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 1
+  },
+  "N12-0": {
+    "batch": 12,
+    "old_pre": 6.660305797834596,
+    "new_pre": 0.03058379756514836,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 4
+  },
+  "N12-1": {
+    "batch": 16,
+    "old_pre": 5.0078305391677445,
+    "new_pre": 0.02480013415981438,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "N12-2": {
+    "batch": 0,
+    "old_pre": 4.477244437002637,
+    "new_pre": 0.022943082802236503,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "N12-3": {
+    "batch": 4,
+    "old_pre": 10.589460551713803,
+    "new_pre": 0.042272727272727274,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 3
+  },
+  "N12-4": {
+    "batch": 8,
+    "old_pre": 0.31392725356252305,
+    "new_pre": 0.008371472660196104,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N13-0": {
+    "batch": 13,
+    "old_pre": 6.442074355065183,
+    "new_pre": 0.06683297452844242,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 1
+  },
+  "N13-1": {
+    "batch": 17,
+    "old_pre": 7.3755750721963045,
+    "new_pre": 0.07010022703840135,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 1
+  },
+  "N13-2": {
+    "batch": 1,
+    "old_pre": 7.682305572170905,
+    "new_pre": 0.07117378378831246,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "N13-3": {
+    "batch": 5,
+    "old_pre": 6.867118704091723,
+    "new_pre": 0.06832062975003532,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 1
+  },
+  "N13-4": {
+    "batch": 9,
+    "old_pre": 8.134619853931909,
+    "new_pre": 0.07275688377447596,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "N14-0": {
+    "batch": 14,
+    "old_pre": 6.9240635674940805,
+    "new_pre": 0.03466900509492494,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "N14-1": {
+    "batch": 18,
+    "old_pre": 5.141876640028121,
+    "new_pre": 0.028431350848794078,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "N14-2": {
+    "batch": 2,
+    "old_pre": 4.288831817928543,
+    "new_pre": 0.025445693971445554,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "N14-3": {
+    "batch": 6,
+    "old_pre": 4.477927534668472,
+    "new_pre": 0.026107528980035308,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "N14-4": {
+    "batch": 10,
+    "old_pre": 8.54880114547558,
+    "new_pre": 0.040355586617860185,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 3
+  },
+  "N15-0": {
+    "batch": 15,
+    "old_pre": 0.8804171051387695,
+    "new_pre": 0.010354187140712966,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N15-1": {
+    "batch": 19,
+    "old_pre": 5.8318550498082224,
+    "new_pre": 0.027684219947056055,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "N15-2": {
+    "batch": 3,
+    "old_pre": 8.947576174038144,
+    "new_pre": 0.038589243881860774,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "N15-3": {
+    "batch": 7,
+    "old_pre": 6.923002014355212,
+    "new_pre": 0.031503234322970516,
+    "cat": "paired_slot",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "N15-4": {
+    "batch": 11,
+    "old_pre": 0.6405384639094648,
+    "new_pre": 0.0095146118964104,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N16-0": {
+    "batch": 16,
+    "old_pre": 7.540809141480956,
+    "new_pre": 0.07067854628089763,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "N16-1": {
+    "batch": 0,
+    "old_pre": 5.654239835314419,
+    "new_pre": 0.06407555370931475,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "N16-2": {
+    "batch": 4,
+    "old_pre": 1.929561923441406,
+    "new_pre": 0.05103918101775921,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 1
+  },
+  "N16-3": {
+    "batch": 8,
+    "old_pre": 9.9181912327544,
+    "new_pre": 0.07899938360035469,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 1
+  },
+  "N16-4": {
+    "batch": 12,
+    "old_pre": 6.216082401715161,
+    "new_pre": 0.06604200269171735,
+    "cat": "paired_round",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "N17-0": {
+    "batch": 17,
+    "old_pre": 3.7542570303720106,
+    "new_pre": 0.02357468221499769,
+    "cat": "paired_D",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "N17-1": {
+    "batch": 1,
+    "old_pre": 3.3071396659877994,
+    "new_pre": 0.02200977143965295,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "N17-2": {
+    "batch": 5,
+    "old_pre": 8.87601645228001,
+    "new_pre": 0.04150084019167569,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "N17-3": {
+    "batch": 9,
+    "old_pre": 10.795484013289231,
+    "new_pre": 0.045434782608695656,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 3
+  },
+  "N17-4": {
+    "batch": 13,
+    "old_pre": 4.660533406596086,
+    "new_pre": 0.026746649531781956,
+    "cat": "paired_D",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "N18-0": {
+    "batch": 18,
+    "old_pre": 3.1805323321343395,
+    "new_pre": 0.01840459043519746,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "N18-1": {
+    "batch": 2,
+    "old_pre": 6.241463480464903,
+    "new_pre": 0.029117849454354437,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "N18-2": {
+    "batch": 6,
+    "old_pre": 6.91160722877639,
+    "new_pre": 0.03146335257344464,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "N18-3": {
+    "batch": 10,
+    "old_pre": 7.934682436988991,
+    "new_pre": 0.03504411580218875,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 4
+  },
+  "N18-4": {
+    "batch": 14,
+    "old_pre": 12.182363899578021,
+    "new_pre": 0.042272727272727274,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 3
+  },
+  "N19-0": {
+    "batch": 19,
+    "old_pre": 6.516672268080336,
+    "new_pre": 0.03008108021100845,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 3
+  },
+  "N19-1": {
+    "batch": 3,
+    "old_pre": 11.486699841730179,
+    "new_pre": 0.042272727272727274,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "N19-2": {
+    "batch": 7,
+    "old_pre": 7.897347262978546,
+    "new_pre": 0.03491344269315219,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "N19-3": {
+    "batch": 11,
+    "old_pre": 6.446704332014735,
+    "new_pre": 0.02983619243477885,
+    "cat": "paired_slot",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "N19-4": {
+    "batch": 15,
+    "old_pre": 5.003752851823954,
+    "new_pre": 0.024785862254111113,
+    "cat": "paired_slot",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  }
+}

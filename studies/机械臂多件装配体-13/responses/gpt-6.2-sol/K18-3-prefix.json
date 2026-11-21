@@ -1,0 +1,54 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[47,242],[122,242]],[[162,244],[193,245]],[[86,176],[116,179]],[[86,126],[147,127]],[[182,125],[205,126]],[[292,129],[318,126]],[[158,185],[224,181]]],\"anchor\":[[295,155],[335,156]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Double-deck blade cage. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. lower frame in staging nest near world XY [-83, -47] mm, profile bridge, thickness 4 mm, destination LR; 2. left slide in staging nest near world XY [-30, -47] mm, profile slot, thickness 4 mm, destination L; 3. right slide in staging nest near world XY [-83, 0] mm, profile slot, thickness 4 mm, destination R; 4. middle frame in staging nest near world XY [-83, 47] mm, profile bridge, thickness 4 mm, destination LR; 5. left guide in staging nest near world XY [-30, 47] mm, profile slot, thickness 4 mm, destination L; 6. right guide in staging nest near world XY [42, 50] mm, profile slot, thickness 4 mm, destination R; 7. roof in staging nest near world XY [-30, 0] mm, profile bridge, thickness 4 mm, destination LR. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.90 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "K18-3",
+  "anchor": [
+    42.69011313777965,
+    1.3405518565932368,
+    -0.31382902081054453
+  ],
+  "inputs": [
+    "observations/K18-3/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 26.277040699962527,
+  "picks": [
+    [
+      -82.53920342383958,
+      -46.52470625728485,
+      1.6764710468067676
+    ],
+    [
+      -32.073902814671904,
+      -46.67003132962377,
+      -0.531899114551166
+    ],
+    [
+      -83.12841833087663,
+      0.0425606707131152,
+      -5.751939478967174
+    ],
+    [
+      -82.05721307775238,
+      44.73105629782417,
+      0.3110194305661338
+    ],
+    [
+      -31.634664774206897,
+      47.166465090905334,
+      -1.9475510156407125
+    ],
+    [
+      41.54773808748432,
+      47.39616612433339,
+      11.089451081866542
+    ],
+    [
+      -28.689766509197696,
+      -2.724583818504186,
+      6.279618024230302
+    ]
+  ]
+}

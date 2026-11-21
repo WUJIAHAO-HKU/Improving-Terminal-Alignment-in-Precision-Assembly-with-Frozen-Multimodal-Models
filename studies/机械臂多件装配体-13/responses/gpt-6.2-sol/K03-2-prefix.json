@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[161,177],[221,176]],[[279,128],[334,125]]],\"anchor\":[[301,167],[339,169]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Two-pin carrier and cover. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. carrier in staging nest near world XY [-30, 0] mm, profile double, thickness 6 mm, destination M; 2. cover in staging nest near world XY [42, 50] mm, profile double, thickness 4 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.70 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "K03-2",
+  "anchor": [
+    46.63584101270092,
+    1.0279044044776526,
+    -2.434978454507302
+  ],
+  "inputs": [
+    "observations/K03-2/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 16.04841609997675,
+  "picks": [
+    [
+      -28.906446031720865,
+      0.6547101259487249,
+      2.9542071788798125
+    ],
+    [
+      42.60867547509542,
+      48.38333912079479,
+      6.197548539530729
+    ]
+  ]
+}

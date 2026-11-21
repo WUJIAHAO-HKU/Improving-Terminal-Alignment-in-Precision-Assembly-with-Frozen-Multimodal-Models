@@ -1,0 +1,20 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"anchor\":[[300,175],[339,171]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Split retainer yoke. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. crossbar in staging nest near world XY [-30, 47] mm, profile bridge, thickness 4 mm, destination LR; 2. left spacer in staging nest near world XY [-83, -47] mm, profile round, thickness 6 mm, destination L; 3. right spacer in staging nest near world XY [42, -50] mm, profile dflat, thickness 6 mm, destination R; 4. top yoke in staging nest near world XY [-30, 0] mm, profile bridge, thickness 4 mm, destination LR. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.46 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Image 1 = initial, image 2 = live AFTER the first commanded component. Using the station and newly observed placement, command remaining assembly in BOM order (grasp targets saved). Report updated mating anchor in the FIRST image, accounting for the live image when helpful. Override output frame: report anchor pixel coordinates in the INITIAL overhead image (image 3); image 4 is live overhead. Reply {\"op\":\"assemble\",\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "overhead",
+  "id": "N14-3",
+  "anchor": [
+    40.82062897925293,
+    3.3166761045643,
+    5.856013585428954
+  ],
+  "inputs": [
+    "observations/N14-3/initial-eye.jpg",
+    "runs/gpt-6.1-terra/N14-3/live-eye.jpg",
+    "observations/N14-3/initial-top.jpg",
+    "runs/gpt-6.1-terra/N14-3/live-top.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 7.792319000000134
+}

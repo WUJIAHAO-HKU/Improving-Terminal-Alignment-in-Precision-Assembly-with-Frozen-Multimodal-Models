@@ -1,0 +1,13 @@
+{
+  "protocol": "New four-task XYZ-yaw friction-gripper study. Twenty independent blocks of five; 25 cases per family (100 total). Fixed foreground guard; novel recipe dimensions. Score released stable part and every target interface. No on-test fitting. Each model commands grasp, sees post-lift image then commands calibrated transport, insertion and release via numerical visual points. Frozen deterministic contact controller executes those model-authorized primitives. Same initial grasp state copied for paired physics branches. Four candidate conditions: first RGB, repeat unchanged RGB, additional calibrated depth image, additional overhead RGB. Geometric comparator shares model grasp, estimates placement from natural contours; requires zero extra model calls. Report intrinsic cost separately, do not count dummy calls. Same shortlist per model/matched per-arm inference and sensor budget. Compare pure proposal vs retention. Gate via declared image geometry modality; rank action disagreement over clearance, fixed nominal fallback if invisible. Primary NI overhead+retention vs every part measured with same gate; one-sided paired batch t lower bound above -5 pp; two target models each alpha .025; 20% before 40%, zero variance inconclusive. Depth/repeat secondary descriptive. This tests terminal model-authorized assembly actions in a physical robot loop following model-directed grasp, without recovery during the first-pass endpoint comparison. All failures including grasp kept. Group contrasts estimated at pooled four-family mix; no claim per-family NI. Archive calibration, partial occlusion checks and failures.",
+  "sha256": {
+    "design.py": "2bcccb988f88f064f95205a0f1d7a00b5479a00ad7ab88f9822610d35b4f6c96",
+    "gantry.py": "dcc6bbcff6cfa9607e9701cea23b3e7570cfb37d1a820f1b5da5c3a5f853c1d1",
+    "profiles.py": "34585b9129422633f3dc7cee39d0cdb83939533a1870e876a821b28c46ae4527",
+    "server.py": "554f079592b369e7c5306249f116465826c8cc5fb218e6977a0b10ec35c2a3ca",
+    "policy.py": "9483b50ce27bc2bed69c87a04e9fffd926edc32717fd3c8e07dd8352bc00522b",
+    "collect12.py": "e1e1467d588587ac994e3573dc3bbbe481a67124acd7de41893ec33c817b9ca1",
+    "decisions.py": "1326856faa361a89cdc654f1fe4fe534eb27f116eae8afb9dd2a773655157b69",
+    "analyze.py": "309e656996f7c439d1ff60a61d785228c9eb3569e0849323b3b6319d3d2a7d39"
+  }
+}

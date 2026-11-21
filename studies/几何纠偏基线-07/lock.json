@@ -1,0 +1,36 @@
+{
+  "prior": {
+    "square": 53.617974536578885,
+    "round": 53.60053886447451
+  },
+  "calibration": {
+    "squarergb": [
+      -0.13429373778998954,
+      6.480189141570653
+    ],
+    "squarergbd": [
+      -0.14220799345941515,
+      6.576080732285863
+    ],
+    "roundrgb": [
+      0.14896996055088252,
+      6.825099383962722
+    ],
+    "roundrgbd": [
+      0.13395195900271872,
+      7.4258778903050455
+    ]
+  },
+  "hashes": {
+    "studies/几何纠偏基线-07\\geometry.py": "7732cd5f0ddc06ca6d08f95693de899c81edfbb5fe2ddc5615ecc8576ae590cf",
+    "studies/几何纠偏基线-07\\pipeline.py": "849e75cef45333f471413527e9d3922e222fb8da367d968928408e629efcfcc5",
+    "studies/几何纠偏基线-07\\protocol.txt": "6561a6d0ebddca70ee88d800beb62b7f2e9b9880cb3abb6851e6a28182463dc4",
+    "studies/几何纠偏基线-07\\calibrate-predictions.json": "66f2f245039952d93ce6ef944a00c4ee32ccf1f51122f9094e01293469bda496",
+    "studies/风险感知动作接受实验-03\\manifest.json": "b1289feac1f2d3aa2ba839f113e7c911d4e4210f92dd7203064808d1bd793978",
+    "studies/工位补充实验-05\\manifest.json": "9a20cffd51c0013353486a6616b1eac3df3db833f1c98d29fbdf726b34ee1c09",
+    "studies/工位补充实验-05\\decisions.json": "caf42c06400e791b16b516f5a03dcf6272060609a22a0ce1222f4eb19d66c253",
+    "studies/工位补充实验-05\\before-replay.json": "a6d62a387e5e6776e8e43628885bbab3f3ce4b049cb27ec532fdb30a8b673f4a",
+    "studies/工位补充实验-05\\server.py": "07a6784fad2fe9961c47b081aef1539dcb56bf25eac21e61c3f543a18f1c3b1b",
+    "studies/工位补充实验-05\\rig_base.py": "d095e4ea7cb969dd4855c38a967c9f8ef846d385fb8242c58fc36997f98a6130"
+  }
+}

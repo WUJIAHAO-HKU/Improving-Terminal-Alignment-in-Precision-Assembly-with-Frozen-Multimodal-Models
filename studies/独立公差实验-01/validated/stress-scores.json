@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "stress-square-0-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      11.2,
+      3.2,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.98947292864083,
+    "final_lateral": 0.33471707439641785,
+    "final_tilt": 6.36791525488925e-05
+  },
+  {
+    "id": "stress-square-0-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      12.0,
+      -22.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 113.0461871513998,
+    "final_lateral": 21.712543307780262,
+    "final_tilt": 66.32305476016799
+  },
+  {
+    "id": "stress-square-0-aligned",
+    "model": "oracle",
+    "action": [
+      11.155162179806673,
+      2.86528292560358,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.98947292864083,
+    "final_lateral": 0.0063085468132162426,
+    "final_tilt": 6.36791525488925e-05
+  },
+  {
+    "id": "stress-square-0-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      11.2,
+      4.4,
+      -10.8,
+      -7.5
+    ],
+    "strict": true,
+    "final_height": 10.58132314376281,
+    "final_lateral": 1.0932981720885582,
+    "final_tilt": 0.9513303016847104
+  },
+  {
+    "id": "stress-square-0-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      14.0,
+      -16.0,
+      -8.0,
+      -7.0
+    ],
+    "strict": false,
+    "final_height": 116.39158670021976,
+    "final_lateral": 17.85687627422995,
+    "final_tilt": 56.601378807248636
+  },
+  {
+    "id": "stress-square-0-tilted",
+    "model": "oracle",
+    "action": [
+      11.155162179806673,
+      2.86528292560358,
+      -10.658391025428799,
+      -8.05419953271943
+    ],
+    "strict": true,
+    "final_height": 9.98947292864083,
+    "final_lateral": 0.0063085468132162426,
+    "final_tilt": 6.36791525488925e-05
+  },
+  {
+    "id": "stress-square-0-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      11.4,
+      4.0,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 10.675998890623983,
+    "final_lateral": 0.7239926968334864,
+    "final_tilt": 0.8567684090772849
+  },
+  {
+    "id": "stress-square-0-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      15.0,
+      -27.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 137.4864141983092,
+    "final_lateral": 30.69399237780833,
+    "final_tilt": 5.795667447353661
+  },
+  {
+    "id": "stress-square-0-occluded",
+    "model": "oracle",
+    "action": [
+      11.155162179806673,
+      2.86528292560358,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.98947292864083,
+    "final_lateral": 0.0063085468132162426,
+    "final_tilt": 6.36791525488925e-05
+  },
+  {
+    "id": "stress-square-0-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      11.0,
+      4.8,
+      -9.1,
+      -7.5
+    ],
+    "strict": true,
+    "final_height": 9.989472927633969,
+    "final_lateral": 0.5805053439743302,
+    "final_tilt": 6.373064282036098e-05
+  },
+  {
+    "id": "stress-square-0-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      13.0,
+      -35.0,
+      0.0,
+      -6.0
+    ],
+    "strict": false,
+    "final_height": 109.22178921497772,
+    "final_lateral": 28.387956594057087,
+    "final_tilt": 79.98455230199885
+  },
+  {
+    "id": "stress-square-0-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      11.155162179806673,
+      2.86528292560358,
+      -10.658391025428799,
+      -8.05419953271943
+    ],
+    "strict": true,
+    "final_height": 9.98947292864083,
+    "final_lateral": 0.0063085468132162426,
+    "final_tilt": 6.36791525488925e-05
+  },
+  {
+    "id": "stress-square-1-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -13.8,
+      -1.7,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.989472928662813,
+    "final_lateral": 0.5693839975969978,
+    "final_tilt": 6.365625461483725e-05
+  },
+  {
+    "id": "stress-square-1-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -14.0,
+      -20.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 115.96629664810976,
+    "final_lateral": 17.953197965561287,
+    "final_tilt": 57.68978343607006
+  },
+  {
+    "id": "stress-square-1-aligned",
+    "model": "oracle",
+    "action": [
+      -13.343958267874534,
+      -1.1306160024029968,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.989472928662813,
+    "final_lateral": 0.005676090099576703,
+    "final_tilt": 6.365625461483725e-05
+  },
+  {
+    "id": "stress-square-1-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -13.2,
+      -4.4,
+      10.0,
+      -13.1
+    ],
+    "strict": false,
+    "final_height": 127.02109101013448,
+    "final_lateral": 7.815467013924257,
+    "final_tilt": 30.4623344526874
+  },
+  {
+    "id": "stress-square-1-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -13.0,
+      -38.0,
+      0.0,
+      -15.0
+    ],
+    "strict": false,
+    "final_height": 107.61218977296538,
+    "final_lateral": 30.7033742243092,
+    "final_tilt": 87.42023741316743
+  },
+  {
+    "id": "stress-square-1-tilted",
+    "model": "oracle",
+    "action": [
+      -13.343958267874534,
+      -1.1306160024029968,
+      12.719324198285172,
+      -15.092750640971978
+    ],
+    "strict": true,
+    "final_height": 9.989472928662813,
+    "final_lateral": 0.005676090099576703,
+    "final_tilt": 6.365625461483725e-05
+  },
+  {
+    "id": "stress-square-1-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -13.7,
+      -0.5,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.989472928662813,
+    "final_lateral": 0.630616002402995,
+    "final_tilt": 6.365625461483725e-05
+  },
+  {
+    "id": "stress-square-1-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.0,
+      -8.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 138.50515176992462,
+    "final_lateral": 8.169702865588825,
+    "final_tilt": 13.253764313310889
+  },
+  {
+    "id": "stress-square-1-occluded",
+    "model": "oracle",
+    "action": [
+      -13.343958267874534,
+      -1.1306160024029968,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.989472928662813,
+    "final_lateral": 0.005676090099576703,
+    "final_tilt": 6.365625461483725e-05
+  },
+  {
+    "id": "stress-square-1-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -12.4,
+      -2.8,
+      14.5,
+      -13.6
+    ],
+    "strict": true,
+    "final_height": 9.989472928023657,
+    "final_lateral": 0.9766649545368267,
+    "final_tilt": 6.373064282036098e-05
+  },
+  {
+    "id": "stress-square-1-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -13.0,
+      -13.0,
+      0.0,
+      -14.5
+    ],
+    "strict": false,
+    "final_height": 117.94106736388999,
+    "final_lateral": 15.910066997268157,
+    "final_tilt": 52.47409688842198
+  },
+  {
+    "id": "stress-square-1-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -13.343958267874534,
+      -1.1306160024029968,
+      12.719324198285172,
+      -15.092750640971978
+    ],
+    "strict": true,
+    "final_height": 9.989472928662813,
+    "final_lateral": 0.005676090099576703,
+    "final_tilt": 6.365625461483725e-05
+  },
+  {
+    "id": "stress-square-2-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -10.2,
+      -12.0,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.98947292862129,
+    "final_lateral": 0.21688185727519738,
+    "final_tilt": 6.36448025585037e-05
+  },
+  {
+    "id": "stress-square-2-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -12.8,
+      -14.4,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 11.170437738766692,
+    "final_lateral": 0.8795785730159322,
+    "final_tilt": 1.6218912172232915
+  },
+  {
+    "id": "stress-square-2-aligned",
+    "model": "oracle",
+    "action": [
+      -9.988821609391035,
+      -11.871594255665133,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.98947292862129,
+    "final_lateral": 0.005703466666145962,
+    "final_tilt": 6.36448025585037e-05
+  },
+  {
+    "id": "stress-square-2-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -11.5,
+      -12.0,
+      -8.0,
+      9.7
+    ],
+    "strict": true,
+    "final_height": 9.989472927937726,
+    "final_lateral": 0.5938422843871777,
+    "final_tilt": 6.358177937806984e-05
+  },
+  {
+    "id": "stress-square-2-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -7.8,
+      -5.5,
+      0.0,
+      9.0
+    ],
+    "strict": false,
+    "final_height": 122.33299569288536,
+    "final_lateral": 11.398960480987263,
+    "final_tilt": 41.47253257005195
+  },
+  {
+    "id": "stress-square-2-tilted",
+    "model": "oracle",
+    "action": [
+      -9.988821609391035,
+      -11.871594255665133,
+      -9.149202314563755,
+      9.686039892538922
+    ],
+    "strict": true,
+    "final_height": 9.98947292862129,
+    "final_lateral": 0.005703466666145962,
+    "final_tilt": 6.36448025585037e-05
+  },
+  {
+    "id": "stress-square-2-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -10.2,
+      -12.0,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.98947292862129,
+    "final_lateral": 0.21688185727519738,
+    "final_tilt": 6.36448025585037e-05
+  },
+  {
+    "id": "stress-square-2-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -13.2,
+      -13.5,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 11.279325224828884,
+    "final_lateral": 1.0843077299727555,
+    "final_tilt": 1.7910985355038855
+  },
+  {
+    "id": "stress-square-2-occluded",
+    "model": "oracle",
+    "action": [
+      -9.988821609391035,
+      -11.871594255665133,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.98947292862129,
+    "final_lateral": 0.005703466666145962,
+    "final_tilt": 6.36448025585037e-05
+  },
+  {
+    "id": "stress-square-2-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -10.9,
+      -11.4,
+      -10.0,
+      9.0
+    ],
+    "strict": true,
+    "final_height": 9.989472918091714,
+    "final_lateral": 0.6324489889475149,
+    "final_tilt": 6.359324278380223e-05
+  },
+  {
+    "id": "stress-square-2-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -11.8,
+      -12.9,
+      0.0,
+      8.0
+    ],
+    "strict": false,
+    "final_height": 128.75948746125022,
+    "final_lateral": 0.930107207280581,
+    "final_tilt": 8.534865114885507
+  },
+  {
+    "id": "stress-square-2-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -9.988821609391035,
+      -11.871594255665133,
+      -9.149202314563755,
+      9.686039892538922
+    ],
+    "strict": true,
+    "final_height": 9.98947292862129,
+    "final_lateral": 0.005703466666145962,
+    "final_tilt": 6.36448025585037e-05
+  },
+  {
+    "id": "stress-square-3-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -13.0,
+      -3.3,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.989472546450994,
+    "final_lateral": 0.7290844315893941,
+    "final_tilt": 6.358751133926047e-05
+  },
+  {
+    "id": "stress-square-3-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -11.0,
+      -20.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 118.67332001310515,
+    "final_lateral": 14.795443918620963,
+    "final_tilt": 50.35606643726555
+  },
+  {
+    "id": "stress-square-3-aligned",
+    "model": "oracle",
+    "action": [
+      -12.65586723625539,
+      -5.97596159345386,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.989472928640497,
+    "final_lateral": 0.006302124809981491,
+    "final_tilt": 6.370204225220145e-05
+  },
+  {
+    "id": "stress-square-3-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -12.2,
+      -9.6,
+      9.4,
+      -8.8
+    ],
+    "strict": false,
+    "final_height": 125.94194027282445,
+    "final_lateral": 1.6800245583236535,
+    "final_tilt": 15.596441211990008
+  },
+  {
+    "id": "stress-square-3-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.0,
+      -8.0,
+      0.0,
+      -6.5
+    ],
+    "strict": false,
+    "final_height": 138.99417793928558,
+    "final_lateral": 5.962610149896685,
+    "final_tilt": 10.91994519602631
+  },
+  {
+    "id": "stress-square-3-tilted",
+    "model": "oracle",
+    "action": [
+      -12.65586723625539,
+      -5.97596159345386,
+      10.559355980252004,
+      -8.365834809699573
+    ],
+    "strict": true,
+    "final_height": 9.989472928640497,
+    "final_lateral": 0.006302124809981491,
+    "final_tilt": 6.370204225220145e-05
+  },
+  {
+    "id": "stress-square-3-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -12.6,
+      -3.2,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 123.31368920564911,
+    "final_lateral": 0.6143624828493788,
+    "final_tilt": 9.713460799557728
+  },
+  {
+    "id": "stress-square-3-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -5.2,
+      -8.7,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 137.28849458461133,
+    "final_lateral": 8.303593737589487,
+    "final_tilt": 6.0333857893593565
+  },
+  {
+    "id": "stress-square-3-occluded",
+    "model": "oracle",
+    "action": [
+      -12.65586723625539,
+      -5.97596159345386,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.989472928640497,
+    "final_lateral": 0.006302124809981491,
+    "final_tilt": 6.370204225220145e-05
+  },
+  {
+    "id": "stress-square-3-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -12.9,
+      -10.1,
+      8.2,
+      -8.4
+    ],
+    "strict": false,
+    "final_height": 124.54835177077706,
+    "final_lateral": 9.23546232724322,
+    "final_tilt": 36.20757451238091
+  },
+  {
+    "id": "stress-square-3-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -5.5,
+      -50.0,
+      0.0,
+      -7.5
+    ],
+    "strict": false,
+    "final_height": 44.598817188800545,
+    "final_lateral": 45.952850730575555,
+    "final_tilt": 71.14284519179701
+  },
+  {
+    "id": "stress-square-3-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -12.65586723625539,
+      -5.97596159345386,
+      10.559355980252004,
+      -8.365834809699573
+    ],
+    "strict": true,
+    "final_height": 9.989472928640497,
+    "final_lateral": 0.006302124809981491,
+    "final_tilt": 6.370204225220145e-05
+  },
+  {
+    "id": "stress-round-0-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -2.7,
+      -0.6,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228536080897,
+    "final_lateral": 0.8929175325627711,
+    "final_tilt": 0.0007224640464436004
+  },
+  {
+    "id": "stress-round-0-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -1.4,
+      -8.8,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 136.75615486333547,
+    "final_lateral": 11.46211468988937,
+    "final_tilt": 11.757959685224709
+  },
+  {
+    "id": "stress-round-0-aligned",
+    "model": "oracle",
+    "action": [
+      -2.5815005326396623,
+      1.5209118372334096,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.99422853900267,
+    "final_lateral": 0.004359689855487625,
+    "final_tilt": 0.0007224640464436004
+  },
+  {
+    "id": "stress-round-0-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -3.2,
+      3.7,
+      -11.5,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228530452954,
+    "final_lateral": 0.2665310282729654,
+    "final_tilt": 0.0007224564792858287
+  },
+  {
+    "id": "stress-round-0-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -1.7,
+      -7.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 136.59012238642975,
+    "final_lateral": 7.9957660646026385,
+    "final_tilt": 11.569493002946539
+  },
+  {
+    "id": "stress-round-0-tilted",
+    "model": "oracle",
+    "action": [
+      -2.5815005326396623,
+      1.5209118372334096,
+      -11.610983005090159,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": 9.99422853900267,
+    "final_lateral": 0.004359689855487625,
+    "final_tilt": 0.0007224640464436004
+  },
+  {
+    "id": "stress-round-0-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -3.1,
+      -1.5,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 11.723415752621925,
+    "final_lateral": 1.163332569217863,
+    "final_tilt": 2.142395256454963
+  },
+  {
+    "id": "stress-round-0-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -1.1,
+      -7.5,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 137.87321612185278,
+    "final_lateral": 9.960307290296692,
+    "final_tilt": 7.6615259501153
+  },
+  {
+    "id": "stress-round-0-occluded",
+    "model": "oracle",
+    "action": [
+      -2.5815005326396623,
+      1.5209118372334096,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.99422853900267,
+    "final_lateral": 0.004359689855487625,
+    "final_tilt": 0.0007224640464436004
+  },
+  {
+    "id": "stress-round-0-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -2.8,
+      1.0,
+      -12.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.99422853902976,
+    "final_lateral": 0.8008563505545551,
+    "final_tilt": 0.0007224670732845166
+  },
+  {
+    "id": "stress-round-0-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -1.7,
+      -9.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 136.7298248254154,
+    "final_lateral": 10.234923874219353,
+    "final_tilt": 11.646124041438718
+  },
+  {
+    "id": "stress-round-0-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -2.5815005326396623,
+      1.5209118372334096,
+      -11.610983005090159,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": 9.99422853900267,
+    "final_lateral": 0.004359689855487625,
+    "final_tilt": 0.0007224640464436004
+  },
+  {
+    "id": "stress-round-1-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -10.7,
+      3.1,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.99422793840965,
+    "final_lateral": 0.6602713357446163,
+    "final_tilt": 0.0007220825629716706
+  },
+  {
+    "id": "stress-round-1-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.1,
+      -2.5,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 138.9677598111,
+    "final_lateral": 8.257139853492536,
+    "final_tilt": 3.171365067324418
+  },
+  {
+    "id": "stress-round-1-aligned",
+    "model": "oracle",
+    "action": [
+      -10.008866553145097,
+      5.49297066233305,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.994228539007,
+    "final_lateral": 0.004980536173204708,
+    "final_tilt": 0.0007224640464436004
+  },
+  {
+    "id": "stress-round-1-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -10.8,
+      4.7,
+      -11.5,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228538962702,
+    "final_lateral": 0.8797385159511123,
+    "final_tilt": 0.0007224655598656436
+  },
+  {
+    "id": "stress-round-1-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.1,
+      -12.7,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 136.19355237505692,
+    "final_lateral": 18.267218304744205,
+    "final_tilt": 14.046827754924697
+  },
+  {
+    "id": "stress-round-1-tilted",
+    "model": "oracle",
+    "action": [
+      -10.008866553145097,
+      5.49297066233305,
+      -13.576006619017232,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228539007,
+    "final_lateral": 0.004980536173204708,
+    "final_tilt": 0.0007224640464436004
+  },
+  {
+    "id": "stress-round-1-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -13.7,
+      -11.7,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 136.36830591606684,
+    "final_lateral": 22.590313143306144,
+    "final_tilt": 13.008241763241353
+  },
+  {
+    "id": "stress-round-1-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -18.5,
+      -8.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 138.9320876904554,
+    "final_lateral": 18.336782058668202,
+    "final_tilt": 4.910406579129128
+  },
+  {
+    "id": "stress-round-1-occluded",
+    "model": "oracle",
+    "action": [
+      -10.008866553145097,
+      5.49297066233305,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.994228539007,
+    "final_lateral": 0.004980536173204708,
+    "final_tilt": 0.0007224640464436004
+  },
+  {
+    "id": "stress-round-1-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -13.6,
+      -9.6,
+      -16.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 138.22505209150737,
+    "final_lateral": 18.045784697020558,
+    "final_tilt": 8.660379123604454
+  },
+  {
+    "id": "stress-round-1-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -15.6,
+      -13.8,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 136.62567205470444,
+    "final_lateral": 20.037611323660606,
+    "final_tilt": 14.573168248652307
+  },
+  {
+    "id": "stress-round-1-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -10.008866553145097,
+      5.49297066233305,
+      -13.576006619017232,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228539007,
+    "final_lateral": 0.004980536173204708,
+    "final_tilt": 0.0007224640464436004
+  },
+  {
+    "id": "stress-round-2-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -11.4,
+      -8.5,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228538997675,
+    "final_lateral": 0.7104141271989357,
+    "final_tilt": 0.0007224569837654792
+  },
+  {
+    "id": "stress-round-2-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -11.0,
+      -30.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 134.90248901374434,
+    "final_lateral": 22.155569954711712,
+    "final_tilt": 18.121904174332446
+  },
+  {
+    "id": "stress-round-2-aligned",
+    "model": "oracle",
+    "action": [
+      -11.605749679243793,
+      -9.181391910837977,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.994228538997675,
+    "final_lateral": 0.004768844415220519,
+    "final_tilt": 0.0007224569837654792
+  },
+  {
+    "id": "stress-round-2-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -12.0,
+      -5.0,
+      -12.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 10.05659140376547,
+    "final_lateral": 1.076766094193459,
+    "final_tilt": 0.1286407905514612
+  },
+  {
+    "id": "stress-round-2-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.3,
+      -20.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 135.9254638885431,
+    "final_lateral": 10.126741733722167,
+    "final_tilt": 14.380418918985935
+  },
+  {
+    "id": "stress-round-2-tilted",
+    "model": "oracle",
+    "action": [
+      -11.605749679243793,
+      -9.181391910837977,
+      -12.29387085649312,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228538997675,
+    "final_lateral": 0.004768844415220519,
+    "final_tilt": 0.0007224569837654792
+  },
+  {
+    "id": "stress-round-2-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -5.5,
+      6.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 138.6902471034257,
+    "final_lateral": 17.25323881344516,
+    "final_tilt": 6.446051279150031
+  },
+  {
+    "id": "stress-round-2-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -18.5,
+      -15.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 138.47990674123045,
+    "final_lateral": 11.806813668678222,
+    "final_tilt": 5.555996915912897
+  },
+  {
+    "id": "stress-round-2-occluded",
+    "model": "oracle",
+    "action": [
+      -11.605749679243793,
+      -9.181391910837977,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.994228538997675,
+    "final_lateral": 0.004768844415220519,
+    "final_tilt": 0.0007224569837654792
+  },
+  {
+    "id": "stress-round-2-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -6.2,
+      -14.0,
+      -12.5,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 136.33659515999318,
+    "final_lateral": 7.966455181699485,
+    "final_tilt": 12.360481079753344
+  },
+  {
+    "id": "stress-round-2-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -18.1,
+      -23.4,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 137.57476651957035,
+    "final_lateral": 15.632114575658782,
+    "final_tilt": 12.504575437925947
+  },
+  {
+    "id": "stress-round-2-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -11.605749679243793,
+      -9.181391910837977,
+      -12.29387085649312,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228538997675,
+    "final_lateral": 0.004768844415220519,
+    "final_tilt": 0.0007224569837654792
+  },
+  {
+    "id": "stress-round-3-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -10.8,
+      -4.6,
+      -7.5,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.99422848026188,
+    "final_lateral": 0.5245960926226643,
+    "final_tilt": 0.0007224690911714157
+  },
+  {
+    "id": "stress-round-3-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -6.4,
+      -21.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 135.51629976954638,
+    "final_lateral": 12.211010927088857,
+    "final_tilt": 3.1478840204983065
+  },
+  {
+    "id": "stress-round-3-aligned",
+    "model": "oracle",
+    "action": [
+      -11.36298050743671,
+      -9.056473728848463,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.994228538949269,
+    "final_lateral": 0.004809284110979251,
+    "final_tilt": 0.0007224559748058257
+  },
+  {
+    "id": "stress-round-3-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -9.8,
+      11.3,
+      -8.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 137.91027778975752,
+    "final_lateral": 21.98843307403159,
+    "final_tilt": 7.567127723353003
+  },
+  {
+    "id": "stress-round-3-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -6.6,
+      -16.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 134.03661121867606,
+    "final_lateral": 6.591573241935483,
+    "final_tilt": 13.743104327149556
+  },
+  {
+    "id": "stress-round-3-tilted",
+    "model": "oracle",
+    "action": [
+      -11.36298050743671,
+      -9.056473728848463,
+      -12.659692680477491,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228538949269,
+    "final_lateral": 0.004809284110979251,
+    "final_tilt": 0.0007224559748058257
+  },
+  {
+    "id": "stress-round-3-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -11.5,
+      -9.5,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228538949269,
+    "final_lateral": 0.4656511087654489,
+    "final_tilt": 0.0007224559748058257
+  },
+  {
+    "id": "stress-round-3-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -6.6,
+      -28.8,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 137.7054635173376,
+    "final_lateral": 27.615279441811513,
+    "final_tilt": 7.591117014233244
+  },
+  {
+    "id": "stress-round-3-occluded",
+    "model": "oracle",
+    "action": [
+      -11.36298050743671,
+      -9.056473728848463,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": 9.994228538949269,
+    "final_lateral": 0.004809284110979251,
+    "final_tilt": 0.0007224559748058257
+  },
+  {
+    "id": "stress-round-3-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -12.3,
+      -16.9,
+      -11.5,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 138.19033421265027,
+    "final_lateral": 8.223393941248572,
+    "final_tilt": 6.3209344574578505
+  },
+  {
+    "id": "stress-round-3-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -6.8,
+      -15.7,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 133.9093824777181,
+    "final_lateral": 6.119419396609017,
+    "final_tilt": 14.29878718093077
+  },
+  {
+    "id": "stress-round-3-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -11.36298050743671,
+      -9.056473728848463,
+      -12.659692680477491,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": 9.994228538949269,
+    "final_lateral": 0.004809284110979251,
+    "final_tilt": 0.0007224559748058257
+  },
+  {
+    "id": "stress-dual-0-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      12.6,
+      5.3,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 2.393447230040792,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-0-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      8.7,
+      -3.3,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 10.993447230040791,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-0-aligned",
+    "model": "oracle",
+    "action": [
+      11.693595370942353,
+      7.693447230040792,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": -31.999999999999808,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-0-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      12.5,
+      9.5,
+      -20.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 1.8065527699592083,
+    "final_tilt": 6.021821012251451
+  },
+  {
+    "id": "stress-dual-0-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      10.0,
+      -23.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 30.693447230040793,
+    "final_tilt": 13.97817898774849
+  },
+  {
+    "id": "stress-dual-0-tilted",
+    "model": "oracle",
+    "action": [
+      11.693595370942353,
+      7.693447230040792,
+      -13.97817898774851,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": -31.999999999999808,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-0-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      11.5,
+      8.6,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": -31.999999999999808,
+    "final_lateral": 0.906552769959208,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-0-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      8.0,
+      -3.8,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 11.493447230040791,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-0-occluded",
+    "model": "oracle",
+    "action": [
+      11.693595370942353,
+      7.693447230040792,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": -31.999999999999808,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-0-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      11.5,
+      10.4,
+      -20.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 2.7065527699592087,
+    "final_tilt": 6.021821012251451
+  },
+  {
+    "id": "stress-dual-0-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      8.2,
+      -2.5,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 10.193447230040793,
+    "final_tilt": 13.97817898774849
+  },
+  {
+    "id": "stress-dual-0-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      11.693595370942353,
+      7.693447230040792,
+      -13.97817898774851,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": -31.999999999999808,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-1-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -10.5,
+      17.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 9.448723261437976,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-1-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.4,
+      -4.7,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 12.251276738562023,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-1-aligned",
+    "model": "oracle",
+    "action": [
+      -12.719235112969422,
+      7.551276738562024,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-1-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -12.8,
+      6.4,
+      11.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 1.1512767385620233,
+    "final_tilt": 1.0933348312301594
+  },
+  {
+    "id": "stress-dual-1-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 7.551276738562024,
+    "final_tilt": 9.90666516877012
+  },
+  {
+    "id": "stress-dual-1-tilted",
+    "model": "oracle",
+    "action": [
+      -12.719235112969422,
+      7.551276738562024,
+      9.906665168770136,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-1-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -13.5,
+      8.1,
+      0.0,
+      0.0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.7807648870305772,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-1-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.0,
+      -4.2,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 11.751276738562023,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-1-occluded",
+    "model": "oracle",
+    "action": [
+      -12.719235112969422,
+      7.551276738562024,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-1-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -13.4,
+      4.2,
+      11.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 3.3512767385620235,
+    "final_tilt": 1.0933348312301594
+  },
+  {
+    "id": "stress-dual-1-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.0,
+      -5.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 12.551276738562024,
+    "final_tilt": 9.90666516877012
+  },
+  {
+    "id": "stress-dual-1-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -12.719235112969422,
+      7.551276738562024,
+      9.906665168770136,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-2-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -10.7,
+      -15.5,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 9.999999999999787,
+    "final_lateral": 1.6657401445486464,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-2-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -8.0,
+      6.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 9.999999999999787,
+    "final_lateral": 19.834259855451354,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-2-aligned",
+    "model": "oracle",
+    "action": [
+      -10.824501013343646,
+      -13.834259855451354,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-2-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -11.2,
+      -8.9,
+      15.5,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 9.999999999999787,
+    "final_lateral": 4.934259855451353,
+    "final_tilt": 28.781651018038705
+  },
+  {
+    "id": "stress-dual-2-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -7.5,
+      -28.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 9.999999999999787,
+    "final_lateral": 14.165740144548646,
+    "final_tilt": 13.281651018038678
+  },
+  {
+    "id": "stress-dual-2-tilted",
+    "model": "oracle",
+    "action": [
+      -10.824501013343646,
+      -13.834259855451354,
+      -13.281651018038705,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-2-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -11.2,
+      -15.4,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 9.999999999999787,
+    "final_lateral": 1.5657401445486467,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-2-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -7.5,
+      -30.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 9.999999999999787,
+    "final_lateral": 16.165740144548646,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-2-occluded",
+    "model": "oracle",
+    "action": [
+      -10.824501013343646,
+      -13.834259855451354,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-2-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -10.7,
+      -10.7,
+      -15.4,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 9.999999999999787,
+    "final_lateral": 3.1342598554513543,
+    "final_tilt": 2.1183489819612715
+  },
+  {
+    "id": "stress-dual-2-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -6.7,
+      -32.7,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 9.999999999999787,
+    "final_lateral": 18.86574014454865,
+    "final_tilt": 13.281651018038678
+  },
+  {
+    "id": "stress-dual-2-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -10.824501013343646,
+      -13.834259855451354,
+      -13.281651018038705,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-3-aligned",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -4.8,
+      -6.5,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 3.308757754635405,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-3-aligned",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -5.0,
+      -21.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 11.191242245364595,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-3-aligned",
+    "model": "oracle",
+    "action": [
+      -5.22857997782927,
+      -9.808757754635405,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-3-tilted",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -4.8,
+      -9.7,
+      12.5,
+      0.0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.42857997782927426,
+    "final_tilt": 0.27102167805833816
+  },
+  {
+    "id": "stress-dual-3-tilted",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -5.0,
+      -22.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 12.191242245364595,
+    "final_tilt": 12.771021678059919
+  },
+  {
+    "id": "stress-dual-3-tilted",
+    "model": "oracle",
+    "action": [
+      -5.22857997782927,
+      -9.808757754635405,
+      12.771021678059904,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-3-occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -4.5,
+      -6.8,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 3.008757754635405,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-3-occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -5.2,
+      -24.0,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 14.191242245364595,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-3-occluded",
+    "model": "oracle",
+    "action": [
+      -5.22857997782927,
+      -9.808757754635405,
+      0,
+      0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  },
+  {
+    "id": "stress-dual-3-tilted_occluded",
+    "model": "gpt-6.2-sol",
+    "action": [
+      -4.8,
+      -13.0,
+      10.7,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 3.191242245364595,
+    "final_tilt": 2.071021678059762
+  },
+  {
+    "id": "stress-dual-3-tilted_occluded",
+    "model": "gpt-6.1-terra",
+    "action": [
+      -4.8,
+      -27.4,
+      0.0,
+      0.0
+    ],
+    "strict": false,
+    "final_height": 10.000000000000009,
+    "final_lateral": 17.591242245364594,
+    "final_tilt": 12.771021678059919
+  },
+  {
+    "id": "stress-dual-3-tilted_occluded",
+    "model": "oracle",
+    "action": [
+      -5.22857997782927,
+      -9.808757754635405,
+      12.771021678059904,
+      -0.0
+    ],
+    "strict": true,
+    "final_height": -32.00000000000003,
+    "final_lateral": 0.0,
+    "final_tilt": 0.0
+  }
+]

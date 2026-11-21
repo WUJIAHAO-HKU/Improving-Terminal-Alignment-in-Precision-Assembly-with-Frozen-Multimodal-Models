@@ -1,0 +1,24 @@
+{
+  "folder": "runs/gpt-6.2-sol-R01",
+  "scene": {
+    "id": "R01",
+    "tx": 43,
+    "ty": 8,
+    "ta": -7,
+    "sx": -45,
+    "sy": -11,
+    "sa": -8,
+    "gap": 0.75,
+    "pitch_mm": 28,
+    "recovery_challenge": true,
+    "disturb_mm": -5.0
+  },
+  "step": 2,
+  "action": {
+    "op": "carry",
+    "x": 43.11311949085021,
+    "y": 7.510076055482145,
+    "yaw": -6.559229470557256,
+    "z": 35
+  }
+}

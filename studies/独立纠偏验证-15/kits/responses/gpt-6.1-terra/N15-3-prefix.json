@@ -1,0 +1,44 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[189,127],[207,127]],[[90,177],[111,177]],[[164,242],[196,244]],[[277,124],[335,128]],[[302,251],[333,253]]],\"anchor\":[[294,181],[339,180]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Mixed shim height compensator. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. left washer in staging nest near world XY [-30, 47] mm, profile dflat, thickness 4 mm, destination L; 2. left sleeve in staging nest near world XY [-83, 0] mm, profile dflat, thickness 4 mm, destination L; 3. right blade block in staging nest near world XY [-30, -47] mm, profile slot, thickness 8 mm, destination R; 4. cap in staging nest near world XY [42, 50] mm, profile bridge, thickness 4 mm, destination LR; 5. right shim in staging nest near world XY [42, -50] mm, profile slot, thickness 4 mm, destination R. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 22.73 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "N15-3",
+  "anchor": [
+    43.64526678263296,
+    -10.430758599595421,
+    3.3613755635613813
+  ],
+  "inputs": [
+    "observations/N15-3/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 12.17268379998859,
+  "picks": [
+    [
+      -28.553990353808683,
+      45.818074543974035,
+      1.6764710468066681
+    ],
+    [
+      -83.48673271027958,
+      0.4296571136409142,
+      1.676471046806725
+    ],
+    [
+      -30.208097638430267,
+      -48.37310091424693,
+      -2.59502400102906
+    ],
+    [
+      42.18720161052467,
+      48.85347767703999,
+      -4.124822198982002
+    ],
+    [
+      43.019632791180435,
+      -49.26651155357558,
+      -2.7306324434717197
+    ]
+  ]
+}

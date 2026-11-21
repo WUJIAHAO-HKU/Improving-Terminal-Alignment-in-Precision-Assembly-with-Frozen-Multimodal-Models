@@ -1,0 +1,18 @@
+{
+  "protocol": "Matched previous two cohorts as development only. New 100 four-fixture and 100 kit episodes, 5 per BOM. Two visual models, first and overhead from same state. Old and new allocations and gates evaluated on same candidates. Primary compare revised overhead+gate at 80 and 60 to revised 100. 20 blocks of 5 per cohort; one-sided 97.5% lower paired batch t > -5pp, zero variance inconclusive; 80 before 60 per model, cohorts separate. Report first-pass endpoints including early failures. Difficulty mix and robot unchanged; four-task port is the order-selection fixture. New rules estimate net benefit by public shape family and model; additive group smoothing of strength 8, bounded pre-disagreement as tiebreaker; D-profile top reference offset follows nominal CAD. No endpoint, true pose, new cohort feedback or future optional inputs used in selection.",
+  "sha256": {
+    "camera.py": "9483b50ce27bc2bed69c87a04e9fffd926edc32717fd3c8e07dd8352bc00522b",
+    "catalog.py": "ec56955ff57a3d8b206b37f3ede006917abb878c498754dc3ccc7e91422a8292",
+    "collect13.py": "8ab5b797758ec2dd5e269abbce203311a88d34c0010e28530a05b1d432f40983",
+    "decide13.py": "95f417f5c9c54aafbe55a855fd21ef2dcc36d39d1222c9496ab41ccd205b2108",
+    "decide15.py": "bfbc5bd82725c0a62eae5c0fba0ae63fc5aaa314a5ad3c57557b9b9e470e309b",
+    "frame.py": "eb3b986dc64575a4751d6275a62ada198816d2c06955c514fe0064217c599f64",
+    "gain.json": "6c2ee93fe0e2c4848285fbbe5bbd976ff1fe430c653c6b983c06ac02944f4e48",
+    "geometry13.py": "445f12c7aac9d5bda201443802a706c68a14fc46e7f19c64bc0945faddd36681",
+    "kit.py": "1663e4f11d5b8a4ea39becd3b730023374e01e8beac778e22b6f19db3872b80f",
+    "policy15.py": "09fb21820c1e9a09f13e1bb818951c4f7f0c7ec3c45c2deef99f9f0f209fe2cc",
+    "recipe_info.py": "cc372d13de5559cbe7555777e01f8dde56c96629f10477bd152404a3a35a038d",
+    "render_kit.py": "a737858fb3a2b9f0ad7a8d036312b4242aeb088f2fa2bee10425f63983f442f7",
+    "scenes13.py": "e39826f97afdf99b025269282f189f4a4bc827cbedb64844b665fc92aec072fe"
+  }
+}

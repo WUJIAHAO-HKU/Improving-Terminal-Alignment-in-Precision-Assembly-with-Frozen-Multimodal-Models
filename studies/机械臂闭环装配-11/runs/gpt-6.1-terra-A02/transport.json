@@ -1,0 +1,25 @@
+{
+  "requested_model": "gpt-6.1-terra",
+  "images": [
+    "00-eye.png",
+    "01-eye.png"
+  ],
+  "prompt": "You control a real simulated XYZ yaw gantry with a parallel gripper. No tools. Use the image(s) and telemetry, not internal state. Image resolution 480x360. Pixel (0,0) is top left. Millimetres; world +X is right, +Y away from camera. Positive yaw is counterclockwise from above. Fixed brass pins are on a dark base. Movable gray plate has two holes. Jaws grasp across its short sides. Output exactly one JSON object. Jaw contact on both sides. First image is the ORIGINAL scene before grasp, second is live. In FIRST image locate the top centres of both fixed pins (left then right) to command transport and alignment. Their tops are 14 mm above table. Decide whether an extra overhead measurement is warranted after transport. Return {\"op\":\"carry\",\"points\":[[u1,v1],[u2,v2]],\"measure\":true or false}. Nominal per-side clearance 0.8 mm.",
+  "raw": "{\"op\":\"carry\",\"points\":[[272,151],[326,157]],\"measure\":true}",
+  "answer": {
+    "op": "carry",
+    "points": [
+      [
+        272,
+        151
+      ],
+      [
+        326,
+        157
+      ]
+    ],
+    "measure": true
+  },
+  "seconds": 6.397363300085999,
+  "attempt": 1
+}

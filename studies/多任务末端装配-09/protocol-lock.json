@@ -1,0 +1,11 @@
+{
+  "design": "Exploratory, 30 seeds, 3 task geometries, 6 mixed batches of 5, one RGB and independent RGB repeat or overhead acquisition. Select highest pre-score per batch at 3/5 or 4/5, or measure all. Compare full vs selected acceptance and always-switch at equal lists. Primary outcome strict seating; descriptive counts only. Visible color fiducials and camera model available to all methods; geometry-assisted acceptance uses the second view only when acquired. No training. All scenes retained.",
+  "sha256": {
+    "rig.py": "91ba6b52e9230f7bc10406f7eb91538ca7533ac5708b55d5b7cf9db997dbe86e",
+    "collect.py": "4f0c801455a9b5664256b6e68d40acf249cb26a5902b8cb71e059b06e7fb54ec",
+    "policy.py": "9f59d4f45b0e2e7efdaeaf52323ce1d1fc9f9db2968f880c0168833bc2761946",
+    "decide.py": "e1c377ff4bf7d9907145337284094504fa128305e57e2903dde647f6da3a60a9",
+    "scenes.json": "21054fafc07f627b3f4b03f4de3e836d7d4ebaa2ee01073b5c6e6e1c221bc0af"
+  },
+  "initial_collection_error": "CLI treated the final positional prompt as an image argument; switched to stdin before the first valid reply. No policy changes."
+}

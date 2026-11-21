@@ -1,0 +1,68 @@
+[
+  {
+    "id": "E01P00",
+    "task": "square",
+    "gap": 0.5,
+    "category": "流式漏测",
+    "mode": "direct",
+    "action": [
+      -6.6,
+      1.6
+    ]
+  },
+  {
+    "id": "E01P00",
+    "task": "square",
+    "gap": 0.5,
+    "category": "流式漏测",
+    "mode": "always",
+    "action": [
+      -6.3,
+      6.1
+    ]
+  },
+  {
+    "id": "E09P09",
+    "task": "square",
+    "gap": 4.0,
+    "category": "误拒修正",
+    "mode": "direct",
+    "action": [
+      6.0,
+      11.9
+    ]
+  },
+  {
+    "id": "E09P09",
+    "task": "square",
+    "gap": 4.0,
+    "category": "误拒修正",
+    "mode": "always",
+    "action": [
+      -5.5,
+      11.6
+    ]
+  },
+  {
+    "id": "E05P02",
+    "task": "square",
+    "gap": 0.5,
+    "category": "两动作均失败",
+    "mode": "direct",
+    "action": [
+      -14.0,
+      12.4
+    ]
+  },
+  {
+    "id": "E05P02",
+    "task": "square",
+    "gap": 0.5,
+    "category": "两动作均失败",
+    "mode": "always",
+    "action": [
+      -16.0,
+      -21.5
+    ]
+  }
+]

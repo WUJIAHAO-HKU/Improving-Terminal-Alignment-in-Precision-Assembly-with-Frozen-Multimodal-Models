@@ -1,0 +1,27 @@
+{
+  "visible_overlap": 59,
+  "median": 3.4014073254657133,
+  "maximum": 27.88875832354093,
+  "models": {
+    "gpt-6.2-sol": {
+      "bilateral_lifts": 100,
+      "overhead_80_retained": 20,
+      "rejected_better": 7,
+      "retained_better": 1,
+      "missed_helpful": 2,
+      "skipped_harmful": 1,
+      "technical_attempts": 500,
+      "valid_calls": 500
+    },
+    "gpt-6.1-terra": {
+      "bilateral_lifts": 91,
+      "overhead_80_retained": 9,
+      "rejected_better": 0,
+      "retained_better": 1,
+      "missed_helpful": 7,
+      "skipped_harmful": 1,
+      "technical_attempts": 500,
+      "valid_calls": 500
+    }
+  }
+}

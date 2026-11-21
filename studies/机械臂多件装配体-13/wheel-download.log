@@ -1,0 +1,49 @@
+Collecting mujoco==3.8.1
+  Downloading mujoco-3.8.1-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (42 kB)
+Collecting pillow
+  Downloading pillow-13.0.0-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (9.1 kB)
+Collecting opencv-python-headless
+  Downloading opencv_python_headless-5.1.0.95-cp37-abi3-manylinux_2_28_x86_64.whl.metadata (20 kB)
+Collecting absl-py (from mujoco==3.8.1)
+  Using cached absl_py-2.5.1-py3-none-any.whl.metadata (3.3 kB)
+Collecting etils[epath] (from mujoco==3.8.1)
+  Using cached etils-1.15.0-py3-none-any.whl.metadata (6.5 kB)
+Collecting glfw (from mujoco==3.8.1)
+  Downloading glfw-2.11.0-py2.py3-none-manylinux_2_28_x86_64.whl.metadata (5.5 kB)
+Collecting numpy (from mujoco==3.8.1)
+  Downloading numpy-2.4.6-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (6.6 kB)
+Collecting pyopengl (from mujoco==3.8.1)
+  Using cached pyopengl-3.1.10-py3-none-any.whl.metadata (3.3 kB)
+Collecting fsspec (from etils[epath]->mujoco==3.8.1)
+  Using cached fsspec-2026.9.0-py3-none-any.whl.metadata (10 kB)
+Collecting typing_extensions (from etils[epath]->mujoco==3.8.1)
+  Downloading typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting zipp (from etils[epath]->mujoco==3.8.1)
+  Using cached zipp-4.1.2-py3-none-any.whl.metadata (3.6 kB)
+Downloading mujoco-3.8.1-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (7.2 MB)
+   ---------------------------------------- 7.2/7.2 MB 8.3 MB/s  0:00:01
+Downloading pillow-13.0.0-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (7.1 MB)
+   ---------------------------------------- 7.1/7.1 MB 9.1 MB/s  0:00:00
+Downloading opencv_python_headless-5.1.0.95-cp37-abi3-manylinux_2_28_x86_64.whl (63.7 MB)
+   ---------------------------------------- 63.7/63.7 MB 5.6 MB/s  0:00:11
+Downloading numpy-2.4.6-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (16.9 MB)
+   ---------------------------------------- 16.9/16.9 MB 8.5 MB/s  0:00:02
+Using cached absl_py-2.5.1-py3-none-any.whl (137 kB)
+Using cached etils-1.15.0-py3-none-any.whl (177 kB)
+Using cached fsspec-2026.9.0-py3-none-any.whl (221 kB)
+Downloading glfw-2.11.0-py2.py3-none-manylinux_2_28_x86_64.whl (248 kB)
+Using cached pyopengl-3.1.10-py3-none-any.whl (3.2 MB)
+Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Using cached zipp-4.1.2-py3-none-any.whl (10 kB)
+Saved mujoco-3.8.1-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+Saved pillow-13.0.0-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+Saved opencv_python_headless-5.1.0.95-cp37-abi3-manylinux_2_28_x86_64.whl
+Saved numpy-2.4.6-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
+Saved absl_py-2.5.1-py3-none-any.whl
+Saved etils-1.15.0-py3-none-any.whl
+Saved fsspec-2026.9.0-py3-none-any.whl
+Saved glfw-2.11.0-py2.py3-none-manylinux_2_28_x86_64.whl
+Saved pyopengl-3.1.10-py3-none-any.whl
+Saved typing_extensions-4.16.0-py3-none-any.whl
+Saved zipp-4.1.2-py3-none-any.whl
+Successfully downloaded mujoco pillow opencv-python-headless numpy absl-py etils fsspec glfw pyopengl typing_extensions zipp

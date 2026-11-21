@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[108,124],[124,124]],[[304,255],[326,255]]],\"anchor\":[[307,177],[317,177]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Keyed hub and thrust washer. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. hub in staging nest near world XY [-83, 47] mm, profile dflat, thickness 6 mm, destination M; 2. washer in staging nest near world XY [42, -50] mm, profile round, thickness 4 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.53 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "N01-0",
+  "anchor": [
+    41.58632967875856,
+    -6.090778449075728,
+    1.676471046806796
+  ],
+  "inputs": [
+    "observations/N01-0/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 23.2631886000745,
+  "picks": [
+    [
+      -82.05541322808695,
+      44.9686063436578,
+      1.6764710468067818
+    ],
+    [
+      41.57567694966157,
+      -51.19776379796636,
+      1.6764710468069097
+    ]
+  ]
+}

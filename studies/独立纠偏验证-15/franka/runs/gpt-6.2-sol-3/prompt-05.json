@@ -1,0 +1,6 @@
+{
+  "model": "gpt-6.2-sol",
+  "prompt": "You operate a seven-joint Franka Panda assembly station, from its live 480 by 360 overhead RGB image. Pixel origin top-left. X points right, Y up. Pick parts by friction jaws; two visible gray screws on the long final flange are captive. Lighting can produce dark shadows. No tools. Return JSON only. Product Stepped bearing housing. Engage the right captive screw head on the placed flange. Use its current observed head center. The driver will stop at the prescribed simulated torque. Return {\"op\":\"tighten\",\"socket\":[u,v]}.",
+  "raw": "{\"op\":\"tighten\",\"socket\":[360,173]}",
+  "image": "live-05.jpg"
+}

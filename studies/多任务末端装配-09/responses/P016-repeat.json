@@ -1,0 +1,14 @@
+{
+  "model": "gpt-6.2-sol",
+  "mode": "repeat",
+  "id": "P016",
+  "action": [
+    -7.9,
+    -1.0,
+    22.4
+  ],
+  "prompt": "Output one JSON object with numeric dx,dy (mm) and yaw (degrees): one relative translation and yaw correction to seat a rectangular slot over a 36 by 6 mm blade. Rotate about plate center; positive yaw is counterclockwise seen from above. Fixed red dots are 88 mm apart on the target X axis; moving green dots are 48 mm apart along the plate local X axis. Pair midpoints are the target and part origins. World X points right and Y away (up in overhead view). Camera1 looks obliquely from -Y at 35 degrees from vertical. Cameras have 40 deg vertical FOV, 360 square pixels, look at (0,0,9) mm from distance 170 mm. Per-side clearance 0.5 mm. Account for different heights. Only use supplied images, no tools. Return dx,dy,yaw to one decimal place.",
+  "raw": "{\"dx\":-7.9,\"dy\":-1.0,\"yaw\":22.4}",
+  "attempts": 1,
+  "seconds": 28.8
+}

@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "C01P01",
+    "task": "square",
+    "gap": 0.5,
+    "angle": 12.0,
+    "rank": 9,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.0141217084593937,
+    "direct": {
+      "id": "C01P01",
+      "mode": "direct",
+      "success": false,
+      "official": true,
+      "height": 30.38,
+      "lateral": 0.25,
+      "tilt": 3.09,
+      "stable": true,
+      "action": [
+        -16.1,
+        -2.3
+      ]
+    },
+    "measured": {
+      "id": "C01P01",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.27,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -16.4,
+        -3.7
+      ]
+    }
+  },
+  {
+    "id": "C01P02",
+    "task": "round",
+    "gap": 0.25,
+    "angle": 6.0,
+    "rank": 8,
+    "label": "漏测·强对照会采用",
+    "score": 0.024859100463549097,
+    "direct": {
+      "id": "C01P02",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 52.17,
+      "lateral": 0.07,
+      "tilt": 1.75,
+      "stable": true,
+      "action": [
+        -17.5,
+        -22.0
+      ]
+    },
+    "measured": {
+      "id": "C01P02",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.13,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -15.1,
+        -16.6
+      ]
+    }
+  },
+  {
+    "id": "C01P03",
+    "task": "square",
+    "gap": 0.25,
+    "angle": 50.0,
+    "rank": 10,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.2142046828656257,
+    "direct": {
+      "id": "C01P03",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 152.9,
+      "lateral": 0.21,
+      "tilt": 3.6,
+      "stable": true,
+      "action": [
+        -2.6,
+        13.0
+      ]
+    },
+    "measured": {
+      "id": "C01P03",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.21,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -2.8,
+        14.9
+      ]
+    }
+  },
+  {
+    "id": "C02P01",
+    "task": "round",
+    "gap": 0.25,
+    "angle": 34.0,
+    "rank": 9,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.027612677541765218,
+    "direct": {
+      "id": "C02P01",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 135.82,
+      "lateral": 0.2,
+      "tilt": 2.83,
+      "stable": true,
+      "action": [
+        3.6,
+        2.9
+      ]
+    },
+    "measured": {
+      "id": "C02P01",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.11,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        3.3,
+        -1.3
+      ]
+    }
+  },
+  {
+    "id": "C03P01",
+    "task": "square",
+    "gap": 1.0,
+    "angle": 34.0,
+    "rank": 9,
+    "label": "漏测·强对照会采用",
+    "score": 0.06882651125776673,
+    "direct": {
+      "id": "C03P01",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 151.76,
+      "lateral": 31.6,
+      "tilt": 70.36,
+      "stable": false,
+      "action": [
+        6.0,
+        -23.4
+      ]
+    },
+    "measured": {
+      "id": "C03P01",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.15,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        10.4,
+        8.2
+      ]
+    }
+  },
+  {
+    "id": "C03P02",
+    "task": "round",
+    "gap": 0.5,
+    "angle": 6.0,
+    "rank": 7,
+    "label": "漏测·强对照会采用",
+    "score": 0.10587476696565648,
+    "direct": {
+      "id": "C03P02",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 155.37,
+      "lateral": 0.07,
+      "tilt": 4.11,
+      "stable": true,
+      "action": [
+        15.9,
+        8.8
+      ]
+    },
+    "measured": {
+      "id": "C03P02",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.51,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        15.7,
+        8.8
+      ]
+    }
+  },
+  {
+    "id": "C04P00",
+    "task": "square",
+    "gap": 1.0,
+    "angle": 6.0,
+    "rank": 7,
+    "label": "漏测·强对照会采用",
+    "score": 0.1372512336959611,
+    "direct": {
+      "id": "C04P00",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 143.7,
+      "lateral": 10.73,
+      "tilt": 40.05,
+      "stable": true,
+      "action": [
+        8.6,
+        -20.7
+      ]
+    },
+    "measured": {
+      "id": "C04P00",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.32,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        6.9,
+        -14.5
+      ]
+    }
+  },
+  {
+    "id": "C06P06",
+    "task": "square",
+    "gap": 0.5,
+    "angle": 50.0,
+    "rank": 10,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.139648516687895,
+    "direct": {
+      "id": "C06P06",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 139.59,
+      "lateral": 1.48,
+      "tilt": 14.95,
+      "stable": true,
+      "action": [
+        10.5,
+        3.5
+      ]
+    },
+    "measured": {
+      "id": "C06P06",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.1,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        11.0,
+        0.2
+      ]
+    }
+  },
+  {
+    "id": "C07P02",
+    "task": "round",
+    "gap": 0.25,
+    "angle": 6.0,
+    "rank": 8,
+    "label": "跳过有害修正",
+    "score": 0.08322709015538529,
+    "direct": {
+      "id": "C07P02",
+      "mode": "direct",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.17,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        15.8,
+        -8.2
+      ]
+    },
+    "measured": {
+      "id": "C07P02",
+      "mode": "always",
+      "success": false,
+      "official": false,
+      "height": 142.22,
+      "lateral": 0.04,
+      "tilt": 2.03,
+      "stable": true,
+      "action": [
+        16.2,
+        -8.7
+      ]
+    }
+  },
+  {
+    "id": "C07P05",
+    "task": "round",
+    "gap": 0.5,
+    "angle": 50.0,
+    "rank": 10,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.03761822542371718,
+    "direct": {
+      "id": "C07P05",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 128.06,
+      "lateral": 0.07,
+      "tilt": 3.36,
+      "stable": true,
+      "action": [
+        -15.2,
+        -3.4
+      ]
+    },
+    "measured": {
+      "id": "C07P05",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.27,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -14.6,
+        -5.0
+      ]
+    }
+  },
+  {
+    "id": "C07P09",
+    "task": "square",
+    "gap": 1.0,
+    "angle": 42.0,
+    "rank": 9,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.17816504949851084,
+    "direct": {
+      "id": "C07P09",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 139.46,
+      "lateral": 1.53,
+      "tilt": 17.54,
+      "stable": true,
+      "action": [
+        -12.1,
+        -1.5
+      ]
+    },
+    "measured": {
+      "id": "C07P09",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 10.45,
+      "lateral": 0.95,
+      "tilt": 0.66,
+      "stable": true,
+      "action": [
+        -12.0,
+        1.7
+      ]
+    }
+  },
+  {
+    "id": "C08P06",
+    "task": "round",
+    "gap": 0.5,
+    "angle": 6.0,
+    "rank": 7,
+    "label": "漏测·强对照会采用",
+    "score": 0.020721447480264915,
+    "direct": {
+      "id": "C08P06",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 141.23,
+      "lateral": 0.05,
+      "tilt": 3.45,
+      "stable": true,
+      "action": [
+        15.7,
+        17.5
+      ]
+    },
+    "measured": {
+      "id": "C08P06",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.22,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        14.1,
+        16.9
+      ]
+    }
+  },
+  {
+    "id": "C09P01",
+    "task": "square",
+    "gap": 0.5,
+    "angle": 22.0,
+    "rank": 10,
+    "label": "漏测·强对照会采用",
+    "score": 0.0010701333651008255,
+    "direct": {
+      "id": "C09P01",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 139.57,
+      "lateral": 15.0,
+      "tilt": 49.56,
+      "stable": true,
+      "action": [
+        -13.5,
+        -4.7
+      ]
+    },
+    "measured": {
+      "id": "C09P01",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.16,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -13.0,
+        9.6
+      ]
+    }
+  },
+  {
+    "id": "C09P08",
+    "task": "round",
+    "gap": 0.25,
+    "angle": 6.0,
+    "rank": 7,
+    "label": "漏测·强对照会采用",
+    "score": 0.15194135530246694,
+    "direct": {
+      "id": "C09P08",
+      "mode": "direct",
+      "success": false,
+      "official": true,
+      "height": 10.58,
+      "lateral": 0.69,
+      "tilt": 1.29,
+      "stable": true,
+      "action": [
+        -0.3,
+        4.6
+      ]
+    },
+    "measured": {
+      "id": "C09P08",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.11,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        0.0,
+        5.2
+      ]
+    }
+  },
+  {
+    "id": "C11P01",
+    "task": "square",
+    "gap": 1.0,
+    "angle": 6.0,
+    "rank": 8,
+    "label": "漏测·强对照会采用",
+    "score": 0.14288794537201163,
+    "direct": {
+      "id": "C11P01",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 158.08,
+      "lateral": 1.72,
+      "tilt": 0.86,
+      "stable": true,
+      "action": [
+        11.6,
+        -19.8
+      ]
+    },
+    "measured": {
+      "id": "C11P01",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.18,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        8.7,
+        -15.0
+      ]
+    }
+  },
+  {
+    "id": "C11P03",
+    "task": "square",
+    "gap": 2.0,
+    "angle": 12.0,
+    "rank": 9,
+    "label": "漏测·强对照会采用",
+    "score": 0.10230056448732072,
+    "direct": {
+      "id": "C11P03",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 158.52,
+      "lateral": 11.39,
+      "tilt": 45.46,
+      "stable": true,
+      "action": [
+        -7.4,
+        -4.9
+      ]
+    },
+    "measured": {
+      "id": "C11P03",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.41,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -7.2,
+        4.7
+      ]
+    }
+  },
+  {
+    "id": "C11P05",
+    "task": "square",
+    "gap": 2.0,
+    "angle": 6.0,
+    "rank": 10,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.0242519892761711,
+    "direct": {
+      "id": "C11P05",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 146.23,
+      "lateral": 0.13,
+      "tilt": 11.59,
+      "stable": true,
+      "action": [
+        14.0,
+        6.6
+      ]
+    },
+    "measured": {
+      "id": "C11P05",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.23,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        10.7,
+        6.5
+      ]
+    }
+  },
+  {
+    "id": "C12P08",
+    "task": "square",
+    "gap": 0.5,
+    "angle": 22.0,
+    "rank": 9,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.01052775523809825,
+    "direct": {
+      "id": "C12P08",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 167.22,
+      "lateral": 0.47,
+      "tilt": 8.0,
+      "stable": true,
+      "action": [
+        9.0,
+        -6.0
+      ]
+    },
+    "measured": {
+      "id": "C12P08",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.47,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        8.8,
+        -4.6
+      ]
+    }
+  },
+  {
+    "id": "C13P05",
+    "task": "square",
+    "gap": 1.0,
+    "angle": 6.0,
+    "rank": 7,
+    "label": "漏测·强对照会采用",
+    "score": 0.17296472706280097,
+    "direct": {
+      "id": "C13P05",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 186.83,
+      "lateral": 9.38,
+      "tilt": 2.5,
+      "stable": true,
+      "action": [
+        9.2,
+        -6.7
+      ]
+    },
+    "measured": {
+      "id": "C13P05",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.13,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        7.0,
+        2.5
+      ]
+    }
+  },
+  {
+    "id": "C14P01",
+    "task": "square",
+    "gap": 0.5,
+    "angle": 50.0,
+    "rank": 10,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.11279848061131342,
+    "direct": {
+      "id": "C14P01",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 154.59,
+      "lateral": 0.3,
+      "tilt": 6.36,
+      "stable": true,
+      "action": [
+        15.0,
+        -1.5
+      ]
+    },
+    "measured": {
+      "id": "C14P01",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.2,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        14.8,
+        1.1
+      ]
+    }
+  },
+  {
+    "id": "C15P05",
+    "task": "square",
+    "gap": 1.0,
+    "angle": 34.0,
+    "rank": 9,
+    "label": "漏测·强对照会采用",
+    "score": 0.029221593733246093,
+    "direct": {
+      "id": "C15P05",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 129.61,
+      "lateral": 0.25,
+      "tilt": 9.55,
+      "stable": true,
+      "action": [
+        7.6,
+        6.2
+      ]
+    },
+    "measured": {
+      "id": "C15P05",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.43,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        7.4,
+        8.7
+      ]
+    }
+  },
+  {
+    "id": "C15P07",
+    "task": "square",
+    "gap": 2.0,
+    "angle": 6.0,
+    "rank": 8,
+    "label": "跳过有害修正",
+    "score": 0.08937977121776391,
+    "direct": {
+      "id": "C15P07",
+      "mode": "direct",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.21,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -7.9,
+        16.4
+      ]
+    },
+    "measured": {
+      "id": "C15P07",
+      "mode": "always",
+      "success": false,
+      "official": false,
+      "height": 153.92,
+      "lateral": 30.32,
+      "tilt": 88.98,
+      "stable": true,
+      "action": [
+        -8.1,
+        -25.0
+      ]
+    }
+  },
+  {
+    "id": "C16P04",
+    "task": "square",
+    "gap": 2.0,
+    "angle": 12.0,
+    "rank": 8,
+    "label": "漏测·强对照会采用",
+    "score": 0.14363226528256592,
+    "direct": {
+      "id": "C16P04",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 165.13,
+      "lateral": 11.69,
+      "tilt": 45.8,
+      "stable": true,
+      "action": [
+        7.1,
+        -10.5
+      ]
+    },
+    "measured": {
+      "id": "C16P04",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.04,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        5.9,
+        -1.9
+      ]
+    }
+  },
+  {
+    "id": "C20P07",
+    "task": "square",
+    "gap": 1.0,
+    "angle": 42.0,
+    "rank": 8,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.0033443989690650766,
+    "direct": {
+      "id": "C20P07",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 147.45,
+      "lateral": 12.34,
+      "tilt": 45.19,
+      "stable": true,
+      "action": [
+        5.8,
+        13.1
+      ]
+    },
+    "measured": {
+      "id": "C20P07",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.64,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        5.5,
+        3.4
+      ]
+    }
+  },
+  {
+    "id": "C22P02",
+    "task": "square",
+    "gap": 0.5,
+    "angle": 6.0,
+    "rank": 8,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.07645964842707784,
+    "direct": {
+      "id": "C22P02",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 166.59,
+      "lateral": 2.09,
+      "tilt": 2.8,
+      "stable": true,
+      "action": [
+        -11.1,
+        -7.1
+      ]
+    },
+    "measured": {
+      "id": "C22P02",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.07,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -15.4,
+        -12.0
+      ]
+    }
+  },
+  {
+    "id": "C23P03",
+    "task": "round",
+    "gap": 4.0,
+    "angle": 42.0,
+    "rank": 6,
+    "label": "已测误拒",
+    "score": -0.06950568487476266,
+    "direct": {
+      "id": "C23P03",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 164.81,
+      "lateral": 8.58,
+      "tilt": 3.57,
+      "stable": true,
+      "action": [
+        -8.0,
+        -8.7
+      ]
+    },
+    "measured": {
+      "id": "C23P03",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.13,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -8.7,
+        2.4
+      ]
+    }
+  },
+  {
+    "id": "C24P04",
+    "task": "square",
+    "gap": 0.5,
+    "angle": 6.0,
+    "rank": 8,
+    "label": "漏测·强对照会采用",
+    "score": 0.07521363311440188,
+    "direct": {
+      "id": "C24P04",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 166.2,
+      "lateral": 12.13,
+      "tilt": 42.37,
+      "stable": true,
+      "action": [
+        -12.8,
+        -2.2
+      ]
+    },
+    "measured": {
+      "id": "C24P04",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.03,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -13.5,
+        -10.2
+      ]
+    }
+  },
+  {
+    "id": "C25P06",
+    "task": "round",
+    "gap": 0.5,
+    "angle": 34.0,
+    "rank": 7,
+    "label": "漏测·强对照会采用",
+    "score": 0.2610487018584188,
+    "direct": {
+      "id": "C25P06",
+      "mode": "direct",
+      "success": false,
+      "official": false,
+      "height": 57.53,
+      "lateral": 43.38,
+      "tilt": 90.0,
+      "stable": true,
+      "action": [
+        -12.7,
+        -52.6
+      ]
+    },
+    "measured": {
+      "id": "C25P06",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 9.99,
+      "lateral": 0.43,
+      "tilt": 0.0,
+      "stable": true,
+      "action": [
+        -15.5,
+        -7.4
+      ]
+    }
+  },
+  {
+    "id": "C26P09",
+    "task": "square",
+    "gap": 0.25,
+    "angle": 50.0,
+    "rank": 10,
+    "label": "漏测·强对照也会拒绝",
+    "score": -0.13581967311116022,
+    "direct": {
+      "id": "C26P09",
+      "mode": "direct",
+      "success": false,
+      "official": true,
+      "height": 17.67,
+      "lateral": 0.01,
+      "tilt": 1.96,
+      "stable": true,
+      "action": [
+        2.9,
+        6.4
+      ]
+    },
+    "measured": {
+      "id": "C26P09",
+      "mode": "always",
+      "success": true,
+      "official": true,
+      "height": 10.07,
+      "lateral": 0.24,
+      "tilt": 0.17,
+      "stable": true,
+      "action": [
+        2.9,
+        6.5
+      ]
+    }
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "scene": "A01",
+  "model": "gpt-6.1-terra",
+  "grasp": true,
+  "lift": true,
+  "carry": true,
+  "measure": true,
+  "kept": true,
+  "retries": 0,
+  "success": true,
+  "final_pin_errors": [
+    0.9305237681188842,
+    0.9525345905123989
+  ],
+  "final_height": 6.999907571595218,
+  "release_drift_mm": 0.0
+}

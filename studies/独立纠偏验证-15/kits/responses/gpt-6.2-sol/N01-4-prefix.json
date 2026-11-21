@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[68,241],[95,242]],[[165,246],[192,249]]],\"anchor\":[[309,176],[317,174]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Keyed hub and thrust washer. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. hub in staging nest near world XY [-83, -47] mm, profile dflat, thickness 6 mm, destination M; 2. washer in staging nest near world XY [-30, -47] mm, profile round, thickness 4 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.57 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "N01-4",
+  "anchor": [
+    42.257893179467544,
+    -4.5393521845755345,
+    19.674023356973322
+  ],
+  "inputs": [
+    "observations/N01-4/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 23.606071699992754,
+  "picks": [
+    [
+      -83.47371361198844,
+      -47.599367819024266,
+      -0.855419090953319
+    ],
+    [
+      -31.34049244382109,
+      -48.57764615836349,
+      -5.802945657798176
+    ]
+  ]
+}

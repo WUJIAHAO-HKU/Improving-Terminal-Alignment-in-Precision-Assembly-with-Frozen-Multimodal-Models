@@ -1,0 +1,26 @@
+{
+  "component": "top keeper",
+  "pick": [
+    0.378,
+    -0.1365
+  ],
+  "target": [
+    0.504,
+    0.0815
+  ],
+  "lift_mm": 128.56127707925688,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 251.76353016446345,
+  "xy_mm": 0.4922298668618586,
+  "z_mm": -0.005418978813506031,
+  "tilt": 0.0021807090418173303,
+  "seated": true,
+  "ok": true
+}

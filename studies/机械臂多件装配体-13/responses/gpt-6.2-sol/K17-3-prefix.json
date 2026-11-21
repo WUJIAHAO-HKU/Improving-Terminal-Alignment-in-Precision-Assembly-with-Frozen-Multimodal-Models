@@ -1,0 +1,49 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[69,240],[99,242]],[[176,181],[204,182]],[[304,258],[334,254]],[[145,240],[215,247]],[[184,128],[208,129]],[[85,179],[113,180]]],\"anchor\":[[294,164],[334,165]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Staggered indexing frame. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. left register in staging nest near world XY [-83, -47] mm, profile dflat, thickness 6 mm, destination L; 2. right foot in staging nest near world XY [-30, 0] mm, profile round, thickness 4 mm, destination R; 3. right shim in staging nest near world XY [42, -50] mm, profile round, thickness 2 mm, destination R; 4. middle frame in staging nest near world XY [-30, -47] mm, profile bridge, thickness 4 mm, destination LR; 5. left cap in staging nest near world XY [-30, 47] mm, profile dflat, thickness 4 mm, destination L; 6. right cap in staging nest near world XY [-83, 0] mm, profile round, thickness 4 mm, destination R. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 22.09 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "K17-3",
+  "anchor": [
+    42.67842222967342,
+    -0.035824777995770773,
+    -0.282861766628713
+  ],
+  "inputs": [
+    "observations/K17-3/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 15.764166399952956,
+  "picks": [
+    [
+      -82.21190917183426,
+      -47.23798194479856,
+      -2.847082084461377
+    ],
+    [
+      -29.463917045762255,
+      -1.5702825849281226,
+      -1.0254186244129073
+    ],
+    [
+      43.99731889190164,
+      -50.45398007310172,
+      10.47066640143268
+    ],
+    [
+      -30.88940951269256,
+      -45.9760111343341,
+      -5.110623347637542
+    ],
+    [
+      -29.751361198716708,
+      44.353261436110515,
+      -1.7791207270847167
+    ],
+    [
+      -83.98211332229764,
+      -1.5808609267088372,
+      -1.019811754004479
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[72,239],[98,242]],[[175,177],[202,180]],[[146,242],[211,247]]],\"anchor\":[[297,170],[336,173]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Bridged sleeve pair. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. left bush in staging nest near world XY [-83, -47] mm, profile round, thickness 6 mm, destination L; 2. right bush in staging nest near world XY [-30, 0] mm, profile round, thickness 6 mm, destination R; 3. tie plate in staging nest near world XY [-30, -47] mm, profile bridge, thickness 4 mm, destination LR. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.75 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "N08-4",
+  "anchor": [
+    44.41273699451729,
+    -1.7712478497281552,
+    -4.302367790960986
+  ],
+  "inputs": [
+    "observations/N08-4/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 8.295900400029495,
+  "picks": [
+    [
+      -81.75141999905078,
+      -46.899059938367685,
+      -6.041181043633699
+    ],
+    [
+      -30.282044544847217,
+      -0.9703829909451258,
+      -6.663657886925009
+    ],
+    [
+      -31.595606556110127,
+      -46.65016717329563,
+      -3.556359503741376
+    ]
+  ]
+}

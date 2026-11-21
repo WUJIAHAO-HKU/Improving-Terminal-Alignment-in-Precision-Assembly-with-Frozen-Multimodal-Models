@@ -1,0 +1,16 @@
+{
+  "design": "Twenty BOMs, five fresh dimensional/pose variants each, reused across two model identifiers. 20 groups of five kit episodes with fixed grouping. Separate assembly-level evaluation: one common model request defines component grasps and first pick/place. After physical release of the first component the model sees the live state and commands the remaining ordered component placements. Every part free in a continuous shared robot simulation. No teleportation or attachment. Low-level contact interlock, failure counts include failed first part, exact common prefix reused across conditions. Compare unchanged RGB repeat, registered optical depth, overhead view using the same number of calls and identical scene lists; geometry baseline reuses model grasps and common first stage. Locked allocation and gate from calibrated visible shape geometry. Score entire kit only when all prescribed components were physically lifted, carried and released, individually passed and all still seated at the end. Report whole-kit macro rates, step completion, first failure, equal-call switch vs gate, and full-gate budget NI. Overhead primary, adjusted per-model one-sided 97.5% batch t lower >-5pp, zero variance inconclusive, 20% then 40%; separate family of hypotheses from study 12. Five per design are descriptive. No inter-component contact welding, no torque, force insertion outside slip-fit kits or industrial functionality claims.",
+  "sha256": {
+    "catalog.py": "ec56955ff57a3d8b206b37f3ede006917abb878c498754dc3ccc7e91422a8292",
+    "frame.py": "eb3b986dc64575a4751d6275a62ada198816d2c06955c514fe0064217c599f64",
+    "geometry13.py": "445f12c7aac9d5bda201443802a706c68a14fc46e7f19c64bc0945faddd36681",
+    "kit.py": "1663e4f11d5b8a4ea39becd3b730023374e01e8beac778e22b6f19db3872b80f",
+    "scenes13.py": "005d67e4fa5edf04fbcd2de55bfee61de99665c739f50919be1c380d97e1460b",
+    "render_kit.py": "a737858fb3a2b9f0ad7a8d036312b4242aeb088f2fa2bee10425f63983f442f7",
+    "recipe_info.py": "cc372d13de5559cbe7555777e01f8dde56c96629f10477bd152404a3a35a038d",
+    "camera.py": "9483b50ce27bc2bed69c87a04e9fffd926edc32717fd3c8e07dd8352bc00522b",
+    "decide13.py": "95f417f5c9c54aafbe55a855fd21ef2dcc36d39d1222c9496ab41ccd205b2108",
+    "collect13.py": "8ab5b797758ec2dd5e269abbce203311a88d34c0010e28530a05b1d432f40983",
+    "summarize13.py": "c801279719a0f77a92cf6d5da1a743a115eaa508fa65114a2dc2adaec1826ef1"
+  }
+}

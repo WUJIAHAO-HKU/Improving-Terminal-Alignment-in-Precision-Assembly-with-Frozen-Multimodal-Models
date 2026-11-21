@@ -1,0 +1,26 @@
+{
+  "component": "bonnet",
+  "pick": [
+    0.3795,
+    -0.1335
+  ],
+  "target": [
+    0.503,
+    0.08750000000000001
+  ],
+  "lift_mm": 128.80668475399287,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 253.12608480804533,
+  "xy_mm": 0.5669664192568507,
+  "z_mm": -0.0039726991643389276,
+  "tilt": 0.0002589891079766871,
+  "seated": true,
+  "ok": true
+}

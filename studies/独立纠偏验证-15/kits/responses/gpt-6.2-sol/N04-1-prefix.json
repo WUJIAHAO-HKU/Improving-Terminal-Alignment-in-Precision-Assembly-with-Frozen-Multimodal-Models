@@ -1,0 +1,34 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\n  \"op\": \"assemble\",\n  \"picks\": [\n    [[182, 123], [205, 124]],\n    [[85, 176], [113, 177]],\n    [[177, 179], [204, 180]]\n  ],\n  \"anchor\": [[311, 153], [320, 153]]\n}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Stepped shaft pack. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. lower bush in staging nest near world XY [-30, 47] mm, profile round, thickness 6 mm, destination M; 2. shim in staging nest near world XY [-83, 0] mm, profile round, thickness 4 mm, destination M; 3. upper bush in staging nest near world XY [-30, 0] mm, profile round, thickness 6 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 20.87 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "N04-1",
+  "anchor": [
+    43.80906736733999,
+    7.22491624175106,
+    1.676471046806597
+  ],
+  "inputs": [
+    "observations/N04-1/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 14.379832900012843,
+  "picks": [
+    [
+      -31.481262648697495,
+      46.92896548291671,
+      -1.9608768015799853
+    ],
+    [
+      -84.476677395341,
+      0.8023103574504376,
+      -1.033307503600085
+    ],
+    [
+      -29.009644898594697,
+      -1.725551158208475,
+      -1.1344638153639437
+    ]
+  ]
+}

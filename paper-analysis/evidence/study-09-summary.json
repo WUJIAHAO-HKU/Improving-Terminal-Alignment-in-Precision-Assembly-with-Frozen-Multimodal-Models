@@ -1,0 +1,68 @@
+{
+  "twin": {
+    "rgb": 10,
+    "repeat4": 9,
+    "repeat4gate": 10,
+    "view4": 10,
+    "view4gate": 10,
+    "view3gate": 10,
+    "allview": 10,
+    "allgate": 10,
+    "geo": 9,
+    "geo_top": 9,
+    "zero": 0,
+    "oracle": 10,
+    "n": 10
+  },
+  "blade": {
+    "rgb": 10,
+    "repeat4": 10,
+    "repeat4gate": 10,
+    "view4": 10,
+    "view4gate": 10,
+    "view3gate": 10,
+    "allview": 10,
+    "allgate": 10,
+    "geo": 10,
+    "geo_top": 10,
+    "zero": 0,
+    "oracle": 10,
+    "n": 10
+  },
+  "dshaft": {
+    "rgb": 10,
+    "repeat4": 10,
+    "repeat4gate": 10,
+    "view4": 10,
+    "view4gate": 10,
+    "view3gate": 10,
+    "allview": 10,
+    "allgate": 10,
+    "geo": 10,
+    "geo_top": 10,
+    "zero": 1,
+    "oracle": 10,
+    "n": 10
+  },
+  "total": {
+    "rgb": 30,
+    "repeat4": 29,
+    "repeat4gate": 30,
+    "view4": 30,
+    "view4gate": 30,
+    "view3gate": 30,
+    "allview": 30,
+    "allgate": 30,
+    "geo": 29,
+    "geo_top": 29,
+    "zero": 1,
+    "oracle": 30,
+    "n": 30
+  },
+  "equal_budget": {
+    "selected": 24,
+    "switches": 19,
+    "depth_oracle_controls": "overhead RGB is the acquired view; no depth channel in pilot."
+  },
+  "failure_examples": []
+}

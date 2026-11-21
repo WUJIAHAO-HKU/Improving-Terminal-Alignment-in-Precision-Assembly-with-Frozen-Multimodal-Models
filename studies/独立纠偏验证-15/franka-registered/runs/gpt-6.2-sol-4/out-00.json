@@ -1,0 +1,26 @@
+{
+  "component": "rear guide",
+  "pick": [
+    0.6395000000000001,
+    0.0055
+  ],
+  "target": [
+    0.504,
+    0.1005
+  ],
+  "lift_mm": 128.91331493980056,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 165.37158643253048,
+  "xy_mm": 0.41107893978073556,
+  "z_mm": -0.0007038236706606582,
+  "tilt": 0.0,
+  "seated": true,
+  "ok": true
+}

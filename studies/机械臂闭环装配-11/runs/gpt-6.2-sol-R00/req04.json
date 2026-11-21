@@ -1,0 +1,24 @@
+{
+  "folder": "runs/gpt-6.2-sol-R00",
+  "scene": {
+    "id": "R00",
+    "tx": 36,
+    "ty": -3,
+    "ta": 4,
+    "sx": -49,
+    "sy": 4,
+    "sa": 5,
+    "gap": 0.9,
+    "pitch_mm": 31,
+    "recovery_challenge": true,
+    "disturb_mm": 4.5
+  },
+  "step": 4,
+  "action": {
+    "op": "retry",
+    "x": 36.11725001773738,
+    "y": -3.374802322180109,
+    "yaw": 4.50693277013692,
+    "z": 35
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[100,124],[127,124]],[[182,126],[207,126]]],\"anchor\":[[302,166],[310,166]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Keyed hub and thrust washer. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. hub in staging nest near world XY [-83, 47] mm, profile dflat, thickness 6 mm, destination M; 2. washer in staging nest near world XY [-30, 47] mm, profile round, thickness 4 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 20.84 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "N01-1",
+  "anchor": [
+    38.62849991077764,
+    2.3702121750195317,
+    1.6764710468064834
+  ],
+  "inputs": [
+    "observations/N01-1/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 10.981411900022067,
+  "picks": [
+    [
+      -83.68841230062526,
+      44.92081124885179,
+      1.6764710468067534
+    ],
+    [
+      -30.92940772080025,
+      46.70640960526154,
+      1.6764710468068955
+    ]
+  ]
+}

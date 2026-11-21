@@ -1,0 +1,17 @@
+{
+  "model": "gpt-6.2-sol",
+  "mode": "grip",
+  "id": "P004",
+  "raw": "{\"op\":\"pick\",\"points\":[[140,193],[192,188]]}",
+  "action": {
+    "x": -42.418,
+    "y": -10.626,
+    "yaw": 8.915
+  },
+  "prompt": "You operate an XYZ+yaw Cartesian robot with a parallel-jaw gripper. Reply JSON only. No tools. World X increases toward image right, Y away; yaw is counterclockwise from above. Images 480x360. Pixel coordinates (u,v) from top left. The gray movable component starts left of the dark receiving fixture with brass mating features. The task is to insert the unmarked two-hole keyed connector. Recipe dimension 19.2 mm, part outer width 24.0 mm, clearance per side 0.75 mm. Command pick and lift; locate two points on its longitudinal centerline, symmetric about the MOVABLE component center, left then right, on the top face. Do not target the receiving fixture. Use visible long plate edges to judge yaw. Return {\"op\":\"pick\",\"points\":[[u,v],[u,v]]}.",
+  "input_images": [
+    "initial/P004/00-eye.png"
+  ],
+  "seconds": 10.619131099898368,
+  "attempts": 1
+}

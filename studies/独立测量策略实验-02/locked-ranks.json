@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "B00P04",
+    "batch": 0,
+    "quality": -2.698398866328919,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.46329084027793355
+    },
+    "tie": "72b24900e9df5c402ca10fd9ce02102405a246b581b61ae6c966b91b2c331b07",
+    "ranks": {
+      "clearance": 9,
+      "view": 3,
+      "joint": 5,
+      "fit_clearance": 9,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B00P06",
+    "batch": 0,
+    "quality": -2.723901509601658,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.1879309251058591
+    },
+    "tie": "a72a26435cc70aac737729a958311fa95712c8ba26f062187b57ea2ba81822e6",
+    "ranks": {
+      "clearance": 10,
+      "view": 7,
+      "joint": 10,
+      "fit_clearance": 10,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B02P00",
+    "batch": 2,
+    "quality": -2.706652639351366,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.30730394339102873
+    },
+    "tie": "c7ab53b1808f10a3123668c90202e42ad60ed91bf2d786e6bbba221dc99f06b7",
+    "ranks": {
+      "clearance": 10,
+      "view": 6,
+      "joint": 8,
+      "fit_clearance": 10,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B02P04",
+    "batch": 2,
+    "quality": -2.589061577606401,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.03147001714298803
+    },
+    "tie": "7719ca5d922f25d3ad0074d1e13d1efcdbdba0a1be1cedf7470dd8d7e7bf266c",
+    "ranks": {
+      "clearance": 9,
+      "view": 9,
+      "joint": 10,
+      "fit_clearance": 9,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B05P07",
+    "batch": 5,
+    "quality": -2.5250796107861095,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": -0.014148969359332353
+    },
+    "tie": "00fcbed5a4257f44894e8d6fafe9af0c204d5deaacc3208fb39ee1cd3492347c",
+    "ranks": {
+      "clearance": 9,
+      "view": 9,
+      "joint": 10,
+      "fit_clearance": 9,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B07P01",
+    "batch": 7,
+    "quality": -2.7573098068096966,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.34494741199305134
+    },
+    "tie": "43a36a5fa8787df3fe26d2e1040799fa681056ef5fca25857dc3ddb69547d196",
+    "ranks": {
+      "clearance": 9,
+      "view": 5,
+      "joint": 8,
+      "fit_clearance": 9,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B08P07",
+    "batch": 8,
+    "quality": -2.8029196254159072,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6663923577256465
+    },
+    "tie": "24f07b3f2a56087ca4de95bd301c70c05fae4873ccdbcbec94558f8cf3aea915",
+    "ranks": {
+      "clearance": 9,
+      "view": 1,
+      "joint": 1,
+      "fit_clearance": 9,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B09P01",
+    "batch": 9,
+    "quality": -2.683844441785896,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.29035511439006356
+    },
+    "tie": "5ffd7ec6d94f62b55561755c25199125176527775331e3a8c3563463afe7c725",
+    "ranks": {
+      "clearance": 9,
+      "view": 5,
+      "joint": 7,
+      "fit_clearance": 9,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B15P08",
+    "batch": 15,
+    "quality": -2.7649987184989233,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.15691277007016774
+    },
+    "tie": "e31fcdc77bd65f3fe08fc616eb3745b52b17947df3d8a1bca70682197b260ba8",
+    "ranks": {
+      "clearance": 10,
+      "view": 10,
+      "joint": 9,
+      "fit_clearance": 10,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B16P02",
+    "batch": 16,
+    "quality": -2.6967280436178642,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.5827642403711608
+    },
+    "tie": "2c2a5eab8e85e77cee35ad61b12a1deaf1c0a41ae4ff800305e8c1877124a733",
+    "ranks": {
+      "clearance": 9,
+      "view": 1,
+      "joint": 3,
+      "fit_clearance": 9,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B17P06",
+    "batch": 17,
+    "quality": -2.5052262253616844,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": -0.028304384810158845
+    },
+    "tie": "f6228403236a7233167d3c991f88c56ff0555f585181bf22ac5377a0aae4d254",
+    "ranks": {
+      "clearance": 10,
+      "view": 10,
+      "joint": 10,
+      "fit_clearance": 10,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B18P01",
+    "batch": 18,
+    "quality": -2.7295017145220997,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6085741995987124
+    },
+    "tie": "bd99448491132e7bd33583ebbe43d8b66f345b5023456d6a65226c6e9085e1e6",
+    "ranks": {
+      "clearance": 10,
+      "view": 2,
+      "joint": 3,
+      "fit_clearance": 10,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B19P03",
+    "batch": 19,
+    "quality": -2.5370808015621678,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": -0.005592149567241522
+    },
+    "tie": "cbc84ffcacce5a44ce08d343e5d4de075425e66aef97c3867f01d99176f83fb2",
+    "ranks": {
+      "clearance": 10,
+      "view": 10,
+      "joint": 10,
+      "fit_clearance": 10,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B20P04",
+    "batch": 20,
+    "quality": -2.7716959560509618,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6418030575035696
+    },
+    "tie": "f314ea8e578da09fb9fb26912062d65687ea81933feb9f10724236e51f51287d",
+    "ranks": {
+      "clearance": 10,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 10,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B24P00",
+    "batch": 24,
+    "quality": -2.5387048135468375,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.054139186056469724
+    },
+    "tie": "ef618c081303f22484d0e09006a06a2deffd55ffddb892014ea513cdec015f92",
+    "ranks": {
+      "clearance": 10,
+      "view": 7,
+      "joint": 10,
+      "fit_clearance": 10,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B24P02",
+    "batch": 24,
+    "quality": -2.756505669693362,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.50794919949033
+    },
+    "tie": "0c75b58711b5f42accc06d8cd23e1ea261f2d7cf8b126019649408b5c079e043",
+    "ranks": {
+      "clearance": 9,
+      "view": 3,
+      "joint": 4,
+      "fit_clearance": 9,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B25P01",
+    "batch": 25,
+    "quality": -2.772552875691018,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5202823833570094
+    },
+    "tie": "f5c4ed3ddd67c581a413ab07f97dfa273ca2f08351e56f74b3510d665d8f3f4b",
+    "ranks": {
+      "clearance": 10,
+      "view": 4,
+      "joint": 3,
+      "fit_clearance": 10,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B26P06",
+    "batch": 26,
+    "quality": -2.7467086327288106,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5004196234226886
+    },
+    "tie": "a2418e34cf95558229dc6deb9794742d0e2cc417ef7aec35fbb6ebc7b11c1f73",
+    "ranks": {
+      "clearance": 10,
+      "view": 4,
+      "joint": 6,
+      "fit_clearance": 10,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B27P07",
+    "batch": 27,
+    "quality": -2.8145147053945236,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5525324187333365
+    },
+    "tie": "d5b9dba6836d4c7d9254426a5d9fe27e89cda855b075daed2d17e75e5d8f0970",
+    "ranks": {
+      "clearance": 10,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 10,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B01P08",
+    "batch": 1,
+    "quality": -2.478904513748936,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.047661621682585364
+    },
+    "tie": "05fafb3f1fc23b719c74f78f11d66f41b31afbaf2fb301c2976cf0131d1b91b5",
+    "ranks": {
+      "clearance": 7,
+      "view": 9,
+      "joint": 9,
+      "fit_clearance": 5,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B03P03",
+    "batch": 3,
+    "quality": -2.622839598698458,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.5746325612009577
+    },
+    "tie": "7efeacec814c4b04865089e668eb658979d3485ea0014204f523f0513c31e872",
+    "ranks": {
+      "clearance": 8,
+      "view": 1,
+      "joint": 4,
+      "fit_clearance": 6,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B04P07",
+    "batch": 4,
+    "quality": -2.3728690243271884,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.02341271945834633
+    },
+    "tie": "e2c3af52c8472a56d9a559be121fa94143b5507a47d0bf6d83c6cb34f1380731",
+    "ranks": {
+      "clearance": 8,
+      "view": 8,
+      "joint": 10,
+      "fit_clearance": 6,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B06P08",
+    "batch": 6,
+    "quality": -2.539817217770212,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.2600137705124724
+    },
+    "tie": "6cebc5b86b004d3785336a2e2c7011ed8f408b98e4a758c8cd9e0a49636cf9c2",
+    "ranks": {
+      "clearance": 7,
+      "view": 6,
+      "joint": 6,
+      "fit_clearance": 5,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B08P04",
+    "batch": 8,
+    "quality": -2.6573460986493904,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.601807159964137
+    },
+    "tie": "ea8e524a411b44d30926b48d5ec4fbdfe02a14caeed49775bd301855fcb6ea7f",
+    "ranks": {
+      "clearance": 8,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 6,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B09P09",
+    "batch": 9,
+    "quality": -2.7210478441911365,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.2749477133438338
+    },
+    "tie": "a5b99d3091f391bcb5e10cd65c856eb9723c2db7660c79604e957d087726c1ae",
+    "ranks": {
+      "clearance": 8,
+      "view": 8,
+      "joint": 8,
+      "fit_clearance": 6,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B11P04",
+    "batch": 11,
+    "quality": -2.697478968740078,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5240100620262529
+    },
+    "tie": "23221be154ff3a3bc4cb8c9272e3632053d968d9771c61193ce041811bfa502a",
+    "ranks": {
+      "clearance": 7,
+      "view": 3,
+      "joint": 3,
+      "fit_clearance": 5,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B12P04",
+    "batch": 12,
+    "quality": -2.668601633390942,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6106711317057401
+    },
+    "tie": "c63e80e1d4d625bae09e064db338c3cfa96c81120be80ad096817ab380db66b5",
+    "ranks": {
+      "clearance": 7,
+      "view": 1,
+      "joint": 4,
+      "fit_clearance": 5,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B14P07",
+    "batch": 14,
+    "quality": -2.562552232433149,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.10730224136411132
+    },
+    "tie": "0f939add07d07acfce7e770a94851310528326ee36198096e840b91061259fd2",
+    "ranks": {
+      "clearance": 7,
+      "view": 10,
+      "joint": 10,
+      "fit_clearance": 5,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B15P04",
+    "batch": 15,
+    "quality": -2.7659889271173195,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.576663833249011
+    },
+    "tie": "bd3693e393fdb9e4db374b14346b831e3e904ef38aba1198851a994ab2699c2a",
+    "ranks": {
+      "clearance": 8,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 6,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B17P01",
+    "batch": 17,
+    "quality": -2.5160588554292316,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.0741525768039974
+    },
+    "tie": "d5efebbabc80a5494a3545d638128176cdeb94a3073a3b305cf0a6ecb8f53e0b",
+    "ranks": {
+      "clearance": 7,
+      "view": 9,
+      "joint": 9,
+      "fit_clearance": 5,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B17P09",
+    "batch": 17,
+    "quality": -2.725040779179188,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.27783233130594065
+    },
+    "tie": "fddb3d196aab8230f4609c91d7ed853fc49d4067a04cd85d7c0496a8b6771f0a",
+    "ranks": {
+      "clearance": 8,
+      "view": 8,
+      "joint": 6,
+      "fit_clearance": 6,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B18P03",
+    "batch": 18,
+    "quality": -2.596259706307709,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.18479695830435588
+    },
+    "tie": "965200e5e09df57c82f3bb9ea36c789e1f875099ae50128d0b723976ed66925a",
+    "ranks": {
+      "clearance": 8,
+      "view": 7,
+      "joint": 8,
+      "fit_clearance": 6,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B19P09",
+    "batch": 19,
+    "quality": -2.7340958776090005,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.4043827314833015
+    },
+    "tie": "72b65bd2c346b978fe54eb4d5e99bb0bbb62965ceff0b03b873b0181e3fee252",
+    "ranks": {
+      "clearance": 8,
+      "view": 6,
+      "joint": 5,
+      "fit_clearance": 6,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B20P02",
+    "batch": 20,
+    "quality": -2.8479244380242865,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.4889690211437117
+    },
+    "tie": "54084107ee9d43520ca030380d4fe41b7deae0f6c1f59f8578083ac94f14b5fa",
+    "ranks": {
+      "clearance": 7,
+      "view": 5,
+      "joint": 6,
+      "fit_clearance": 5,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B21P01",
+    "batch": 21,
+    "quality": -2.5994015305751637,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.18706670793534225
+    },
+    "tie": "d0d8d9d0428bfff235c1d46f9a45e1fd943b54fda7488234a32cf24a9395274e",
+    "ranks": {
+      "clearance": 8,
+      "view": 8,
+      "joint": 8,
+      "fit_clearance": 6,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B22P00",
+    "batch": 22,
+    "quality": -2.654840010761066,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.34548749740471935
+    },
+    "tie": "666fb09a60dc5ea61a8ad5f6841f1f28f6063ad8eff37f057cacc38082d58d19",
+    "ranks": {
+      "clearance": 7,
+      "view": 5,
+      "joint": 6,
+      "fit_clearance": 5,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B23P06",
+    "batch": 23,
+    "quality": -2.7164672064785007,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.21704324296853694
+    },
+    "tie": "3758bd9a88c02c569349076a40f26affe19ee22932e465ca28e26054b81109f0",
+    "ranks": {
+      "clearance": 7,
+      "view": 9,
+      "joint": 9,
+      "fit_clearance": 5,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B24P07",
+    "batch": 24,
+    "quality": -2.742530102558316,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6688913652749566
+    },
+    "tie": "81a4d142c8333fffd89d03a0b6b121d212111569587b0f5114e5d870bacacece",
+    "ranks": {
+      "clearance": 7,
+      "view": 2,
+      "joint": 3,
+      "fit_clearance": 5,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B24P09",
+    "batch": 24,
+    "quality": -2.6639346238472044,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.35224572727292525
+    },
+    "tie": "b93bd9bf97bf665436d8d712614e6c6fcf969e7831b7187e8ca7a0d9d25fb3d8",
+    "ranks": {
+      "clearance": 8,
+      "view": 6,
+      "joint": 7,
+      "fit_clearance": 6,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B26P02",
+    "batch": 26,
+    "quality": -2.680040202269987,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5106073853662081
+    },
+    "tie": "1b8e9d16dad6e88831cebfb4c06c640cae4b1cd3d1db14ca0adf7ea0438a0a13",
+    "ranks": {
+      "clearance": 7,
+      "view": 3,
+      "joint": 5,
+      "fit_clearance": 5,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B26P03",
+    "batch": 26,
+    "quality": -2.776698900474221,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6958000165408113
+    },
+    "tie": "f51c3f9ebdf2512bce2ce33d2fce02a366ff46598eb40a0df174b4a58503fbee",
+    "ranks": {
+      "clearance": 8,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 6,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B27P08",
+    "batch": 27,
+    "quality": -2.717787810502886,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6494062868102097
+    },
+    "tie": "2d54b9f26aa7a03214c63fa61267d8300d346b0585401e23a64f74da856c3023",
+    "ranks": {
+      "clearance": 7,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 5,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B29P01",
+    "batch": 29,
+    "quality": -2.914562980150371,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.35828504709572406
+    },
+    "tie": "e5b37923ee82c402dadb678c1c12f8d02f0d1b026945c596c614b9855b7e6e24",
+    "ranks": {
+      "clearance": 8,
+      "view": 10,
+      "joint": 7,
+      "fit_clearance": 6,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B00P09",
+    "batch": 0,
+    "quality": -2.7880211907356403,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7082997164563442
+    },
+    "tie": "0d0678ebdd43274bb276bc3561e00973eb210df0627876c5625b0c4b9b80f42f",
+    "ranks": {
+      "clearance": 5,
+      "view": 1,
+      "joint": 2,
+      "fit_clearance": 1,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B02P05",
+    "batch": 2,
+    "quality": -2.799409558737792,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7172682972010143
+    },
+    "tie": "8d5b26faeadeb035107e3e688fc0bab47c3025707e15dea7d95cbac8f95a4c08",
+    "ranks": {
+      "clearance": 5,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 1,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B03P08",
+    "batch": 3,
+    "quality": -2.7552967542228366,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.583398631995397
+    },
+    "tie": "465b011fa6c04edd1d9192bd792ee913c8eefa13b651aa7590712a8e7e1c2bdd",
+    "ranks": {
+      "clearance": 5,
+      "view": 4,
+      "joint": 3,
+      "fit_clearance": 1,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B05P00",
+    "batch": 5,
+    "quality": -2.624639940639951,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.35325752033119795
+    },
+    "tie": "5ea35739fa0df2d61402e8b4e28dc3af187d45e776fe68fe625a4e28c58ad6df",
+    "ranks": {
+      "clearance": 6,
+      "view": 5,
+      "joint": 5,
+      "fit_clearance": 2,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B06P05",
+    "batch": 6,
+    "quality": -2.572031632013401,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.16232047526962604
+    },
+    "tie": "6a47cebdc17ac1ec690220018b01636afabc2efbb54fd357f80c17ca89a0e78a",
+    "ranks": {
+      "clearance": 5,
+      "view": 9,
+      "joint": 8,
+      "fit_clearance": 1,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B07P07",
+    "batch": 7,
+    "quality": -2.6046852048830775,
+    "scores": {
+      "clearance": -1.0,
+      "view": 14.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.23348828078976985
+    },
+    "tie": "0c1074c94b117b8695da5de71bfa4da6b6117e25fbc597611d35ccd1bf025a2b",
+    "ranks": {
+      "clearance": 5,
+      "view": 7,
+      "joint": 9,
+      "fit_clearance": 1,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B07P08",
+    "batch": 7,
+    "quality": -2.8528446002557963,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7593495229182101
+    },
+    "tie": "bf739de9bd7ae215413b48e143e7fc49833f7d66babe0de274c7f2f39ef2306a",
+    "ranks": {
+      "clearance": 6,
+      "view": 1,
+      "joint": 1,
+      "fit_clearance": 2,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B09P03",
+    "batch": 9,
+    "quality": -2.5571474284781726,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.151708074402386
+    },
+    "tie": "919b5ced2a2f135199a7831c4c80563b2910209d5338dc8aa16615563285fdf6",
+    "ranks": {
+      "clearance": 6,
+      "view": 10,
+      "joint": 10,
+      "fit_clearance": 2,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B10P00",
+    "batch": 10,
+    "quality": -2.6947892560522138,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.40538565312399666
+    },
+    "tie": "0d0c17dc71325833e47572360284078a0c0f3a862d5d1720c019c33f5443f262",
+    "ranks": {
+      "clearance": 5,
+      "view": 5,
+      "joint": 5,
+      "fit_clearance": 1,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B10P02",
+    "batch": 10,
+    "quality": -2.6223931922895063,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3515879559787066
+    },
+    "tie": "981bab38e2d3f3e9046f680fd75301e1a1c7647c5a4153db8ada1fa6c1502332",
+    "ranks": {
+      "clearance": 6,
+      "view": 6,
+      "joint": 6,
+      "fit_clearance": 2,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B11P01",
+    "batch": 11,
+    "quality": -2.7178701969150354,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.26630301682624924
+    },
+    "tie": "73cc666d9c27211961bacdac1f8f01cf0d0990b492d8986f404357f54e3678d2",
+    "ranks": {
+      "clearance": 6,
+      "view": 10,
+      "joint": 8,
+      "fit_clearance": 2,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B11P03",
+    "batch": 11,
+    "quality": -2.629354504485871,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.486604902120171
+    },
+    "tie": "6b446cd74769caa9fd64de6c0b44474794a460d6e6cc8b1f09537b0e69eda506",
+    "ranks": {
+      "clearance": 5,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 1,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B14P05",
+    "batch": 14,
+    "quality": -2.900732692657194,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.3966835308931683
+    },
+    "tie": "0149bc56e8978d341d6f2aab17078fdbc90986ea339e1623267edd4bb65693d8",
+    "ranks": {
+      "clearance": 5,
+      "view": 9,
+      "joint": 7,
+      "fit_clearance": 1,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B18P07",
+    "batch": 18,
+    "quality": -2.733751219007505,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.665560965534105
+    },
+    "tie": "5f3572957e12f8dcc80619265a3de64999dd4275a400b8f01ff10f3b5b004bbf",
+    "ranks": {
+      "clearance": 5,
+      "view": 1,
+      "joint": 2,
+      "fit_clearance": 1,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B22P06",
+    "batch": 22,
+    "quality": -2.8184551913075073,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7322671357968995
+    },
+    "tie": "a72eab81e211c953eb330936b31b9ebfa1adad4d456b9dc06ad7c0697aa1d0f0",
+    "ranks": {
+      "clearance": 6,
+      "view": 1,
+      "joint": 3,
+      "fit_clearance": 2,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B23P09",
+    "batch": 23,
+    "quality": -2.7243052891744375,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.4273190916054641
+    },
+    "tie": "26028aca850dee6cad6e26a2ff2882c34bc3b7a0c395a6d8ca6b11374c892891",
+    "ranks": {
+      "clearance": 6,
+      "view": 5,
+      "joint": 5,
+      "fit_clearance": 2,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B25P03",
+    "batch": 25,
+    "quality": -2.8373836860112354,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7471737258450412
+    },
+    "tie": "0dcabe6854752944b123ab0c968c403082767051232b9f5add06adf4ab53fba3",
+    "ranks": {
+      "clearance": 5,
+      "view": 1,
+      "joint": 1,
+      "fit_clearance": 1,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B28P04",
+    "batch": 28,
+    "quality": -2.7428679248165615,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5738463748400037
+    },
+    "tie": "566b0a796fc83cac52f5da6ea3e917e6b9f8e011721bd01441a2dffd74989236",
+    "ranks": {
+      "clearance": 6,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 2,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B29P05",
+    "batch": 29,
+    "quality": -2.6591982680808113,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5095415194817146
+    },
+    "tie": "856afda4e25f0fdf16a8a56e19f17901227af33c08a9f17144301c19e4698e58",
+    "ranks": {
+      "clearance": 5,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 1,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B00P08",
+    "batch": 0,
+    "quality": -2.6663611602512587,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3679985569591771
+    },
+    "tie": "52fb60500355e2ec5297a1e632cdb8471e72b0cd3c89fc54b45150e4ec80c4c6",
+    "ranks": {
+      "clearance": 3,
+      "view": 5,
+      "joint": 6,
+      "fit_clearance": 3,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B01P01",
+    "batch": 1,
+    "quality": -2.612605298348836,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.32805244071880424
+    },
+    "tie": "c0350c0f02326a80f4c1098e9cdd14a0e3e9437cb9ecc9fef69824bedcbd9041",
+    "ranks": {
+      "clearance": 3,
+      "view": 5,
+      "joint": 7,
+      "fit_clearance": 3,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B01P06",
+    "batch": 1,
+    "quality": -2.6675140163204554,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3688552472050175
+    },
+    "tie": "daf6a18d036936b15d195749e7a5678c291a86656457ad0c1c334c8674c07e8f",
+    "ranks": {
+      "clearance": 4,
+      "view": 6,
+      "joint": 6,
+      "fit_clearance": 4,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B03P09",
+    "batch": 3,
+    "quality": -2.580839485875614,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.17038602104660244
+    },
+    "tie": "6d96e7347c7415071cdcff63a521447d0f94ee4398476e6c191ede52faab29c1",
+    "ranks": {
+      "clearance": 3,
+      "view": 9,
+      "joint": 8,
+      "fit_clearance": 3,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B04P01",
+    "batch": 4,
+    "quality": -2.7550821032670845,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5517121202663728
+    },
+    "tie": "c25efa8a87d493f9f26f31f234af0f4eb9308ff47ed42b8bcd8d8997a6b2403e",
+    "ranks": {
+      "clearance": 4,
+      "view": 3,
+      "joint": 3,
+      "fit_clearance": 4,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B05P09",
+    "batch": 5,
+    "quality": -2.791083113005419,
+    "scores": {
+      "clearance": -0.5,
+      "view": 45.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6678203241471241
+    },
+    "tie": "b0700a18ddfc3f9ea70125da1be1d62a541be255abcd4a55794c172c72c9dcd4",
+    "ranks": {
+      "clearance": 3,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 3,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B06P04",
+    "batch": 6,
+    "quality": -2.8341885608547965,
+    "scores": {
+      "clearance": -0.5,
+      "view": 45.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7017667763077214
+    },
+    "tie": "5fb7272d66bbff28d6007f02c04a253380f7e4b9c2a6553a1d9e64aceada8056",
+    "ranks": {
+      "clearance": 4,
+      "view": 1,
+      "joint": 2,
+      "fit_clearance": 4,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B07P04",
+    "batch": 7,
+    "quality": -2.9187708481460684,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.4113302592477563
+    },
+    "tie": "f1565c0b3afeb97177155dd9a76bb38e49a3ff670878b667e03d6c0fe0f15ab7",
+    "ranks": {
+      "clearance": 4,
+      "view": 10,
+      "joint": 6,
+      "fit_clearance": 4,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B08P06",
+    "batch": 8,
+    "quality": -2.716614962746351,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.2671936053478075
+    },
+    "tie": "2628a36b6ea8dd541baf0dcc8ed162dc48b6cedd6b9df121fc142f56df6edbf7",
+    "ranks": {
+      "clearance": 3,
+      "view": 9,
+      "joint": 10,
+      "fit_clearance": 3,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B10P01",
+    "batch": 10,
+    "quality": -2.8114078923932286,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5950016694769957
+    },
+    "tie": "085acfb774fc15fd396992a9e846ffc2ca3e660d5ce21d86b95a58d900563aae",
+    "ranks": {
+      "clearance": 3,
+      "view": 3,
+      "joint": 4,
+      "fit_clearance": 3,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B10P05",
+    "batch": 10,
+    "quality": -2.8056902114833093,
+    "scores": {
+      "clearance": -0.5,
+      "view": 45.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6793237232399143
+    },
+    "tie": "b44f846ef4641db63d84b21527356a7ebf711b84db11423a7a5f2009fb379ece",
+    "ranks": {
+      "clearance": 4,
+      "view": 2,
+      "joint": 3,
+      "fit_clearance": 4,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B12P01",
+    "batch": 12,
+    "quality": -2.672234766066909,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3723632482199738
+    },
+    "tie": "67aecdb0e359d3bf9480f9086249a85d0aa65bd87352a16277ef363538ec946d",
+    "ranks": {
+      "clearance": 3,
+      "view": 6,
+      "joint": 6,
+      "fit_clearance": 3,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B12P06",
+    "batch": 12,
+    "quality": -2.8085433880900283,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.37689225485470357
+    },
+    "tie": "bd5aa8e4681048dda73def3f300b3d34da729435d9bbceb4a0f49ddec48c63b4",
+    "ranks": {
+      "clearance": 4,
+      "view": 7,
+      "joint": 5,
+      "fit_clearance": 4,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B13P01",
+    "batch": 13,
+    "quality": -2.778277175268736,
+    "scores": {
+      "clearance": -0.5,
+      "view": 45.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6577353772450781
+    },
+    "tie": "8e2247af008f269df339040b05a315d01e2b6ec8e9087391921cad7873d1ae01",
+    "ranks": {
+      "clearance": 3,
+      "view": 1,
+      "joint": 3,
+      "fit_clearance": 3,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B15P00",
+    "batch": 15,
+    "quality": -2.6590763013594234,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.22616867992554962
+    },
+    "tie": "8ef4f878b6c8ec18f99641a4230aefa8428d735326a7ceeb39a347a50ff8babf",
+    "ranks": {
+      "clearance": 4,
+      "view": 9,
+      "joint": 8,
+      "fit_clearance": 4,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B16P01",
+    "batch": 16,
+    "quality": -2.733513082087179,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.4178993190433439
+    },
+    "tie": "5c196b99d38ac207c0567527db881cfa145f3c69b291b4514aac26859d627a3d",
+    "ranks": {
+      "clearance": 3,
+      "view": 6,
+      "joint": 4,
+      "fit_clearance": 3,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B16P05",
+    "batch": 16,
+    "quality": -2.8219357681633874,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.6030929364313734
+    },
+    "tie": "5e589fb83fb6db5691147ad50e00f0e996c9f3c9b474f975559734be47d068d0",
+    "ranks": {
+      "clearance": 4,
+      "view": 3,
+      "joint": 2,
+      "fit_clearance": 4,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B23P01",
+    "batch": 23,
+    "quality": -2.744531182751019,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5436031421236132
+    },
+    "tie": "f4e0ef2d8e1ebf406b544b5892a7fe64504ec583e112ec888de545cef86f40e0",
+    "ranks": {
+      "clearance": 4,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 4,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B25P05",
+    "batch": 25,
+    "quality": -2.657899696804795,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.22532976374394942
+    },
+    "tie": "ed8855fde4145782fc5c121b37aea0d7083bbec77f95dfec9a896bed808a6f38",
+    "ranks": {
+      "clearance": 4,
+      "view": 10,
+      "joint": 8,
+      "fit_clearance": 4,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B28P06",
+    "batch": 28,
+    "quality": -2.8336236330803226,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.6120757205403657
+    },
+    "tie": "215bbe3b59bb3c502d9c23ab249b64fc3ef8322de5ad81357e342983ba7e9f91",
+    "ranks": {
+      "clearance": 3,
+      "view": 3,
+      "joint": 3,
+      "fit_clearance": 3,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B02P03",
+    "batch": 2,
+    "quality": -2.448692896564656,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.06658201966817662
+    },
+    "tie": "2ce6c3c7097a05b11c411fbbfc03b8130ff5cba69b65e5c4aba8369efd6af25b",
+    "ranks": {
+      "clearance": 1,
+      "view": 7,
+      "joint": 9,
+      "fit_clearance": 7,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B03P01",
+    "batch": 3,
+    "quality": -2.5256146322939266,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.12215262655886458
+    },
+    "tie": "c772708232ebf44fccb8eb5ec5a546fdf3d9b13fad0c6b62dda798c7fbf6d89e",
+    "ranks": {
+      "clearance": 2,
+      "view": 8,
+      "joint": 9,
+      "fit_clearance": 8,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B04P08",
+    "batch": 4,
+    "quality": -2.6127920232395017,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.2654552121433804
+    },
+    "tie": "2be8f4de172d1b60906be080f059a14fd85c0e5a5178f4aba150f44d661b4fb7",
+    "ranks": {
+      "clearance": 1,
+      "view": 5,
+      "joint": 8,
+      "fit_clearance": 7,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B06P01",
+    "batch": 6,
+    "quality": -2.698469093594433,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.4302064078315486
+    },
+    "tie": "adb922aadd6b33308cb39488be03651010aaa218ad4e34fec3c94889179f07a3",
+    "ranks": {
+      "clearance": 1,
+      "view": 3,
+      "joint": 5,
+      "fit_clearance": 7,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B08P01",
+    "batch": 8,
+    "quality": -2.7548965662234535,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3710534555986898
+    },
+    "tie": "8a8f92e012cef9f94c3ad1a6782577bda320011ba6b4625027938110bba46239",
+    "ranks": {
+      "clearance": 1,
+      "view": 6,
+      "joint": 7,
+      "fit_clearance": 7,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B12P07",
+    "batch": 12,
+    "quality": -2.478058441049122,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.08779658422793474
+    },
+    "tie": "ec10ac9593dc8d523552505e9985b4f36a6550e839eb32982caeb00fddfe6d78",
+    "ranks": {
+      "clearance": 2,
+      "view": 8,
+      "joint": 10,
+      "fit_clearance": 8,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B13P06",
+    "batch": 13,
+    "quality": -2.5205447143163737,
+    "scores": {
+      "clearance": -0.25,
+      "view": 8.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.08270768554373509
+    },
+    "tie": "451fb48c0e65a67aeb3e7e334caa06784263ccd09e7ea8adb6fadbce791fcc8e",
+    "ranks": {
+      "clearance": 1,
+      "view": 9,
+      "joint": 10,
+      "fit_clearance": 7,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B13P08",
+    "batch": 13,
+    "quality": -2.555812949784373,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.22311391928793564
+    },
+    "tie": "b45c91cb28018061736daf21fa7e74f0a94599f926cc0f805b29b4fe785a9407",
+    "ranks": {
+      "clearance": 2,
+      "view": 5,
+      "joint": 9,
+      "fit_clearance": 8,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B14P09",
+    "batch": 14,
+    "quality": -2.884857172548075,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6523047814639445
+    },
+    "tie": "1a980cb041aab567844a50bc0c61381a499f5805dacea36274417911f7c04f48",
+    "ranks": {
+      "clearance": 1,
+      "view": 1,
+      "joint": 2,
+      "fit_clearance": 7,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B19P06",
+    "batch": 19,
+    "quality": -2.855190236713091,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6289414418324241
+    },
+    "tie": "36cd2a93ddeac8399fad7086fd14296105a87ab65d2af4d8ec03cbe7103f053c",
+    "ranks": {
+      "clearance": 1,
+      "view": 1,
+      "joint": 3,
+      "fit_clearance": 7,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B20P09",
+    "batch": 20,
+    "quality": -2.852168023010603,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5483327132381257
+    },
+    "tie": "88c96c04179017e8110021dd8cc8094c73b84396ceb66be4fb21c5f66618c33c",
+    "ranks": {
+      "clearance": 2,
+      "view": 3,
+      "joint": 4,
+      "fit_clearance": 8,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B21P00",
+    "batch": 21,
+    "quality": -2.68721004262581,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.42155319145353093
+    },
+    "tie": "13876e84c977183667e3430f737296e6b773d9f96c0eef2ba110daf189885616",
+    "ranks": {
+      "clearance": 1,
+      "view": 3,
+      "joint": 6,
+      "fit_clearance": 7,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B21P07",
+    "batch": 21,
+    "quality": -2.8386166070332752,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5379176849193859
+    },
+    "tie": "96a7c75d60c5fa03623772854297c208bd23f6f50c30d16c1221628eeb31d668",
+    "ranks": {
+      "clearance": 2,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 8,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B22P08",
+    "batch": 22,
+    "quality": -2.431547553044018,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.05419570082398753
+    },
+    "tie": "8399952c5ee6ef93969a2488f5ba0becf2ab59f3ebb4316c865d6b48bc534206",
+    "ranks": {
+      "clearance": 1,
+      "view": 7,
+      "joint": 9,
+      "fit_clearance": 7,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B25P04",
+    "batch": 25,
+    "quality": -2.493942567414454,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.09927176135025759
+    },
+    "tie": "626e972e581fd76e02a422c8558414b0c5c43df431a803b05b97fd66f661a0ed",
+    "ranks": {
+      "clearance": 1,
+      "view": 7,
+      "joint": 10,
+      "fit_clearance": 7,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B27P01",
+    "batch": 27,
+    "quality": -2.78628403051048,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.31046814647519705
+    },
+    "tie": "81544dc66f7710fbca60388477a2bb4b5544fce255f33fc34c8b33298398808e",
+    "ranks": {
+      "clearance": 2,
+      "view": 8,
+      "joint": 7,
+      "fit_clearance": 8,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B27P03",
+    "batch": 27,
+    "quality": -2.603121121666611,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.17814567730807923
+    },
+    "tie": "5a6ab82b5c08f75365b0e42105d28af6154d666352a9e521f209aa15376e8e41",
+    "ranks": {
+      "clearance": 1,
+      "view": 7,
+      "joint": 9,
+      "fit_clearance": 7,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B28P05",
+    "batch": 28,
+    "quality": -2.87314793521747,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6430835093345052
+    },
+    "tie": "6e025adcacdbf60a0f22e513f04a32bde3fdf89eec218722ebbd0645b4682e56",
+    "ranks": {
+      "clearance": 2,
+      "view": 1,
+      "joint": 1,
+      "fit_clearance": 8,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B29P09",
+    "batch": 29,
+    "quality": -2.668457048987906,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3068200328415468
+    },
+    "tie": "060c539f9f73e9adea66bda3bf9fc3785086b410a9a34d060fb93a74a67fa049",
+    "ranks": {
+      "clearance": 1,
+      "view": 5,
+      "joint": 8,
+      "fit_clearance": 7,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B01P07",
+    "batch": 1,
+    "quality": -2.530599043283626,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": -0.010213627432256511
+    },
+    "tie": "7b0c99dcd4f614b17525298e9a06489704ac60208e17356cc0ee6aec831f76d2",
+    "ranks": {
+      "clearance": 10,
+      "view": 10,
+      "joint": 10,
+      "fit_clearance": 10,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B03P04",
+    "batch": 3,
+    "quality": -2.5465523357424393,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.059808475326443816
+    },
+    "tie": "5bc5757c788981809ea52568d3f552b0486591b55842971e51dc1501f1dcfe65",
+    "ranks": {
+      "clearance": 9,
+      "view": 7,
+      "joint": 10,
+      "fit_clearance": 9,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B04P02",
+    "batch": 4,
+    "quality": -2.686754756050815,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.29251777624326747
+    },
+    "tie": "efa81075396c4e3aea615a5943c69b523698267229c418cf4dd2432a2ebe55bc",
+    "ranks": {
+      "clearance": 10,
+      "view": 6,
+      "joint": 7,
+      "fit_clearance": 10,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B05P02",
+    "batch": 5,
+    "quality": -2.6179673209116783,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.24140166010819658
+    },
+    "tie": "c17b0acb29dfce269606c213c79e2242bccb13b6e3daeee54df79c9b1514ce17",
+    "ranks": {
+      "clearance": 10,
+      "view": 6,
+      "joint": 8,
+      "fit_clearance": 10,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B06P09",
+    "batch": 6,
+    "quality": -2.5411337969672294,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.05589395772820713
+    },
+    "tie": "2884dd6a30f5daf04ccf8bc1de4e0fe170fd3561615ed196398b1f88717e4592",
+    "ranks": {
+      "clearance": 9,
+      "view": 7,
+      "joint": 10,
+      "fit_clearance": 9,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B07P00",
+    "batch": 7,
+    "quality": -2.599357704470406,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.09795668349516617
+    },
+    "tie": "5240a61d2b86fafcef29a1d15c019af969f648c4209d63ea00006bd95f02abea",
+    "ranks": {
+      "clearance": 10,
+      "view": 8,
+      "joint": 10,
+      "fit_clearance": 10,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B08P00",
+    "batch": 8,
+    "quality": -2.685124155519929,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.453088475504391
+    },
+    "tie": "38bb580b9d142c34c03640786aa553a01d18e6992480d38aada1758be24f1b4a",
+    "ranks": {
+      "clearance": 10,
+      "view": 3,
+      "joint": 5,
+      "fit_clearance": 10,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B09P02",
+    "batch": 9,
+    "quality": -2.6125528100677684,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.397313299000486
+    },
+    "tie": "84e5b2b5a148ac556e56364b788bc47facf93b0658ea40cfc906a2d5fba73db2",
+    "ranks": {
+      "clearance": 10,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 10,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B10P06",
+    "batch": 10,
+    "quality": -2.616635292563022,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.051130008745903066
+    },
+    "tie": "5052dd2f02489429df48cb071d1bd5e5bd7ea8e5326218c8b978273630fb912e",
+    "ranks": {
+      "clearance": 10,
+      "view": 9,
+      "joint": 10,
+      "fit_clearance": 10,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B10P08",
+    "batch": 10,
+    "quality": -2.542730668179593,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.057047586173483544
+    },
+    "tie": "23e0281071e2e6c6f08edcdf272bc145afa832a4da89b29c7f8afb59b091ea1d",
+    "ranks": {
+      "clearance": 9,
+      "view": 7,
+      "joint": 9,
+      "fit_clearance": 9,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B12P00",
+    "batch": 12,
+    "quality": -2.699726054019809,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3021567804024512
+    },
+    "tie": "08c5190b349c3c83dbba27334ed7f6bcfc8117680459529124c77334ffc052eb",
+    "ranks": {
+      "clearance": 9,
+      "view": 5,
+      "joint": 7,
+      "fit_clearance": 9,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B13P00",
+    "batch": 13,
+    "quality": -2.718692997572562,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.47888802598608304
+    },
+    "tie": "591d1eddb23030a489b1ddf60c972e58ff0b4bcfd0d59d06e77b77af4618e539",
+    "ranks": {
+      "clearance": 9,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 9,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B13P07",
+    "batch": 13,
+    "quality": -2.6372789864880812,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.2557522073901003
+    },
+    "tie": "dd3af5e44d20853bb195a662b991f6ed183ee492858c2ac386ac41d8e8e68d84",
+    "ranks": {
+      "clearance": 10,
+      "view": 6,
+      "joint": 8,
+      "fit_clearance": 10,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B14P00",
+    "batch": 14,
+    "quality": -2.7370790909230713,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6145415438285471
+    },
+    "tie": "1b04cdd5c046d7728c536e4bb9f283c1c36747487cd673df351ea2ef4a9d43d3",
+    "ranks": {
+      "clearance": 9,
+      "view": 2,
+      "joint": 4,
+      "fit_clearance": 9,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B15P07",
+    "batch": 15,
+    "quality": -2.66429194504211,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.5572201264942843
+    },
+    "tie": "0d74f1cc0d1274bd6754ad6480166cc598ebd1f27739aaed810c9031aba92d86",
+    "ranks": {
+      "clearance": 9,
+      "view": 1,
+      "joint": 5,
+      "fit_clearance": 9,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B16P06",
+    "batch": 16,
+    "quality": -2.6910266541899515,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.29569223449942444
+    },
+    "tie": "31f7219b2f8521fba60f3d5c28294be2d0c496af4b899291a79de189e4718b83",
+    "ranks": {
+      "clearance": 10,
+      "view": 5,
+      "joint": 8,
+      "fit_clearance": 10,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B18P06",
+    "batch": 18,
+    "quality": -2.5999142747486967,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.09835876683154327
+    },
+    "tie": "9734e105a1168f5c76f66f12e64c6f5b318a966448c7c8cd8d9111f84f62692f",
+    "ranks": {
+      "clearance": 9,
+      "view": 8,
+      "joint": 10,
+      "fit_clearance": 9,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B19P08",
+    "batch": 19,
+    "quality": -2.596210102841657,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.3847530057551461
+    },
+    "tie": "777d5a5644a5b3c3cc7fb6afd2c1ea9a0cf18804a7863feec1f961b95770e72f",
+    "ranks": {
+      "clearance": 9,
+      "view": 4,
+      "joint": 6,
+      "fit_clearance": 9,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B20P01",
+    "batch": 20,
+    "quality": -2.5810287736611714,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.08471530511140973
+    },
+    "tie": "5ddfdde77c6d22175b609a44b196a941329eed1131cec78d19d15b3058a63ab6",
+    "ranks": {
+      "clearance": 9,
+      "view": 8,
+      "joint": 10,
+      "fit_clearance": 9,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B21P04",
+    "batch": 21,
+    "quality": -2.5808924755893803,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.08461683922922889
+    },
+    "tie": "4507f8e62747b2ccf1aa4dfc6a6014da27f58c2496bf3a66d0a9c6717a1a3d2a",
+    "ranks": {
+      "clearance": 9,
+      "view": 7,
+      "joint": 9,
+      "fit_clearance": 9,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B22P04",
+    "batch": 22,
+    "quality": -2.496813157617927,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": -0.03430288161979195
+    },
+    "tie": "ab159d30dd59b4bac40ad286aa0a599383f86950c14ee4ad40ae4608168307ec",
+    "ranks": {
+      "clearance": 9,
+      "view": 9,
+      "joint": 10,
+      "fit_clearance": 9,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B23P03",
+    "batch": 23,
+    "quality": -2.588701662801526,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.21965427592819387
+    },
+    "tie": "a3ead9160162100aa95d25919f48c71e9a2c25c993caac5e4bd5f6ed03eccc64",
+    "ranks": {
+      "clearance": 10,
+      "view": 6,
+      "joint": 8,
+      "fit_clearance": 10,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B26P09",
+    "batch": 26,
+    "quality": -2.4455877940936577,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": -0.013131387518174165
+    },
+    "tie": "2fe14db2f592ee56b7515248013b4573f7a6e531d1061acb22559c1c7abb2308",
+    "ranks": {
+      "clearance": 9,
+      "view": 7,
+      "joint": 10,
+      "fit_clearance": 9,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B28P03",
+    "batch": 28,
+    "quality": -2.671906349372368,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.5632166310018295
+    },
+    "tie": "7bb3c63f3364fbb2a33407d37df4a2f7f04f2a5cf7456d64fdca7fbb1f30fcd7",
+    "ranks": {
+      "clearance": 9,
+      "view": 2,
+      "joint": 5,
+      "fit_clearance": 9,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B29P00",
+    "batch": 29,
+    "quality": -2.6080437732401647,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.39384784960919716
+    },
+    "tie": "4aa7b537799c93e0731a61ec2bf6f75769cc65734891a8e8df95a9a5b448f331",
+    "ranks": {
+      "clearance": 9,
+      "view": 3,
+      "joint": 5,
+      "fit_clearance": 9,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B29P04",
+    "batch": 29,
+    "quality": -2.5791776255741112,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.08337797930008736
+    },
+    "tie": "b616ad2feb55c3805414f09493d28cf9fee2c083ff5ee59f646ca8e3a428288f",
+    "ranks": {
+      "clearance": 10,
+      "view": 8,
+      "joint": 10,
+      "fit_clearance": 10,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B00P00",
+    "batch": 0,
+    "quality": -2.677637355220239,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.36242826143508644
+    },
+    "tie": "ef0583ed5836cac59bfc17a9e7b675b49b96f52e6085196169d0d309563ab87c",
+    "ranks": {
+      "clearance": 7,
+      "view": 6,
+      "joint": 7,
+      "fit_clearance": 5,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B01P02",
+    "batch": 1,
+    "quality": -2.6487998614489694,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.48659741955286895
+    },
+    "tie": "82ab5fc82e0fb1e00acaf51ec9e5a2eac6f520f4ab967014a06c6f4ccf342b35",
+    "ranks": {
+      "clearance": 8,
+      "view": 3,
+      "joint": 4,
+      "fit_clearance": 6,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B02P02",
+    "batch": 2,
+    "quality": -2.654329071142777,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3451078168887409
+    },
+    "tie": "3e4d7909c1b72b879faf701d496247c04f71dd6c913a8e7e7b2c62ad0d717ecd",
+    "ranks": {
+      "clearance": 7,
+      "view": 5,
+      "joint": 5,
+      "fit_clearance": 5,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B05P03",
+    "batch": 5,
+    "quality": -2.671631931109251,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5041451542313053
+    },
+    "tie": "42f0468d1aa8a828a686cb32c3b331dae948d906f1a9cbac35dd09dea97dd1d2",
+    "ranks": {
+      "clearance": 7,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 5,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B07P02",
+    "batch": 7,
+    "quality": -2.7315797587854744,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6602677378781187
+    },
+    "tie": "d55b4e1600e2bdd61838917ce4c5e959897fe2e35c8045fc68afa9c711e351a1",
+    "ranks": {
+      "clearance": 8,
+      "view": 2,
+      "joint": 3,
+      "fit_clearance": 6,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B10P07",
+    "batch": 10,
+    "quality": -2.617571212900514,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.14653064042789501
+    },
+    "tie": "8d00e6ee0ac9899633df41182add10348f5e6fe6ac04bea7f20a883ffdaa699c",
+    "ranks": {
+      "clearance": 7,
+      "view": 10,
+      "joint": 8,
+      "fit_clearance": 5,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B12P05",
+    "batch": 12,
+    "quality": -2.6932141651094303,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6300540211598141
+    },
+    "tie": "dc56e38b12f2a95dab53c33aa2e73c13444362bb748f03ed771843bf79f9d6b7",
+    "ranks": {
+      "clearance": 8,
+      "view": 2,
+      "joint": 3,
+      "fit_clearance": 6,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B14P01",
+    "batch": 14,
+    "quality": -2.6083592339756385,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.31094751522037944
+    },
+    "tie": "ac85bf79147b39ed7700adba243e9b3225d086f6530c76aab1a71ba8de33f052",
+    "ranks": {
+      "clearance": 8,
+      "view": 6,
+      "joint": 8,
+      "fit_clearance": 6,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B16P04",
+    "batch": 16,
+    "quality": -2.527377350801057,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.13503424477125245
+    },
+    "tie": "868760c2b08e0090262d6e6c6742b048240bca8be9ec50921ae6b1e580358f56",
+    "ranks": {
+      "clearance": 8,
+      "view": 7,
+      "joint": 9,
+      "fit_clearance": 6,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B18P04",
+    "batch": 18,
+    "quality": -2.523900466158036,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.24818599233967992
+    },
+    "tie": "70f9352763c81474d3e16065c0822a25902ddeea7d274bd63f2b523356b99d40",
+    "ranks": {
+      "clearance": 7,
+      "view": 6,
+      "joint": 7,
+      "fit_clearance": 5,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B20P07",
+    "batch": 20,
+    "quality": -2.689444616827159,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.1977762023659129
+    },
+    "tie": "74063b820e7201b1e0f9a6921a0bcf89eff5be8f46b6d77392348015a1c3c3f8",
+    "ranks": {
+      "clearance": 8,
+      "view": 9,
+      "joint": 9,
+      "fit_clearance": 6,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B23P05",
+    "batch": 23,
+    "quality": -2.399941357341062,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": -0.008638916506074845
+    },
+    "tie": "d5466227def1f2ef6b10a9300e3b42e02bf089a939aa713628bd9412a609976c",
+    "ranks": {
+      "clearance": 8,
+      "view": 10,
+      "joint": 10,
+      "fit_clearance": 6,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B25P09",
+    "batch": 25,
+    "quality": -2.658933719498386,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.4943858616418243
+    },
+    "tie": "155ce830dda569bba4c94605330f741d5f6e74ca088c3d6086f5ea756e6e1e6c",
+    "ranks": {
+      "clearance": 7,
+      "view": 3,
+      "joint": 4,
+      "fit_clearance": 5,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B27P04",
+    "batch": 27,
+    "quality": -2.421986230478294,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.007079024346187512
+    },
+    "tie": "984c2ecca7958bdbc64752bd38fc264a913d301a295279804c4e5e499931c4cd",
+    "ranks": {
+      "clearance": 8,
+      "view": 9,
+      "joint": 10,
+      "fit_clearance": 6,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B28P09",
+    "batch": 28,
+    "quality": -2.607303241016752,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.31016280419553766
+    },
+    "tie": "b53efc6866070260b1656960bfdb64a0438edd62f05b95ef13c5c2cb7fe2de3d",
+    "ranks": {
+      "clearance": 7,
+      "view": 6,
+      "joint": 7,
+      "fit_clearance": 5,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B00P05",
+    "batch": 0,
+    "quality": -2.6269267128831877,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.20146053422211788
+    },
+    "tie": "24f8727bfcf7e07bd22b2d46be4834e51064c04bd9096e4f46af8c7fc50a19cb",
+    "ranks": {
+      "clearance": 6,
+      "view": 9,
+      "joint": 9,
+      "fit_clearance": 2,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B03P02",
+    "batch": 3,
+    "quality": -2.6392169809288824,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.21022346540335551
+    },
+    "tie": "72ad8db26e8d8d15f313ba02b8a6d13347762d9be21c8fa8014add85e87ac0d2",
+    "ranks": {
+      "clearance": 6,
+      "view": 10,
+      "joint": 7,
+      "fit_clearance": 2,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B06P02",
+    "batch": 6,
+    "quality": -2.6830149611373306,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6256050890375693
+    },
+    "tie": "d0df832aac5965c2488a779084547ef8539595a9ae9205af13e2bc84aa6bc758",
+    "ranks": {
+      "clearance": 6,
+      "view": 2,
+      "joint": 3,
+      "fit_clearance": 2,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B12P09",
+    "batch": 12,
+    "quality": -2.6237057005865716,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.19916396030003367
+    },
+    "tie": "fef86532fa576712abf8fc2fea82aa311da31a9ab760d1f71c1eebce9e52ff2c",
+    "ranks": {
+      "clearance": 6,
+      "view": 10,
+      "joint": 9,
+      "fit_clearance": 2,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B13P02",
+    "batch": 13,
+    "quality": -2.656520459792528,
+    "scores": {
+      "clearance": -1.0,
+      "view": 14.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.27093564916156254
+    },
+    "tie": "b6d0e0fc9a7b25f91d925d508f7c91e519e149ddc581c841714a2bcce02255fa",
+    "ranks": {
+      "clearance": 5,
+      "view": 7,
+      "joint": 7,
+      "fit_clearance": 1,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B15P01",
+    "batch": 15,
+    "quality": -2.4398176703758647,
+    "scores": {
+      "clearance": -1.0,
+      "view": 14.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.11438294778763128
+    },
+    "tie": "8a8a9f902731e17f5cac8f161f5a2658e51122e19268ffc6185947d7f998a6f8",
+    "ranks": {
+      "clearance": 5,
+      "view": 8,
+      "joint": 10,
+      "fit_clearance": 1,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B15P05",
+    "batch": 15,
+    "quality": -2.7072661773693865,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.41465728474925956
+    },
+    "tie": "93c9bcec62bfaeea5b1fbfa7b70e45b18cc77bf5ab3da45925542b79389d0660",
+    "ranks": {
+      "clearance": 6,
+      "view": 6,
+      "joint": 6,
+      "fit_clearance": 2,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B17P07",
+    "batch": 17,
+    "quality": -2.4375238011925715,
+    "scores": {
+      "clearance": -1.0,
+      "view": 14.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.11272578675980302
+    },
+    "tie": "cd63ea45b377213dbe828b9ef0c4d02d7d6deade6efe66757854e1759b1372d1",
+    "ranks": {
+      "clearance": 6,
+      "view": 7,
+      "joint": 8,
+      "fit_clearance": 2,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B19P00",
+    "batch": 19,
+    "quality": -2.6562403459778334,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.37673986105082585
+    },
+    "tie": "44f9b805595d38bbc9a0c6507ba532f429f95a9e9773b9ba156ca10e0b9c938a",
+    "ranks": {
+      "clearance": 5,
+      "view": 5,
+      "joint": 7,
+      "fit_clearance": 1,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B20P03",
+    "batch": 20,
+    "quality": -2.6558907295416065,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3764800601973596
+    },
+    "tie": "58325b05c6be2c11493044419e0eface5cd536c157bf8abd8aabb861221679d5",
+    "ranks": {
+      "clearance": 5,
+      "view": 6,
+      "joint": 8,
+      "fit_clearance": 1,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B21P02",
+    "batch": 21,
+    "quality": -2.6766187719748005,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6205679547483104
+    },
+    "tie": "ced32ec62eb3baf432a790a7f08b344173d1f827a2fa0b55cda7f8587a61102a",
+    "ranks": {
+      "clearance": 6,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 2,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B21P06",
+    "batch": 21,
+    "quality": -2.6835959015527937,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6260625919056657
+    },
+    "tie": "86da71a4e120c4a90c4428e9b213d908c8ea7dfc4249d9ea0da14b11420eb9f7",
+    "ranks": {
+      "clearance": 5,
+      "view": 1,
+      "joint": 1,
+      "fit_clearance": 1,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B22P01",
+    "batch": 22,
+    "quality": -2.6237850585297644,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.352622255284061
+    },
+    "tie": "9d67f5ce5ea492f678f5892bc8769d4ca5be6f6dd7912699f8da819a43bac3b3",
+    "ranks": {
+      "clearance": 5,
+      "view": 6,
+      "joint": 5,
+      "fit_clearance": 1,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B23P08",
+    "batch": 23,
+    "quality": -2.7667528897407534,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6915504794507823
+    },
+    "tie": "0c6c7fc0cae6ea49e865fa24083c8bee7d80677af3f3b4d72d583dbc1576870e",
+    "ranks": {
+      "clearance": 5,
+      "view": 1,
+      "joint": 3,
+      "fit_clearance": 1,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B24P05",
+    "batch": 24,
+    "quality": -2.50037989631634,
+    "scores": {
+      "clearance": -1.0,
+      "view": 14.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.15813494607857123
+    },
+    "tie": "f5b75018a8cebe2d127355919976c0e3443b3591a0958acab3b26d509bc407fb",
+    "ranks": {
+      "clearance": 6,
+      "view": 8,
+      "joint": 9,
+      "fit_clearance": 2,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B24P06",
+    "batch": 24,
+    "quality": -2.7760620797316897,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6988816635225839
+    },
+    "tie": "185b2d92c7ccedbddbf85fc701d3de6f964e2d02085abfffc15b19e4fceb3275",
+    "ranks": {
+      "clearance": 5,
+      "view": 1,
+      "joint": 1,
+      "fit_clearance": 1,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B25P08",
+    "batch": 25,
+    "quality": -2.6610971649897404,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.38034897547931845
+    },
+    "tie": "531dac6e178b606778ecf25a5e16058099de91cb2b0192b3279ea2838ffefda9",
+    "ranks": {
+      "clearance": 6,
+      "view": 5,
+      "joint": 6,
+      "fit_clearance": 2,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B26P01",
+    "batch": 26,
+    "quality": -2.5194625508725466,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.12483884845843712
+    },
+    "tie": "514ab55ab2fb4369ded7636b15d3ed134861c0a6580b81be834ae7f51064948b",
+    "ranks": {
+      "clearance": 5,
+      "view": 10,
+      "joint": 9,
+      "fit_clearance": 1,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B26P07",
+    "batch": 26,
+    "quality": -2.662810909648544,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6096939710343203
+    },
+    "tie": "6cfef851067f66e63d15aede0a8e2ffca017ab94d4f84780515367aa43a82713",
+    "ranks": {
+      "clearance": 6,
+      "view": 1,
+      "joint": 3,
+      "fit_clearance": 2,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B27P06",
+    "batch": 27,
+    "quality": -2.7010845964746744,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.2543349245968724
+    },
+    "tie": "cfc43817ec577b2c7db6f4bc62ea67a25ff4e117b4b892827cb926f878b59efc",
+    "ranks": {
+      "clearance": 6,
+      "view": 10,
+      "joint": 8,
+      "fit_clearance": 2,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B28P02",
+    "batch": 28,
+    "quality": -2.5219256017541283,
+    "scores": {
+      "clearance": -1.0,
+      "view": 14.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.1737002205190736
+    },
+    "tie": "2873588e32f2618f110c7f8522c1ae68f5d27fc76e892f12589001c2bd23fea1",
+    "ranks": {
+      "clearance": 5,
+      "view": 7,
+      "joint": 9,
+      "fit_clearance": 1,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B29P08",
+    "batch": 29,
+    "quality": -2.756510671540289,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6834845159239591
+    },
+    "tie": "ba22dc6312cca24ab667ab99e37217c337a2d3973009672969b49716933d5cb8",
+    "ranks": {
+      "clearance": 6,
+      "view": 2,
+      "joint": 1,
+      "fit_clearance": 2,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B02P07",
+    "batch": 2,
+    "quality": -2.659468943312838,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.4782280083304898
+    },
+    "tie": "5362d08b7d7e00ea0bde76cdfad6c30447a12817271ae7fb557452e0ea8b1f55",
+    "ranks": {
+      "clearance": 4,
+      "view": 4,
+      "joint": 3,
+      "fit_clearance": 4,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B04P00",
+    "batch": 4,
+    "quality": -2.5233094132261784,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.12936721937325674
+    },
+    "tie": "1a4ff9ab4cba92d9ce7dfab922341325128b7295a978b71afe325987efa48b79",
+    "ranks": {
+      "clearance": 3,
+      "view": 9,
+      "joint": 9,
+      "fit_clearance": 3,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B05P01",
+    "batch": 5,
+    "quality": -2.4346143044126194,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.10675448537993854
+    },
+    "tie": "e6d7603227abc98f828f7f284a76ba294d885308cd5e95cb13ba4fa0b27c04f4",
+    "ranks": {
+      "clearance": 4,
+      "view": 8,
+      "joint": 9,
+      "fit_clearance": 4,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B08P05",
+    "batch": 8,
+    "quality": -2.6852116451772137,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3820063997393086
+    },
+    "tie": "395b6a5ce44ac93aeb024e3d8ad82706f6c8c117492fd9dba6ca8d91e785cb97",
+    "ranks": {
+      "clearance": 4,
+      "view": 5,
+      "joint": 6,
+      "fit_clearance": 4,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B09P07",
+    "batch": 9,
+    "quality": -2.6627383389902093,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3653064293643361
+    },
+    "tie": "8fbe08c586e291bb1777b7103f5343500e6f900a0d5ec105ba59cfc11bf9040a",
+    "ranks": {
+      "clearance": 4,
+      "view": 6,
+      "joint": 5,
+      "fit_clearance": 4,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B09P08",
+    "batch": 9,
+    "quality": -2.6750774402403024,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.49022401950633143
+    },
+    "tie": "3dc1baa2c044f8528f312cb27cc06afdfc7114a47fd745fb4f781726ddd6b0d2",
+    "ranks": {
+      "clearance": 3,
+      "view": 3,
+      "joint": 3,
+      "fit_clearance": 3,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B11P06",
+    "batch": 11,
+    "quality": -2.556799637239381,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.19502489469859008
+    },
+    "tie": "797d6b2f6c7083ef822a1e2b3c1ce078d013807ebb6765001bca868cab643073",
+    "ranks": {
+      "clearance": 4,
+      "view": 8,
+      "joint": 10,
+      "fit_clearance": 4,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B11P09",
+    "batch": 11,
+    "quality": -2.6789971452575903,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.37738838921209056
+    },
+    "tie": "6613be5e29797a41dd91b17c4d94967c7401fdb110610ee94b277c3e7fa4a094",
+    "ranks": {
+      "clearance": 3,
+      "view": 5,
+      "joint": 5,
+      "fit_clearance": 3,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B14P03",
+    "batch": 14,
+    "quality": -2.671082201953308,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.48715345330359844
+    },
+    "tie": "653211f8f03ea15873449f62d1825f1f7736aedf06e14838d84f76c4d7dccd2a",
+    "ranks": {
+      "clearance": 3,
+      "view": 3,
+      "joint": 6,
+      "fit_clearance": 3,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B17P02",
+    "batch": 17,
+    "quality": -2.714366351665901,
+    "scores": {
+      "clearance": -0.5,
+      "view": 45.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6074042515006245
+    },
+    "tie": "5f1fa8c70374248579ad5307c9a324db1946c03037eb2b5f54fc26ff10ced42b",
+    "ranks": {
+      "clearance": 3,
+      "view": 1,
+      "joint": 4,
+      "fit_clearance": 3,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B18P00",
+    "batch": 18,
+    "quality": -2.6991542123127075,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5087283782668828
+    },
+    "tie": "b6ccd8f086742528f2b55c2650295d8451dad42c94b241a2efcff22f00b66aa7",
+    "ranks": {
+      "clearance": 4,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 4,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B20P06",
+    "batch": 20,
+    "quality": -2.75513059714066,
+    "scores": {
+      "clearance": -0.5,
+      "view": 45.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6395069572585401
+    },
+    "tie": "010064cab2adfc33e9c98be609f8aab02b039edda39e1b016b7e7e2da072b03b",
+    "ranks": {
+      "clearance": 3,
+      "view": 1,
+      "joint": 3,
+      "fit_clearance": 3,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B21P08",
+    "batch": 21,
+    "quality": -2.4004376211743796,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.04175993091851582
+    },
+    "tie": "395e94d570b21a5ffb32fb8a3c22f459b525b3389311060964130f7a259c7759",
+    "ranks": {
+      "clearance": 3,
+      "view": 10,
+      "joint": 10,
+      "fit_clearance": 3,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B22P02",
+    "batch": 22,
+    "quality": -2.4239716582142457,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.0585396420062074
+    },
+    "tie": "db0f49eb1354aab2de42557a9e3de243d696a9f9e8ff062d5693c04f86fddabd",
+    "ranks": {
+      "clearance": 4,
+      "view": 10,
+      "joint": 8,
+      "fit_clearance": 4,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B26P04",
+    "batch": 26,
+    "quality": -2.6857487091288315,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.24518604169929123
+    },
+    "tie": "46ec18c767cbefdc8606a323f2048ef7946b0161325b4289cd4c3fef5a0c044e",
+    "ranks": {
+      "clearance": 3,
+      "view": 9,
+      "joint": 8,
+      "fit_clearance": 3,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B27P00",
+    "batch": 27,
+    "quality": -2.6370846919613573,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.4610244473070881
+    },
+    "tie": "2a182d21de768fc18bfcc11de4ee82902b8de6890f837d3bb3bb2ded5fc32609",
+    "ranks": {
+      "clearance": 3,
+      "view": 3,
+      "joint": 5,
+      "fit_clearance": 3,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B00P01",
+    "batch": 0,
+    "quality": -2.798332778967515,
+    "scores": {
+      "clearance": -0.25,
+      "view": 8.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.2807698990330394
+    },
+    "tie": "96f6d829fbfdc645b9b3cf6fdd9e9ad4fab33e9a9400803a0f666b6419c4b755",
+    "ranks": {
+      "clearance": 1,
+      "view": 10,
+      "joint": 8,
+      "fit_clearance": 7,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B01P03",
+    "batch": 1,
+    "quality": -2.689630460631432,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.49855961543048866
+    },
+    "tie": "a883da81344c3cc63c065fca333d2856fa93da20ff1e86f7a789cd2eb7671601",
+    "ranks": {
+      "clearance": 2,
+      "view": 2,
+      "joint": 3,
+      "fit_clearance": 8,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B02P01",
+    "batch": 2,
+    "quality": -2.709678579818449,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.43882153090481085
+    },
+    "tie": "4fb56905eaee73175fbf1c2cdd9bf3f01c3d3905ef71d5473f22f290d8e77b5e",
+    "ranks": {
+      "clearance": 2,
+      "view": 3,
+      "joint": 4,
+      "fit_clearance": 8,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B03P00",
+    "batch": 3,
+    "quality": -2.6368803611340312,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.28335531664396313
+    },
+    "tie": "6731b9013fc11761efc4da1275925974597dce482f49c76a3f9a641f8404fb6b",
+    "ranks": {
+      "clearance": 1,
+      "view": 5,
+      "joint": 6,
+      "fit_clearance": 7,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B04P05",
+    "batch": 4,
+    "quality": -2.717110721577331,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.5202009023235135
+    },
+    "tie": "8ec228c9e298409864dffc258c70fc59e8adb7193b8c7235c6e0db46f58688e6",
+    "ranks": {
+      "clearance": 2,
+      "view": 1,
+      "joint": 4,
+      "fit_clearance": 8,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B06P07",
+    "batch": 6,
+    "quality": -2.5019109246050037,
+    "scores": {
+      "clearance": -0.25,
+      "view": 8.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.06942183886575401
+    },
+    "tie": "c28058112e0d47666413356488cebe929c21a311c9c402de31c86f675394f909",
+    "ranks": {
+      "clearance": 2,
+      "view": 10,
+      "joint": 9,
+      "fit_clearance": 8,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B07P09",
+    "batch": 7,
+    "quality": -2.677527771871257,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.41411181969820404
+    },
+    "tie": "cdd5f7cb788fb6a6f8976cecdc88d2721c0e74e7192e0abf5326fe7acc979665",
+    "ranks": {
+      "clearance": 1,
+      "view": 3,
+      "joint": 5,
+      "fit_clearance": 7,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B08P09",
+    "batch": 8,
+    "quality": -2.7938907170079066,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.5035433131213098
+    },
+    "tie": "ce8c49d2a085de863728a21595bfd95e5e3d88b3265bce8c183ce3442becb4fb",
+    "ranks": {
+      "clearance": 2,
+      "view": 4,
+      "joint": 3,
+      "fit_clearance": 8,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B09P04",
+    "batch": 9,
+    "quality": -2.710809970414759,
+    "scores": {
+      "clearance": -0.25,
+      "view": 8.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.2183663497137786
+    },
+    "tie": "1be4190318e74e598bc6a82b14a841ccfc7246c3251ff59dbc24e47616987a79",
+    "ranks": {
+      "clearance": 1,
+      "view": 9,
+      "joint": 9,
+      "fit_clearance": 7,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B11P02",
+    "batch": 11,
+    "quality": -2.6889880941498787,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.3220767041616946
+    },
+    "tie": "b88bfd3d48c420c8d8ce3a65e6bc225558baca1372c0a321b12af41f80ec83bb",
+    "ranks": {
+      "clearance": 2,
+      "view": 6,
+      "joint": 6,
+      "fit_clearance": 8,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B16P03",
+    "batch": 16,
+    "quality": -2.662068054574756,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.4022301540691544
+    },
+    "tie": "fe43dc34af6cf1814325fe563953628a201d661065837f232dd248e3d243a690",
+    "ranks": {
+      "clearance": 2,
+      "view": 4,
+      "joint": 5,
+      "fit_clearance": 8,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B16P07",
+    "batch": 16,
+    "quality": -2.4331274000338894,
+    "scores": {
+      "clearance": -0.25,
+      "view": 8.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.020379353382226295
+    },
+    "tie": "6dc1b631d7a1b7a2ea57a92126b8656ed5098a84fa5fcaa2b8694faa09649ac6",
+    "ranks": {
+      "clearance": 1,
+      "view": 10,
+      "joint": 10,
+      "fit_clearance": 7,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B17P05",
+    "batch": 17,
+    "quality": -2.519959908650008,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.19647143420744506
+    },
+    "tie": "36e94e164086d6a6c3ac9706d84b408106bf3fa0ae03c9319dfb60c326c2a6d7",
+    "ranks": {
+      "clearance": 1,
+      "view": 5,
+      "joint": 7,
+      "fit_clearance": 7,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B18P09",
+    "batch": 18,
+    "quality": -2.6406624186795042,
+    "scores": {
+      "clearance": -0.25,
+      "view": 8.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.16835131618457272
+    },
+    "tie": "6640af04351a3a16c4400f0737a7283645a38dd3a2d1eff502db1f3c0c63c1c0",
+    "ranks": {
+      "clearance": 2,
+      "view": 9,
+      "joint": 9,
+      "fit_clearance": 8,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B19P05",
+    "batch": 19,
+    "quality": -2.6441592558810085,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.2077928765338216
+    },
+    "tie": "cd2f8c5ce2e2c5cddfbe63cf2d77119ee0b68b52133bfc9510b563f2e37c74f2",
+    "ranks": {
+      "clearance": 2,
+      "view": 8,
+      "joint": 9,
+      "fit_clearance": 8,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B22P09",
+    "batch": 22,
+    "quality": -2.5941486128892945,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.1716636634356627
+    },
+    "tie": "bce78e8f5e08b897465de377fc3ec6d858f62da9b86c080dcbe4ef7876cf3318",
+    "ranks": {
+      "clearance": 2,
+      "view": 8,
+      "joint": 7,
+      "fit_clearance": 8,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B24P03",
+    "batch": 24,
+    "quality": -2.616401550413705,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.2681374608688355
+    },
+    "tie": "59814d17a77d4facd3d6f28a958f33791b7822813e70e777001e8b9e35f9ac49",
+    "ranks": {
+      "clearance": 1,
+      "view": 5,
+      "joint": 8,
+      "fit_clearance": 7,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B25P06",
+    "batch": 25,
+    "quality": -2.647856725909633,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.4656619155328292
+    },
+    "tie": "6987a31577256f593cb5086909a1017f026b97f4da203b8d769cdfaa601f06c0",
+    "ranks": {
+      "clearance": 2,
+      "view": 2,
+      "joint": 5,
+      "fit_clearance": 8,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B29P07",
+    "batch": 29,
+    "quality": -2.713925138784448,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.5176921884769459
+    },
+    "tie": "a4814b7e509238a552be23488d16e15a5bd413967799af15985594c5b4fb068a",
+    "ranks": {
+      "clearance": 2,
+      "view": 1,
+      "joint": 3,
+      "fit_clearance": 8,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B01P05",
+    "batch": 1,
+    "quality": -2.85655035849255,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.28376049741506854
+    },
+    "tie": "5ecb00b2f2c651e000aa6e557a03a570ff8cb9ed87d8ebda6685f12b0c4fcbfc",
+    "ranks": {
+      "clearance": 9,
+      "view": 8,
+      "joint": 8,
+      "fit_clearance": 9,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B03P06",
+    "batch": 3,
+    "quality": -2.938897462195205,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7734777810637685
+    },
+    "tie": "92f277b67159c415445e8df7cd1e94dc8e4c5f126ead56d6011ca2c5cb7fcb53",
+    "ranks": {
+      "clearance": 10,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 10,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B04P03",
+    "batch": 4,
+    "quality": -2.978484468081689,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.3091275895365379
+    },
+    "tie": "c61fc87c657a80bfb069383cc0bb0e427edce0d1df3a791a9d3f4d5e8292dbb8",
+    "ranks": {
+      "clearance": 9,
+      "view": 10,
+      "joint": 6,
+      "fit_clearance": 9,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B06P03",
+    "batch": 6,
+    "quality": -3.133594538155596,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.7977632860984318
+    },
+    "tie": "e39a888df70f335a4b0d60ba7f121f0b003ab46374ccef59ce7f0ea4ae2e3b53",
+    "ranks": {
+      "clearance": 10,
+      "view": 4,
+      "joint": 1,
+      "fit_clearance": 10,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B11P05",
+    "batch": 11,
+    "quality": -2.794823560326746,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.23916717664595
+    },
+    "tie": "5b3ba239f4300720f5d3997ae90a364588b2c6e7442674f1a2b81d61dbc4e8e1",
+    "ranks": {
+      "clearance": 10,
+      "view": 7,
+      "joint": 9,
+      "fit_clearance": 10,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B11P07",
+    "batch": 11,
+    "quality": -2.931743005140328,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7678434947666611
+    },
+    "tie": "02ae84cfbc4c632a67d14066110e390e8fc03654294858d74f7acc6d499aa778",
+    "ranks": {
+      "clearance": 9,
+      "view": 1,
+      "joint": 2,
+      "fit_clearance": 9,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B12P02",
+    "batch": 12,
+    "quality": -3.2142200328550183,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.8597285310523002
+    },
+    "tie": "0c03e5d3d9cb9aea44abdd3e83bf7c0fcfbe1b880f748e11242d050f23bbbf59",
+    "ranks": {
+      "clearance": 10,
+      "view": 3,
+      "joint": 2,
+      "fit_clearance": 10,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B14P08",
+    "batch": 14,
+    "quality": -2.9180954255525204,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.632140050550253
+    },
+    "tie": "856900c2daab126f80967675e66e91b90f5fcbf6ff78427fb25098fd4f66be98",
+    "ranks": {
+      "clearance": 10,
+      "view": 4,
+      "joint": 3,
+      "fit_clearance": 10,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B17P08",
+    "batch": 17,
+    "quality": -3.0144622288505687,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.7062033799480645
+    },
+    "tie": "643d97aefc7f9b00d53977445a40e6be806339357bfbcda1088935b7a2384739",
+    "ranks": {
+      "clearance": 9,
+      "view": 4,
+      "joint": 3,
+      "fit_clearance": 9,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B21P05",
+    "batch": 21,
+    "quality": -2.8991403932971345,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.45034207768647094
+    },
+    "tie": "af4e2df39345c2b469added8cd742a70648fd9c022635ec6de050446d5822a33",
+    "ranks": {
+      "clearance": 10,
+      "view": 6,
+      "joint": 5,
+      "fit_clearance": 10,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B22P05",
+    "batch": 22,
+    "quality": -3.0402302693799474,
+    "scores": {
+      "clearance": -4.0,
+      "view": 38.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.7260075740102141
+    },
+    "tie": "b964f35a8b7abaa2440eba639bdc364dcb6bb220026e3d2d8a924c47caacc573",
+    "ranks": {
+      "clearance": 10,
+      "view": 4,
+      "joint": 4,
+      "fit_clearance": 10,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B23P02",
+    "batch": 23,
+    "quality": -3.058137502131406,
+    "scores": {
+      "clearance": -4.0,
+      "view": 45.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.8673818352674508
+    },
+    "tie": "5782dcef2808e5306c298f091c7df0fecbfd1155cdd89fc8a895a0f0c67a72e7",
+    "ranks": {
+      "clearance": 9,
+      "view": 2,
+      "joint": 1,
+      "fit_clearance": 9,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B25P02",
+    "batch": 25,
+    "quality": -2.70321331442028,
+    "scores": {
+      "clearance": -4.0,
+      "view": 14.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.17298514221624195
+    },
+    "tie": "66e8d88045d32f7ee92f650196817c5689453a948c95565b0fcf98432152c5c1",
+    "ranks": {
+      "clearance": 9,
+      "view": 8,
+      "joint": 9,
+      "fit_clearance": 9,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B27P05",
+    "batch": 27,
+    "quality": -2.8859357843492504,
+    "scores": {
+      "clearance": -4.0,
+      "view": 26.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.4405296995518163
+    },
+    "tie": "08bca8bab5aebf4b704ca143ffac2307f07f52b7d4cdf8c4705e3bd40bc09a31",
+    "ranks": {
+      "clearance": 9,
+      "view": 5,
+      "joint": 6,
+      "fit_clearance": 9,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B28P07",
+    "batch": 28,
+    "quality": -2.7324488430142275,
+    "scores": {
+      "clearance": -4.0,
+      "view": 8.0,
+      "fit_clearance": 0.18967377006051053,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.1337047881311439
+    },
+    "tie": "de19f670c9f6565c44cb34089fcff59996cea238df0110f4c69fb247b1d204b8",
+    "ranks": {
+      "clearance": 10,
+      "view": 10,
+      "joint": 10,
+      "fit_clearance": 10,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B00P07",
+    "batch": 0,
+    "quality": -3.112069623669372,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.8426463889604742
+    },
+    "tie": "f96e982498bf0ad83d3f2d51e5e930a90d4289751e25b173b07719b68ef014ce",
+    "ranks": {
+      "clearance": 8,
+      "view": 4,
+      "joint": 1,
+      "fit_clearance": 6,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B02P06",
+    "batch": 2,
+    "quality": -3.0557452053039325,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.9155548853590926
+    },
+    "tie": "8a523e90e708c096964b0bf7a71e3724542a1304fbcc2d3e5c5f6464115ba722",
+    "ranks": {
+      "clearance": 8,
+      "view": 1,
+      "joint": 1,
+      "fit_clearance": 6,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B03P05",
+    "batch": 3,
+    "quality": -3.023502180754088,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.7745773083843684
+    },
+    "tie": "1d3f5e9250df25aec8e7f9afc30e6b81f42352f86e931bd029550bc3bbdd0973",
+    "ranks": {
+      "clearance": 7,
+      "view": 3,
+      "joint": 1,
+      "fit_clearance": 5,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B04P09",
+    "batch": 4,
+    "quality": -2.9078343842241074,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.40988800415027504
+    },
+    "tie": "32d85e6d3e07e6992df6f23860db1c6d0882497fee9a7d5f383f3f6b087d0af9",
+    "ranks": {
+      "clearance": 7,
+      "view": 7,
+      "joint": 5,
+      "fit_clearance": 5,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B05P04",
+    "batch": 5,
+    "quality": -2.7863579022559897,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.2668751388254785
+    },
+    "tie": "632c0e105cdd82ac2d7c4db751922691eff912653d72faa63c02b4dce04362c5",
+    "ranks": {
+      "clearance": 8,
+      "view": 10,
+      "joint": 7,
+      "fit_clearance": 6,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B06P06",
+    "batch": 6,
+    "quality": -2.6706647049250867,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.23854939758134835
+    },
+    "tie": "7fd94ed5fc6ec25b68d961d9648d0cffab307760bee298c5b92695f89661faf8",
+    "ranks": {
+      "clearance": 8,
+      "view": 8,
+      "joint": 7,
+      "fit_clearance": 6,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B07P06",
+    "batch": 7,
+    "quality": -2.9834940865305595,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.4074327580496572
+    },
+    "tie": "8d674ac9cf90c62bf56a6cefe9440e9eff1c009dd47d5e52361e8523b33a9b04",
+    "ranks": {
+      "clearance": 7,
+      "view": 9,
+      "joint": 7,
+      "fit_clearance": 5,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B08P03",
+    "batch": 8,
+    "quality": -2.725774346072751,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.27836228239302563
+    },
+    "tie": "c2eb9577dcb379996c992cca59ede038f2e5fc93ea354a94bcd749055bec3ecf",
+    "ranks": {
+      "clearance": 7,
+      "view": 8,
+      "joint": 9,
+      "fit_clearance": 5,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B09P06",
+    "batch": 9,
+    "quality": -3.0015426259274056,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.8728692073395609
+    },
+    "tie": "33699eb988667a6fb03be43a9450b014a75da602f831e9c740117afd4047cd12",
+    "ranks": {
+      "clearance": 7,
+      "view": 1,
+      "joint": 1,
+      "fit_clearance": 5,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B10P09",
+    "batch": 10,
+    "quality": -3.1588514257199676,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.878600845230859
+    },
+    "tie": "ae30839f67cad068a18cc64101d68ae42c9a997a1f464367b5dedc9fa9e400dd",
+    "ranks": {
+      "clearance": 8,
+      "view": 4,
+      "joint": 1,
+      "fit_clearance": 6,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B11P08",
+    "batch": 11,
+    "quality": -3.267512956873847,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 1.0823264700772208
+    },
+    "tie": "2defcb406c74f901e4dd7c7d0bc9fef96a6c91b20c568b813fa76b0cc3d46fa1",
+    "ranks": {
+      "clearance": 8,
+      "view": 2,
+      "joint": 1,
+      "fit_clearance": 6,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B13P04",
+    "batch": 13,
+    "quality": -3.0505615855941595,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.7953739888323081
+    },
+    "tie": "1c81a97bcf74aa39ef546d8b0b8e8a70429604ad83218eac18387a09a0a8cef1",
+    "ranks": {
+      "clearance": 7,
+      "view": 3,
+      "joint": 2,
+      "fit_clearance": 5,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B13P05",
+    "batch": 13,
+    "quality": -2.826570175899411,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.35118026267407365
+    },
+    "tie": "e18527b22ea1e9a8c8230959f5ca094255a473093fc6350851f2aad1cca25dd7",
+    "ranks": {
+      "clearance": 8,
+      "view": 8,
+      "joint": 6,
+      "fit_clearance": 6,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B15P09",
+    "batch": 15,
+    "quality": -3.003121078452748,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.6042960351524164
+    },
+    "tie": "24bf3099d8969497540644eacbf305f63631a9607ca4a431e00169f13e9e5dd1",
+    "ranks": {
+      "clearance": 7,
+      "view": 5,
+      "joint": 3,
+      "fit_clearance": 5,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B16P09",
+    "batch": 16,
+    "quality": -2.942956390346048,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.37852947940755854
+    },
+    "tie": "21b77e02855727f1b04343bf7a29b4ef720e3dcff029b67f6c34cf828096b87b",
+    "ranks": {
+      "clearance": 7,
+      "view": 9,
+      "joint": 6,
+      "fit_clearance": 5,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B19P04",
+    "batch": 19,
+    "quality": -2.9723019935420703,
+    "scores": {
+      "clearance": -2.0,
+      "view": 38.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.7352270736465304
+    },
+    "tie": "63251cbb47dcf92212df946edd58cb3f8f1295a91996b1d61e088ce0bf5975e2",
+    "ranks": {
+      "clearance": 7,
+      "view": 3,
+      "joint": 2,
+      "fit_clearance": 5,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B21P09",
+    "batch": 21,
+    "quality": -2.876210195885874,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.3309396053308169
+    },
+    "tie": "2d3980344870563ffc60fa4041e2e9c40ecb2ba94347bf0a8945f4fb64278c97",
+    "ranks": {
+      "clearance": 7,
+      "view": 9,
+      "joint": 7,
+      "fit_clearance": 5,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B22P03",
+    "batch": 22,
+    "quality": -2.9106934479731157,
+    "scores": {
+      "clearance": -2.0,
+      "view": 45.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.8013235576102907
+    },
+    "tie": "ad006f0f5e2f3803bb0f8f27893422b38b56f78310671bf8d04b41f6916bd6ba",
+    "ranks": {
+      "clearance": 8,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 6,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B25P00",
+    "batch": 25,
+    "quality": -2.7470684301691497,
+    "scores": {
+      "clearance": -2.0,
+      "view": 8.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.23886184092472657
+    },
+    "tie": "6ff5c1e121b2d90363761766620253bbbcf29904de7263dcc954c38cb2366858",
+    "ranks": {
+      "clearance": 8,
+      "view": 9,
+      "joint": 7,
+      "fit_clearance": 6,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B28P00",
+    "batch": 28,
+    "quality": -2.724360125686972,
+    "scores": {
+      "clearance": -2.0,
+      "view": 14.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.27734060647308123
+    },
+    "tie": "c3493ef3092d242c5358daa51970228ee3d56f9c3af4a74b750f6508161c2de7",
+    "ranks": {
+      "clearance": 8,
+      "view": 8,
+      "joint": 8,
+      "fit_clearance": 6,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B29P06",
+    "batch": 29,
+    "quality": -3.017962980803684,
+    "scores": {
+      "clearance": -2.0,
+      "view": 26.0,
+      "fit_clearance": 0.2861615364377795,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.6153250901346421
+    },
+    "tie": "36178e9b7cdb9d1210671488596eb8081e11cfeb45af609cb5606676f927ba5a",
+    "ranks": {
+      "clearance": 7,
+      "view": 6,
+      "joint": 2,
+      "fit_clearance": 5,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B01P00",
+    "batch": 1,
+    "quality": -2.847524299036813,
+    "scores": {
+      "clearance": -1.0,
+      "view": 14.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.40892264548485757
+    },
+    "tie": "2f3c1c52be9ec32322c22fd1a60adc93e9eee29fc9aa60d6fb9c679b4d743660",
+    "ranks": {
+      "clearance": 5,
+      "view": 7,
+      "joint": 5,
+      "fit_clearance": 1,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B01P04",
+    "batch": 1,
+    "quality": -3.2026192765788877,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.9271912471540559
+    },
+    "tie": "b1343ffa53e58f14a7e8f81ba35012a63bfa1ada0045491f03955fc0c593d32e",
+    "ranks": {
+      "clearance": 6,
+      "view": 4,
+      "joint": 1,
+      "fit_clearance": 2,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B02P08",
+    "batch": 2,
+    "quality": -2.8271683440992463,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.34423232955165695
+    },
+    "tie": "bd9cd20579b00b2a5d34b944bf99b41372ec883d72df339df5f07774109d6b4e",
+    "ranks": {
+      "clearance": 6,
+      "view": 10,
+      "joint": 6,
+      "fit_clearance": 2,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B04P04",
+    "batch": 4,
+    "quality": -2.8978642649164246,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7948034613166303
+    },
+    "tie": "a8d6d2357487215b127df507d7f7d5a2733d337ddf7851af3c7315cab89ef7c7",
+    "ranks": {
+      "clearance": 5,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 1,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B04P06",
+    "batch": 4,
+    "quality": -3.27881154006441,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.9857493036109038
+    },
+    "tie": "f8a104bbc4c33cc3c0ff98dd1cd470710754587c2eb5023ef930f607a2d74f68",
+    "ranks": {
+      "clearance": 6,
+      "view": 4,
+      "joint": 1,
+      "fit_clearance": 2,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B05P08",
+    "batch": 5,
+    "quality": -2.98875030308538,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.7628208655525083
+    },
+    "tie": "0503066baa0a9a2a293c5dec606ed87aefcc3a06c8a742935b79552694a78c54",
+    "ranks": {
+      "clearance": 5,
+      "view": 3,
+      "joint": 1,
+      "fit_clearance": 1,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B08P02",
+    "batch": 8,
+    "quality": -2.723487288164956,
+    "scores": {
+      "clearance": -1.0,
+      "view": 14.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.319314527497043
+    },
+    "tie": "219a76a9404cda897df501c0fa960bb923bae0a7a71a99cf2e272962a97dcb18",
+    "ranks": {
+      "clearance": 5,
+      "view": 7,
+      "joint": 8,
+      "fit_clearance": 1,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B08P08",
+    "batch": 8,
+    "quality": -3.0212135219744884,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.4825860687418634
+    },
+    "tie": "fc58bd1d03d7a3d66df88a9945a04ed75b127948a9a6b2f094d728f6f8de7bfc",
+    "ranks": {
+      "clearance": 6,
+      "view": 10,
+      "joint": 4,
+      "fit_clearance": 2,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B09P05",
+    "batch": 9,
+    "quality": -2.9341115332912437,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.8233489520429468
+    },
+    "tie": "7477c0527e7e9eaa767b32ebd24824d27763a5fd490e7a36650523af4d484020",
+    "ranks": {
+      "clearance": 5,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 1,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B12P08",
+    "batch": 12,
+    "quality": -3.181649066541926,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.9110744567204748
+    },
+    "tie": "7db1fbbedd4420d948c143df688f402b488c8b13b5c09549f16386eda79e9309",
+    "ranks": {
+      "clearance": 5,
+      "view": 4,
+      "joint": 1,
+      "fit_clearance": 1,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B13P09",
+    "batch": 13,
+    "quality": -2.8495493478264575,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.3601899306958629
+    },
+    "tie": "cfc2390c134d807b7735d8b13f2355df2612b55e5a280f6225371ac796c40a35",
+    "ranks": {
+      "clearance": 6,
+      "view": 10,
+      "joint": 5,
+      "fit_clearance": 2,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B14P06",
+    "batch": 14,
+    "quality": -3.2262953928063114,
+    "scores": {
+      "clearance": -1.0,
+      "view": 26.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.8003492007235172
+    },
+    "tie": "0f1a15b76a53ed726e20de8b55261bc48711a65420eda685cc1fa85c33d80a08",
+    "ranks": {
+      "clearance": 6,
+      "view": 5,
+      "joint": 1,
+      "fit_clearance": 2,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B16P00",
+    "batch": 16,
+    "quality": -3.0432986880616655,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.9093361464903272
+    },
+    "tie": "6518a0c038ebd54a6a74263b1d73b1f65ce10ea77b8b3d3e96f2b938d49a2a78",
+    "ranks": {
+      "clearance": 5,
+      "view": 2,
+      "joint": 1,
+      "fit_clearance": 1,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B16P08",
+    "batch": 16,
+    "quality": -2.697008290604663,
+    "scores": {
+      "clearance": -1.0,
+      "view": 14.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.30018529243321945
+    },
+    "tie": "cc4bc2e1c8263a25b7da49840ccaf89ac7f11ee8797cffbf269e3b791e4779f2",
+    "ranks": {
+      "clearance": 6,
+      "view": 8,
+      "joint": 7,
+      "fit_clearance": 2,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B17P00",
+    "batch": 17,
+    "quality": -3.072699283066368,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.8273403965959142
+    },
+    "tie": "5783fe410c78c935c261e50ba880aed4488947f6596b5148c609ef2a9429b4d6",
+    "ranks": {
+      "clearance": 5,
+      "view": 3,
+      "joint": 1,
+      "fit_clearance": 1,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B18P08",
+    "batch": 18,
+    "quality": -3.1374223993006463,
+    "scores": {
+      "clearance": -1.0,
+      "view": 38.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.8770837658190921
+    },
+    "tie": "a479c3c85ebf55d0adf831b2e8d15f1c2fdc7391f1bd0deff6105a378fa0f077",
+    "ranks": {
+      "clearance": 6,
+      "view": 3,
+      "joint": 1,
+      "fit_clearance": 2,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B19P01",
+    "batch": 19,
+    "quality": -2.9789282655212603,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.8586430768588318
+    },
+    "tie": "5006f896fa009767d5c545458e5beb18d15d9ded91b791c89a6f5768407e28c1",
+    "ranks": {
+      "clearance": 6,
+      "view": 2,
+      "joint": 1,
+      "fit_clearance": 2,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B20P00",
+    "batch": 20,
+    "quality": -3.0791944557059217,
+    "scores": {
+      "clearance": -1.0,
+      "view": 8.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.5239263332685133
+    },
+    "tie": "cfa51ff655c3032c0041b878171f713043fb97996f7105c28bef2129476b9f76",
+    "ranks": {
+      "clearance": 6,
+      "view": 10,
+      "joint": 5,
+      "fit_clearance": 2,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B27P02",
+    "batch": 27,
+    "quality": -2.997419152781937,
+    "scores": {
+      "clearance": -1.0,
+      "view": 45.0,
+      "fit_clearance": 0.33299131807419086,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.8732050417871379
+    },
+    "tie": "0c5d961db28f2bea5121afc5ed3e002e1f7d4bf6e55ae4f98a20a0fde3855b66",
+    "ranks": {
+      "clearance": 5,
+      "view": 1,
+      "joint": 1,
+      "fit_clearance": 1,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B00P03",
+    "batch": 0,
+    "quality": -3.0327516507616994,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.5388671389163806
+    },
+    "tie": "dc1672eb8513f92ef0d445be20c9ce8c425e118229f69be49d0f097ea712feb0",
+    "ranks": {
+      "clearance": 4,
+      "view": 8,
+      "joint": 4,
+      "fit_clearance": 4,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B02P09",
+    "batch": 2,
+    "quality": -2.75188525315439,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.3359606909239403
+    },
+    "tie": "4d75e1742d0a310d2c04c2c6bb24db54cad7ee9d6a8a338e9b6485da8d25f38a",
+    "ranks": {
+      "clearance": 3,
+      "view": 8,
+      "joint": 7,
+      "fit_clearance": 3,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B03P07",
+    "batch": 3,
+    "quality": -2.907908125010623,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.5474927142531558
+    },
+    "tie": "ab8de82b1e428eb7f20e5204f84c2f04c31d3bf19290d0324e0aa9528e18697b",
+    "ranks": {
+      "clearance": 4,
+      "view": 6,
+      "joint": 5,
+      "fit_clearance": 4,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B06P00",
+    "batch": 6,
+    "quality": -2.9930431271103384,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.6107567485304363
+    },
+    "tie": "392eb0740b324eb1bd9358b3aee5765d89b8756aac8adb699f888d74b30a1b70",
+    "ranks": {
+      "clearance": 3,
+      "view": 5,
+      "joint": 4,
+      "fit_clearance": 3,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B07P05",
+    "batch": 7,
+    "quality": -2.9511103939000263,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.5795964289705673
+    },
+    "tie": "e28d27eac9823740dfd381cedfb899518fa0b4772cdcacc13ec4f8a3175f75d8",
+    "ranks": {
+      "clearance": 3,
+      "view": 6,
+      "joint": 4,
+      "fit_clearance": 3,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B13P03",
+    "batch": 13,
+    "quality": -3.135052604555418,
+    "scores": {
+      "clearance": -0.5,
+      "view": 45.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.938703576083355
+    },
+    "tie": "a0d3ab289b824d6b1c10ae3147f644b6fed3f2f37aac3dcb1b2fc211bee58429",
+    "ranks": {
+      "clearance": 4,
+      "view": 2,
+      "joint": 1,
+      "fit_clearance": 4,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B14P04",
+    "batch": 14,
+    "quality": -2.987141892837441,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.5059172593542643
+    },
+    "tie": "6c9983b871c22d09b993ea5dd07dc55a51d821e57906724960893c9ac928899e",
+    "ranks": {
+      "clearance": 4,
+      "view": 7,
+      "joint": 5,
+      "fit_clearance": 4,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B15P02",
+    "batch": 15,
+    "quality": -2.7869451702507275,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.3612890438544802
+    },
+    "tie": "302431a797fc085302cc2af673ef94a2d780ba8aa94a6d1e4797ab69d3778708",
+    "ranks": {
+      "clearance": 3,
+      "view": 7,
+      "joint": 7,
+      "fit_clearance": 3,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B17P03",
+    "batch": 17,
+    "quality": -2.919144700316338,
+    "scores": {
+      "clearance": -0.5,
+      "view": 45.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7686715335453125
+    },
+    "tie": "b2357a9d74434787bc09705bbc5f86df33112c54c20b0dfc62dcbe03d6c23a46",
+    "ranks": {
+      "clearance": 4,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 4,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B18P05",
+    "batch": 18,
+    "quality": -2.9168180916345277,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.40993794861134675
+    },
+    "tie": "8b0bbdd5c73a3ac6b43b312929d8e6e9c69770842f0b4f07887a953991bf20cb",
+    "ranks": {
+      "clearance": 3,
+      "view": 10,
+      "joint": 6,
+      "fit_clearance": 3,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B19P02",
+    "batch": 19,
+    "quality": -2.782285863673562,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.35792301874170646
+    },
+    "tie": "4f44a756b8642ce644d0d179df421dbbdfd381c9712e9bf85407c30dbce00238",
+    "ranks": {
+      "clearance": 4,
+      "view": 7,
+      "joint": 8,
+      "fit_clearance": 4,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B19P07",
+    "batch": 19,
+    "quality": -2.945416409754582,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.4303284797741692
+    },
+    "tie": "03451f985c961fce2d49e526b831775af066e6618b36eeac10b8a42fd103f1b2",
+    "ranks": {
+      "clearance": 3,
+      "view": 9,
+      "joint": 4,
+      "fit_clearance": 3,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B20P05",
+    "batch": 20,
+    "quality": -3.040309012462532,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.7709251044672293
+    },
+    "tie": "d14067128366e03a8287715f5c44cc078a51e81cb7c818584db6f7265c663dd3",
+    "ranks": {
+      "clearance": 4,
+      "view": 4,
+      "joint": 1,
+      "fit_clearance": 4,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B21P03",
+    "batch": 21,
+    "quality": -2.944465512627774,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.5746586009772838
+    },
+    "tie": "7632619b1f43be30ff01f271e0d6dd6391f489fd1c0a7f75a2b382032aad21eb",
+    "ranks": {
+      "clearance": 4,
+      "view": 5,
+      "joint": 3,
+      "fit_clearance": 4,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B22P07",
+    "batch": 22,
+    "quality": -3.1731608907710855,
+    "scores": {
+      "clearance": -0.5,
+      "view": 38.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.8730292740312273
+    },
+    "tie": "91ccad58e7539998a0f6df8f39488274e10fbe6cf037eca15541ce7979709fda",
+    "ranks": {
+      "clearance": 3,
+      "view": 3,
+      "joint": 1,
+      "fit_clearance": 3,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B23P00",
+    "batch": 23,
+    "quality": -2.6763424798094464,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.28138628849808883
+    },
+    "tie": "c38828f174e7c169ec33a69cffc91e96584f1a6d6f270aca92d37f8159cbe207",
+    "ranks": {
+      "clearance": 3,
+      "view": 8,
+      "joint": 7,
+      "fit_clearance": 3,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B24P01",
+    "batch": 24,
+    "quality": -2.9360611822582374,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.423658225355755
+    },
+    "tie": "adf20a703e1c718e18d7dcc91a86d6a123570db87a2fd14f758640f86fe3b1a1",
+    "ranks": {
+      "clearance": 4,
+      "view": 10,
+      "joint": 5,
+      "fit_clearance": 4,
+      "fit_view": 10
+    }
+  },
+  {
+    "id": "B24P04",
+    "batch": 24,
+    "quality": -2.900919369344036,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.3986021983426621
+    },
+    "tie": "79249a2b15c48df39f84392f65eaf262e52396530195a07786e8022e65a1ef39",
+    "ranks": {
+      "clearance": 3,
+      "view": 9,
+      "joint": 6,
+      "fit_clearance": 3,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B25P07",
+    "batch": 25,
+    "quality": -3.052090045406902,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.6546346620906696
+    },
+    "tie": "e31e3f4cb361ec556754ce9802af9bbd9952f4cb3a5c3febe85d74aad23aa023",
+    "ranks": {
+      "clearance": 3,
+      "view": 6,
+      "joint": 2,
+      "fit_clearance": 3,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B26P00",
+    "batch": 26,
+    "quality": -2.7445565674529857,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.33066622495437986
+    },
+    "tie": "d9785ce3229bdc2403b81ebaef377d8f6baaad55591551b55761ef9ea09f0c15",
+    "ranks": {
+      "clearance": 4,
+      "view": 8,
+      "joint": 7,
+      "fit_clearance": 4,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B27P09",
+    "batch": 27,
+    "quality": -2.916793064506427,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.5540951351488026
+    },
+    "tie": "ead08ae330e09b965c7b526eb11f1837443d97d7358784ac484e3c6ca20f7fa4",
+    "ranks": {
+      "clearance": 4,
+      "view": 6,
+      "joint": 3,
+      "fit_clearance": 4,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B28P08",
+    "batch": 28,
+    "quality": -3.0356024618973243,
+    "scores": {
+      "clearance": -0.5,
+      "view": 26.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.6423826972985887
+    },
+    "tie": "53563d19dc72a2ed1590f6e24026fde9088099c96d989f2f16849eaecfcda71f",
+    "ranks": {
+      "clearance": 4,
+      "view": 5,
+      "joint": 2,
+      "fit_clearance": 4,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B29P02",
+    "batch": 29,
+    "quality": -2.7470526407722744,
+    "scores": {
+      "clearance": -0.5,
+      "view": 8.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.28889559564339523
+    },
+    "tie": "2ff0420a631b2a5dd2f12c74895ba421fdb4e065b5a2a39fcaef8b66964a6bc5",
+    "ranks": {
+      "clearance": 3,
+      "view": 9,
+      "joint": 9,
+      "fit_clearance": 3,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B29P03",
+    "batch": 29,
+    "quality": -2.8235014485257475,
+    "scores": {
+      "clearance": -0.5,
+      "view": 14.0,
+      "fit_clearance": 0.3301631149697447,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.3876984137178635
+    },
+    "tie": "88e50c122e848304d6c52799bf86c157b79beb8ee5ebfea77c292ab694e664b8",
+    "ranks": {
+      "clearance": 4,
+      "view": 7,
+      "joint": 6,
+      "fit_clearance": 4,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B00P02",
+    "batch": 0,
+    "quality": -2.892836776180635,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6585888881485507
+    },
+    "tie": "d94972019dc1b0ae9869a870324512c654779f4a69a330923e89735a2bab0066",
+    "ranks": {
+      "clearance": 2,
+      "view": 2,
+      "joint": 3,
+      "fit_clearance": 8,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B01P09",
+    "batch": 1,
+    "quality": -3.0245173926119557,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7622901595466238
+    },
+    "tie": "a68497309bb9c4a6828605e40060deeb81c64ffb9283c1ee6d3c7c02d73afa97",
+    "ranks": {
+      "clearance": 1,
+      "view": 1,
+      "joint": 2,
+      "fit_clearance": 7,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B05P05",
+    "batch": 5,
+    "quality": -2.87272815922467,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6427529268590012
+    },
+    "tie": "a1ef8d80d9bd945d58bfc3de1e6f73ee679d3fb8979c06c0fc6b075d21da36f1",
+    "ranks": {
+      "clearance": 2,
+      "view": 1,
+      "joint": 3,
+      "fit_clearance": 8,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B05P06",
+    "batch": 5,
+    "quality": -2.7820930957916095,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.30744048747141983
+    },
+    "tie": "7d6c262576e3cd46915188ce55c631eb76bf58978c209aaccd09424b7df94a74",
+    "ranks": {
+      "clearance": 1,
+      "view": 7,
+      "joint": 6,
+      "fit_clearance": 7,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B07P03",
+    "batch": 7,
+    "quality": -3.073494543557701,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.718434640818442
+    },
+    "tie": "fd630543ed1c2d0512f12d826fd5fecfdb02992719ee347e01a9e99bc71ec7a3",
+    "ranks": {
+      "clearance": 2,
+      "view": 4,
+      "joint": 2,
+      "fit_clearance": 8,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B09P00",
+    "batch": 9,
+    "quality": -2.762766684480481,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.2934784987643735
+    },
+    "tie": "2c1f6d37873f8adab9bf43225b377c3535cdb7831da303272720e7a0cd2a67b1",
+    "ranks": {
+      "clearance": 2,
+      "view": 7,
+      "joint": 6,
+      "fit_clearance": 8,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B10P03",
+    "batch": 10,
+    "quality": -2.7258560159807836,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.26681310659890967
+    },
+    "tie": "f4b31fba320a6cd86a6215c5b72281ea58e1574255a5ee6cb49f322ed2cedb0d",
+    "ranks": {
+      "clearance": 2,
+      "view": 8,
+      "joint": 7,
+      "fit_clearance": 8,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B10P04",
+    "batch": 10,
+    "quality": -3.0184400920606564,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.7575041567854153
+    },
+    "tie": "90bf551d578aacab775ab6739c5cfd6672c2106890d1adf846ff9b57ba75a09e",
+    "ranks": {
+      "clearance": 1,
+      "view": 1,
+      "joint": 2,
+      "fit_clearance": 7,
+      "fit_view": 1
+    }
+  },
+  {
+    "id": "B11P00",
+    "batch": 11,
+    "quality": -2.808217286922746,
+    "scores": {
+      "clearance": -0.25,
+      "view": 8.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.2878175291294737
+    },
+    "tie": "11e385a7548730a7294dceb047dd1a17ef92e4fcc31a629a7b3d27da788211fe",
+    "ranks": {
+      "clearance": 1,
+      "view": 9,
+      "joint": 7,
+      "fit_clearance": 7,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B12P03",
+    "batch": 12,
+    "quality": -2.820201858067144,
+    "scores": {
+      "clearance": -0.25,
+      "view": 8.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.2963624991646712
+    },
+    "tie": "d3a9dc67218b3736d25d4e0df0968112a24a8554f0046945259ebf4931050336",
+    "ranks": {
+      "clearance": 1,
+      "view": 9,
+      "joint": 8,
+      "fit_clearance": 7,
+      "fit_view": 9
+    }
+  },
+  {
+    "id": "B14P02",
+    "batch": 14,
+    "quality": -2.72258799471589,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.26445218840979096
+    },
+    "tie": "725cf52eea1eccaede709d2168e8f06a18578c6473f151ef96006fed82100f93",
+    "ranks": {
+      "clearance": 2,
+      "view": 8,
+      "joint": 9,
+      "fit_clearance": 8,
+      "fit_view": 8
+    }
+  },
+  {
+    "id": "B15P03",
+    "batch": 15,
+    "quality": -3.2294718351810268,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.8383119962221245
+    },
+    "tie": "64f56155795e76a4a2019d0a33c320851842c692dfd8c08d65b0cb18b08eef4f",
+    "ranks": {
+      "clearance": 1,
+      "view": 3,
+      "joint": 1,
+      "fit_clearance": 7,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B15P06",
+    "batch": 15,
+    "quality": -2.913382097116658,
+    "scores": {
+      "clearance": -0.25,
+      "view": 45.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.6053310909914892,
+      "joint": 0.6747687630617145
+    },
+    "tie": "e0c7d2a995c84f30bf870174e41a87487214069fcab88219471c4f67ec37bfa0",
+    "ranks": {
+      "clearance": 2,
+      "view": 2,
+      "joint": 2,
+      "fit_clearance": 8,
+      "fit_view": 2
+    }
+  },
+  {
+    "id": "B17P04",
+    "batch": 17,
+    "quality": -2.9927492868030483,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.5478024107472119
+    },
+    "tie": "6182c467a2b79c5114530545ac966690637b9872439a9e4fc87597d3106ecbc3",
+    "ranks": {
+      "clearance": 2,
+      "view": 6,
+      "joint": 5,
+      "fit_clearance": 8,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B18P02",
+    "batch": 18,
+    "quality": -2.8822412003506126,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.4656835736435836
+    },
+    "tie": "113262a4390355e5ffa9cd8d797184cfa6d4241832f95c333e4b22fac22cdacc",
+    "ranks": {
+      "clearance": 1,
+      "view": 5,
+      "joint": 5,
+      "fit_clearance": 7,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B20P08",
+    "batch": 20,
+    "quality": -3.0106806849907213,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.4725791305226092
+    },
+    "tie": "07113880ab8d493d058ba7347e13b711ae4ec213c7469ae72b96d1e23c5f1436",
+    "ranks": {
+      "clearance": 1,
+      "view": 7,
+      "joint": 7,
+      "fit_clearance": 7,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B23P04",
+    "batch": 23,
+    "quality": -3.0630386308807553,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.7103986815643795
+    },
+    "tie": "23643a1e54279e686256ab0fef0707771dda874267953bb436503b9ca1572b82",
+    "ranks": {
+      "clearance": 1,
+      "view": 3,
+      "joint": 2,
+      "fit_clearance": 7,
+      "fit_view": 3
+    }
+  },
+  {
+    "id": "B23P07",
+    "batch": 23,
+    "quality": -2.7468553570032253,
+    "scores": {
+      "clearance": -0.25,
+      "view": 14.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.2624793362524472,
+      "joint": 0.28198367072955693
+    },
+    "tie": "4809fe83a56f9d0916dc326f7cb1cf0b1f6ab6be3a8d07bc6c841aa2515baadb",
+    "ranks": {
+      "clearance": 2,
+      "view": 7,
+      "joint": 6,
+      "fit_clearance": 8,
+      "fit_view": 7
+    }
+  },
+  {
+    "id": "B24P08",
+    "batch": 24,
+    "quality": -3.032664135226691,
+    "scores": {
+      "clearance": -0.25,
+      "view": 38.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.5054384520988238,
+      "joint": 0.6870541666492013
+    },
+    "tie": "da76d9bc21abfd8576779fc388a56a5abc983748f8a42aa57038158c0483e89b",
+    "ranks": {
+      "clearance": 2,
+      "view": 4,
+      "joint": 2,
+      "fit_clearance": 8,
+      "fit_view": 4
+    }
+  },
+  {
+    "id": "B26P05",
+    "batch": 26,
+    "quality": -3.204650079163192,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.7052664227355299
+    },
+    "tie": "68952da7ea386bdf68eb26878ca85402ebfa4da24625f96ebb373233731782fe",
+    "ranks": {
+      "clearance": 2,
+      "view": 6,
+      "joint": 1,
+      "fit_clearance": 8,
+      "fit_view": 6
+    }
+  },
+  {
+    "id": "B26P08",
+    "batch": 26,
+    "quality": -2.968419391050132,
+    "scores": {
+      "clearance": -0.25,
+      "view": 26.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.3713650158334588,
+      "joint": 0.5297228039942534
+    },
+    "tie": "60bcee49499592398afcffd0d34db105d4f15ba7578fa06e78cbc67d76ee4824",
+    "ranks": {
+      "clearance": 1,
+      "view": 5,
+      "joint": 4,
+      "fit_clearance": 7,
+      "fit_view": 5
+    }
+  },
+  {
+    "id": "B28P01",
+    "batch": 28,
+    "quality": -2.955794967707938,
+    "scores": {
+      "clearance": -0.25,
+      "view": 8.0,
+      "fit_clearance": 0.27767692712444103,
+      "fit_view": 0.21279335937915633,
+      "joint": 0.3930400560751179
+    },
+    "tie": "3aac9486a239047dc4097fe3461e5f4a419ffc99dabdf884d0aa3d2289a44ab1",
+    "ranks": {
+      "clearance": 1,
+      "view": 9,
+      "joint": 6,
+      "fit_clearance": 7,
+      "fit_view": 9
+    }
+  }
+]

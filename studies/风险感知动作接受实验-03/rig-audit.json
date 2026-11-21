@@ -1,0 +1,152 @@
+[
+  {
+    "id": "C02P03",
+    "task": "square",
+    "gap": 4,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C00P04",
+    "task": "square",
+    "gap": 2,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C00P09",
+    "task": "square",
+    "gap": 1,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C00P07",
+    "task": "square",
+    "gap": 0.5,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C01P03",
+    "task": "square",
+    "gap": 0.25,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C01P00",
+    "task": "round",
+    "gap": 4,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C00P05",
+    "task": "round",
+    "gap": 2,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C00P00",
+    "task": "round",
+    "gap": 1,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C03P02",
+    "task": "round",
+    "gap": 0.5,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C01P02",
+    "task": "round",
+    "gap": 0.25,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C01P09",
+    "task": "dual",
+    "gap": 4,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C00P01",
+    "task": "dual",
+    "gap": 2,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C00P03",
+    "task": "dual",
+    "gap": 1,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C01P06",
+    "task": "dual",
+    "gap": 0.5,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  },
+  {
+    "id": "C00P02",
+    "task": "dual",
+    "gap": 0.25,
+    "frame": true,
+    "depth": true,
+    "repeat": true,
+    "ideal": true,
+    "miss": false
+  }
+]

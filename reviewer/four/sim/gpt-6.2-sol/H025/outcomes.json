@@ -1,0 +1,1 @@
+{"first": {"ok": true, "reason": "seated", "height": 6.999350829090329, "margin": [0.657229707408848], "tilt": 1.7075472925031877e-06, "drift": 0.0}, "overhead": {"ok": false, "reason": "endpoint", "height": 12.41839974393022, "margin": [-0.44027136471792255], "tilt": 12.826438941946773, "drift": 0.0}}

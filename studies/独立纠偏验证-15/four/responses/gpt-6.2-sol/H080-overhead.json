@@ -1,0 +1,19 @@
+{
+  "model": "gpt-6.2-sol",
+  "mode": "overhead",
+  "id": "H080",
+  "raw": "{\"op\":\"assemble\",\"points\":[[291,176],[359,169]]}",
+  "action": {
+    "x": 44.501,
+    "y": 3.643,
+    "yaw": 5.877
+  },
+  "prompt": "You operate an XYZ+yaw Cartesian robot with a parallel-jaw gripper. Reply JSON only. No tools. World X increases toward image right, Y away; yaw is counterclockwise from above. Images 480x360. Pixel coordinates (u,v) from top left. The gray movable component starts left of the dark receiving fixture with brass mating features. The task is to insert the unmarked two-dowel cover. Recipe dimension 35.5 mm, part outer width 25.0 mm, clearance per side 1.5 mm. First image is the original oblique view and second is live after model-commanded grasp/lift. Third image is the optional simultaneous overhead view of the ORIGINAL scene. Output pixel coordinates in that THIRD image. Command motion to the receiving feature and insertion followed by release. Give two points along the long mating axis at the 14 mm high peg tops, symmetric around the desired wrist center. For twin or connector use both pin tops. For a slot use the ends of the blade centerline. For D-shaft use ends of an axis passing through its shaft center and pointing to the flat, NOT the truncated silhouette midpoint. Correct for grasp offset if visible. Return {\"op\":\"assemble\",\"points\":[[u1,v1],[u2,v2]]}.",
+  "input_images": [
+    "initial/H080/00-eye.png",
+    "sim/gpt-6.2-sol/H080/01-eye.png",
+    "initial/H080/00-top.png"
+  ],
+  "seconds": 11.378767300047912,
+  "attempts": 1
+}

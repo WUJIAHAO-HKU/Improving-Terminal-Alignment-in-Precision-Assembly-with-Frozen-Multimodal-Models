@@ -1,0 +1,1002 @@
+{
+  "H000": {
+    "batch": 0,
+    "old_pre": 8.656826864824597,
+    "new_pre": 0.081207984935977,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "H001": {
+    "batch": 0,
+    "old_pre": 5.1984728797416695,
+    "new_pre": 0.3721340490184898,
+    "cat": "blade",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H002": {
+    "batch": 0,
+    "old_pre": 3.8300566224953845,
+    "new_pre": 0.4582536830272187,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 1
+  },
+  "H003": {
+    "batch": 0,
+    "old_pre": 46.65026085845155,
+    "new_pre": 0.025303030303030306,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 5
+  },
+  "H004": {
+    "batch": 0,
+    "old_pre": 8.091110937497891,
+    "new_pre": 0.07922797919033353,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "H005": {
+    "batch": 1,
+    "old_pre": 3.1747448934695743,
+    "new_pre": 0.36505100106653743,
+    "cat": "blade",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H006": {
+    "batch": 1,
+    "old_pre": 3.7575423869639524,
+    "new_pre": 0.45799988320285867,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "H007": {
+    "batch": 1,
+    "old_pre": 3.8007436295022208,
+    "new_pre": 0.0036056330062880747,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 5
+  },
+  "H008": {
+    "batch": 1,
+    "old_pre": 5.459472676789386,
+    "new_pre": 0.07001724527785376,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 4
+  },
+  "H009": {
+    "batch": 1,
+    "old_pre": 3.542937442661914,
+    "new_pre": 0.3663396749887106,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H010": {
+    "batch": 2,
+    "old_pre": 8.696800331610728,
+    "new_pre": 0.4752872860091224,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "H011": {
+    "batch": 2,
+    "old_pre": 10.121835542899936,
+    "new_pre": 0.025303030303030306,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 5
+  },
+  "H012": {
+    "batch": 2,
+    "old_pre": 1000000.0,
+    "new_pre": 0.08590909090909091,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 4
+  },
+  "H013": {
+    "batch": 2,
+    "old_pre": 4.076830167383088,
+    "new_pre": 0.36820829952523476,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H014": {
+    "batch": 2,
+    "old_pre": 4.72380525507623,
+    "new_pre": 0.4613818032412516,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H015": {
+    "batch": 3,
+    "old_pre": 3.837836640378375,
+    "new_pre": 0.0037354585443546157,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 5
+  },
+  "H016": {
+    "batch": 3,
+    "old_pre": 2.526498291043753,
+    "new_pre": 0.05975183492774404,
+    "cat": "twin",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H017": {
+    "batch": 3,
+    "old_pre": 2.6259924393313536,
+    "new_pre": 0.3631303674770537,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H018": {
+    "batch": 3,
+    "old_pre": 3.4624716777927493,
+    "new_pre": 0.4569671357207595,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "H019": {
+    "batch": 3,
+    "old_pre": 4.1336719063198615,
+    "new_pre": 0.004770881975149818,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 4
+  },
+  "H020": {
+    "batch": 4,
+    "old_pre": 2.5657791215200834,
+    "new_pre": 0.0598893178344112,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "H021": {
+    "batch": 4,
+    "old_pre": 2.506628598726272,
+    "new_pre": 0.3627125940349359,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 2
+  },
+  "H022": {
+    "batch": 4,
+    "old_pre": 10.319329518866953,
+    "new_pre": 0.47984848484848486,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "H023": {
+    "batch": 4,
+    "old_pre": 5.025124033059201,
+    "new_pre": 0.007890964418737505,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 5
+  },
+  "H024": {
+    "batch": 4,
+    "old_pre": 2.9031735994596293,
+    "new_pre": 0.06107019850719961,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 3
+  },
+  "H025": {
+    "batch": 5,
+    "old_pre": 3.1518662694391764,
+    "new_pre": 0.3649709258824311,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H026": {
+    "batch": 5,
+    "old_pre": 8.811375579783455,
+    "new_pre": 0.47568829937772694,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 1
+  },
+  "H027": {
+    "batch": 5,
+    "old_pre": 76.74502500111443,
+    "new_pre": 0.025303030303030306,
+    "cat": "connector",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 2,
+    "new_rank": 5
+  },
+  "H028": {
+    "batch": 5,
+    "old_pre": 1000000.0,
+    "new_pre": 0.08590909090909091,
+    "cat": "twin",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 1,
+    "new_rank": 4
+  },
+  "H029": {
+    "batch": 5,
+    "old_pre": 10.895453112455888,
+    "new_pre": 0.3889393939393939,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 2
+  },
+  "H030": {
+    "batch": 6,
+    "old_pre": 2.7321272657483857,
+    "new_pre": 0.4544109302786042,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 2
+  },
+  "H031": {
+    "batch": 6,
+    "old_pre": 2.8153830283123704,
+    "new_pre": 0.00015687090212359797,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 5
+  },
+  "H032": {
+    "batch": 6,
+    "old_pre": 2.7601679560665553,
+    "new_pre": 0.06056967875532385,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "H033": {
+    "batch": 6,
+    "old_pre": 9.208551202509096,
+    "new_pre": 0.38616932314817576,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 3
+  },
+  "H034": {
+    "batch": 6,
+    "old_pre": 4.100134330709666,
+    "new_pre": 0.45919895500596863,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 1
+  },
+  "H035": {
+    "batch": 7,
+    "old_pre": 5.682520364841909,
+    "new_pre": 0.010191851579976983,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "H036": {
+    "batch": 7,
+    "old_pre": 8.361195880732641,
+    "new_pre": 0.08017327649165515,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "H037": {
+    "batch": 7,
+    "old_pre": 6.737362258390756,
+    "new_pre": 0.3775201618437616,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H038": {
+    "batch": 7,
+    "old_pre": 8.060731426730763,
+    "new_pre": 0.4730610448420425,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "H039": {
+    "batch": 7,
+    "old_pre": 10.590701933471285,
+    "new_pre": 0.025303030303030306,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 4
+  },
+  "H040": {
+    "batch": 8,
+    "old_pre": 4.017821685589645,
+    "new_pre": 0.06497146680865466,
+    "cat": "twin",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 4,
+    "new_rank": 4
+  },
+  "H041": {
+    "batch": 8,
+    "old_pre": 4.872864595321727,
+    "new_pre": 0.37099442002301997,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 2
+  },
+  "H042": {
+    "batch": 8,
+    "old_pre": 3.1198992216367647,
+    "new_pre": 0.4557681321242135,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 1
+  },
+  "H043": {
+    "batch": 8,
+    "old_pre": 4.223362415244448,
+    "new_pre": 0.005084798756385872,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 5
+  },
+  "H044": {
+    "batch": 8,
+    "old_pre": 5.18201376943347,
+    "new_pre": 0.06904613910210805,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 3
+  },
+  "H045": {
+    "batch": 9,
+    "old_pre": 5.574587791147324,
+    "new_pre": 0.3734504512084096,
+    "cat": "blade",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "H046": {
+    "batch": 9,
+    "old_pre": 2.5884559379376433,
+    "new_pre": 0.4539080806312666,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 1
+  },
+  "H047": {
+    "batch": 9,
+    "old_pre": 4.554648333025056,
+    "new_pre": 0.006244299468617999,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 5
+  },
+  "H048": {
+    "batch": 9,
+    "old_pre": 5.3868876114026465,
+    "new_pre": 0.06976319754900018,
+    "cat": "twin",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 2,
+    "new_rank": 4
+  },
+  "H049": {
+    "batch": 9,
+    "old_pre": 2.37361615683873,
+    "new_pre": 0.3622470504883295,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H050": {
+    "batch": 10,
+    "old_pre": 6.067942729906798,
+    "new_pre": 0.46608628440315863,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 2
+  },
+  "H051": {
+    "batch": 10,
+    "old_pre": 5.071241933208426,
+    "new_pre": 0.008052377069259794,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 5
+  },
+  "H052": {
+    "batch": 10,
+    "old_pre": 2.8017438126247334,
+    "new_pre": 0.06071519425327747,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 4
+  },
+  "H053": {
+    "batch": 10,
+    "old_pre": 7.302981361265319,
+    "new_pre": 0.37949982870382254,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 3
+  },
+  "H054": {
+    "batch": 10,
+    "old_pre": 9.016395937444111,
+    "new_pre": 0.4764058706295392,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "H055": {
+    "batch": 11,
+    "old_pre": 4.985157330663593,
+    "new_pre": 0.007751080960352876,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 5
+  },
+  "H056": {
+    "batch": 11,
+    "old_pre": 2.7978037859413827,
+    "new_pre": 0.060701404159885744,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H057": {
+    "batch": 11,
+    "old_pre": 8.429725536754344,
+    "new_pre": 0.38344343331803415,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "H058": {
+    "batch": 11,
+    "old_pre": 3.7357332287065232,
+    "new_pre": 0.45792355114895766,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 1
+  },
+  "H059": {
+    "batch": 11,
+    "old_pre": 5.15651068251715,
+    "new_pre": 0.00835081769184033,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 4
+  },
+  "H060": {
+    "batch": 12,
+    "old_pre": 3.4595724489769935,
+    "new_pre": 0.06301759448051038,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 4
+  },
+  "H061": {
+    "batch": 12,
+    "old_pre": 4.695408610958057,
+    "new_pre": 0.37037332407774715,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H062": {
+    "batch": 12,
+    "old_pre": 16.49313131293781,
+    "new_pre": 0.47984848484848486,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "H063": {
+    "batch": 12,
+    "old_pre": 8.953817995645291,
+    "new_pre": 0.021641393287788822,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 5
+  },
+  "H064": {
+    "batch": 12,
+    "old_pre": 5.199038989494661,
+    "new_pre": 0.06910572737232222,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 3
+  },
+  "H065": {
+    "batch": 13,
+    "old_pre": 2.39839819021092,
+    "new_pre": 0.3623337876051322,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H066": {
+    "batch": 13,
+    "old_pre": 3.334058262419023,
+    "new_pre": 0.4565176887669514,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "H067": {
+    "batch": 13,
+    "old_pre": 9.144297263329142,
+    "new_pre": 0.0223080707246823,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 5
+  },
+  "H068": {
+    "batch": 13,
+    "old_pre": 5.4330278393440885,
+    "new_pre": 0.06992468834679522,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 4
+  },
+  "H069": {
+    "batch": 13,
+    "old_pre": 3.2651748111040826,
+    "new_pre": 0.3653675057782582,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H070": {
+    "batch": 14,
+    "old_pre": 5.0107252201888945,
+    "new_pre": 0.46238602311914595,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": false,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H071": {
+    "batch": 14,
+    "old_pre": 3.2670381840007736,
+    "new_pre": 0.0017376639470330097,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 5
+  },
+  "H072": {
+    "batch": 14,
+    "old_pre": 1000000.0,
+    "new_pre": 0.08590909090909091,
+    "cat": "twin",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 1,
+    "new_rank": 4
+  },
+  "H073": {
+    "batch": 14,
+    "old_pre": 5.50349470270291,
+    "new_pre": 0.37320162539885415,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 3
+  },
+  "H074": {
+    "batch": 14,
+    "old_pre": 9.235175135805045,
+    "new_pre": 0.4771715978238025,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 1
+  },
+  "H075": {
+    "batch": 15,
+    "old_pre": 3.222289940345959,
+    "new_pre": 0.001581045094241158,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 5
+  },
+  "H076": {
+    "batch": 15,
+    "old_pre": 3.7610156954885774,
+    "new_pre": 0.06407264584330093,
+    "cat": "twin",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 3,
+    "new_rank": 3
+  },
+  "H077": {
+    "batch": 15,
+    "old_pre": 9.300193659396362,
+    "new_pre": 0.3864900717472812,
+    "cat": "blade",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 1,
+    "new_rank": 2
+  },
+  "H078": {
+    "batch": 15,
+    "old_pre": 2.7428894336824015,
+    "new_pre": 0.45444859786637326,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 1
+  },
+  "H079": {
+    "batch": 15,
+    "old_pre": 5.017100665350872,
+    "new_pre": 0.007862882631758354,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 4
+  },
+  "H080": {
+    "batch": 16,
+    "old_pre": 2.650166659545835,
+    "new_pre": 0.06018467421750133,
+    "cat": "twin",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 5,
+    "new_rank": 4
+  },
+  "H081": {
+    "batch": 16,
+    "old_pre": 2.8160554953865273,
+    "new_pre": 0.3637955881732468,
+    "cat": "blade",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H082": {
+    "batch": 16,
+    "old_pre": 10.713313131032013,
+    "new_pre": 0.47984848484848486,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "H083": {
+    "batch": 16,
+    "old_pre": 4.795492382943508,
+    "new_pre": 0.007087253643332582,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 5
+  },
+  "H084": {
+    "batch": 16,
+    "old_pre": 4.150903138264475,
+    "new_pre": 0.06543725189301657,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 3
+  },
+  "H085": {
+    "batch": 17,
+    "old_pre": 3.621093593830952,
+    "new_pre": 0.3666132215178023,
+    "cat": "blade",
+    "old_accept": false,
+    "new_accept": false,
+    "old_rank": 4,
+    "new_rank": 2
+  },
+  "H086": {
+    "batch": 17,
+    "old_pre": 4.424218661304902,
+    "new_pre": 0.460333250163052,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 1
+  },
+  "H087": {
+    "batch": 17,
+    "old_pre": 7.738562867204555,
+    "new_pre": 0.017388000338246244,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 5
+  },
+  "H088": {
+    "batch": 17,
+    "old_pre": 5.84964479918601,
+    "new_pre": 0.07138284770624194,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 4
+  },
+  "H089": {
+    "batch": 17,
+    "old_pre": 2.931928121880763,
+    "new_pre": 0.3642011423659766,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H090": {
+    "batch": 18,
+    "old_pre": 15.912157357447152,
+    "new_pre": 0.47984848484848486,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "H091": {
+    "batch": 18,
+    "old_pre": 3.037004585824415,
+    "new_pre": 0.0009325463534157544,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 5
+  },
+  "H092": {
+    "batch": 18,
+    "old_pre": 3.0707756433191915,
+    "new_pre": 0.061656805660708074,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  },
+  "H093": {
+    "batch": 18,
+    "old_pre": 2.4595513715839683,
+    "new_pre": 0.3625478237399378,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H094": {
+    "batch": 18,
+    "old_pre": 4.957918098516986,
+    "new_pre": 0.4622011981932943,
+    "cat": "dshaft",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 2
+  },
+  "H095": {
+    "batch": 19,
+    "old_pre": 2.69430098128954,
+    "new_pre": -0.0002669162624563074,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 4,
+    "new_rank": 5
+  },
+  "H096": {
+    "batch": 19,
+    "old_pre": 2.3605735395950975,
+    "new_pre": 0.059171098297673745,
+    "cat": "twin",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 5,
+    "new_rank": 3
+  },
+  "H097": {
+    "batch": 19,
+    "old_pre": 3.43843423444552,
+    "new_pre": 0.36597391375995325,
+    "cat": "blade",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 2,
+    "new_rank": 2
+  },
+  "H098": {
+    "batch": 19,
+    "old_pre": 4.43261560768864,
+    "new_pre": 0.4603626394753951,
+    "cat": "dshaft",
+    "old_accept": false,
+    "new_accept": true,
+    "old_rank": 1,
+    "new_rank": 1
+  },
+  "H099": {
+    "batch": 19,
+    "old_pre": 3.1164896391264576,
+    "new_pre": 0.0012107440399729032,
+    "cat": "connector",
+    "old_accept": true,
+    "new_accept": true,
+    "old_rank": 3,
+    "new_rank": 4
+  }
+}

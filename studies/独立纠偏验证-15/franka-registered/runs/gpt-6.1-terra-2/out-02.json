@@ -1,0 +1,26 @@
+{
+  "component": "bridge",
+  "pick": [
+    0.6185,
+    -0.1295
+  ],
+  "target": [
+    0.5035000000000001,
+    0.0835
+  ],
+  "lift_mm": 128.33579496067995,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 241.91774691263686,
+  "xy_mm": 0.15700268573346357,
+  "z_mm": -0.0038210742404135023,
+  "tilt": 0.0010783806702140016,
+  "seated": true,
+  "ok": true
+}

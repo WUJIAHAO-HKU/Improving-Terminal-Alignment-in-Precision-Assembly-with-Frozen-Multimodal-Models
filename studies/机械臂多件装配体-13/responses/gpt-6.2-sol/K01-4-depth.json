@@ -1,0 +1,20 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"anchor\":[[316,167],[323,166]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Keyed hub and thrust washer. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. hub in staging nest near world XY [-83, 0] mm, profile dflat, thickness 6 mm, destination M; 2. washer in staging nest near world XY [-83, -47] mm, profile round, thickness 4 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.94 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Image 1 = initial, image 2 = live AFTER the first commanded component. Using the station and newly observed placement, command remaining assembly in BOM order (grasp targets saved). Report updated mating anchor in the FIRST image, accounting for the live image when helpful. Additional images are initial and live registered depth (fixed 225--370 mm optical depth color range; near yellow, far purple). Reply {\"op\":\"assemble\",\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "depth",
+  "id": "K01-4",
+  "anchor": [
+    46.4512069250541,
+    2.2039905801024844,
+    12.459966950313827
+  ],
+  "inputs": [
+    "observations/K01-4/initial-eye.jpg",
+    "runs/gpt-6.2-sol/K01-4/live-eye.jpg",
+    "observations/K01-4/initial-depth.jpg",
+    "runs/gpt-6.2-sol/K01-4/live-depth.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 18.348300000070594
+}

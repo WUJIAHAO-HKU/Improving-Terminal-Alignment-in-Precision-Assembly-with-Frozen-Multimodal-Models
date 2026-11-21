@@ -1,0 +1,18 @@
+prepare starts
+grasp decisions gpt-6.2-sol
+alignment decisions gpt-6.2-sol
+[ WARN:0@1052.449] global loadsave.cpp:278 cv::findDecoder imread_('studies/机械臂四任务独立验证-12\initial\B000\00-eye.png'): can't open/read file: check file path/integrity
+Traceback (most recent call last):
+  File "studies/机械臂四任务独立验证-12\execute.py", line 34, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "studies/机械臂四任务独立验证-12\execute.py", line 31, in main
+    print('alignment decisions',model,flush=True);collect(model,['first','repeat','depth','overhead']);prepare(model,'evaluate');push(model+'-evaluate.json',model+'-choices.json')
+                                                                                                       ~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "studies/机械臂四任务独立验证-12\decisions.py", line 14, in prepare
+    g,ok=geometry(root/'00-eye.png',r);gd,okd=geometry(root/'00-eye.png',r,depth=np.load(root/'00-depth.npy'));gt,okt=geometry(root/'00-top.png',r,'top')
+         ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "studies/机械臂四任务独立验证-12\policy.py", line 16, in geometry
+    im=cv2.imread(str(img));B,G,R=im.astype(float).transpose(2,0,1)
+                                  ^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'astype'

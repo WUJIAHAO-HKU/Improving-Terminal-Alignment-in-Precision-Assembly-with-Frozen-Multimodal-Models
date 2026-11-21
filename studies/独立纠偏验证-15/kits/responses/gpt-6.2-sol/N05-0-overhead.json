@@ -1,0 +1,20 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"anchor\":[[307,173],[321,171]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Indexed cam pack. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. cam plate in staging nest near world XY [-83, -47] mm, profile dflat, thickness 5 mm, destination M; 2. distance washer in staging nest near world XY [42, 50] mm, profile round, thickness 4 mm, destination M; 3. index plate in staging nest near world XY [-83, 47] mm, profile dflat, thickness 5 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.28 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Image 1 = initial, image 2 = live AFTER the first commanded component. Using the station and newly observed placement, command remaining assembly in BOM order (grasp targets saved). Report updated mating anchor in the FIRST image, accounting for the live image when helpful. Override output frame: report anchor pixel coordinates in the INITIAL overhead image (image 3); image 4 is live overhead. Reply {\"op\":\"assemble\",\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "overhead",
+  "id": "N05-0",
+  "anchor": [
+    38.014210736929286,
+    3.826933966804962,
+    8.130102354155966
+  ],
+  "inputs": [
+    "observations/N05-0/initial-eye.jpg",
+    "runs/gpt-6.2-sol/N05-0/live-eye.jpg",
+    "observations/N05-0/initial-top.jpg",
+    "runs/gpt-6.2-sol/N05-0/live-top.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 19.47169949999079
+}

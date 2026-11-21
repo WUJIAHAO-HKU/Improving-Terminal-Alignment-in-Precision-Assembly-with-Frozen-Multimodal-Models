@@ -1,0 +1,44 @@
+render
+
+first stage gpt-6.2-sol
+
+remaining recipe gpt-6.2-sol
+
+Terminated
+
+
+  warnings.warn('resource_tracker: There appear to be %d '
+
+Traceback (most recent call last):
+
+  File "studies/机械臂多件装配体-13\execute13.py", line 32, in <module>
+
+    if __name__=='__main__':main()
+
+                            ~~~~^^
+
+  File "studies/机械臂多件装配体-13\execute13.py", line 30, in main
+
+    ssh(PY+' render_kit.py finish '+model+' && tar czf '+model+'-results.tar.gz runs/'+model+'/*/results.json')
+
+    ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  File "studies/机械臂多件装配体-13\execute13.py", line 11, in ssh
+
+    def ssh(s):do(['ssh',*OP,'-p','22',HOST,'cd '+REM+' && '+s])
+
+               ~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  File "studies/机械臂多件装配体-13\execute13.py", line 10, in do
+
+    def do(cmd):subprocess.run(cmd,cwd=D,check=True)
+
+                ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+
+  File "subprocess.py", line 577, in run
+
+    raise CalledProcessError(retcode, process.args,
+
+                             output=stdout, stderr=stderr)
+
+

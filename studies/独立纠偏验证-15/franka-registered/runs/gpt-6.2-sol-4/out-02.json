@@ -1,0 +1,26 @@
+{
+  "component": "middle bridge",
+  "pick": [
+    0.6195,
+    -0.13
+  ],
+  "target": [
+    0.504,
+    0.0815
+  ],
+  "lift_mm": 128.61465344836247,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 240.8263562695156,
+  "xy_mm": 0.3048425382599151,
+  "z_mm": -0.0033197322699650422,
+  "tilt": 4.983435159393683e-05,
+  "seated": true,
+  "ok": true
+}

@@ -1,0 +1,26 @@
+{
+  "component": "bearing cartridge",
+  "pick": [
+    0.6398649927521936,
+    0.006389771242486002
+  ],
+  "target": [
+    0.5035753504692805,
+    0.08509334116887458
+  ],
+  "lift_mm": 128.9111687537472,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 157.2781822161371,
+  "xy_mm": 1.2555888938921316,
+  "z_mm": -0.0007038236706606582,
+  "tilt": 0.0,
+  "seated": true,
+  "ok": true
+}

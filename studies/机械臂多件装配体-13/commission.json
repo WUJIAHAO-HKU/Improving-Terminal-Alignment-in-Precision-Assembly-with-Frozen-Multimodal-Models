@@ -1,0 +1,1114 @@
+{
+  "03 Blade guide and shim": {
+    "components": [
+      {
+        "seat": true,
+        "height": 5.999350898012092,
+        "tilt": 1.4787793334710982e-06,
+        "margins": [
+          1.1496789791878568
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 10.997409079771387,
+        "tilt": 7.752433956399834e-05,
+        "margins": [
+          1.1495416778694727
+        ],
+        "drift": 1.1563416978720684e-05,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      }
+    ],
+    "final": [
+      true,
+      true
+    ]
+  },
+  "01 Spacer collar and keeper": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.999783626938115,
+        "tilt": 1.2074182697257333e-06,
+        "margins": [
+          1.1209146502040555
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 11.999343535260948,
+        "tilt": 2.8585484098696695e-05,
+        "margins": [
+          1.095209934334838
+        ],
+        "drift": 3.536505413132243e-09,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      }
+    ],
+    "final": [
+      true,
+      true
+    ]
+  },
+  "02 Keyed hub and thrust washer": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.999787604898289,
+        "tilt": 8.222864146073526e-05,
+        "margins": [
+          0.6998902947791024
+        ],
+        "drift": 3.055781230231567e-09,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 11.999350391176991,
+        "tilt": 0.00018271553931664832,
+        "margins": [
+          0.7097527816163636
+        ],
+        "drift": 2.8729303659984994e-08,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      }
+    ],
+    "final": [
+      true,
+      true
+    ]
+  },
+  "04 Two-pin carrier and cover": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.99989182650085,
+        "tilt": 0.0,
+        "margins": [
+          0.7263127490574135,
+          0.7263128492682602
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 11.999567397388152,
+        "tilt": 0.0,
+        "margins": [
+          0.726204020680172,
+          0.7262034089603048
+        ],
+        "drift": 6.926774451071448e-07,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      }
+    ],
+    "final": [
+      true,
+      true
+    ]
+  },
+  "07 Blade clamp sandwich": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.499350747133935,
+        "tilt": 1.4787793334710982e-06,
+        "margins": [
+          1.145215626326027
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 10.997421154901444,
+        "tilt": 0.0002144688915949371,
+        "margins": [
+          1.143227206187074
+        ],
+        "drift": 1.1708551301439095e-05,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 15.494194007379534,
+        "tilt": 0.0007556128297670382,
+        "margins": [
+          1.145969936364934
+        ],
+        "drift": 6.654272350416622e-05,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true
+    ]
+  },
+  "05 Stepped shaft pack": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.9997836269381,
+        "tilt": 0.0,
+        "margins": [
+          1.4960254598057992
+        ],
+        "drift": 2.1684043449710089e-16,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 11.999314117373881,
+        "tilt": 0.0018117533428726384,
+        "margins": [
+          1.4505525946002789
+        ],
+        "drift": 0.0006050414225664033,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 22.120017737761174,
+        "tilt": 37.278379339615576,
+        "margins": [
+          -1.0932018044873473
+        ],
+        "drift": 0.0029142435759053316,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      true,
+      false
+    ]
+  },
+  "06 Indexed cam pack": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.499786436261602,
+        "tilt": 6.132924184607589e-05,
+        "margins": [
+          1.5238971915299633
+        ],
+        "drift": 2.0731405797431793e-09,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 1.9997836958559199,
+        "tilt": 1.4787793334710982e-06,
+        "margins": [
+          -119.55030054651627
+        ],
+        "drift": 0.0,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 2.499786440901796,
+        "tilt": 179.99993862917296,
+        "margins": [
+          -123.67881501580432
+        ],
+        "drift": 2.224056422796716e-09,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      false,
+      false
+    ]
+  },
+  "11 Paired blade guide block": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.999350829091139,
+        "tilt": 0.0,
+        "margins": [
+          0.6905051569025584
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 6.999350829091088,
+        "tilt": 0.0,
+        "margins": [
+          0.7338946937621937
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 12.498701626402772,
+        "tilt": 2.831646840510158e-06,
+        "margins": [
+          0.6830439442030496,
+          0.6830439433688129
+        ],
+        "drift": 1.3209580221325728e-06,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true
+    ]
+  },
+  "10 Keyed and plain bearing retainer": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.999799724299366,
+        "tilt": 0.0021488668575081996,
+        "margins": [
+          0.06450289408965793
+        ],
+        "drift": 0.00022707743656202585,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 19.31334173137326,
+        "tilt": 17.60287199010866,
+        "margins": [
+          -5.28055447621185
+        ],
+        "drift": 0.07395647097925266,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 7.1202462687744354,
+        "tilt": 32.97626739401186,
+        "margins": [
+          -17.077296145231802,
+          -17.841306419657734
+        ],
+        "drift": 0.000925017707102607,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      false,
+      false
+    ]
+  },
+  "09 Bridged sleeve pair": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.999758544985182,
+        "tilt": 0.0015104035231040048,
+        "margins": [
+          1.3016430604750524
+        ],
+        "drift": 0.00028285999497758524,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 14.309764031852017,
+        "tilt": 41.90891273561855,
+        "margins": [
+          0.978012061990062
+        ],
+        "drift": 0.015085470771520178,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      },
+      {
+        "seat": true,
+        "height": 11.99957615134042,
+        "tilt": 0.00017008105358350554,
+        "margins": [
+          1.3148267199900647,
+          1.484847622109848
+        ],
+        "drift": 9.350912021880073e-09,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true
+    ]
+  },
+  "13 Stepped guide clamp": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.499786425105303,
+        "tilt": 6.0666009739241184e-05,
+        "margins": [
+          1.5157646168275802
+        ],
+        "drift": 2.198460601480638e-09,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 6.499350747140797,
+        "tilt": 0.0,
+        "margins": [
+          1.5264488792172894
+        ],
+        "drift": 1.3010426069826053e-14,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 10.999282671583567,
+        "tilt": 0.0015677395186717313,
+        "margins": [
+          1.5095770437731453,
+          1.5283991318466459
+        ],
+        "drift": 1.9715605599558912e-07,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "ok": false,
+        "detail": "unreachable staging after prior contact",
+        "p": [
+          -790.9683626079392,
+          3324.3200420378034,
+          -5.10481409899921
+        ]
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "08 Dowel-mounted shim cassette": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.499891744544458,
+        "tilt": 2.2588727439225506e-06,
+        "margins": [
+          1.1304345202830557,
+          1.130433257224152
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 10.999567197245115,
+        "tilt": 3.7215130446689415e-06,
+        "margins": [
+          1.1304443069133236,
+          1.130442679332605
+        ],
+        "drift": 3.8266526596710463e-07,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 15.499399968084797,
+        "tilt": 6.962836849312221e-05,
+        "margins": [
+          1.1288661553887032,
+          1.1330602118483002
+        ],
+        "drift": 1.3101869881601029e-05,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true
+    ]
+  },
+  "12 Raised two-post cover": {
+    "components": [
+      {
+        "seat": true,
+        "height": 5.999783695855952,
+        "tilt": 1.2074182697257333e-06,
+        "margins": [
+          1.0808994562236645
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 9.999323719568997,
+        "tilt": 0.0006644312044608852,
+        "margins": [
+          0.35304084385811474
+        ],
+        "drift": 0.0008547986006431537,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 10.750621167111186,
+        "tilt": 12.290547846601559,
+        "margins": [
+          0.530598342841218
+        ],
+        "drift": 0.003733770842446863,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 4.581719314364787,
+        "tilt": 166.51628427766727,
+        "margins": [
+          -26.26449420091086,
+          -25.280609571309412
+        ],
+        "drift": 0.0010485042855667484,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "14 Two-post equalizer": {
+    "components": [
+      {
+        "seat": true,
+        "height": 5.999783695855964,
+        "tilt": 0.0,
+        "margins": [
+          1.519300645444296
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 1.9996018144333498,
+        "tilt": 0.0007401434599620846,
+        "margins": [
+          -82.68765333653182
+        ],
+        "drift": 5.753277837662182e-08,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      },
+      {
+        "seat": true,
+        "height": 9.980141265633707,
+        "tilt": 0.7984184327728124,
+        "margins": [
+          1.494610265403873,
+          1.492469654649252
+        ],
+        "drift": 0.00196546335917433,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 32.99803818665615,
+        "tilt": 90.0062473327073,
+        "margins": [
+          1.3167016917214445,
+          1.3113478921800272
+        ],
+        "drift": 3.533095818110024e-06,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "15 Split retainer yoke": {
+    "components": [
+      {
+        "seat": true,
+        "height": 5.9998921160716145,
+        "tilt": 5.193302344775284e-06,
+        "margins": [
+          1.1094729681066546,
+          1.1232988626935807
+        ],
+        "drift": 3.4544479377169087e-10,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 10.999358007410985,
+        "tilt": 179.99949626269577,
+        "margins": [
+          1.1090026680626381
+        ],
+        "drift": 7.805655078584938e-07,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      },
+      {
+        "seat": true,
+        "height": 10.999463713467023,
+        "tilt": 0.0001230323076715238,
+        "margins": [
+          1.039359640248363
+        ],
+        "drift": 1.0290571725591109e-07,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 1.9998921164786678,
+        "tilt": 3.306651113363206e-06,
+        "margins": [
+          -29.081145418335662,
+          -28.93721093059872
+        ],
+        "drift": 8.505544325908898e-11,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "16 Mixed shim height compensator": {
+    "components": [
+      {
+        "seat": true,
+        "height": 5.999787441365502,
+        "tilt": 7.217796547960354e-05,
+        "margins": [
+          0.7270625708035722
+        ],
+        "drift": 2.613039450512294e-09,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 9.99935839275924,
+        "tilt": 0.001570934228976399,
+        "margins": [
+          0.6467045760319314
+        ],
+        "drift": 0.0008397887791934135,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 7.9993509930031035,
+        "tilt": 0.0,
+        "margins": [
+          0.025258853595812703
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 4.294422669274363,
+        "tilt": 169.74459975750565,
+        "margins": [
+          -28.761942184375137,
+          -20.23340544118305
+        ],
+        "drift": 0.0031184737454072594,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 13.998132918944737,
+        "tilt": 0.001403029900741392,
+        "margins": [
+          0.7390335998942223
+        ],
+        "drift": 3.5502017292715475e-07,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "17 Twin post thrust cartridge": {
+    "components": [
+      {
+        "seat": true,
+        "height": 5.999891895418716,
+        "tilt": 0.0,
+        "margins": [
+          1.1006871574712436,
+          1.1006869905631607
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 9.999452279266,
+        "tilt": 0.00038187645066648223,
+        "margins": [
+          1.0805604471959958
+        ],
+        "drift": 0.0009612041777993875,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 13.607594141718492,
+        "tilt": 22.0580431467393,
+        "margins": [
+          1.0675442042540038
+        ],
+        "drift": 0.0022951236055748373,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 5.9033944577723005,
+        "tilt": 24.054119501802763,
+        "margins": [
+          -22.223320632068468,
+          -20.79278462274687
+        ],
+        "drift": 0.009322758448473764,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 13.998905070559909,
+        "tilt": 0.00018593065259833995,
+        "margins": [
+          1.120971633182401
+        ],
+        "drift": 6.29307834760106e-08,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "18 Staggered indexing frame": {
+    "components": [
+      {
+        "seat": true,
+        "height": 6.999787549122916,
+        "tilt": 7.916189984692177e-05,
+        "margins": [
+          0.7036090250324556
+        ],
+        "drift": 2.869195618009357e-09,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 1.9997552653894202,
+        "tilt": 0.00245414216186038,
+        "margins": [
+          -132.57015566028812
+        ],
+        "drift": 6.989090650584013e-05,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 4.99978364835854,
+        "tilt": 0.0,
+        "margins": [
+          0.7196905459076861
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      },
+      {
+        "seat": true,
+        "height": 11.993311401189992,
+        "tilt": 0.8134079508306388,
+        "margins": [
+          0.6291907357188371,
+          0.6270084778949123
+        ],
+        "drift": 0.0010136335653456133,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 1.9997670598363328,
+        "tilt": 0.0022988275175258284,
+        "margins": [
+          -115.30294965300777
+        ],
+        "drift": 6.585366736230208e-05,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 14.42812435186787,
+        "tilt": 8.591703806606976,
+        "margins": [
+          0.38581524833542774
+        ],
+        "drift": 0.026803935621125933,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "19 Double-deck blade cage": {
+    "components": [
+      {
+        "seat": true,
+        "height": 5.999675496320107,
+        "tilt": 2.699869328381916e-06,
+        "margins": [
+          1.5380931590230498,
+          1.5380931590230729
+        ],
+        "drift": 0.0,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 9.998580906157855,
+        "tilt": 0.0013446737068661004,
+        "margins": [
+          1.5053640927354879
+        ],
+        "drift": 2.776782660020779e-07,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 9.998202493133583,
+        "tilt": 0.0028723201631047383,
+        "margins": [
+          1.388836605687887
+        ],
+        "drift": 0.0024276286326062554,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 2.001808062078815,
+        "tilt": 0.024504671276649605,
+        "margins": [
+          -36.97164250308501,
+          -37.04523326847246
+        ],
+        "drift": 8.834431646784977e-14,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 13.996934681191252,
+        "tilt": 0.003796529236116005,
+        "margins": [
+          1.5352513670746344
+        ],
+        "drift": 9.197374785389592e-07,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 13.996472650645078,
+        "tilt": 0.002861150264613287,
+        "margins": [
+          1.5463895256611577
+        ],
+        "drift": 1.0754871803242323e-06,
+        "lift": true,
+        "carry": true,
+        "ok": false
+      },
+      {
+        "ok": false,
+        "detail": "unreachable staging after prior contact",
+        "p": [
+          -1064.5505214214684,
+          -14142.325108691084,
+          -3.854515941821591
+        ]
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "20 Mixed-profile bridge stack": {
+    "components": [
+      {
+        "seat": true,
+        "height": 5.999824465016315,
+        "tilt": 0.0003592257055418015,
+        "margins": [
+          1.4935716125240064,
+          1.5161542519649176
+        ],
+        "drift": 9.764437715705554e-09,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 9.999454154732652,
+        "tilt": 6.685652787989675e-05,
+        "margins": [
+          1.4057101217403687
+        ],
+        "drift": 1.1159226879232238e-07,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 9.998615340060542,
+        "tilt": 0.0011152238306813406,
+        "margins": [
+          1.511923468276339
+        ],
+        "drift": 1.1627031486122044e-06,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": true,
+        "height": 13.998473831161213,
+        "tilt": 0.003435969053901562,
+        "margins": [
+          1.4402730364478389,
+          1.4658034384557128
+        ],
+        "drift": 3.116017104257985e-07,
+        "lift": true,
+        "carry": true,
+        "ok": true
+      },
+      {
+        "seat": false,
+        "height": 1.9997836958559772,
+        "tilt": 180.0,
+        "margins": [
+          -29.174843632909873
+        ],
+        "drift": 0.0,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 9.999883276131017,
+        "tilt": 90.07172099897741,
+        "margins": [
+          -78.47213655255912
+        ],
+        "drift": 0.0006244207459367298,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      },
+      {
+        "seat": false,
+        "height": 17.997842033454614,
+        "tilt": 179.99535838978468,
+        "margins": [
+          0.2763647657623473,
+          0.13220534118348137
+        ],
+        "drift": 4.768576101344529e-07,
+        "lift": false,
+        "carry": false,
+        "ok": false
+      }
+    ],
+    "final": [
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  }
+}

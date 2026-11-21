@@ -1,0 +1,9002 @@
+[
+  {
+    "id": "B00P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.44,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.56,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.87,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 141.33,
+    "lateral": 14.43,
+    "tilt": 56.5,
+    "stable": true
+  },
+  {
+    "id": "B00P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.69,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 2.79,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 142.82,
+    "lateral": 3.52,
+    "tilt": 32.09,
+    "stable": true
+  },
+  {
+    "id": "B02P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.91,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P07",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 157.01,
+    "lateral": 11.47,
+    "tilt": 49.66,
+    "stable": true
+  },
+  {
+    "id": "B05P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 157.01,
+    "lateral": 11.47,
+    "tilt": 49.66,
+    "stable": true
+  },
+  {
+    "id": "B05P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.04,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 158.61,
+    "lateral": 11.55,
+    "tilt": 49.88,
+    "stable": true
+  },
+  {
+    "id": "B07P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.34,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.67,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.77,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.03,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 158.99,
+    "lateral": 14.98,
+    "tilt": 4.98,
+    "stable": true
+  },
+  {
+    "id": "B15P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 2.17,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P02",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 43.73,
+    "lateral": 51.86,
+    "tilt": 90.0,
+    "stable": true
+  },
+  {
+    "id": "B16P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.89,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.34,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 131.72,
+    "lateral": 3.1,
+    "tilt": 31.69,
+    "stable": true
+  },
+  {
+    "id": "B18P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 131.13,
+    "lateral": 2.28,
+    "tilt": 28.55,
+    "stable": true
+  },
+  {
+    "id": "B18P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.09,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.11,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.04,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 133.76,
+    "lateral": 14.3,
+    "tilt": 56.2,
+    "stable": true
+  },
+  {
+    "id": "B24P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.05,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.3,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.4,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 2.02,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.58,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 149.41,
+    "lateral": 18.59,
+    "tilt": 66.04,
+    "stable": true
+  },
+  {
+    "id": "B26P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 43.6,
+    "lateral": 47.13,
+    "tilt": 63.62,
+    "stable": true
+  },
+  {
+    "id": "B26P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.37,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 10.01,
+    "lateral": 1.9,
+    "tilt": 0.07,
+    "stable": true
+  },
+  {
+    "id": "B01P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.09,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 44.42,
+    "lateral": 45.66,
+    "tilt": 69.23,
+    "stable": true
+  },
+  {
+    "id": "B03P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.02,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.67,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P08",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 128.3,
+    "lateral": 17.26,
+    "tilt": 58.41,
+    "stable": true
+  },
+  {
+    "id": "B06P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 129.02,
+    "lateral": 16.39,
+    "tilt": 56.41,
+    "stable": true
+  },
+  {
+    "id": "B06P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 139.86,
+    "lateral": 12.24,
+    "tilt": 46.83,
+    "stable": true
+  },
+  {
+    "id": "B08P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.88,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.1,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.08,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.02,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.42,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.98,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P04",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 132.51,
+    "lateral": 11.37,
+    "tilt": 45.31,
+    "stable": true
+  },
+  {
+    "id": "B12P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.03,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 143.13,
+    "lateral": 13.38,
+    "tilt": 49.48,
+    "stable": true
+  },
+  {
+    "id": "B14P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 44.22,
+    "lateral": 46.69,
+    "tilt": 67.58,
+    "stable": true
+  },
+  {
+    "id": "B15P04",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 148.14,
+    "lateral": 12.9,
+    "tilt": 48.32,
+    "stable": true
+  },
+  {
+    "id": "B15P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 151.78,
+    "lateral": 8.08,
+    "tilt": 3.51,
+    "stable": true
+  },
+  {
+    "id": "B17P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 140.57,
+    "lateral": 1.66,
+    "tilt": 20.91,
+    "stable": true
+  },
+  {
+    "id": "B17P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 138.55,
+    "lateral": 14.25,
+    "tilt": 51.48,
+    "stable": true
+  },
+  {
+    "id": "B17P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 178.97,
+    "lateral": 13.03,
+    "tilt": 10.55,
+    "stable": true
+  },
+  {
+    "id": "B18P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 132.71,
+    "lateral": 25.76,
+    "tilt": 78.0,
+    "stable": true
+  },
+  {
+    "id": "B19P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P02",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 9.99,
+    "lateral": 66.45,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.21,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 150.43,
+    "lateral": 14.87,
+    "tilt": 52.9,
+    "stable": true
+  },
+  {
+    "id": "B21P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 9.99,
+    "lateral": 82.11,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.13,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.35,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.05,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.89,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 10.06,
+    "lateral": 2.1,
+    "tilt": 0.22,
+    "stable": true
+  },
+  {
+    "id": "B24P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 133.5,
+    "lateral": 21.68,
+    "tilt": 68.53,
+    "stable": true
+  },
+  {
+    "id": "B24P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P02",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 140.64,
+    "lateral": 1.57,
+    "tilt": 20.45,
+    "stable": true
+  },
+  {
+    "id": "B26P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.6,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 9.99,
+    "lateral": 89.04,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 44.23,
+    "lateral": 46.64,
+    "tilt": 67.65,
+    "stable": true
+  },
+  {
+    "id": "B26P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P08",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 9.99,
+    "lateral": 64.99,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.85,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.22,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 165.25,
+    "lateral": 15.26,
+    "tilt": 41.97,
+    "stable": true
+  },
+  {
+    "id": "B29P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.38,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 139.34,
+    "lateral": 0.73,
+    "tilt": 13.59,
+    "stable": true
+  },
+  {
+    "id": "B00P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 150.12,
+    "lateral": 53.61,
+    "tilt": 32.97,
+    "stable": true
+  },
+  {
+    "id": "B02P05",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 136.39,
+    "lateral": 31.83,
+    "tilt": 89.11,
+    "stable": true
+  },
+  {
+    "id": "B02P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 12.65,
+    "lateral": 1.07,
+    "tilt": 2.24,
+    "stable": true
+  },
+  {
+    "id": "B03P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 122.19,
+    "lateral": 26.78,
+    "tilt": 78.03,
+    "stable": true
+  },
+  {
+    "id": "B03P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.12,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.35,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 140.46,
+    "lateral": 3.11,
+    "tilt": 25.26,
+    "stable": true
+  },
+  {
+    "id": "B06P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P07",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 44.58,
+    "lateral": 55.98,
+    "tilt": 70.98,
+    "stable": true
+  },
+  {
+    "id": "B07P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P08",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 158.77,
+    "lateral": 17.1,
+    "tilt": 4.86,
+    "stable": true
+  },
+  {
+    "id": "B07P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.77,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.34,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P00",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 155.08,
+    "lateral": 15.67,
+    "tilt": 52.44,
+    "stable": true
+  },
+  {
+    "id": "B10P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.91,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.44,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 153.12,
+    "lateral": 7.29,
+    "tilt": 2.97,
+    "stable": true
+  },
+  {
+    "id": "B11P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 132.91,
+    "lateral": 14.03,
+    "tilt": 48.54,
+    "stable": true
+  },
+  {
+    "id": "B11P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.83,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 143.22,
+    "lateral": 29.57,
+    "tilt": 41.01,
+    "stable": true
+  },
+  {
+    "id": "B11P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 133.99,
+    "lateral": 25.89,
+    "tilt": 64.76,
+    "stable": true
+  },
+  {
+    "id": "B14P05",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 153.15,
+    "lateral": 12.25,
+    "tilt": 13.82,
+    "stable": true
+  },
+  {
+    "id": "B14P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P07",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 32.84,
+    "lateral": 0.34,
+    "tilt": 6.41,
+    "stable": true
+  },
+  {
+    "id": "B18P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 139.22,
+    "lateral": 24.94,
+    "tilt": 73.75,
+    "stable": true
+  },
+  {
+    "id": "B18P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.46,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 147.07,
+    "lateral": 1.59,
+    "tilt": 18.63,
+    "stable": true
+  },
+  {
+    "id": "B22P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.27,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 140.3,
+    "lateral": 15.0,
+    "tilt": 50.92,
+    "stable": true
+  },
+  {
+    "id": "B23P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 43.69,
+    "lateral": 62.36,
+    "tilt": 90.06,
+    "stable": false
+  },
+  {
+    "id": "B25P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 149.81,
+    "lateral": 0.61,
+    "tilt": 10.83,
+    "stable": true
+  },
+  {
+    "id": "B25P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.25,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.64,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P05",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.08,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P05",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 119.42,
+    "lateral": 30.36,
+    "tilt": 86.62,
+    "stable": true
+  },
+  {
+    "id": "B29P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.3,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.77,
+    "lateral": 0.49,
+    "tilt": 0.63,
+    "stable": true
+  },
+  {
+    "id": "B01P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 143.12,
+    "lateral": 29.18,
+    "tilt": 82.53,
+    "stable": true
+  },
+  {
+    "id": "B01P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 152.96,
+    "lateral": 1.77,
+    "tilt": 1.79,
+    "stable": true
+  },
+  {
+    "id": "B01P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 135.18,
+    "lateral": 19.33,
+    "tilt": 59.71,
+    "stable": true
+  },
+  {
+    "id": "B01P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.37,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.11,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 136.8,
+    "lateral": 15.25,
+    "tilt": 50.35,
+    "stable": true
+  },
+  {
+    "id": "B04P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 127.48,
+    "lateral": 27.96,
+    "tilt": 79.64,
+    "stable": true
+  },
+  {
+    "id": "B04P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 136.32,
+    "lateral": 1.56,
+    "tilt": 17.11,
+    "stable": true
+  },
+  {
+    "id": "B05P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.21,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 145.98,
+    "lateral": 30.1,
+    "tilt": 79.44,
+    "stable": false
+  },
+  {
+    "id": "B06P04",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 144.55,
+    "lateral": 0.06,
+    "tilt": 3.97,
+    "stable": true
+  },
+  {
+    "id": "B06P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.02,
+    "lateral": 0.5,
+    "tilt": 0.08,
+    "stable": true
+  },
+  {
+    "id": "B07P04",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 151.97,
+    "lateral": 10.9,
+    "tilt": 6.08,
+    "stable": true
+  },
+  {
+    "id": "B07P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.12,
+    "lateral": 0.42,
+    "tilt": 0.22,
+    "stable": true
+  },
+  {
+    "id": "B08P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.11,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 147.24,
+    "lateral": 28.49,
+    "tilt": 45.73,
+    "stable": true
+  },
+  {
+    "id": "B10P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.38,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 153.98,
+    "lateral": 14.19,
+    "tilt": 47.71,
+    "stable": true
+  },
+  {
+    "id": "B10P05",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 158.49,
+    "lateral": 10.07,
+    "tilt": 37.03,
+    "stable": true
+  },
+  {
+    "id": "B10P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.27,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 44.92,
+    "lateral": 59.77,
+    "tilt": 37.66,
+    "stable": true
+  },
+  {
+    "id": "B12P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 147.41,
+    "lateral": 30.56,
+    "tilt": 45.51,
+    "stable": true
+  },
+  {
+    "id": "B12P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.68,
+    "lateral": 0.56,
+    "tilt": 0.97,
+    "stable": true
+  },
+  {
+    "id": "B13P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.44,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 171.64,
+    "lateral": 7.31,
+    "tilt": 0.17,
+    "stable": true
+  },
+  {
+    "id": "B15P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.4,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.02,
+    "lateral": 0.32,
+    "tilt": 0.06,
+    "stable": true
+  },
+  {
+    "id": "B16P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 44.46,
+    "lateral": 47.03,
+    "tilt": 69.62,
+    "stable": true
+  },
+  {
+    "id": "B16P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.05,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.37,
+    "lateral": 0.38,
+    "tilt": 0.74,
+    "stable": true
+  },
+  {
+    "id": "B23P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P05",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.37,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.35,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 9.99,
+    "lateral": 116.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 42.74,
+    "lateral": 53.21,
+    "tilt": 59.55,
+    "stable": true
+  },
+  {
+    "id": "B28P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 168.91,
+    "lateral": 9.94,
+    "tilt": 0.07,
+    "stable": true
+  },
+  {
+    "id": "B02P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 56.21,
+    "lateral": 0.15,
+    "tilt": 1.97,
+    "stable": true
+  },
+  {
+    "id": "B02P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 147.94,
+    "lateral": 0.05,
+    "tilt": 2.44,
+    "stable": true
+  },
+  {
+    "id": "B03P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 10.19,
+    "lateral": 0.59,
+    "tilt": 0.54,
+    "stable": true
+  },
+  {
+    "id": "B03P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.18,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 44.66,
+    "lateral": 45.75,
+    "tilt": 71.93,
+    "stable": true
+  },
+  {
+    "id": "B06P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 159.77,
+    "lateral": 1.01,
+    "tilt": 11.39,
+    "stable": true
+  },
+  {
+    "id": "B08P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 148.24,
+    "lateral": 21.63,
+    "tilt": 64.41,
+    "stable": true
+  },
+  {
+    "id": "B08P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 68.7,
+    "lateral": 0.09,
+    "tilt": 1.79,
+    "stable": true
+  },
+  {
+    "id": "B12P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.26,
+    "tilt": 0.05,
+    "stable": true
+  },
+  {
+    "id": "B13P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 144.08,
+    "lateral": 0.15,
+    "tilt": 1.97,
+    "stable": true
+  },
+  {
+    "id": "B13P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.11,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P08",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 135.85,
+    "lateral": 0.12,
+    "tilt": 3.38,
+    "stable": true
+  },
+  {
+    "id": "B13P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 128.88,
+    "lateral": 21.55,
+    "tilt": 64.21,
+    "stable": true
+  },
+  {
+    "id": "B13P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 75.06,
+    "lateral": 0.06,
+    "tilt": 2.17,
+    "stable": true
+  },
+  {
+    "id": "B14P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 147.75,
+    "lateral": 0.11,
+    "tilt": 4.77,
+    "stable": true
+  },
+  {
+    "id": "B14P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 44.38,
+    "lateral": 47.68,
+    "tilt": 68.93,
+    "stable": true
+  },
+  {
+    "id": "B19P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 104.92,
+    "lateral": 0.04,
+    "tilt": 1.73,
+    "stable": true
+  },
+  {
+    "id": "B19P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.07,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 9.99,
+    "lateral": 88.55,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 132.64,
+    "lateral": 0.19,
+    "tilt": 4.96,
+    "stable": true
+  },
+  {
+    "id": "B21P00",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 132.02,
+    "lateral": 0.13,
+    "tilt": 4.3,
+    "stable": true
+  },
+  {
+    "id": "B21P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.18,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 160.78,
+    "lateral": 15.16,
+    "tilt": 49.47,
+    "stable": true
+  },
+  {
+    "id": "B21P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P08",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 133.51,
+    "lateral": 0.15,
+    "tilt": 3.24,
+    "stable": true
+  },
+  {
+    "id": "B22P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 132.26,
+    "lateral": 0.1,
+    "tilt": 4.47,
+    "stable": true
+  },
+  {
+    "id": "B22P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 178.89,
+    "lateral": 13.14,
+    "tilt": 6.94,
+    "stable": true
+  },
+  {
+    "id": "B25P04",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 68.52,
+    "lateral": 0.03,
+    "tilt": 2.14,
+    "stable": true
+  },
+  {
+    "id": "B25P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 164.01,
+    "lateral": 0.2,
+    "tilt": 4.55,
+    "stable": true
+  },
+  {
+    "id": "B27P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 180.57,
+    "lateral": 13.49,
+    "tilt": 0.56,
+    "stable": true
+  },
+  {
+    "id": "B27P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 147.46,
+    "lateral": 14.23,
+    "tilt": 47.25,
+    "stable": true
+  },
+  {
+    "id": "B27P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 167.21,
+    "lateral": 13.11,
+    "tilt": 0.58,
+    "stable": true
+  },
+  {
+    "id": "B27P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 44.64,
+    "lateral": 45.77,
+    "tilt": 71.69,
+    "stable": true
+  },
+  {
+    "id": "B28P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 10.22,
+    "lateral": 0.28,
+    "tilt": 0.37,
+    "stable": true
+  },
+  {
+    "id": "B28P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 158.15,
+    "lateral": 1.08,
+    "tilt": 13.19,
+    "stable": true
+  },
+  {
+    "id": "B29P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 153.97,
+    "lateral": 14.82,
+    "tilt": 48.7,
+    "stable": true
+  },
+  {
+    "id": "B29P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.36,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.2,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 171.36,
+    "lateral": 12.46,
+    "tilt": 7.17,
+    "stable": true
+  },
+  {
+    "id": "B03P04",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 171.78,
+    "lateral": 16.84,
+    "tilt": 6.45,
+    "stable": true
+  },
+  {
+    "id": "B03P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 2.67,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.56,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 2.51,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.98,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.15,
+    "lateral": 4.24,
+    "tilt": 0.3,
+    "stable": true
+  },
+  {
+    "id": "B06P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.4,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.44,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P00",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 152.46,
+    "lateral": 13.3,
+    "tilt": 2.68,
+    "stable": true
+  },
+  {
+    "id": "B07P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.98,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.47,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.62,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.65,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.57,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.02,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P08",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 148.69,
+    "lateral": 9.37,
+    "tilt": 4.04,
+    "stable": true
+  },
+  {
+    "id": "B10P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.27,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 152.25,
+    "lateral": 14.51,
+    "tilt": 17.2,
+    "stable": true
+  },
+  {
+    "id": "B12P00",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 152.28,
+    "lateral": 16.86,
+    "tilt": 17.53,
+    "stable": true
+  },
+  {
+    "id": "B12P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.46,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.6,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.5,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.22,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 2.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P07",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 148.04,
+    "lateral": 20.18,
+    "tilt": 19.39,
+    "stable": true
+  },
+  {
+    "id": "B15P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.33,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.02,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 167.01,
+    "lateral": 16.32,
+    "tilt": 18.79,
+    "stable": true
+  },
+  {
+    "id": "B16P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.58,
+    "lateral": 4.16,
+    "tilt": 0.83,
+    "stable": true
+  },
+  {
+    "id": "B18P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 3.18,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.83,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 94.92,
+    "lateral": 1.77,
+    "tilt": 3.34,
+    "stable": false
+  },
+  {
+    "id": "B19P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.45,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 159.56,
+    "lateral": 11.39,
+    "tilt": 7.44,
+    "stable": true
+  },
+  {
+    "id": "B21P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.72,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 151.37,
+    "lateral": 14.56,
+    "tilt": 11.49,
+    "stable": true
+  },
+  {
+    "id": "B22P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.39,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 178.75,
+    "lateral": 11.47,
+    "tilt": 6.31,
+    "stable": true
+  },
+  {
+    "id": "B23P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.8,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.98,
+    "lateral": 0.79,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.35,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.33,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 2.28,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 2.98,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P00",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 149.35,
+    "lateral": 20.53,
+    "tilt": 22.25,
+    "stable": true
+  },
+  {
+    "id": "B29P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 2.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 168.27,
+    "lateral": 37.97,
+    "tilt": 16.43,
+    "stable": true
+  },
+  {
+    "id": "B00P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.13,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P02",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 131.06,
+    "lateral": 35.68,
+    "tilt": 65.25,
+    "stable": true
+  },
+  {
+    "id": "B01P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.33,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.8,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.29,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P02",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 162.9,
+    "lateral": 12.1,
+    "tilt": 10.84,
+    "stable": true
+  },
+  {
+    "id": "B07P02",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 145.27,
+    "lateral": 30.9,
+    "tilt": 59.27,
+    "stable": true
+  },
+  {
+    "id": "B07P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P05",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.11,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.57,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 149.13,
+    "lateral": 14.21,
+    "tilt": 13.99,
+    "stable": true
+  },
+  {
+    "id": "B14P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.45,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.73,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.17,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 58.18,
+    "lateral": 57.28,
+    "tilt": 71.11,
+    "stable": true
+  },
+  {
+    "id": "B18P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.41,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.83,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.92,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P05",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.38,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P05",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.93,
+    "lateral": 1.8,
+    "tilt": 0.0,
+    "stable": false
+  },
+  {
+    "id": "B23P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 137.14,
+    "lateral": 33.73,
+    "tilt": 76.42,
+    "stable": true
+  },
+  {
+    "id": "B25P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 163.24,
+    "lateral": 15.78,
+    "tilt": 10.19,
+    "stable": true
+  },
+  {
+    "id": "B25P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 145.01,
+    "lateral": 7.08,
+    "tilt": 3.33,
+    "stable": true
+  },
+  {
+    "id": "B27P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.38,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 162.28,
+    "lateral": 17.76,
+    "tilt": 4.74,
+    "stable": true
+  },
+  {
+    "id": "B28P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 162.92,
+    "lateral": 9.03,
+    "tilt": 1.34,
+    "stable": false
+  },
+  {
+    "id": "B28P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P05",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.34,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.41,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.67,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.77,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.71,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P02",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 147.93,
+    "lateral": 31.95,
+    "tilt": 39.29,
+    "stable": true
+  },
+  {
+    "id": "B06P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 152.7,
+    "lateral": 10.51,
+    "tilt": 4.04,
+    "stable": true
+  },
+  {
+    "id": "B12P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.85,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.65,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P01",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.84,
+    "lateral": 0.79,
+    "tilt": 0.01,
+    "stable": false
+  },
+  {
+    "id": "B15P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.17,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.02,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 173.3,
+    "lateral": 9.98,
+    "tilt": 4.69,
+    "stable": true
+  },
+  {
+    "id": "B15P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.84,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.69,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.6,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 108.48,
+    "lateral": 0.15,
+    "tilt": 7.81,
+    "stable": true
+  },
+  {
+    "id": "B19P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.57,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.75,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.44,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.95,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P02",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 172.16,
+    "lateral": 6.95,
+    "tilt": 0.8,
+    "stable": true
+  },
+  {
+    "id": "B21P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 57.53,
+    "lateral": 59.18,
+    "tilt": 90.0,
+    "stable": true
+  },
+  {
+    "id": "B21P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 128.06,
+    "lateral": 0.15,
+    "tilt": 6.24,
+    "stable": true
+  },
+  {
+    "id": "B21P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 153.47,
+    "lateral": 23.32,
+    "tilt": 9.72,
+    "stable": true
+  },
+  {
+    "id": "B22P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 152.08,
+    "lateral": 22.38,
+    "tilt": 16.63,
+    "stable": true
+  },
+  {
+    "id": "B22P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P08",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 176.73,
+    "lateral": 19.38,
+    "tilt": 9.58,
+    "stable": true
+  },
+  {
+    "id": "B23P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 154.23,
+    "lateral": 34.13,
+    "tilt": 65.96,
+    "stable": true
+  },
+  {
+    "id": "B23P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P05",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.49,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.43,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 145.08,
+    "lateral": 37.84,
+    "tilt": 74.45,
+    "stable": true
+  },
+  {
+    "id": "B24P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P08",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 170.35,
+    "lateral": 10.2,
+    "tilt": 5.88,
+    "stable": true
+  },
+  {
+    "id": "B25P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.38,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 162.34,
+    "lateral": 10.3,
+    "tilt": 4.67,
+    "stable": true
+  },
+  {
+    "id": "B26P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.35,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P07",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 145.8,
+    "lateral": 28.67,
+    "tilt": 19.38,
+    "stable": true
+  },
+  {
+    "id": "B26P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 113.34,
+    "lateral": 0.25,
+    "tilt": 6.16,
+    "stable": true
+  },
+  {
+    "id": "B26P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 173.94,
+    "lateral": 11.89,
+    "tilt": 2.14,
+    "stable": true
+  },
+  {
+    "id": "B27P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.25,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.2,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.25,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.38,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.93,
+    "lateral": 1.01,
+    "tilt": 0.78,
+    "stable": true
+  },
+  {
+    "id": "B29P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 166.65,
+    "lateral": 32.34,
+    "tilt": 40.09,
+    "stable": true
+  },
+  {
+    "id": "B29P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.58,
+    "tilt": 0.02,
+    "stable": true
+  },
+  {
+    "id": "B02P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 146.99,
+    "lateral": 0.0,
+    "tilt": 3.35,
+    "stable": true
+  },
+  {
+    "id": "B02P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 154.63,
+    "lateral": 8.62,
+    "tilt": 1.59,
+    "stable": true
+  },
+  {
+    "id": "B04P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.42,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P01",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.17,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.47,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P05",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.28,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P05",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 170.47,
+    "lateral": 33.53,
+    "tilt": 11.39,
+    "stable": true
+  },
+  {
+    "id": "B08P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P07",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 153.04,
+    "lateral": 0.04,
+    "tilt": 3.23,
+    "stable": true
+  },
+  {
+    "id": "B09P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 176.9,
+    "lateral": 34.67,
+    "tilt": 15.1,
+    "stable": true
+  },
+  {
+    "id": "B09P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P08",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 166.99,
+    "lateral": 27.82,
+    "tilt": 7.74,
+    "stable": true
+  },
+  {
+    "id": "B09P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 128.68,
+    "lateral": 0.1,
+    "tilt": 3.17,
+    "stable": true
+  },
+  {
+    "id": "B09P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 143.99,
+    "lateral": 0.09,
+    "tilt": 3.98,
+    "stable": true
+  },
+  {
+    "id": "B11P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.4,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.44,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 67.2,
+    "lateral": 0.13,
+    "tilt": 3.18,
+    "stable": true
+  },
+  {
+    "id": "B14P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 129.67,
+    "lateral": 0.04,
+    "tilt": 4.77,
+    "stable": true
+  },
+  {
+    "id": "B14P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P02",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 156.63,
+    "lateral": 21.45,
+    "tilt": 11.0,
+    "stable": true
+  },
+  {
+    "id": "B17P02",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 56.6,
+    "lateral": 64.91,
+    "tilt": 64.1,
+    "stable": true
+  },
+  {
+    "id": "B17P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 11.43,
+    "lateral": 0.52,
+    "tilt": 1.79,
+    "stable": true
+  },
+  {
+    "id": "B18P00",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 147.6,
+    "lateral": 0.16,
+    "tilt": 4.65,
+    "stable": true
+  },
+  {
+    "id": "B18P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.38,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 147.94,
+    "lateral": 42.76,
+    "tilt": 18.43,
+    "stable": true
+  },
+  {
+    "id": "B20P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 46.17,
+    "lateral": 0.03,
+    "tilt": 4.05,
+    "stable": true
+  },
+  {
+    "id": "B21P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 105.25,
+    "lateral": 0.03,
+    "tilt": 3.35,
+    "stable": true
+  },
+  {
+    "id": "B21P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P02",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 172.38,
+    "lateral": 12.84,
+    "tilt": 3.68,
+    "stable": true
+  },
+  {
+    "id": "B22P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.42,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.13,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P04",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 177.55,
+    "lateral": 11.51,
+    "tilt": 10.0,
+    "stable": true
+  },
+  {
+    "id": "B26P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 57.53,
+    "lateral": 60.54,
+    "tilt": 90.0,
+    "stable": true
+  },
+  {
+    "id": "B27P00",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 147.32,
+    "lateral": 29.92,
+    "tilt": 31.64,
+    "stable": true
+  },
+  {
+    "id": "B27P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 145.55,
+    "lateral": 0.12,
+    "tilt": 2.27,
+    "stable": true
+  },
+  {
+    "id": "B00P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 10.13,
+    "lateral": 0.35,
+    "tilt": 0.26,
+    "stable": true
+  },
+  {
+    "id": "B00P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 127.46,
+    "lateral": 0.05,
+    "tilt": 1.8,
+    "stable": true
+  },
+  {
+    "id": "B01P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 163.35,
+    "lateral": 0.27,
+    "tilt": 2.37,
+    "stable": true
+  },
+  {
+    "id": "B01P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P01",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 174.13,
+    "lateral": 18.21,
+    "tilt": 1.78,
+    "stable": true
+  },
+  {
+    "id": "B02P01",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 57.62,
+    "lateral": 70.55,
+    "tilt": 89.41,
+    "stable": false
+  },
+  {
+    "id": "B02P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P00",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 152.89,
+    "lateral": 4.63,
+    "tilt": 0.46,
+    "stable": true
+  },
+  {
+    "id": "B03P00",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 154.16,
+    "lateral": 27.75,
+    "tilt": 8.84,
+    "stable": true
+  },
+  {
+    "id": "B03P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 119.23,
+    "lateral": 0.03,
+    "tilt": 1.92,
+    "stable": true
+  },
+  {
+    "id": "B04P05",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 121.12,
+    "lateral": 0.06,
+    "tilt": 2.02,
+    "stable": true
+  },
+  {
+    "id": "B04P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P07",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 140.59,
+    "lateral": 0.01,
+    "tilt": 2.6,
+    "stable": true
+  },
+  {
+    "id": "B06P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 132.84,
+    "lateral": 0.0,
+    "tilt": 1.99,
+    "stable": true
+  },
+  {
+    "id": "B06P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 180.56,
+    "lateral": 17.36,
+    "tilt": 2.15,
+    "stable": true
+  },
+  {
+    "id": "B07P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 179.88,
+    "lateral": 16.72,
+    "tilt": 6.4,
+    "stable": true
+  },
+  {
+    "id": "B07P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 97.92,
+    "lateral": 0.01,
+    "tilt": 1.82,
+    "stable": true
+  },
+  {
+    "id": "B08P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 122.72,
+    "lateral": 0.01,
+    "tilt": 1.62,
+    "stable": true
+  },
+  {
+    "id": "B08P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 173.24,
+    "lateral": 9.85,
+    "tilt": 1.44,
+    "stable": true
+  },
+  {
+    "id": "B09P04",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 144.67,
+    "lateral": 0.07,
+    "tilt": 1.88,
+    "stable": true
+  },
+  {
+    "id": "B09P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P02",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 162.49,
+    "lateral": 0.09,
+    "tilt": 3.43,
+    "stable": true
+  },
+  {
+    "id": "B11P02",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 107.61,
+    "lateral": 0.01,
+    "tilt": 1.8,
+    "stable": true
+  },
+  {
+    "id": "B11P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 145.11,
+    "lateral": 0.02,
+    "tilt": 1.88,
+    "stable": true
+  },
+  {
+    "id": "B16P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 155.46,
+    "lateral": 45.49,
+    "tilt": 22.77,
+    "stable": true
+  },
+  {
+    "id": "B16P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P07",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 61.63,
+    "lateral": 0.14,
+    "tilt": 2.61,
+    "stable": true
+  },
+  {
+    "id": "B16P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.26,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 153.02,
+    "lateral": 42.03,
+    "tilt": 14.79,
+    "stable": true
+  },
+  {
+    "id": "B17P05",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 158.8,
+    "lateral": 8.12,
+    "tilt": 0.8,
+    "stable": true
+  },
+  {
+    "id": "B17P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 163.92,
+    "lateral": 25.97,
+    "tilt": 8.37,
+    "stable": true
+  },
+  {
+    "id": "B18P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 73.71,
+    "lateral": 0.14,
+    "tilt": 2.76,
+    "stable": true
+  },
+  {
+    "id": "B18P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P05",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 176.13,
+    "lateral": 25.63,
+    "tilt": 7.02,
+    "stable": true
+  },
+  {
+    "id": "B19P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.96,
+    "lateral": 0.55,
+    "tilt": 0.06,
+    "stable": true
+  },
+  {
+    "id": "B19P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 157.52,
+    "lateral": 36.38,
+    "tilt": 63.09,
+    "stable": true
+  },
+  {
+    "id": "B22P09",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 106.58,
+    "lateral": 0.1,
+    "tilt": 2.32,
+    "stable": true
+  },
+  {
+    "id": "B22P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 81.61,
+    "lateral": 0.17,
+    "tilt": 2.35,
+    "stable": true
+  },
+  {
+    "id": "B24P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 120.39,
+    "lateral": 0.05,
+    "tilt": 2.16,
+    "stable": true
+  },
+  {
+    "id": "B24P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 147.1,
+    "lateral": 0.44,
+    "tilt": 3.86,
+    "stable": true
+  },
+  {
+    "id": "B25P06",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 154.94,
+    "lateral": 12.29,
+    "tilt": 7.58,
+    "stable": true
+  },
+  {
+    "id": "B25P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P07",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 142.46,
+    "lateral": 35.67,
+    "tilt": 28.15,
+    "stable": true
+  },
+  {
+    "id": "B29P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 126.58,
+    "lateral": 0.01,
+    "tilt": 1.95,
+    "stable": true
+  },
+  {
+    "id": "B29P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.88,
+    "lateral": 5.67,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.87,
+    "lateral": 1.07,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.87,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P06",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.96,
+    "lateral": 23.86,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.04,
+    "lateral": 2.58,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.04,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.22,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 1.58,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 2.82,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 0.17,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P05",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 2.32,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 1.02,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -32.03,
+    "lateral": 0.28,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 9.97,
+    "lateral": 138.68,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.03,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 9.87,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P02",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 30.47,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.02,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.97,
+    "lateral": 6.08,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P08",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.97,
+    "lateral": 11.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.03,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -32.0,
+    "lateral": 2.77,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.0,
+    "lateral": 0.36,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.0,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.75,
+    "lateral": 23.7,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.0,
+    "lateral": 1.99,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.0,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 44.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.02,
+    "lateral": 0.57,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.02,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.87,
+    "lateral": 9.74,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P02",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.87,
+    "lateral": 8.34,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.88,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P02",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 0.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P02",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 0.28,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.83,
+    "lateral": 32.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.92,
+    "lateral": 3.86,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.92,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P07",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -32.01,
+    "lateral": 0.34,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P07",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.01,
+    "lateral": 0.86,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.01,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P07",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.99,
+    "lateral": 15.97,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P07",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.99,
+    "lateral": 16.53,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.01,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.87,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.9,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 52.73,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.97,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P09",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 15.58,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.08,
+    "lateral": 0.82,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.08,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P06",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 21.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 1.04,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P06",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 6.9,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P06",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 6.9,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.02,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P03",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.79,
+    "lateral": 7.37,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 0.26,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P06",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.94,
+    "lateral": 37.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P06",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.94,
+    "lateral": 14.42,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.06,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P09",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 9.84,
+    "lateral": 231.11,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.91,
+    "lateral": 0.81,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.91,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.49,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P04",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 9.93,
+    "lateral": 73.42,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P04",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.93,
+    "lateral": 21.12,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.07,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.81,
+    "lateral": 20.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.94,
+    "lateral": 1.35,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.94,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P09",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.9,
+    "lateral": 14.39,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P09",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.9,
+    "lateral": 6.28,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.85,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P09",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.86,
+    "lateral": 4.11,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P09",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.86,
+    "lateral": 2.26,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.89,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P04",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.91,
+    "lateral": 8.88,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.09,
+    "lateral": 1.18,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.09,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P09",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.82,
+    "lateral": 10.25,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.45,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P03",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.81,
+    "lateral": 10.95,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P03",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.94,
+    "lateral": 0.95,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.94,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.84,
+    "lateral": 7.6,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.91,
+    "lateral": 0.4,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.91,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.89,
+    "lateral": 9.67,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.86,
+    "lateral": 1.83,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.86,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P06",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -32.09,
+    "lateral": 0.54,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.09,
+    "lateral": 0.04,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.09,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.8,
+    "lateral": 1.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P00",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.8,
+    "lateral": 6.32,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P04",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.89,
+    "lateral": 6.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.86,
+    "lateral": 0.91,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.86,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.86,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P08",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.82,
+    "lateral": 2.84,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P04",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.84,
+    "lateral": 14.37,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.91,
+    "lateral": 0.47,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.91,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P06",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 10.0,
+    "lateral": 224.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.0,
+    "lateral": 0.46,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B04P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.0,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.94,
+    "lateral": 1.58,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.06,
+    "lateral": 0.18,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.06,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.83,
+    "lateral": 5.3,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P02",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.83,
+    "lateral": 1.77,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.92,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.79,
+    "lateral": 9.09,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P08",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.79,
+    "lateral": 7.39,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B08P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.96,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 15.81,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P05",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 2.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.08,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.85,
+    "lateral": 34.79,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P08",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 9.85,
+    "lateral": 144.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.9,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P09",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.87,
+    "lateral": 8.39,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.88,
+    "lateral": 0.4,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.88,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P06",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.97,
+    "lateral": 10.63,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.03,
+    "lateral": 0.53,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.03,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 1.03,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.08,
+    "lateral": 0.43,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.08,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.94,
+    "lateral": 11.84,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P08",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.94,
+    "lateral": 11.84,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B16P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.06,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 9.62,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P00",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 4.4,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 14.76,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P08",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 3.77,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.02,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P01",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 10.0,
+    "lateral": 35.98,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P01",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 10.0,
+    "lateral": 1.12,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.0,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.9,
+    "lateral": 1.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.85,
+    "lateral": 0.62,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.85,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 45.45,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P02",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 8.75,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.02,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P03",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.8,
+    "lateral": 0.61,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P03",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.8,
+    "lateral": 13.81,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P09",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.97,
+    "lateral": 5.85,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P09",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.97,
+    "lateral": 2.58,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B02P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.03,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P07",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.89,
+    "lateral": 1.88,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P07",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.89,
+    "lateral": 0.63,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B03P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.86,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 0.66,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P00",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.44,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B06P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.87,
+    "lateral": 14.24,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P05",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.88,
+    "lateral": 0.32,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.88,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 9.8,
+    "lateral": 196.63,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P03",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 9.8,
+    "lateral": 154.63,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B13P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P04",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.93,
+    "lateral": 6.45,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P04",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.93,
+    "lateral": 0.95,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.07,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 10.04,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P02",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 10.04,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.08,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P03",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.77,
+    "lateral": 2.77,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P03",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.77,
+    "lateral": 1.17,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.98,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 3.47,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P05",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 1.18,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.85,
+    "lateral": 10.49,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P02",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.85,
+    "lateral": 2.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.9,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P07",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.81,
+    "lateral": 2.85,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P07",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.81,
+    "lateral": 2.55,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B19P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.94,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.81,
+    "lateral": 10.92,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P05",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.81,
+    "lateral": 1.18,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.94,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P03",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.91,
+    "lateral": 0.36,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P03",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.84,
+    "lateral": 15.44,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B21P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.91,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P07",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.91,
+    "lateral": 3.85,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P07",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 9.91,
+    "lateral": 130.75,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B22P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.09,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P00",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.94,
+    "lateral": 0.29,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P00",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.81,
+    "lateral": 1.41,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.94,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P01",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.95,
+    "lateral": 9.71,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P01",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.05,
+    "lateral": 0.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.05,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P04",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.88,
+    "lateral": 0.35,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P04",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.87,
+    "lateral": 1.05,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.88,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P07",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 3.8,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P07",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 20.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B25P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.82,
+    "lateral": 1.69,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P00",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.82,
+    "lateral": 13.69,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.93,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P09",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.9,
+    "lateral": 0.89,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P09",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.1,
+    "lateral": 0.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B27P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.1,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P08",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -32.03,
+    "lateral": 0.26,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P08",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.97,
+    "lateral": 16.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.03,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 0.97,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P02",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 8.07,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P03",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.83,
+    "lateral": 13.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P03",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.83,
+    "lateral": 0.68,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B29P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.92,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.94,
+    "lateral": 9.53,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P02",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 9.94,
+    "lateral": 136.67,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B00P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.06,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P09",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": -31.89,
+    "lateral": 0.11,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P09",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.86,
+    "lateral": 23.09,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B01P09",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.89,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.83,
+    "lateral": 9.95,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P05",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.83,
+    "lateral": 1.05,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.92,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P06",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.93,
+    "lateral": 1.29,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P06",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.07,
+    "lateral": 0.2,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B05P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.07,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P03",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.9,
+    "lateral": 13.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P03",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.9,
+    "lateral": 2.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B07P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.1,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.9,
+    "lateral": 2.83,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P00",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.9,
+    "lateral": 0.53,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B09P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.85,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P03",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.93,
+    "lateral": 2.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P03",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.93,
+    "lateral": 1.95,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.07,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P04",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 3.54,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P04",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.78,
+    "lateral": 3.08,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B10P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.97,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P00",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.88,
+    "lateral": 13.03,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P00",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.88,
+    "lateral": 0.37,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B11P00",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.87,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P03",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.81,
+    "lateral": 6.22,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P03",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.81,
+    "lateral": 0.28,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B12P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.94,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 0.98,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P02",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 3.65,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B14P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.08,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P03",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 9.75,
+    "lateral": 199.36,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P03",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.75,
+    "lateral": 2.89,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P03",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.0,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P06",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 0.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P06",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 30.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B15P06",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.02,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P04",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.98,
+    "lateral": 5.76,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P04",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -32.02,
+    "lateral": 0.21,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B17P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.02,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P02",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.8,
+    "lateral": 14.47,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P02",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.8,
+    "lateral": 0.47,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B18P02",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.95,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.99,
+    "lateral": 6.88,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P08",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.43,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B20P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.01,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P04",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.76,
+    "lateral": 39.03,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P04",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.76,
+    "lateral": 0.63,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P04",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P07",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.77,
+    "lateral": 0.34,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P07",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.77,
+    "lateral": 14.91,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B23P07",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.98,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.83,
+    "lateral": 3.66,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P08",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.83,
+    "lateral": 0.94,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B24P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.92,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P05",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 5.94,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P05",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.92,
+    "lateral": 0.96,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P05",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -32.08,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P08",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.76,
+    "lateral": 26.05,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P08",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": -31.99,
+    "lateral": 0.09,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B26P08",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P01",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 9.88,
+    "lateral": 8.57,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P01",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 9.88,
+    "lateral": 6.57,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "B28P01",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": -31.87,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  }
+]

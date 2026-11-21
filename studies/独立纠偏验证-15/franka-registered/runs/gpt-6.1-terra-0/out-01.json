@@ -1,0 +1,26 @@
+{
+  "component": "end flange",
+  "pick": [
+    0.6195,
+    -0.1315
+  ],
+  "target": [
+    0.499,
+    0.08750000000000001
+  ],
+  "lift_mm": 128.57621964230023,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 249.83771707869914,
+  "xy_mm": 0.33764041835480757,
+  "z_mm": -0.002583890030400521,
+  "tilt": 0.001169904815344827,
+  "seated": true,
+  "ok": true
+}

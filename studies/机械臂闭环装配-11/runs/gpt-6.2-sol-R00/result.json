@@ -1,0 +1,17 @@
+{
+  "scene": "R00",
+  "model": "gpt-6.2-sol",
+  "grasp": true,
+  "lift": true,
+  "carry": true,
+  "measure": true,
+  "kept": true,
+  "retries": 1,
+  "success": true,
+  "final_pin_errors": [
+    0.5375967281393785,
+    0.2814230576449628
+  ],
+  "final_height": 6.99990759592933,
+  "release_drift_mm": 0.0
+}

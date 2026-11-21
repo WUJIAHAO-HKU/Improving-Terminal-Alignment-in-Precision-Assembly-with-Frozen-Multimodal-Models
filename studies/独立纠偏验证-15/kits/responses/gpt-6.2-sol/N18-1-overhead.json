@@ -1,0 +1,20 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"anchor\":[[313,172],[356,166]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Double-deck blade cage. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. lower frame in staging nest near world XY [-83, 0] mm, profile bridge, thickness 4 mm, destination LR; 2. left slide in staging nest near world XY [42, -50] mm, profile slot, thickness 4 mm, destination L; 3. right slide in staging nest near world XY [-30, -47] mm, profile slot, thickness 4 mm, destination R; 4. middle frame in staging nest near world XY [-30, 47] mm, profile bridge, thickness 4 mm, destination LR; 5. left guide in staging nest near world XY [-83, -47] mm, profile slot, thickness 4 mm, destination L; 6. right guide in staging nest near world XY [-30, 0] mm, profile slot, thickness 4 mm, destination R; 7. roof in staging nest near world XY [42, 50] mm, profile bridge, thickness 4 mm, destination LR. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.94 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Image 1 = initial, image 2 = live AFTER the first commanded component. Using the station and newly observed placement, command remaining assembly in BOM order (grasp targets saved). Report updated mating anchor in the FIRST image, accounting for the live image when helpful. Override output frame: report anchor pixel coordinates in the INITIAL overhead image (image 3); image 4 is live overhead. Reply {\"op\":\"assemble\",\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "overhead",
+  "id": "N18-1",
+  "anchor": [
+    47.414945067772955,
+    5.240599191701221,
+    7.94347181059041
+  ],
+  "inputs": [
+    "observations/N18-1/initial-eye.jpg",
+    "runs/gpt-6.2-sol/N18-1/live-eye.jpg",
+    "observations/N18-1/initial-top.jpg",
+    "runs/gpt-6.2-sol/N18-1/live-top.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 12.636858600075357
+}

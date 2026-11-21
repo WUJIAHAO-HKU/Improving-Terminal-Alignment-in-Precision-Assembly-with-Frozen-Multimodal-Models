@@ -1,0 +1,20 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"anchor\":[[305,167],[313,167]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Indexed cam pack. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. cam plate in staging nest near world XY [42, 50] mm, profile dflat, thickness 5 mm, destination M; 2. distance washer in staging nest near world XY [-83, 47] mm, profile round, thickness 4 mm, destination M; 3. index plate in staging nest near world XY [-83, 0] mm, profile dflat, thickness 5 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.56 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Image 1 = initial, image 2 = live AFTER the first commanded component. Using the station and newly observed placement, command remaining assembly in BOM order (grasp targets saved). Report updated mating anchor in the FIRST image, accounting for the live image when helpful. Additional images are initial and live registered depth (fixed 225--370 mm optical depth color range; near yellow, far purple). Reply {\"op\":\"assemble\",\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "depth",
+  "id": "K05-4",
+  "anchor": [
+    39.712340082217835,
+    -2.068510649794547,
+    1.6764710468064834
+  ],
+  "inputs": [
+    "observations/K05-4/initial-eye.jpg",
+    "runs/gpt-6.1-terra/K05-4/live-eye.jpg",
+    "observations/K05-4/initial-depth.jpg",
+    "runs/gpt-6.1-terra/K05-4/live-depth.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 12.690817599999718
+}

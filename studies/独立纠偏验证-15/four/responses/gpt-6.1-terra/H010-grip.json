@@ -1,0 +1,17 @@
+{
+  "model": "gpt-6.1-terra",
+  "mode": "grip",
+  "id": "H010",
+  "raw": "{\"op\":\"pick\",\"points\":[[154,158],[176,157]]}",
+  "action": {
+    "x": -46.321,
+    "y": 15.777,
+    "yaw": 5.289
+  },
+  "prompt": "You operate an XYZ+yaw Cartesian robot with a parallel-jaw gripper. Reply JSON only. No tools. World X increases toward image right, Y away; yaw is counterclockwise from above. Images 480x360. Pixel coordinates (u,v) from top left. The gray movable component starts left of the dark receiving fixture with brass mating features. The task is to insert the unmarked D-shaped sleeve with flat to local +X. Recipe dimension 14.5 mm, part outer width 22.0 mm, clearance per side 0.45 mm. Command pick and lift; locate two points on its longitudinal centerline, symmetric about the MOVABLE component center, left then right, on the top face. Do not target the receiving fixture. Use visible long plate edges to judge yaw. Return {\"op\":\"pick\",\"points\":[[u,v],[u,v]]}.",
+  "input_images": [
+    "initial/H010/00-eye.png"
+  ],
+  "seconds": 15.340239399927668,
+  "attempts": 1
+}

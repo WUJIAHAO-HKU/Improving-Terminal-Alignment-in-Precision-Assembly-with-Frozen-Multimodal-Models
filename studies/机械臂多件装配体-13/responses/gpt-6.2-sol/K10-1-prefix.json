@@ -1,0 +1,34 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\n  \"op\": \"assemble\",\n  \"picks\": [\n    [[289, 124], [315, 123]],\n    [[162, 241], [195, 243]],\n    [[163, 127], [223, 125]]\n  ],\n  \"anchor\": [[304, 168], [340, 168]]\n}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Paired blade guide block. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. left insert in staging nest near world XY [42, 50] mm, profile slot, thickness 6 mm, destination L; 2. right insert in staging nest near world XY [-30, -47] mm, profile slot, thickness 6 mm, destination R; 3. guide cap in staging nest near world XY [-30, 47] mm, profile bridge, thickness 5 mm, destination LR. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.23 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "K10-1",
+  "anchor": [
+    47.62635389780901,
+    0.13905317541542672,
+    1.6764710468067392
+  ],
+  "inputs": [
+    "observations/K10-1/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 25.120495000039227,
+  "picks": [
+    [
+      39.471344326595904,
+      49.00562715048632,
+      4.89267524807903
+    ],
+    [
+      -31.393587955318832,
+      -46.39756143099895,
+      -2.4724076689600167
+    ],
+    [
+      -31.716682856697787,
+      45.60943679271743,
+      4.472051674935258
+    ]
+  ]
+}

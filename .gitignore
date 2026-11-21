@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv*/
+/reviewer/table1.txt
+/reviewer/table2.txt
+/reviewer/audit.json

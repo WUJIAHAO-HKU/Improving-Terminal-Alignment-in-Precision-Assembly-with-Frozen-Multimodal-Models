@@ -1,0 +1,1 @@
+Study 12. Four unmarked physical robot tasks, 100 unique scenes, two requested models sharing the scenes. Grasp under model control and all alternative placements physically replayed. See lock.json and combined.json. Model observations and hidden outcome/scene data must be kept separate during evaluation.

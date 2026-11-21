@@ -1,0 +1,854 @@
+{
+  "n": 300,
+  "batches": 30,
+  "direct": 172,
+  "always": 223,
+  "oracle": 300,
+  "both_fail": 48,
+  "full_gate": 233,
+  "any_works": 252,
+  "measurement_alone": {
+    "diff": 17.0,
+    "wins": 80,
+    "losses": 29,
+    "lower": 11.116870939355568,
+    "bootstrap_lower": 11.333333333333334,
+    "ci": [
+      9.918510649630285,
+      24.081489350369715
+    ],
+    "p_noninferior": 3.030742092986596e-07,
+    "exceeds_margin": true
+  },
+  "full_gate_vs_always": {
+    "diff": 3.3333333333333335,
+    "wins": 23,
+    "losses": 13,
+    "lower": 0.04088755081157203,
+    "bootstrap_lower": 0.3333333333333333,
+    "ci": [
+      -0.629765130980076,
+      7.296431797646743
+    ],
+    "p_noninferior": 8.796848299205498e-05,
+    "exceeds_margin": true
+  },
+  "budgets": {
+    "0": {
+      "measured": 0,
+      "kept": 0,
+      "accepted": 0,
+      "rescued": 0,
+      "wrong_reject": 0,
+      "harmful_accept": 0,
+      "beneficial_accept": 0,
+      "skip_harm": 80,
+      "skip_gain": 29,
+      "gated": 172,
+      "unconditional": 172,
+      "clearance": 172,
+      "view": 172,
+      "vs_always": {
+        "diff": -17.0,
+        "wins": 29,
+        "losses": 80,
+        "lower": -22.883129060644432,
+        "bootstrap_lower": -22.666666666666668,
+        "ci": [
+          -24.081489350369715,
+          -9.918510649630285
+        ],
+        "p_noninferior": 0.9991661090348357,
+        "exceeds_margin": false
+      },
+      "vs_full_gate": {
+        "diff": -20.333333333333332,
+        "wins": 6,
+        "losses": 67,
+        "lower": -24.8312607918023,
+        "bootstrap_lower": -24.666666666666668,
+        "ci": [
+          -25.747463308648623,
+          -14.919203358018041
+        ],
+        "p_noninferior": 0.9999985899226227,
+        "exceeds_margin": false
+      },
+      "vs_unconditional": {
+        "diff": 0.0,
+        "wins": 0,
+        "losses": 0,
+        "lower": 0.0,
+        "bootstrap_lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "p_noninferior": null,
+        "exceeds_margin": false
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 74,
+          "measured": 0
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 68,
+          "measured": 0
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 30,
+          "measured": 0
+        }
+      }
+    },
+    "1": {
+      "measured": 30,
+      "kept": 1,
+      "accepted": 29,
+      "rescued": 0,
+      "wrong_reject": 0,
+      "harmful_accept": 0,
+      "beneficial_accept": 16,
+      "skip_harm": 64,
+      "skip_gain": 29,
+      "gated": 188,
+      "unconditional": 188,
+      "clearance": 175,
+      "view": 175,
+      "vs_always": {
+        "diff": -11.666666666666666,
+        "wins": 29,
+        "losses": 64,
+        "lower": -17.60220771195035,
+        "bootstrap_lower": -17.333333333333332,
+        "ci": [
+          -18.81124402806396,
+          -4.52208930526937
+        ],
+        "p_noninferior": 0.9668600440221184,
+        "exceeds_margin": false
+      },
+      "vs_full_gate": {
+        "diff": -15.0,
+        "wins": 6,
+        "losses": 51,
+        "lower": -19.51755844082114,
+        "bootstrap_lower": -19.333333333333332,
+        "ci": [
+          -20.43775967832388,
+          -9.562240321676123
+        ],
+        "p_noninferior": 0.9996189633117639,
+        "exceeds_margin": false
+      },
+      "vs_unconditional": {
+        "diff": 0.0,
+        "wins": 0,
+        "losses": 0,
+        "lower": 0.0,
+        "bootstrap_lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "p_noninferior": null,
+        "exceeds_margin": false
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 74,
+          "measured": 0
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 68,
+          "measured": 1
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 46,
+          "measured": 29
+        }
+      }
+    },
+    "2": {
+      "measured": 60,
+      "kept": 1,
+      "accepted": 59,
+      "rescued": 0,
+      "wrong_reject": 0,
+      "harmful_accept": 1,
+      "beneficial_accept": 24,
+      "skip_harm": 56,
+      "skip_gain": 28,
+      "gated": 195,
+      "unconditional": 195,
+      "clearance": 185,
+      "view": 176,
+      "vs_always": {
+        "diff": -9.333333333333334,
+        "wins": 28,
+        "losses": 56,
+        "lower": -14.79424986012728,
+        "bootstrap_lower": -14.666666666666666,
+        "ci": [
+          -15.906607832178558,
+          -2.7600588344881096
+        ],
+        "p_noninferior": 0.9059983972569063,
+        "exceeds_margin": false
+      },
+      "vs_full_gate": {
+        "diff": -12.666666666666666,
+        "wins": 5,
+        "losses": 43,
+        "lower": -16.568015745425164,
+        "bootstrap_lower": -16.333333333333332,
+        "ci": [
+          -17.36269860282085,
+          -7.970634730512485
+        ],
+        "p_noninferior": 0.9988396983810823,
+        "exceeds_margin": false
+      },
+      "vs_unconditional": {
+        "diff": 0.0,
+        "wins": 0,
+        "losses": 0,
+        "lower": 0.0,
+        "bootstrap_lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "p_noninferior": null,
+        "exceeds_margin": false
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 74,
+          "measured": 0
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 71,
+          "measured": 6
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 50,
+          "measured": 54
+        }
+      }
+    },
+    "3": {
+      "measured": 90,
+      "kept": 3,
+      "accepted": 87,
+      "rescued": 0,
+      "wrong_reject": 0,
+      "harmful_accept": 1,
+      "beneficial_accept": 34,
+      "skip_harm": 46,
+      "skip_gain": 28,
+      "gated": 205,
+      "unconditional": 205,
+      "clearance": 192,
+      "view": 174,
+      "vs_always": {
+        "diff": -6.0,
+        "wins": 28,
+        "losses": 46,
+        "lower": -11.254457512940405,
+        "bootstrap_lower": -11.0,
+        "ci": [
+          -12.3247609454588,
+          0.3247609454588005
+        ],
+        "p_noninferior": 0.6256317982622746,
+        "exceeds_margin": false
+      },
+      "vs_full_gate": {
+        "diff": -9.333333333333334,
+        "wins": 5,
+        "losses": 33,
+        "lower": -12.685707213311835,
+        "bootstrap_lower": -12.666666666666666,
+        "ci": [
+          -13.368566911385235,
+          -5.298099755281433
+        ],
+        "p_noninferior": 0.9818923559138094,
+        "exceeds_margin": false
+      },
+      "vs_unconditional": {
+        "diff": 0.0,
+        "wins": 0,
+        "losses": 0,
+        "lower": 0.0,
+        "bootstrap_lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "p_noninferior": null,
+        "exceeds_margin": false
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 74,
+          "measured": 0
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 72,
+          "measured": 15
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 59,
+          "measured": 75
+        }
+      }
+    },
+    "4": {
+      "measured": 120,
+      "kept": 7,
+      "accepted": 113,
+      "rescued": 1,
+      "wrong_reject": 0,
+      "harmful_accept": 1,
+      "beneficial_accept": 42,
+      "skip_harm": 38,
+      "skip_gain": 27,
+      "gated": 213,
+      "unconditional": 212,
+      "clearance": 200,
+      "view": 180,
+      "vs_always": {
+        "diff": -3.3333333333333335,
+        "wins": 28,
+        "losses": 38,
+        "lower": -8.243925209547195,
+        "bootstrap_lower": -8.0,
+        "ci": [
+          -9.24418514653686,
+          2.5775184798701933
+        ],
+        "p_noninferior": 0.284300061282371,
+        "exceeds_margin": false
+      },
+      "vs_full_gate": {
+        "diff": -6.666666666666667,
+        "wins": 5,
+        "losses": 25,
+        "lower": -9.856731487896907,
+        "bootstrap_lower": -9.666666666666666,
+        "ci": [
+          -10.506529743893887,
+          -2.8268035894394465
+        ],
+        "p_noninferior": 0.8090019668484272,
+        "exceeds_margin": false
+      },
+      "vs_unconditional": {
+        "diff": 0.3333333333333333,
+        "wins": 1,
+        "losses": 0,
+        "lower": -0.23304234217783243,
+        "bootstrap_lower": 0.0,
+        "ci": [
+          -0.34840988071090123,
+          1.0150765473775678
+        ],
+        "p_noninferior": 3.1420787060676516e-16,
+        "exceeds_margin": true
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 74,
+          "measured": 0
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 77,
+          "measured": 32
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 62,
+          "measured": 88
+        }
+      }
+    },
+    "5": {
+      "measured": 150,
+      "kept": 17,
+      "accepted": 133,
+      "rescued": 7,
+      "wrong_reject": 0,
+      "harmful_accept": 3,
+      "beneficial_accept": 45,
+      "skip_harm": 35,
+      "skip_gain": 19,
+      "gated": 214,
+      "unconditional": 207,
+      "clearance": 211,
+      "view": 187,
+      "vs_always": {
+        "diff": -3.0,
+        "wins": 26,
+        "losses": 35,
+        "lower": -7.546845998394071,
+        "bootstrap_lower": -7.333333333333333,
+        "ci": [
+          -8.473012946595427,
+          2.4730129465954267
+        ],
+        "p_noninferior": 0.23042375985104738,
+        "exceeds_margin": false
+      },
+      "vs_full_gate": {
+        "diff": -6.333333333333333,
+        "wins": 3,
+        "losses": 22,
+        "lower": -9.094007842389312,
+        "bootstrap_lower": -9.0,
+        "ci": [
+          -9.656341707651675,
+          -3.0103249590149903
+        ],
+        "p_noninferior": 0.7907251339347795,
+        "exceeds_margin": false
+      },
+      "vs_unconditional": {
+        "diff": 2.3333333333333335,
+        "wins": 7,
+        "losses": 0,
+        "lower": 0.9988334743453766,
+        "bootstrap_lower": 1.0,
+        "ci": [
+          0.7270033612932618,
+          3.939663305373405
+        ],
+        "p_noninferior": 1.5280413199999264e-10,
+        "exceeds_margin": true
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 74,
+          "measured": 2
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 77,
+          "measured": 58
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 63,
+          "measured": 90
+        }
+      }
+    },
+    "6": {
+      "measured": 180,
+      "kept": 27,
+      "accepted": 153,
+      "rescued": 10,
+      "wrong_reject": 1,
+      "harmful_accept": 4,
+      "beneficial_accept": 53,
+      "skip_harm": 26,
+      "skip_gain": 15,
+      "gated": 221,
+      "unconditional": 212,
+      "clearance": 217,
+      "view": 200,
+      "vs_always": {
+        "diff": -0.6666666666666666,
+        "wins": 25,
+        "losses": 27,
+        "lower": -4.734577182978327,
+        "bootstrap_lower": -4.666666666666667,
+        "ci": [
+          -5.563187668088064,
+          4.22985433475473
+        ],
+        "p_noninferior": 0.04033607485646861,
+        "exceeds_margin": true
+      },
+      "vs_full_gate": {
+        "diff": -4.0,
+        "wins": 2,
+        "losses": 14,
+        "lower": -6.245887590837764,
+        "bootstrap_lower": -6.333333333333333,
+        "ci": [
+          -6.703362257176623,
+          -1.2966377428233766
+        ],
+        "p_noninferior": 0.22771096828147874,
+        "exceeds_margin": false
+      },
+      "vs_unconditional": {
+        "diff": 3.0,
+        "wins": 10,
+        "losses": 1,
+        "lower": 0.9796864467991937,
+        "bootstrap_lower": 1.0,
+        "ci": [
+          0.568159942792084,
+          5.431840057207916
+        ],
+        "p_noninferior": 1.1041155674249733e-07,
+        "exceeds_margin": true
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 77,
+          "measured": 11
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 81,
+          "measured": 79
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 63,
+          "measured": 90
+        }
+      },
+      "confirmatory": "通过"
+    },
+    "7": {
+      "measured": 210,
+      "kept": 39,
+      "accepted": 171,
+      "rescued": 12,
+      "wrong_reject": 1,
+      "harmful_accept": 4,
+      "beneficial_accept": 59,
+      "skip_harm": 20,
+      "skip_gain": 13,
+      "gated": 227,
+      "unconditional": 216,
+      "clearance": 227,
+      "view": 208,
+      "vs_always": {
+        "diff": 1.3333333333333333,
+        "wins": 25,
+        "losses": 21,
+        "lower": -2.5509667967918936,
+        "bootstrap_lower": -2.3333333333333335,
+        "ci": [
+          -3.3421768792725493,
+          6.008843545939215
+        ],
+        "p_noninferior": 0.004833425683875094,
+        "exceeds_margin": true
+      },
+      "vs_full_gate": {
+        "diff": -2.0,
+        "wins": 2,
+        "losses": 8,
+        "lower": -3.708864223879795,
+        "bootstrap_lower": -3.6666666666666665,
+        "ci": [
+          -4.05695025179458,
+          0.05695025179458035
+        ],
+        "p_noninferior": 0.0028692819131614427,
+        "exceeds_margin": true
+      },
+      "vs_unconditional": {
+        "diff": 3.6666666666666665,
+        "wins": 12,
+        "losses": 1,
+        "lower": 1.5923245037199645,
+        "bootstrap_lower": 1.6666666666666667,
+        "ci": [
+          1.1697926758858341,
+          6.1635406574474985
+        ],
+        "p_noninferior": 4.117460237672205e-08,
+        "exceeds_margin": true
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 79,
+          "measured": 25
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 85,
+          "measured": 91
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 63,
+          "measured": 94
+        }
+      }
+    },
+    "8": {
+      "measured": 240,
+      "kept": 52,
+      "accepted": 188,
+      "rescued": 15,
+      "wrong_reject": 3,
+      "harmful_accept": 6,
+      "beneficial_accept": 63,
+      "skip_harm": 14,
+      "skip_gain": 8,
+      "gated": 229,
+      "unconditional": 217,
+      "clearance": 228,
+      "view": 211,
+      "vs_always": {
+        "diff": 2.0,
+        "wins": 23,
+        "losses": 17,
+        "lower": -1.588244967052205,
+        "bootstrap_lower": -1.3333333333333333,
+        "ci": [
+          -2.319150278493894,
+          6.319150278493894
+        ],
+        "p_noninferior": 0.0012356983447966057,
+        "exceeds_margin": true
+      },
+      "vs_full_gate": {
+        "diff": -1.3333333333333333,
+        "wins": 0,
+        "losses": 4,
+        "lower": -2.4058949818197943,
+        "bootstrap_lower": -2.3333333333333335,
+        "ci": [
+          -2.624369755121414,
+          -0.042296911545252724
+        ],
+        "p_noninferior": 1.3478956622355925e-06,
+        "exceeds_margin": true
+      },
+      "vs_unconditional": {
+        "diff": 4.0,
+        "wins": 15,
+        "losses": 3,
+        "lower": 1.6109213621411151,
+        "bootstrap_lower": 1.6666666666666667,
+        "ci": [
+          1.1242794851520266,
+          6.875720514847973
+        ],
+        "p_noninferior": 2.6681909532293465e-07,
+        "exceeds_margin": true
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 81,
+          "measured": 49
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 85,
+          "measured": 94
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 63,
+          "measured": 97
+        }
+      },
+      "confirmatory": "通过"
+    },
+    "9": {
+      "measured": 270,
+      "kept": 73,
+      "accepted": 197,
+      "rescued": 18,
+      "wrong_reject": 7,
+      "harmful_accept": 6,
+      "beneficial_accept": 66,
+      "skip_harm": 7,
+      "skip_gain": 5,
+      "gated": 232,
+      "unconditional": 221,
+      "clearance": 227,
+      "view": 215,
+      "vs_always": {
+        "diff": 3.0,
+        "wins": 23,
+        "losses": 14,
+        "lower": -0.3737529833091813,
+        "bootstrap_lower": -0.3333333333333333,
+        "ci": [
+          -1.0609674844469597,
+          7.06096748444696
+        ],
+        "p_noninferior": 0.000184848996442214,
+        "exceeds_margin": true
+      },
+      "vs_full_gate": {
+        "diff": -0.3333333333333333,
+        "wins": 0,
+        "losses": 1,
+        "lower": -0.8997090088444992,
+        "bootstrap_lower": -1.0,
+        "ci": [
+          -1.015076547377568,
+          0.34840988071090134
+        ],
+        "p_noninferior": 9.817597242394762e-15,
+        "exceeds_margin": true
+      },
+      "vs_unconditional": {
+        "diff": 3.6666666666666665,
+        "wins": 18,
+        "losses": 7,
+        "lower": 0.788297438762422,
+        "bootstrap_lower": 1.0,
+        "ci": [
+          0.20198982145003974,
+          7.131343511883293
+        ],
+        "p_noninferior": 9.186961752896293e-06,
+        "exceeds_margin": true
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 84,
+          "measured": 76
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 85,
+          "measured": 97
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 63,
+          "measured": 97
+        }
+      }
+    },
+    "10": {
+      "measured": 300,
+      "kept": 99,
+      "accepted": 201,
+      "rescued": 23,
+      "wrong_reject": 13,
+      "harmful_accept": 6,
+      "beneficial_accept": 67,
+      "skip_harm": 0,
+      "skip_gain": 0,
+      "gated": 233,
+      "unconditional": 223,
+      "clearance": 223,
+      "view": 223,
+      "vs_always": {
+        "diff": 3.3333333333333335,
+        "wins": 23,
+        "losses": 13,
+        "lower": 0.04088755081157203,
+        "bootstrap_lower": 0.3333333333333333,
+        "ci": [
+          -0.629765130980076,
+          7.296431797646743
+        ],
+        "p_noninferior": 8.796848299205498e-05,
+        "exceeds_margin": true
+      },
+      "vs_full_gate": {
+        "diff": 0.0,
+        "wins": 0,
+        "losses": 0,
+        "lower": 0.0,
+        "bootstrap_lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "p_noninferior": null,
+        "exceeds_margin": false
+      },
+      "vs_unconditional": {
+        "diff": 3.3333333333333335,
+        "wins": 23,
+        "losses": 13,
+        "lower": 0.04088755081157203,
+        "bootstrap_lower": 0.3333333333333333,
+        "ci": [
+          -0.629765130980076,
+          7.296431797646743
+        ],
+        "p_noninferior": 8.796848299205498e-05,
+        "exceeds_margin": true
+      },
+      "by_task": {
+        "square": {
+          "n": 101,
+          "always": 85,
+          "policy": 85,
+          "measured": 101
+        },
+        "round": {
+          "n": 101,
+          "always": 75,
+          "policy": 85,
+          "measured": 101
+        },
+        "dual": {
+          "n": 98,
+          "always": 63,
+          "policy": 63,
+          "measured": 98
+        }
+      }
+    }
+  }
+}

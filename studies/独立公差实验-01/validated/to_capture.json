@@ -1,0 +1,90 @@
+[
+  {
+    "id": "square-test-01-1",
+    "gap": 1,
+    "task": "square",
+    "category": "skipped_measurement_failed",
+    "mode": "direct",
+    "action": [
+      -4.1,
+      11.2
+    ]
+  },
+  {
+    "id": "square-test-01-1",
+    "gap": 1,
+    "task": "square",
+    "category": "skipped_measurement_failed",
+    "mode": "always",
+    "action": [
+      -4.5,
+      6.2
+    ]
+  },
+  {
+    "id": "round-test-00-1",
+    "gap": 1,
+    "task": "round",
+    "category": "measurement_recovered",
+    "mode": "direct",
+    "action": [
+      -4.0,
+      -1.6
+    ]
+  },
+  {
+    "id": "round-test-00-1",
+    "gap": 1,
+    "task": "round",
+    "category": "measurement_recovered",
+    "mode": "always",
+    "action": [
+      -3.1,
+      7.2
+    ]
+  },
+  {
+    "id": "round-test-02-0p5",
+    "gap": 0.5,
+    "task": "round",
+    "category": "measurement_hurt",
+    "mode": "direct",
+    "action": [
+      -3.3,
+      1.6
+    ]
+  },
+  {
+    "id": "round-test-02-0p5",
+    "gap": 0.5,
+    "task": "round",
+    "category": "measurement_hurt",
+    "mode": "always",
+    "action": [
+      -6.6,
+      5.5
+    ]
+  },
+  {
+    "id": "round-test-04-0p5",
+    "gap": 0.5,
+    "task": "round",
+    "category": "both_failed",
+    "mode": "direct",
+    "action": [
+      -0.6,
+      -10.2
+    ]
+  },
+  {
+    "id": "round-test-04-0p5",
+    "gap": 0.5,
+    "task": "round",
+    "category": "both_failed",
+    "mode": "always",
+    "action": [
+      -2.1,
+      -9.0
+    ]
+  }
+]

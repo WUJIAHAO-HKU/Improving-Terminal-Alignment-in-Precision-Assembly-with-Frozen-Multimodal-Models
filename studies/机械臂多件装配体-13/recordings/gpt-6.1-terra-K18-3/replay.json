@@ -1,0 +1,104 @@
+{
+  "id": "K18-3",
+  "model": "gpt-6.1-terra",
+  "mode": "overhead",
+  "events": [
+    {
+      "seat": true,
+      "height": 5.999675496320104,
+      "tilt": 1.4787793334710982e-06,
+      "margins": [
+        0.8699376740463025,
+        0.32570507327475484
+      ],
+      "drift": 0.0,
+      "lift": true,
+      "carry": true,
+      "ok": true
+    },
+    {
+      "seat": true,
+      "height": 9.998600433184246,
+      "tilt": 0.0011816495607770107,
+      "margins": [
+        0.7087424496775183
+      ],
+      "drift": 5.318368953444731e-07,
+      "lift": true,
+      "carry": true,
+      "ok": true
+    },
+    {
+      "seat": true,
+      "height": 9.998466492026862,
+      "tilt": 0.0012619984620424575,
+      "margins": [
+        1.013568975610974
+      ],
+      "drift": 1.1307779067506069e-07,
+      "lift": true,
+      "carry": true,
+      "ok": true
+    },
+    {
+      "seat": true,
+      "height": 13.997527875979316,
+      "tilt": 0.0014301903808242296,
+      "margins": [
+        0.9401125231654373,
+        0.940327592693242
+      ],
+      "drift": 6.807803740334089e-07,
+      "lift": true,
+      "carry": true,
+      "ok": true
+    },
+    {
+      "seat": true,
+      "height": 17.99543879679049,
+      "tilt": 0.0035893309194853684,
+      "margins": [
+        0.31277424517075225
+      ],
+      "drift": 5.951401449626426e-06,
+      "lift": true,
+      "carry": true,
+      "ok": true
+    },
+    {
+      "seat": true,
+      "height": 17.995140242096767,
+      "tilt": 0.0023377713128904377,
+      "margins": [
+        0.3907007967610925
+      ],
+      "drift": 1.2695729985436808e-06,
+      "lift": true,
+      "carry": true,
+      "ok": true
+    },
+    {
+      "seat": false,
+      "height": 27.498459521436068,
+      "tilt": 0.04893000282714521,
+      "margins": [
+        -0.6816876280992563,
+        -0.6814461636050009
+      ],
+      "drift": 0.0005480090780947235,
+      "lift": true,
+      "carry": true,
+      "ok": false
+    }
+  ],
+  "final": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false
+  ],
+  "frames": 806
+}

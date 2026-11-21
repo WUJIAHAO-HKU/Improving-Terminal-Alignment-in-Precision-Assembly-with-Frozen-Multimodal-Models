@@ -1,0 +1,442 @@
+{
+  "budgets": {
+    "0": {
+      "measured": 0,
+      "counts": {
+        "cv": 194,
+        "cv_raw": 130,
+        "sol": 175,
+        "sol_switch": 175,
+        "oracle": 240
+      },
+      "diff": 7.916666666666667,
+      "ci": [
+        -0.1662644430355522,
+        15.999597776368887
+      ],
+      "win": 43,
+      "loss": 24,
+      "subset": {
+        "square": {
+          "n": 150,
+          "cv": 127,
+          "sol": 111,
+          "measured": 0
+        },
+        "round": {
+          "n": 90,
+          "cv": 67,
+          "sol": 64,
+          "measured": 0
+        },
+        "gap4": {
+          "n": 68,
+          "cv": 67,
+          "sol": 61,
+          "measured": 0
+        },
+        "gap2": {
+          "n": 53,
+          "cv": 50,
+          "sol": 47,
+          "measured": 0
+        },
+        "gap1": {
+          "n": 49,
+          "cv": 42,
+          "sol": 40,
+          "measured": 0
+        },
+        "gap0.5": {
+          "n": 47,
+          "cv": 29,
+          "sol": 23,
+          "measured": 0
+        },
+        "gap0.25": {
+          "n": 23,
+          "cv": 6,
+          "sol": 4,
+          "measured": 0
+        },
+        "angle7.0": {
+          "n": 38,
+          "cv": 30,
+          "sol": 24,
+          "measured": 0
+        },
+        "angle13.0": {
+          "n": 28,
+          "cv": 24,
+          "sol": 22,
+          "measured": 0
+        },
+        "angle24.0": {
+          "n": 47,
+          "cv": 34,
+          "sol": 34,
+          "measured": 0
+        },
+        "angle33.0": {
+          "n": 38,
+          "cv": 33,
+          "sol": 27,
+          "measured": 0
+        },
+        "angle41.0": {
+          "n": 44,
+          "cv": 36,
+          "sol": 33,
+          "measured": 0
+        },
+        "angle47.0": {
+          "n": 45,
+          "cv": 37,
+          "sol": 35,
+          "measured": 0
+        }
+      },
+      "errors": {
+        "cv": {
+          "median": 1.3591953615311347,
+          "p90": 4.562054087760176
+        },
+        "sol": {
+          "median": 1.5305098505629147,
+          "p90": 7.533591132529326
+        }
+      },
+      "localized": 240
+    },
+    "6": {
+      "measured": 124,
+      "counts": {
+        "cv": 189,
+        "cv_raw": 131,
+        "sol": 197,
+        "sol_switch": 189,
+        "oracle": 240
+      },
+      "diff": -3.3333333333333335,
+      "ci": [
+        -9.073966323173932,
+        2.407299656507266
+      ],
+      "win": 20,
+      "loss": 28,
+      "subset": {
+        "square": {
+          "n": 150,
+          "cv": 124,
+          "sol": 125,
+          "measured": 67
+        },
+        "round": {
+          "n": 90,
+          "cv": 65,
+          "sol": 72,
+          "measured": 57
+        },
+        "gap4": {
+          "n": 68,
+          "cv": 68,
+          "sol": 64,
+          "measured": 16
+        },
+        "gap2": {
+          "n": 53,
+          "cv": 50,
+          "sol": 48,
+          "measured": 27
+        },
+        "gap1": {
+          "n": 49,
+          "cv": 42,
+          "sol": 48,
+          "measured": 42
+        },
+        "gap0.5": {
+          "n": 47,
+          "cv": 24,
+          "sol": 30,
+          "measured": 33
+        },
+        "gap0.25": {
+          "n": 23,
+          "cv": 5,
+          "sol": 7,
+          "measured": 6
+        },
+        "angle7.0": {
+          "n": 38,
+          "cv": 30,
+          "sol": 32,
+          "measured": 26
+        },
+        "angle13.0": {
+          "n": 28,
+          "cv": 21,
+          "sol": 24,
+          "measured": 18
+        },
+        "angle24.0": {
+          "n": 47,
+          "cv": 35,
+          "sol": 39,
+          "measured": 29
+        },
+        "angle33.0": {
+          "n": 38,
+          "cv": 31,
+          "sol": 31,
+          "measured": 16
+        },
+        "angle41.0": {
+          "n": 44,
+          "cv": 36,
+          "sol": 35,
+          "measured": 15
+        },
+        "angle47.0": {
+          "n": 45,
+          "cv": 36,
+          "sol": 36,
+          "measured": 20
+        }
+      },
+      "errors": {
+        "cv": {
+          "median": 1.5154002286884607,
+          "p90": 4.419104371453506
+        },
+        "sol": {
+          "median": 0.7659314604440013,
+          "p90": 4.386954534316074
+        }
+      },
+      "localized": 240
+    },
+    "8": {
+      "measured": 182,
+      "counts": {
+        "cv": 194,
+        "cv_raw": 134,
+        "sol": 200,
+        "sol_switch": 186,
+        "oracle": 240
+      },
+      "diff": -2.5,
+      "ci": [
+        -7.31025193990857,
+        2.3102519399085697
+      ],
+      "win": 20,
+      "loss": 26,
+      "subset": {
+        "square": {
+          "n": 150,
+          "cv": 128,
+          "sol": 129,
+          "measured": 106
+        },
+        "round": {
+          "n": 90,
+          "cv": 66,
+          "sol": 71,
+          "measured": 76
+        },
+        "gap4": {
+          "n": 68,
+          "cv": 68,
+          "sol": 65,
+          "measured": 33
+        },
+        "gap2": {
+          "n": 53,
+          "cv": 50,
+          "sol": 49,
+          "measured": 47
+        },
+        "gap1": {
+          "n": 49,
+          "cv": 42,
+          "sol": 47,
+          "measured": 48
+        },
+        "gap0.5": {
+          "n": 47,
+          "cv": 28,
+          "sol": 33,
+          "measured": 43
+        },
+        "gap0.25": {
+          "n": 23,
+          "cv": 6,
+          "sol": 6,
+          "measured": 11
+        },
+        "angle7.0": {
+          "n": 38,
+          "cv": 30,
+          "sol": 34,
+          "measured": 34
+        },
+        "angle13.0": {
+          "n": 28,
+          "cv": 21,
+          "sol": 25,
+          "measured": 25
+        },
+        "angle24.0": {
+          "n": 47,
+          "cv": 37,
+          "sol": 38,
+          "measured": 36
+        },
+        "angle33.0": {
+          "n": 38,
+          "cv": 32,
+          "sol": 32,
+          "measured": 30
+        },
+        "angle41.0": {
+          "n": 44,
+          "cv": 37,
+          "sol": 35,
+          "measured": 28
+        },
+        "angle47.0": {
+          "n": 45,
+          "cv": 37,
+          "sol": 36,
+          "measured": 29
+        }
+      },
+      "errors": {
+        "cv": {
+          "median": 1.4062972600401074,
+          "p90": 4.371991353196201
+        },
+        "sol": {
+          "median": 0.6481333837631039,
+          "p90": 3.5856469323914273
+        }
+      },
+      "localized": 240
+    },
+    "10": {
+      "measured": 240,
+      "counts": {
+        "cv": 190,
+        "cv_raw": 132,
+        "sol": 204,
+        "sol_switch": 186,
+        "oracle": 240
+      },
+      "diff": -5.833333333333333,
+      "ci": [
+        -10.995150905999397,
+        -0.671515760667269
+      ],
+      "win": 15,
+      "loss": 29,
+      "subset": {
+        "square": {
+          "n": 150,
+          "cv": 124,
+          "sol": 132,
+          "measured": 150
+        },
+        "round": {
+          "n": 90,
+          "cv": 66,
+          "sol": 72,
+          "measured": 90
+        },
+        "gap4": {
+          "n": 68,
+          "cv": 68,
+          "sol": 67,
+          "measured": 68
+        },
+        "gap2": {
+          "n": 53,
+          "cv": 50,
+          "sol": 49,
+          "measured": 53
+        },
+        "gap1": {
+          "n": 49,
+          "cv": 42,
+          "sol": 47,
+          "measured": 49
+        },
+        "gap0.5": {
+          "n": 47,
+          "cv": 28,
+          "sol": 34,
+          "measured": 47
+        },
+        "gap0.25": {
+          "n": 23,
+          "cv": 2,
+          "sol": 7,
+          "measured": 23
+        },
+        "angle7.0": {
+          "n": 38,
+          "cv": 31,
+          "sol": 35,
+          "measured": 38
+        },
+        "angle13.0": {
+          "n": 28,
+          "cv": 21,
+          "sol": 26,
+          "measured": 28
+        },
+        "angle24.0": {
+          "n": 47,
+          "cv": 35,
+          "sol": 40,
+          "measured": 47
+        },
+        "angle33.0": {
+          "n": 38,
+          "cv": 31,
+          "sol": 33,
+          "measured": 38
+        },
+        "angle41.0": {
+          "n": 44,
+          "cv": 36,
+          "sol": 35,
+          "measured": 44
+        },
+        "angle47.0": {
+          "n": 45,
+          "cv": 36,
+          "sol": 35,
+          "measured": 45
+        }
+      },
+      "errors": {
+        "cv": {
+          "median": 1.3392506552191823,
+          "p90": 4.243518001781871
+        },
+        "sol": {
+          "median": 0.5858658547107651,
+          "p90": 2.9926846100966475
+        }
+      },
+      "localized": 240
+    }
+  },
+  "examples": {
+    "geometry_only": "E01P02",
+    "sol_only": "E00P05",
+    "both_fail": "E00P01",
+    "both_succeed": "E00P02"
+  }
+}

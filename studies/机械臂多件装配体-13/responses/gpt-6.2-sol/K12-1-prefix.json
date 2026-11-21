@@ -1,0 +1,39 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[186,125],[206,124]],[[84,179],[110,179]],[[279,249],[348,257]],[[66,243],[95,244]]],\"anchor\":[[298,158],[335,165]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Stepped guide clamp. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. left index in staging nest near world XY [-30, 47] mm, profile dflat, thickness 5 mm, destination L; 2. right guide in staging nest near world XY [-83, 0] mm, profile slot, thickness 5 mm, destination R; 3. clamp in staging nest near world XY [42, -50] mm, profile bridge, thickness 4 mm, destination LR; 4. left retainer in staging nest near world XY [-83, -47] mm, profile dflat, thickness 4 mm, destination L. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.15 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "K12-1",
+  "anchor": [
+    44.38999427569466,
+    3.327200036496876,
+    -13.22452220322127
+  ],
+  "inputs": [
+    "observations/K12-1/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 22.303372800000943,
+  "picks": [
+    [
+      -29.906660205669606,
+      47.09837773247487,
+      5.882140074235679
+    ],
+    [
+      -84.86480244825054,
+      -2.087610656648465,
+      1.6764710468066681
+    ],
+    [
+      40.751918706547436,
+      -49.95000268131453,
+      -6.2390185500291295
+    ],
+    [
+      -84.48469829036361,
+      -47.55643774268498,
+      -0.675243188995239
+    ]
+  ]
+}

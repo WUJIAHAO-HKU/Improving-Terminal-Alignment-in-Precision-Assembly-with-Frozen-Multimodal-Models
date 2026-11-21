@@ -1,0 +1,3782 @@
+{
+  "E00P00": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.33806908481121317,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3210360743949825,
+      "accept": false
+    }
+  },
+  "E00P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2985117809805186,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2731433255203904,
+      "accept": true
+    }
+  },
+  "E00P02": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.022411760351930154,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.11437670040116449,
+      "accept": false
+    }
+  },
+  "E00P03": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.21482165034330805,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.19568730512948793,
+      "accept": true
+    }
+  },
+  "E00P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.18904186297179498,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.11814456438856158,
+      "accept": true
+    }
+  },
+  "E00P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2262919842349721,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2237487456140495,
+      "accept": true
+    }
+  },
+  "E00P06": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": -0.03285153438803623,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.03283241317712515,
+      "accept": true
+    }
+  },
+  "E00P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.06422053287902312,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.11167565770203203,
+      "accept": true
+    }
+  },
+  "E00P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1963627727597556,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.09121576515008642,
+      "accept": true
+    }
+  },
+  "E00P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2529429129115597,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2772528932189733,
+      "accept": true
+    }
+  },
+  "E01P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.08507755603087314,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.09883809135655729,
+      "accept": false
+    }
+  },
+  "E01P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.28079388996105603,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2604418383491415,
+      "accept": true
+    }
+  },
+  "E01P02": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": -0.01995590674052755,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.18024373140682493,
+      "accept": true
+    }
+  },
+  "E01P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.025472365917062673,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.005506222321744025,
+      "accept": false
+    }
+  },
+  "E01P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3750479828179022,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.4017279330214197,
+      "accept": true
+    }
+  },
+  "E01P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.32381509959587984,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.336458815361625,
+      "accept": true
+    }
+  },
+  "E01P06": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.11301282218736441,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.1213290382313944,
+      "accept": false
+    }
+  },
+  "E01P07": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.163760880463262,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1665878264045722,
+      "accept": true
+    }
+  },
+  "E01P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.16485043028397964,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1458529755999144,
+      "accept": false
+    }
+  },
+  "E01P09": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.0768833482670025,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.08479115827733252,
+      "accept": true
+    }
+  },
+  "E02P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3026702264816925,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.25426065910567813,
+      "accept": true
+    }
+  },
+  "E02P01": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.049354502501923914,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.03951601556913764,
+      "accept": true
+    }
+  },
+  "E02P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.05364098152383949,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.037551289644428554,
+      "accept": false
+    }
+  },
+  "E02P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.014994975714782505,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.03710721982074719,
+      "accept": false
+    }
+  },
+  "E02P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.10064806461933018,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.09311192768504595,
+      "accept": false
+    }
+  },
+  "E02P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.053880717916975976,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.013902419302759095,
+      "accept": true
+    }
+  },
+  "E02P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.32832327247407717,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3430447542046568,
+      "accept": true
+    }
+  },
+  "E02P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.004334262703488995,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.27274683113985243,
+      "accept": false
+    }
+  },
+  "E02P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.15611297949252478,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.16203869425846745,
+      "accept": false
+    }
+  },
+  "E02P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.2900693545120284,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.5483175725229674,
+      "accept": true
+    }
+  },
+  "E03P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.6114447539588135,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2799737486876536,
+      "accept": true
+    }
+  },
+  "E03P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.17982060510830927,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1699573892166911,
+      "accept": true
+    }
+  },
+  "E03P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.03138558715602979,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.03558510851762253,
+      "accept": true
+    }
+  },
+  "E03P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.00805002787366682,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.07285447539287526,
+      "accept": false
+    }
+  },
+  "E03P04": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.042653262991124485,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.05838071871857409,
+      "accept": true
+    }
+  },
+  "E03P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.0015307308124639096,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.038025172356390996,
+      "accept": false
+    }
+  },
+  "E03P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.31638632907377434,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2965844082117893,
+      "accept": true
+    }
+  },
+  "E03P07": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.27756620464009046,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.25025177480958194,
+      "accept": true
+    }
+  },
+  "E03P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.20316599823750417,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.13153020177133196,
+      "accept": true
+    }
+  },
+  "E03P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.021812345259067223,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.25246629601037585,
+      "accept": false
+    }
+  },
+  "E04P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.10394167270168428,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.13012580879540023,
+      "accept": false
+    }
+  },
+  "E04P01": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.05136049918348751,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.04891407981291174,
+      "accept": true
+    }
+  },
+  "E04P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2401639099465548,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.4988134443694568,
+      "accept": true
+    }
+  },
+  "E04P03": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.20805108557957047,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.21761664007094775,
+      "accept": false
+    }
+  },
+  "E04P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.34242287621169787,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3577761640167717,
+      "accept": true
+    }
+  },
+  "E04P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.10901068105407846,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.06923302837487855,
+      "accept": true
+    }
+  },
+  "E04P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2507025633142531,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3689290125415873,
+      "accept": true
+    }
+  },
+  "E04P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3304078229853464,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2989104922026447,
+      "accept": true
+    }
+  },
+  "E04P08": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.20978602223391357,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.09787918236441513,
+      "accept": false
+    }
+  },
+  "E04P09": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.31056494505916377,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.5037438839639524,
+      "accept": false
+    }
+  },
+  "E05P00": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.21669939371712282,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2129556419729795,
+      "accept": true
+    }
+  },
+  "E05P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2698912155394223,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.24715916587505027,
+      "accept": true
+    }
+  },
+  "E05P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.14762181563802035,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.11776051269223116,
+      "accept": false
+    }
+  },
+  "E05P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.06420605581703955,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.07653374373976574,
+      "accept": false
+    }
+  },
+  "E05P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.11375700886178494,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.178014111616206,
+      "accept": false
+    }
+  },
+  "E05P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3301657210016172,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.36075576101270745,
+      "accept": true
+    }
+  },
+  "E05P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3696884381340747,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.4479084223114135,
+      "accept": true
+    }
+  },
+  "E05P07": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.09172163777483365,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.08820185840605675,
+      "accept": true
+    }
+  },
+  "E05P08": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.11709636546283207,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.10863499952012223,
+      "accept": true
+    }
+  },
+  "E05P09": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.016337355307616264,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.0031686832381997154,
+      "accept": false
+    }
+  },
+  "E06P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2808040980694515,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3109516545918457,
+      "accept": false
+    }
+  },
+  "E06P01": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.15478082418986164,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1142929837280102,
+      "accept": false
+    }
+  },
+  "E06P02": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.060131871212545485,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.06560412042175823,
+      "accept": false
+    }
+  },
+  "E06P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3255550675525136,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.31672164263667435,
+      "accept": true
+    }
+  },
+  "E06P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.04347399648822914,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.03867000487410413,
+      "accept": false
+    }
+  },
+  "E06P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1628477185838178,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.08963295847575031,
+      "accept": false
+    }
+  },
+  "E06P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3256702196900292,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.34175807279612735,
+      "accept": true
+    }
+  },
+  "E06P07": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2049516156463168,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.11991288080102416,
+      "accept": false
+    }
+  },
+  "E06P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3645715632286275,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.33481572376049906,
+      "accept": true
+    }
+  },
+  "E06P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.17334041422234558,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.11761581649405364,
+      "accept": false
+    }
+  },
+  "E07P00": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.12723820976027894,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.1484995025798943,
+      "accept": false
+    }
+  },
+  "E07P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1411976063446353,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.26267416679499517,
+      "accept": false
+    }
+  },
+  "E07P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.16667111456960604,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.10019393262841868,
+      "accept": true
+    }
+  },
+  "E07P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.12460112389193795,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.04072331392682238,
+      "accept": false
+    }
+  },
+  "E07P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.05462544636027991,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.06628970842098245,
+      "accept": false
+    }
+  },
+  "E07P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.19200901394984,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.33252217674452444,
+      "accept": false
+    }
+  },
+  "E07P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.30967486638445574,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.21187467554333517,
+      "accept": true
+    }
+  },
+  "E07P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.43117860057330104,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.34986921387903724,
+      "accept": true
+    }
+  },
+  "E07P08": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.04355979763617393,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.007179333640179142,
+      "accept": true
+    }
+  },
+  "E07P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.33459250838953847,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3311749399573074,
+      "accept": true
+    }
+  },
+  "E08P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2751083404532703,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.18162986254295993,
+      "accept": false
+    }
+  },
+  "E08P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2337598535647077,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.17030995748681743,
+      "accept": true
+    }
+  },
+  "E08P02": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.13160015360340707,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.32722755935242037,
+      "accept": false
+    }
+  },
+  "E08P03": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2614070061995702,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.26404067185758695,
+      "accept": true
+    }
+  },
+  "E08P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.15745613107151785,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1450156659885429,
+      "accept": true
+    }
+  },
+  "E08P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.09536097120129172,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.08160882740586135,
+      "accept": true
+    }
+  },
+  "E08P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.30279584559369155,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.24128051972966352,
+      "accept": true
+    }
+  },
+  "E08P07": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.18259300315694124,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.18182994232644478,
+      "accept": true
+    }
+  },
+  "E08P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.15700363895870934,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.15640079841297236,
+      "accept": true
+    }
+  },
+  "E08P09": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.02441190805301241,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.043149092705303205,
+      "accept": false
+    }
+  },
+  "E09P00": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.05545594897324052,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.06050226623463556,
+      "accept": true
+    }
+  },
+  "E09P01": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.27037859609619047,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.26093624729508297,
+      "accept": true
+    }
+  },
+  "E09P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.1745503561572086,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.0709234863796132,
+      "accept": false
+    }
+  },
+  "E09P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.030818195749813565,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.00027338471816171217,
+      "accept": false
+    }
+  },
+  "E09P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.14207715922828568,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1209829151526146,
+      "accept": true
+    }
+  },
+  "E09P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1716352968420452,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1753498919640811,
+      "accept": true
+    }
+  },
+  "E09P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1654631768035753,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.13665654683174985,
+      "accept": true
+    }
+  },
+  "E09P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.36770720735945267,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.29629644244831604,
+      "accept": true
+    }
+  },
+  "E09P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.21877545229786488,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.46301473513275815,
+      "accept": true
+    }
+  },
+  "E09P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.07485982942876596,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.06918991113589656,
+      "accept": false
+    }
+  },
+  "E10P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.39016309029876295,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.34710871818299077,
+      "accept": true
+    }
+  },
+  "E10P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.06841681637971844,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.22878380761341546,
+      "accept": true
+    }
+  },
+  "E10P02": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.06819035629735634,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.06842131366117243,
+      "accept": true
+    }
+  },
+  "E10P03": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.022519220255300287,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.04395796168588709,
+      "accept": false
+    }
+  },
+  "E10P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2130465540529846,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.5029488727582911,
+      "accept": false
+    }
+  },
+  "E10P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1978040809438486,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.07564528562603048,
+      "accept": true
+    }
+  },
+  "E10P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.23902415473672486,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1497608619283889,
+      "accept": true
+    }
+  },
+  "E10P07": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3176218736860581,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.370538902441369,
+      "accept": false
+    }
+  },
+  "E10P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.17133343084382557,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2083897418869314,
+      "accept": true
+    }
+  },
+  "E10P09": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.24303313195739612,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2448367583516882,
+      "accept": true
+    }
+  },
+  "E11P00": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.03855554841080966,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.04829546702124721,
+      "accept": false
+    }
+  },
+  "E11P01": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.04299510926744238,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.0628875875204705,
+      "accept": true
+    }
+  },
+  "E11P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.02757276087139568,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.004102543921495505,
+      "accept": false
+    }
+  },
+  "E11P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.19699164252729093,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.16568006321257167,
+      "accept": false
+    }
+  },
+  "E11P04": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.036791981589495926,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.061633358607775746,
+      "accept": false
+    }
+  },
+  "E11P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3151458114972378,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.31370877153743254,
+      "accept": true
+    }
+  },
+  "E11P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.005982388303059194,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.03513099570832673,
+      "accept": false
+    }
+  },
+  "E11P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2188772382920868,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.30929817274250915,
+      "accept": false
+    }
+  },
+  "E11P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.04895871084383108,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.07167853953132008,
+      "accept": false
+    }
+  },
+  "E11P09": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.20397572921544668,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.03269045416686883,
+      "accept": true
+    }
+  },
+  "E12P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.13198020429669738,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.11139170541753696,
+      "accept": false
+    }
+  },
+  "E12P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.11493891677724742,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.10033724525718568,
+      "accept": true
+    }
+  },
+  "E12P02": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.05089493937326234,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.0030172939603407833,
+      "accept": true
+    }
+  },
+  "E12P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.05763295987788064,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.010957314983455285,
+      "accept": false
+    }
+  },
+  "E12P04": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": -0.07110262989156158,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.024639838462329422,
+      "accept": false
+    }
+  },
+  "E12P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.15703581476754153,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.20319053982879443,
+      "accept": false
+    }
+  },
+  "E12P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.16386420567459675,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.03692919409676376,
+      "accept": true
+    }
+  },
+  "E12P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1392881635247341,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1362990723939953,
+      "accept": true
+    }
+  },
+  "E12P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.16709700811890105,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.15763687741062637,
+      "accept": false
+    }
+  },
+  "E12P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.31739423364797614,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.42600119835657296,
+      "accept": true
+    }
+  },
+  "E13P00": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.343175262445094,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3455031082904923,
+      "accept": true
+    }
+  },
+  "E13P01": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1962083140481139,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.19897565566850772,
+      "accept": true
+    }
+  },
+  "E13P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2481999582740484,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2329363358756874,
+      "accept": true
+    }
+  },
+  "E13P03": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.24300669183703297,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.20770622860079024,
+      "accept": true
+    }
+  },
+  "E13P04": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.17095565145018154,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.0037994456640210172,
+      "accept": false
+    }
+  },
+  "E13P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.07775665131528811,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.0744538533971092,
+      "accept": false
+    }
+  },
+  "E13P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.364558596834362,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.34563564462143037,
+      "accept": true
+    }
+  },
+  "E13P07": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.04581234067748918,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.04361341266549976,
+      "accept": false
+    }
+  },
+  "E13P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.19616681294497976,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1754390235907492,
+      "accept": true
+    }
+  },
+  "E13P09": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.02287603699148369,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.009569403762081097,
+      "accept": false
+    }
+  },
+  "E14P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.08344851390565598,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.08475855297091137,
+      "accept": true
+    }
+  },
+  "E14P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.34887169411558683,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3712983380180558,
+      "accept": true
+    }
+  },
+  "E14P02": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.011109147640138012,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.012476006279987073,
+      "accept": false
+    }
+  },
+  "E14P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.022029656824929966,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.035162716359460944,
+      "accept": false
+    }
+  },
+  "E14P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.13803531647123785,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.04058711774867996,
+      "accept": true
+    }
+  },
+  "E14P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.059756293610029154,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.06043127143890581,
+      "accept": true
+    }
+  },
+  "E14P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.06642068798805362,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.2798530012879873,
+      "accept": true
+    }
+  },
+  "E14P07": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.030030745357011612,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.011570518775891936,
+      "accept": true
+    }
+  },
+  "E14P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.28158017126864054,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.19752505266313988,
+      "accept": false
+    }
+  },
+  "E14P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.7460206567327651,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.16081778417468795,
+      "accept": true
+    }
+  },
+  "E15P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.26738714225520843,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1897960382828296,
+      "accept": true
+    }
+  },
+  "E15P01": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.026776391809765154,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.012187990245652702,
+      "accept": true
+    }
+  },
+  "E15P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.0062567898381493126,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.0354300482917011,
+      "accept": false
+    }
+  },
+  "E15P03": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.2956907204418284,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.24777946148871322,
+      "accept": false
+    }
+  },
+  "E15P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1859689419972309,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.26329045886495794,
+      "accept": true
+    }
+  },
+  "E15P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.04719102333154235,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.11001733113619405,
+      "accept": false
+    }
+  },
+  "E15P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.008994887011146646,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.003930761923564674,
+      "accept": false
+    }
+  },
+  "E15P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.17611565944627997,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2548339157844812,
+      "accept": false
+    }
+  },
+  "E15P08": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.07344942494554774,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.07468330381966526,
+      "accept": true
+    }
+  },
+  "E15P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2443272500447994,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.22132104310417813,
+      "accept": false
+    }
+  },
+  "E16P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.20556125879163833,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.20749372924104936,
+      "accept": true
+    }
+  },
+  "E16P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.4235370593662083,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3715651161027155,
+      "accept": true
+    }
+  },
+  "E16P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1360846441233305,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.13010646186185282,
+      "accept": true
+    }
+  },
+  "E16P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.06963303250383934,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.4726508844309733,
+      "accept": true
+    }
+  },
+  "E16P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.06377092653785715,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.06535875277353118,
+      "accept": true
+    }
+  },
+  "E16P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.35407027480415615,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3430841093187937,
+      "accept": true
+    }
+  },
+  "E16P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.180284522268019,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.10071332255548208,
+      "accept": true
+    }
+  },
+  "E16P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.14877915846804152,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.11152792200524056,
+      "accept": true
+    }
+  },
+  "E16P08": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.061685539835494047,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.03848926733280714,
+      "accept": false
+    }
+  },
+  "E16P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.08040947455165236,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.06056442122927813,
+      "accept": true
+    }
+  },
+  "E17P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2513449509967841,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.25534740654719473,
+      "accept": true
+    }
+  },
+  "E17P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.18089482326535447,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.12378872596768566,
+      "accept": false
+    }
+  },
+  "E17P02": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.03931773745719974,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.04465749089293086,
+      "accept": false
+    }
+  },
+  "E17P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.30852692909741364,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.23051826905634046,
+      "accept": true
+    }
+  },
+  "E17P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.1724064156649735,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.22463638219237597,
+      "accept": false
+    }
+  },
+  "E17P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.16857694626656589,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2341522754884097,
+      "accept": false
+    }
+  },
+  "E17P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.1278321525029409,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.19221683432207903,
+      "accept": false
+    }
+  },
+  "E17P07": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.21661616054875654,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.13520070581012564,
+      "accept": false
+    }
+  },
+  "E17P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.06959573857213948,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.04526704855365701,
+      "accept": false
+    }
+  },
+  "E17P09": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.1665072870354367,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.19003358252792057,
+      "accept": true
+    }
+  },
+  "E18P00": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.17945944585510715,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1738945753196633,
+      "accept": true
+    }
+  },
+  "E18P01": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.13243356135591244,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.13782464151552795,
+      "accept": false
+    }
+  },
+  "E18P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.056447450443329605,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.058464915719870406,
+      "accept": true
+    }
+  },
+  "E18P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2304328587168195,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1503516936076034,
+      "accept": true
+    }
+  },
+  "E18P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.31992525241159947,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.31738610755470176,
+      "accept": true
+    }
+  },
+  "E18P05": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.009762340546892928,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.03471050154783081,
+      "accept": false
+    }
+  },
+  "E18P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.32638777110221673,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.5335129066291772,
+      "accept": false
+    }
+  },
+  "E18P07": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.07883437018322109,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.1305661165499934,
+      "accept": false
+    }
+  },
+  "E18P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.12033330953804555,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.17873239451041306,
+      "accept": false
+    }
+  },
+  "E18P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.16758468934543497,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.14446639890096724,
+      "accept": true
+    }
+  },
+  "E19P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.003456867031642885,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.02675284901235836,
+      "accept": true
+    }
+  },
+  "E19P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.28148401803063205,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.23354521287727556,
+      "accept": true
+    }
+  },
+  "E19P02": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.16409473807527003,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.21680604529968317,
+      "accept": true
+    }
+  },
+  "E19P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.638762866832821,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.08793350213921469,
+      "accept": true
+    }
+  },
+  "E19P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.32071598111042254,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.33695094812635606,
+      "accept": true
+    }
+  },
+  "E19P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.33842744697735627,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.22453911807151322,
+      "accept": true
+    }
+  },
+  "E19P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.00506072774938679,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.010660992701823635,
+      "accept": true
+    }
+  },
+  "E19P07": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2263284152685672,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1543164096353195,
+      "accept": false
+    }
+  },
+  "E19P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2022732759753051,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.20451995897227998,
+      "accept": true
+    }
+  },
+  "E19P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2749285062317208,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2624880496210682,
+      "accept": true
+    }
+  },
+  "E20P00": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.03885930188477421,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.051247876540242376,
+      "accept": false
+    }
+  },
+  "E20P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3288551033738519,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3260290048271371,
+      "accept": true
+    }
+  },
+  "E20P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.5353056438472082,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.29082201099966665,
+      "accept": false
+    }
+  },
+  "E20P03": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2742803332336816,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.7096643312420243,
+      "accept": true
+    }
+  },
+  "E20P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.18647631531109526,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.12150819689583543,
+      "accept": true
+    }
+  },
+  "E20P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.17520444888693373,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.227492761751959,
+      "accept": true
+    }
+  },
+  "E20P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.031039481806847513,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.04987222646245654,
+      "accept": false
+    }
+  },
+  "E20P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.20865876723750604,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.15752845002935503,
+      "accept": true
+    }
+  },
+  "E20P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.29105875054033203,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1523421004266091,
+      "accept": true
+    }
+  },
+  "E20P09": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.37050876736487404,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.4008671571239114,
+      "accept": true
+    }
+  },
+  "E21P00": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.25550573243448893,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.19200439826528692,
+      "accept": true
+    }
+  },
+  "E21P01": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3395679531276945,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.288971989208645,
+      "accept": true
+    }
+  },
+  "E21P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.21012385449711096,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1642013845075974,
+      "accept": false
+    }
+  },
+  "E21P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.03836750999033145,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.11637807391704069,
+      "accept": false
+    }
+  },
+  "E21P04": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.05005560721904337,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.40473953361105663,
+      "accept": false
+    }
+  },
+  "E21P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.12431081471856516,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.09640213359953148,
+      "accept": true
+    }
+  },
+  "E21P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2148818873906384,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2200769903884688,
+      "accept": true
+    }
+  },
+  "E21P07": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.14013142871652431,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.07763912598113884,
+      "accept": false
+    }
+  },
+  "E21P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.21193718374459997,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2763283079634867,
+      "accept": false
+    }
+  },
+  "E21P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.22172053204511935,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.22615455166839946,
+      "accept": true
+    }
+  },
+  "E22P00": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.11552249360206074,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.15993010257519297,
+      "accept": true
+    }
+  },
+  "E22P01": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.34164918797099086,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.29975860903091944,
+      "accept": true
+    }
+  },
+  "E22P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.23684385831296367,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2377405856521853,
+      "accept": true
+    }
+  },
+  "E22P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.04277194709496246,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.07340429142492633,
+      "accept": false
+    }
+  },
+  "E22P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.08187455750668048,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.08300306397086629,
+      "accept": true
+    }
+  },
+  "E22P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.26988243194198486,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.35632725455479664,
+      "accept": false
+    }
+  },
+  "E22P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3269663653605589,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3102139183533371,
+      "accept": true
+    }
+  },
+  "E22P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.19464342400741774,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.15317979693152256,
+      "accept": true
+    }
+  },
+  "E22P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.16561150876618985,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.15493411623036657,
+      "accept": false
+    }
+  },
+  "E22P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.050577308072694005,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.02614330219659111,
+      "accept": true
+    }
+  },
+  "E23P00": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.016262529426643635,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.11842718072095404,
+      "accept": true
+    }
+  },
+  "E23P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.02407318548377896,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.028593873951484966,
+      "accept": true
+    }
+  },
+  "E23P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.20970360761067913,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.39731159898642965,
+      "accept": true
+    }
+  },
+  "E23P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.02831898701843616,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.0511388460659804,
+      "accept": true
+    }
+  },
+  "E23P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.14532373728054904,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.31126616454017547,
+      "accept": true
+    }
+  },
+  "E23P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.14681959533597738,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.12046296538787724,
+      "accept": true
+    }
+  },
+  "E23P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.15120182474529764,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.32275263810865923,
+      "accept": false
+    }
+  },
+  "E23P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.12389789940262769,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.03917659041998095,
+      "accept": true
+    }
+  },
+  "E23P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3108465963001413,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3082129306421245,
+      "accept": true
+    }
+  },
+  "E23P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3022962311188627,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.28145621406455557,
+      "accept": true
+    }
+  },
+  "E24P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.12807955282581862,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1107367841779006,
+      "accept": true
+    }
+  },
+  "E24P01": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.006678625409787586,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.04366116805403267,
+      "accept": false
+    }
+  },
+  "E24P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3531692484684447,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3254812607467316,
+      "accept": true
+    }
+  },
+  "E24P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2079125079647092,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1673006413228984,
+      "accept": true
+    }
+  },
+  "E24P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1555377003975037,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.7134274529396271,
+      "accept": false
+    }
+  },
+  "E24P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.06865424895108098,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.05859248456389994,
+      "accept": true
+    }
+  },
+  "E24P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.11537594017533731,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.10725439199406585,
+      "accept": true
+    }
+  },
+  "E24P07": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1035891743940051,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.09778668043683184,
+      "accept": true
+    }
+  },
+  "E24P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.14452732305531465,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.27275962908305146,
+      "accept": false
+    }
+  },
+  "E24P09": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.04474719389839088,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.17757569701807907,
+      "accept": false
+    }
+  },
+  "E25P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.08292535769324472,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.09557938742831384,
+      "accept": true
+    }
+  },
+  "E25P01": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2197679792336925,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.155775539906195,
+      "accept": true
+    }
+  },
+  "E25P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.1762346078946916,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.16695456840435974,
+      "accept": false
+    }
+  },
+  "E25P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.08468113844563069,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2112821350428704,
+      "accept": true
+    }
+  },
+  "E25P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.31800043387114074,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.526133119166536,
+      "accept": true
+    }
+  },
+  "E25P05": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": -0.06396662071946307,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.1055079571752301,
+      "accept": true
+    }
+  },
+  "E25P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.040063919037467866,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.003061174862980548,
+      "accept": true
+    }
+  },
+  "E25P07": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.697326985538566,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.33472175747613575,
+      "accept": true
+    }
+  },
+  "E25P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.13103774840295018,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.10992387437862028,
+      "accept": false
+    }
+  },
+  "E25P09": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": -0.007499162707178708,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.03042389857549163,
+      "accept": false
+    }
+  },
+  "E26P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.08795011736292324,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.09078995968704608,
+      "accept": false
+    }
+  },
+  "E26P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.19693989496042297,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.0977078418930417,
+      "accept": true
+    }
+  },
+  "E26P02": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.0020059414362454397,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.057618370899276405,
+      "accept": false
+    }
+  },
+  "E26P03": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.30771033056574576,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3137427666941438,
+      "accept": true
+    }
+  },
+  "E26P04": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3432979367386351,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2800127150515258,
+      "accept": true
+    }
+  },
+  "E26P05": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.33963926708703474,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.30951188177935884,
+      "accept": true
+    }
+  },
+  "E26P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1630514621959775,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3242785598078827,
+      "accept": true
+    }
+  },
+  "E26P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.225453607871442,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3938504309519131,
+      "accept": true
+    }
+  },
+  "E26P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.35331661612516513,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3448562530009251,
+      "accept": true
+    }
+  },
+  "E26P09": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.08565726296805018,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.04060823809291472,
+      "accept": true
+    }
+  },
+  "E27P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3812249432642712,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.337232820948256,
+      "accept": true
+    }
+  },
+  "E27P01": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.0009858646347313815,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.10702692876549647,
+      "accept": true
+    }
+  },
+  "E27P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.25199650309493754,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.339001560024877,
+      "accept": true
+    }
+  },
+  "E27P03": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.27675089946020615,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1932330440205091,
+      "accept": true
+    }
+  },
+  "E27P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.19255715304071808,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1998943638681452,
+      "accept": true
+    }
+  },
+  "E27P05": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.17368989958956738,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.1271529479107229,
+      "accept": false
+    }
+  },
+  "E27P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.4686306137782657,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.31309515134539834,
+      "accept": true
+    }
+  },
+  "E27P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1176622926050035,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.11897105331310509,
+      "accept": true
+    }
+  },
+  "E27P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.397383233113085,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3177010341016563,
+      "accept": true
+    }
+  },
+  "E27P09": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.015178877402295149,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.43915309617088505,
+      "accept": false
+    }
+  },
+  "E28P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.36536732709064057,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3520983230442803,
+      "accept": false
+    }
+  },
+  "E28P01": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.005647391299522797,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.0430410034724199,
+      "accept": false
+    }
+  },
+  "E28P02": {
+    "rgb_accept": true,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.05937910769860302,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.04403324245322096,
+      "accept": true
+    }
+  },
+  "E28P03": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.17547655938797047,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.09789948048029819,
+      "accept": true
+    }
+  },
+  "E28P04": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2260363244057411,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2239154845477785,
+      "accept": false
+    }
+  },
+  "E28P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.19970614925091362,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.15434410249314462,
+      "accept": true
+    }
+  },
+  "E28P06": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2327641157103386,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.23980666451976468,
+      "accept": true
+    }
+  },
+  "E28P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1518650508896332,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.12654108896227784,
+      "accept": true
+    }
+  },
+  "E28P08": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.2857019058531647,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.3058183494457568,
+      "accept": true
+    }
+  },
+  "E28P09": {
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.15312691081424074,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.12535437720751974,
+      "accept": false
+    }
+  },
+  "E29P00": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.22699574116112042,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.2342040043758994,
+      "accept": true
+    }
+  },
+  "E29P01": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3517476248297205,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.22073367902569682,
+      "accept": true
+    }
+  },
+  "E29P02": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.3928796028680168,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.08629521961401435,
+      "accept": true
+    }
+  },
+  "E29P03": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.1738738204216519,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.14218671834194635,
+      "accept": false
+    }
+  },
+  "E29P04": {
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.06441539342893601,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": -0.053836714418211334,
+      "accept": false
+    }
+  },
+  "E29P05": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": -0.024160514844512926,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.03140443744544025,
+      "accept": false
+    }
+  },
+  "E29P06": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.1323833217453447,
+      "accept": false
+    },
+    "gpt-6-luna": {
+      "score": 0.039293657429864015,
+      "accept": true
+    }
+  },
+  "E29P07": {
+    "rgb_accept": false,
+    "shared_depth_accept": false,
+    "depth_accept": false,
+    "gpt-6.1-terra": {
+      "score": 0.010234011364555595,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": -0.08183753666581828,
+      "accept": true
+    }
+  },
+  "E29P08": {
+    "rgb_accept": false,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.007431829306939308,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.012689450525012441,
+      "accept": true
+    }
+  },
+  "E29P09": {
+    "rgb_accept": true,
+    "shared_depth_accept": true,
+    "depth_accept": true,
+    "gpt-6.1-terra": {
+      "score": 0.12891345728798131,
+      "accept": true
+    },
+    "gpt-6-luna": {
+      "score": 0.1790778853395663,
+      "accept": true
+    }
+  }
+}

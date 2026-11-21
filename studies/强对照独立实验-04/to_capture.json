@@ -1,0 +1,112 @@
+[
+  {
+    "id": "D00P02",
+    "task": "square",
+    "gap": 4.0,
+    "category": "漏测，强对照成功",
+    "mode": "direct",
+    "action": [
+      -12.5,
+      -18.7
+    ]
+  },
+  {
+    "id": "D00P02",
+    "task": "square",
+    "gap": 4.0,
+    "category": "漏测，强对照成功",
+    "mode": "always",
+    "action": [
+      -9.8,
+      -10.4
+    ]
+  },
+  {
+    "id": "D08P00",
+    "task": "square",
+    "gap": 0.5,
+    "category": "已测，误拒有效修正",
+    "mode": "direct",
+    "action": [
+      16.9,
+      18.4
+    ]
+  },
+  {
+    "id": "D08P00",
+    "task": "square",
+    "gap": 0.5,
+    "category": "已测，误拒有效修正",
+    "mode": "always",
+    "action": [
+      17.0,
+      19.5
+    ]
+  },
+  {
+    "id": "D03P00",
+    "task": "square",
+    "gap": 1.0,
+    "category": "保留原动作挽回成功",
+    "mode": "direct",
+    "action": [
+      -6.7,
+      11.1
+    ]
+  },
+  {
+    "id": "D03P00",
+    "task": "square",
+    "gap": 1.0,
+    "category": "保留原动作挽回成功",
+    "mode": "always",
+    "action": [
+      -7.4,
+      -23.3
+    ]
+  },
+  {
+    "id": "D06P01",
+    "task": "dual",
+    "gap": 1.0,
+    "category": "接受修正后失败",
+    "mode": "direct",
+    "action": [
+      -5.7,
+      5.8
+    ]
+  },
+  {
+    "id": "D06P01",
+    "task": "dual",
+    "gap": 1.0,
+    "category": "接受修正后失败",
+    "mode": "always",
+    "action": [
+      -4.5,
+      5.7
+    ]
+  },
+  {
+    "id": "D00P03",
+    "task": "dual",
+    "gap": 0.5,
+    "category": "两种动作均失败",
+    "mode": "direct",
+    "action": [
+      14.0,
+      -0.7
+    ]
+  },
+  {
+    "id": "D00P03",
+    "task": "dual",
+    "gap": 0.5,
+    "category": "两种动作均失败",
+    "mode": "always",
+    "action": [
+      13.6,
+      -0.5
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "component": "front foot",
+  "pick": [
+    0.378,
+    -0.135
+  ],
+  "target": [
+    0.5035000000000001,
+    0.0645
+  ],
+  "lift_mm": 129.10400396308867,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 235.65796144828053,
+  "xy_mm": 0.14011477991358812,
+  "z_mm": -0.0007038236706675971,
+  "tilt": 2.699869328381916e-06,
+  "seated": true,
+  "ok": true
+}

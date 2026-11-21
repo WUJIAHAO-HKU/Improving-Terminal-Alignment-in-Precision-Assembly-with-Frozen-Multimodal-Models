@@ -1,0 +1,26 @@
+{
+  "component": "spacer ring",
+  "pick": [
+    0.6195,
+    -0.1315
+  ],
+  "target": [
+    0.503,
+    0.08750000000000001
+  ],
+  "lift_mm": 128.79579846709456,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 247.89932459753533,
+  "xy_mm": 0.21264621938901637,
+  "z_mm": -0.0024070690238936487,
+  "tilt": 1.7032730748045993e-05,
+  "seated": true,
+  "ok": true
+}

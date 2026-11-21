@@ -1,0 +1,18 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"anchor\":[[298,145],[337,149]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Mixed-profile bridge stack. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. alignment baseplate in staging nest near world XY [42, 50] mm, profile bridge, thickness 4 mm, destination LR; 2. left index in staging nest near world XY [-83, -47] mm, profile dflat, thickness 4 mm, destination L; 3. right guide in staging nest near world XY [-83, 0] mm, profile slot, thickness 4 mm, destination R; 4. transfer plate in staging nest near world XY [-83, 47] mm, profile bridge, thickness 4 mm, destination LR; 5. left washer in staging nest near world XY [42, -50] mm, profile round, thickness 4 mm, destination L; 6. right guide cap in staging nest near world XY [-30, 47] mm, profile slot, thickness 4 mm, destination R; 7. top plate in staging nest near world XY [-30, 0] mm, profile bridge, thickness 4 mm, destination LR. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.38 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Image 1 = initial, image 2 = live AFTER the first commanded component. Using the station and newly observed placement, command remaining assembly in BOM order (grasp targets saved). Report updated mating anchor in the FIRST image, accounting for the live image when helpful. Reply {\"op\":\"assemble\",\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "repeat",
+  "id": "K19-3",
+  "anchor": [
+    44.541702674548716,
+    8.167063548904721,
+    -6.6477817554074505
+  ],
+  "inputs": [
+    "observations/K19-3/initial-eye.jpg",
+    "runs/gpt-6.2-sol/K19-3/live-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 13.314868199988268
+}

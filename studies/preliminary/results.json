@@ -1,0 +1,2082 @@
+{
+  "summary": {
+    "no_action": {
+      "seated": 4,
+      "n": 12,
+      "mean_error_mm": 10.26,
+      "mean_abs_x_mm": 5.83,
+      "mean_abs_y_mm": 6.58,
+      "worst_mm": 15.62
+    },
+    "exact": {
+      "seated": 12,
+      "n": 12,
+      "mean_error_mm": 0.0,
+      "mean_abs_x_mm": 0,
+      "mean_abs_y_mm": 0,
+      "worst_mm": 0.0
+    },
+    "overhead/gpt-6.2-sol/direct": {
+      "seated": 12,
+      "n": 12,
+      "mean_error_mm": 1.19,
+      "mean_abs_x_mm": 0.75,
+      "mean_abs_y_mm": 0.83,
+      "worst_mm": 2.83
+    },
+    "overhead/gpt-6.2-sol/landmarks": {
+      "seated": 12,
+      "n": 12,
+      "mean_error_mm": 1.14,
+      "mean_abs_x_mm": 0.79,
+      "mean_abs_y_mm": 0.71,
+      "worst_mm": 1.88
+    },
+    "overhead/gpt-6.1-terra/direct": {
+      "seated": 12,
+      "n": 12,
+      "mean_error_mm": 1.19,
+      "mean_abs_x_mm": 0.75,
+      "mean_abs_y_mm": 0.75,
+      "worst_mm": 2.24
+    },
+    "overhead/gpt-6.1-terra/landmarks": {
+      "seated": 12,
+      "n": 12,
+      "mean_error_mm": 1.05,
+      "mean_abs_x_mm": 0.75,
+      "mean_abs_y_mm": 0.65,
+      "worst_mm": 1.82
+    },
+    "oblique/gpt-6.2-sol/direct": {
+      "seated": 12,
+      "n": 12,
+      "mean_error_mm": 0.08,
+      "mean_abs_x_mm": 0,
+      "mean_abs_y_mm": 0.08,
+      "worst_mm": 1.0
+    },
+    "oblique/gpt-6.2-sol/landmarks": {
+      "seated": 12,
+      "n": 12,
+      "mean_error_mm": 0.43,
+      "mean_abs_x_mm": 0.1,
+      "mean_abs_y_mm": 0.39,
+      "worst_mm": 1.44
+    },
+    "oblique/gpt-6.1-terra/direct": {
+      "seated": 11,
+      "n": 12,
+      "mean_error_mm": 3.77,
+      "mean_abs_x_mm": 1.58,
+      "mean_abs_y_mm": 3.08,
+      "worst_mm": 12.37
+    },
+    "oblique/gpt-6.1-terra/landmarks": {
+      "seated": 10,
+      "n": 12,
+      "mean_error_mm": 4.03,
+      "mean_abs_x_mm": 2.43,
+      "mean_abs_y_mm": 2.06,
+      "worst_mm": 12.8
+    },
+    "oblique-noheight/gpt-6.2-sol/direct": {
+      "seated": 12,
+      "n": 12,
+      "mean_error_mm": 0.75,
+      "mean_abs_x_mm": 0,
+      "mean_abs_y_mm": 0.75,
+      "worst_mm": 2.0
+    },
+    "oblique-noheight/gpt-6.1-terra/direct": {
+      "seated": 0,
+      "n": 12,
+      "mean_error_mm": 22.11,
+      "mean_abs_x_mm": 0.83,
+      "mean_abs_y_mm": 22.08,
+      "worst_mm": 28.02
+    }
+  },
+  "cases": [
+    {
+      "id": 1,
+      "true_correction_mm": [
+        -12,
+        0
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            12,
+            0
+          ],
+          "norm_mm": 12.0,
+          "seated": false,
+          "height_mm": 116.5
+        },
+        "exact": {
+          "action_mm": [
+            -12,
+            0
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -13,
+            0
+          ],
+          "residual_mm": [
+            -1,
+            0
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -13.4,
+            0.0
+          ],
+          "residual_mm": [
+            -1.4,
+            0.0
+          ],
+          "norm_mm": 1.4,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -14,
+            0
+          ],
+          "residual_mm": [
+            -2,
+            0
+          ],
+          "norm_mm": 2.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -13.12,
+            0.0
+          ],
+          "residual_mm": [
+            -1.12,
+            0.0
+          ],
+          "norm_mm": 1.12,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -12,
+            0
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -12.16,
+            0.15
+          ],
+          "residual_mm": [
+            -0.16,
+            0.15
+          ],
+          "norm_mm": 0.22,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -14,
+            0
+          ],
+          "residual_mm": [
+            -2,
+            0
+          ],
+          "norm_mm": 2.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -13.14,
+            4.06
+          ],
+          "residual_mm": [
+            -1.14,
+            4.06
+          ],
+          "norm_mm": 4.22,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -12,
+            0
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -12,
+            -28
+          ],
+          "residual_mm": [
+            0,
+            -28
+          ],
+          "norm_mm": 28.0,
+          "seated": false,
+          "height_mm": 109.7
+        }
+      }
+    },
+    {
+      "id": 2,
+      "true_correction_mm": [
+        4,
+        -3
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            -4,
+            3
+          ],
+          "norm_mm": 5.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "exact": {
+          "action_mm": [
+            4,
+            -3
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            4,
+            -4
+          ],
+          "residual_mm": [
+            0,
+            -1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            3.91,
+            -3.91
+          ],
+          "residual_mm": [
+            -0.09,
+            -0.91
+          ],
+          "norm_mm": 0.91,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            4,
+            -4
+          ],
+          "residual_mm": [
+            0,
+            -1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            3.63,
+            -3.91
+          ],
+          "residual_mm": [
+            -0.37,
+            -0.91
+          ],
+          "norm_mm": 0.98,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            4,
+            -3
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            4.09,
+            -3.02
+          ],
+          "residual_mm": [
+            0.09,
+            -0.02
+          ],
+          "norm_mm": 0.09,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            3,
+            -4
+          ],
+          "residual_mm": [
+            -1,
+            -1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            16.8,
+            -2.89
+          ],
+          "residual_mm": [
+            12.8,
+            0.11
+          ],
+          "norm_mm": 12.8,
+          "seated": false,
+          "height_mm": 116.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            4,
+            -4
+          ],
+          "residual_mm": [
+            0,
+            -1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            3,
+            -31
+          ],
+          "residual_mm": [
+            -1,
+            -28
+          ],
+          "norm_mm": 28.02,
+          "seated": false,
+          "height_mm": 109.7
+        }
+      }
+    },
+    {
+      "id": 3,
+      "true_correction_mm": [
+        0,
+        14
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            0,
+            -14
+          ],
+          "norm_mm": 14.0,
+          "seated": false,
+          "height_mm": 115.6
+        },
+        "exact": {
+          "action_mm": [
+            0,
+            14
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            1,
+            15
+          ],
+          "residual_mm": [
+            1,
+            1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            1.12,
+            15.07
+          ],
+          "residual_mm": [
+            1.12,
+            1.07
+          ],
+          "norm_mm": 1.55,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            1,
+            15
+          ],
+          "residual_mm": [
+            1,
+            1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            0.84,
+            15.07
+          ],
+          "residual_mm": [
+            0.84,
+            1.07
+          ],
+          "norm_mm": 1.36,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            0,
+            14
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -0.14,
+            13.77
+          ],
+          "residual_mm": [
+            -0.14,
+            -0.23
+          ],
+          "norm_mm": 0.27,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            3,
+            16
+          ],
+          "residual_mm": [
+            3,
+            2
+          ],
+          "norm_mm": 3.61,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            0.69,
+            12.61
+          ],
+          "residual_mm": [
+            0.69,
+            -1.39
+          ],
+          "norm_mm": 1.55,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            0,
+            13
+          ],
+          "residual_mm": [
+            0,
+            -1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            1,
+            -12
+          ],
+          "residual_mm": [
+            1,
+            -26
+          ],
+          "norm_mm": 26.02,
+          "seated": false,
+          "height_mm": 110.4
+        }
+      }
+    },
+    {
+      "id": 4,
+      "true_correction_mm": [
+        11,
+        -10
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            -11,
+            10
+          ],
+          "norm_mm": 14.87,
+          "seated": false,
+          "height_mm": 117.3
+        },
+        "exact": {
+          "action_mm": [
+            11,
+            -10
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            11,
+            -10
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            11.16,
+            -9.49
+          ],
+          "residual_mm": [
+            0.16,
+            0.51
+          ],
+          "norm_mm": 0.53,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            12,
+            -11
+          ],
+          "residual_mm": [
+            1,
+            -1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            10.89,
+            -9.49
+          ],
+          "residual_mm": [
+            -0.11,
+            0.51
+          ],
+          "norm_mm": 0.52,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            11,
+            -10
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            11.04,
+            -10.04
+          ],
+          "residual_mm": [
+            0.04,
+            -0.04
+          ],
+          "norm_mm": 0.06,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            12,
+            -10
+          ],
+          "residual_mm": [
+            1,
+            0
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            21.8,
+            -10.72
+          ],
+          "residual_mm": [
+            10.8,
+            -0.72
+          ],
+          "norm_mm": 10.82,
+          "seated": false,
+          "height_mm": 117.1
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            11,
+            -12
+          ],
+          "residual_mm": [
+            0,
+            -2
+          ],
+          "norm_mm": 2.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            11,
+            -37
+          ],
+          "residual_mm": [
+            0,
+            -27
+          ],
+          "norm_mm": 27.0,
+          "seated": false,
+          "height_mm": 110.0
+        }
+      }
+    },
+    {
+      "id": 5,
+      "true_correction_mm": [
+        -3,
+        4
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            3,
+            -4
+          ],
+          "norm_mm": 5.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "exact": {
+          "action_mm": [
+            -3,
+            4
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -5,
+            6
+          ],
+          "residual_mm": [
+            -2,
+            2
+          ],
+          "norm_mm": 2.83,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -4.19,
+            5.02
+          ],
+          "residual_mm": [
+            -1.19,
+            1.02
+          ],
+          "norm_mm": 1.57,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -4,
+            5
+          ],
+          "residual_mm": [
+            -1,
+            1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -4.47,
+            5.02
+          ],
+          "residual_mm": [
+            -1.47,
+            1.02
+          ],
+          "norm_mm": 1.79,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -3,
+            4
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -3.02,
+            4.06
+          ],
+          "residual_mm": [
+            -0.02,
+            0.06
+          ],
+          "norm_mm": 0.06,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -2,
+            5
+          ],
+          "residual_mm": [
+            1,
+            1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -2.02,
+            6.43
+          ],
+          "residual_mm": [
+            0.98,
+            2.43
+          ],
+          "norm_mm": 2.62,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -3,
+            4
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -4,
+            -11
+          ],
+          "residual_mm": [
+            -1,
+            -15
+          ],
+          "norm_mm": 15.03,
+          "seated": false,
+          "height_mm": 115.1
+        }
+      }
+    },
+    {
+      "id": 6,
+      "true_correction_mm": [
+        15,
+        0
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            -15,
+            0
+          ],
+          "norm_mm": 15.0,
+          "seated": false,
+          "height_mm": 116.9
+        },
+        "exact": {
+          "action_mm": [
+            15,
+            0
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            14,
+            1
+          ],
+          "residual_mm": [
+            -1,
+            1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            14.23,
+            0.28
+          ],
+          "residual_mm": [
+            -0.77,
+            0.28
+          ],
+          "norm_mm": 0.82,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            15,
+            0
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            14.51,
+            0.56
+          ],
+          "residual_mm": [
+            -0.49,
+            0.56
+          ],
+          "norm_mm": 0.74,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            15,
+            0
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            15.09,
+            -0.1
+          ],
+          "residual_mm": [
+            0.09,
+            -0.1
+          ],
+          "norm_mm": 0.13,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            12,
+            12
+          ],
+          "residual_mm": [
+            -3,
+            12
+          ],
+          "norm_mm": 12.37,
+          "seated": false,
+          "height_mm": 116.7
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            14.3,
+            1.58
+          ],
+          "residual_mm": [
+            -0.7,
+            1.58
+          ],
+          "norm_mm": 1.73,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            15,
+            1
+          ],
+          "residual_mm": [
+            0,
+            1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            15,
+            -17
+          ],
+          "residual_mm": [
+            0,
+            -17
+          ],
+          "norm_mm": 17.0,
+          "seated": false,
+          "height_mm": 114.1
+        }
+      }
+    },
+    {
+      "id": 7,
+      "true_correction_mm": [
+        0,
+        -11
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            0,
+            11
+          ],
+          "norm_mm": 11.0,
+          "seated": false,
+          "height_mm": 117.2
+        },
+        "exact": {
+          "action_mm": [
+            0,
+            -11
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            0,
+            -10
+          ],
+          "residual_mm": [
+            0,
+            1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -0.56,
+            -10.05
+          ],
+          "residual_mm": [
+            -0.56,
+            0.95
+          ],
+          "norm_mm": 1.1,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            0,
+            -11
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            0.0,
+            -11.16
+          ],
+          "residual_mm": [
+            0.0,
+            -0.16
+          ],
+          "norm_mm": 0.16,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            0,
+            -11
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -0.11,
+            -11.0
+          ],
+          "residual_mm": [
+            -0.11,
+            0.0
+          ],
+          "norm_mm": 0.11,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            0,
+            -7
+          ],
+          "residual_mm": [
+            0,
+            4
+          ],
+          "norm_mm": 4.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -0.26,
+            -9.31
+          ],
+          "residual_mm": [
+            -0.26,
+            1.69
+          ],
+          "norm_mm": 1.71,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            0,
+            -11
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            0,
+            -27
+          ],
+          "residual_mm": [
+            0,
+            -16
+          ],
+          "norm_mm": 16.0,
+          "seated": false,
+          "height_mm": 114.6
+        }
+      }
+    },
+    {
+      "id": 8,
+      "true_correction_mm": [
+        -10,
+        12
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            10,
+            -12
+          ],
+          "norm_mm": 15.62,
+          "seated": false,
+          "height_mm": 116.5
+        },
+        "exact": {
+          "action_mm": [
+            -10,
+            12
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -11,
+            13
+          ],
+          "residual_mm": [
+            -1,
+            1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -10.33,
+            12.84
+          ],
+          "residual_mm": [
+            -0.33,
+            0.84
+          ],
+          "norm_mm": 0.9,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -11,
+            14
+          ],
+          "residual_mm": [
+            -1,
+            2
+          ],
+          "norm_mm": 2.24,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -11.16,
+            13.4
+          ],
+          "residual_mm": [
+            -1.16,
+            1.4
+          ],
+          "norm_mm": 1.82,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -10,
+            12
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -10.15,
+            12.46
+          ],
+          "residual_mm": [
+            -0.15,
+            0.46
+          ],
+          "norm_mm": 0.48,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -8,
+            13
+          ],
+          "residual_mm": [
+            2,
+            1
+          ],
+          "norm_mm": 2.24,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -9.59,
+            14.22
+          ],
+          "residual_mm": [
+            0.41,
+            2.22
+          ],
+          "norm_mm": 2.26,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -10,
+            13
+          ],
+          "residual_mm": [
+            0,
+            1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -12,
+            -4
+          ],
+          "residual_mm": [
+            -2,
+            -16
+          ],
+          "norm_mm": 16.12,
+          "seated": false,
+          "height_mm": 114.6
+        }
+      }
+    },
+    {
+      "id": 9,
+      "true_correction_mm": [
+        3,
+        3
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            -3,
+            -3
+          ],
+          "norm_mm": 4.24,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "exact": {
+          "action_mm": [
+            3,
+            3
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            2,
+            2
+          ],
+          "residual_mm": [
+            -1,
+            -1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            1.67,
+            1.67
+          ],
+          "residual_mm": [
+            -1.33,
+            -1.33
+          ],
+          "norm_mm": 1.88,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            2,
+            2
+          ],
+          "residual_mm": [
+            -1,
+            -1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            1.95,
+            1.95
+          ],
+          "residual_mm": [
+            -1.05,
+            -1.05
+          ],
+          "norm_mm": 1.48,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            3,
+            3
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            3.0,
+            1.56
+          ],
+          "residual_mm": [
+            0.0,
+            -1.44
+          ],
+          "norm_mm": 1.44,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            2,
+            5
+          ],
+          "residual_mm": [
+            -1,
+            2
+          ],
+          "norm_mm": 2.24,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            2.8,
+            5.18
+          ],
+          "residual_mm": [
+            -0.2,
+            2.18
+          ],
+          "norm_mm": 2.19,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            3,
+            4
+          ],
+          "residual_mm": [
+            0,
+            1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            2,
+            -25
+          ],
+          "residual_mm": [
+            -1,
+            -28
+          ],
+          "norm_mm": 28.02,
+          "seated": false,
+          "height_mm": 109.7
+        }
+      }
+    },
+    {
+      "id": 10,
+      "true_correction_mm": [
+        -9,
+        -8
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            9,
+            8
+          ],
+          "norm_mm": 12.04,
+          "seated": false,
+          "height_mm": 135.0
+        },
+        "exact": {
+          "action_mm": [
+            -9,
+            -8
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -9,
+            -8
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -8.93,
+            -7.82
+          ],
+          "residual_mm": [
+            0.07,
+            0.18
+          ],
+          "norm_mm": 0.19,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -9,
+            -9
+          ],
+          "residual_mm": [
+            0,
+            -1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -9.49,
+            -8.37
+          ],
+          "residual_mm": [
+            -0.49,
+            -0.37
+          ],
+          "norm_mm": 0.61,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -9,
+            -9
+          ],
+          "residual_mm": [
+            0,
+            -1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -9.01,
+            -8.78
+          ],
+          "residual_mm": [
+            -0.01,
+            -0.78
+          ],
+          "norm_mm": 0.78,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -8,
+            -5
+          ],
+          "residual_mm": [
+            1,
+            3
+          ],
+          "norm_mm": 3.16,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -8.47,
+            -4.51
+          ],
+          "residual_mm": [
+            0.53,
+            3.49
+          ],
+          "norm_mm": 3.53,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -9,
+            -8
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -7,
+            -30
+          ],
+          "residual_mm": [
+            2,
+            -22
+          ],
+          "norm_mm": 22.09,
+          "seated": false,
+          "height_mm": 111.9
+        }
+      }
+    },
+    {
+      "id": 11,
+      "true_correction_mm": [
+        -3,
+        -14
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            3,
+            14
+          ],
+          "norm_mm": 14.32,
+          "seated": false,
+          "height_mm": 115.6
+        },
+        "exact": {
+          "action_mm": [
+            -3,
+            -14
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -2,
+            -13
+          ],
+          "residual_mm": [
+            1,
+            1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -1.95,
+            -13.12
+          ],
+          "residual_mm": [
+            1.05,
+            0.88
+          ],
+          "norm_mm": 1.37,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -2,
+            -14
+          ],
+          "residual_mm": [
+            1,
+            0
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -2.23,
+            -14.23
+          ],
+          "residual_mm": [
+            0.77,
+            -0.23
+          ],
+          "norm_mm": 0.8,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -3,
+            -14
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -3.16,
+            -15.02
+          ],
+          "residual_mm": [
+            -0.16,
+            -1.02
+          ],
+          "norm_mm": 1.03,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            0,
+            -7
+          ],
+          "residual_mm": [
+            3,
+            7
+          ],
+          "norm_mm": 7.62,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -3.34,
+            -11.36
+          ],
+          "residual_mm": [
+            -0.34,
+            2.64
+          ],
+          "norm_mm": 2.66,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -3,
+            -13
+          ],
+          "residual_mm": [
+            0,
+            1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -3,
+            -30
+          ],
+          "residual_mm": [
+            0,
+            -16
+          ],
+          "norm_mm": 16.0,
+          "seated": false,
+          "height_mm": 114.6
+        }
+      }
+    },
+    {
+      "id": 12,
+      "true_correction_mm": [
+        0,
+        0
+      ],
+      "arms": {
+        "no_action": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "exact": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/direct": {
+          "action_mm": [
+            -1,
+            1
+          ],
+          "residual_mm": [
+            -1,
+            1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            -1.4,
+            0.56
+          ],
+          "residual_mm": [
+            -1.4,
+            0.56
+          ],
+          "norm_mm": 1.51,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -1,
+            1
+          ],
+          "residual_mm": [
+            -1,
+            1
+          ],
+          "norm_mm": 1.41,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "overhead/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -1.12,
+            0.56
+          ],
+          "residual_mm": [
+            -1.12,
+            0.56
+          ],
+          "norm_mm": 1.25,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/direct": {
+          "action_mm": [
+            0,
+            0
+          ],
+          "residual_mm": [
+            0,
+            0
+          ],
+          "norm_mm": 0.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.2-sol/landmarks": {
+          "action_mm": [
+            0.24,
+            -0.4
+          ],
+          "residual_mm": [
+            0.24,
+            -0.4
+          ],
+          "norm_mm": 0.47,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -1,
+            4
+          ],
+          "residual_mm": [
+            -1,
+            4
+          ],
+          "norm_mm": 4.12,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique/gpt-6.1-terra/landmarks": {
+          "action_mm": [
+            -0.29,
+            2.25
+          ],
+          "residual_mm": [
+            -0.29,
+            2.25
+          ],
+          "norm_mm": 2.27,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.2-sol/direct": {
+          "action_mm": [
+            0,
+            1
+          ],
+          "residual_mm": [
+            0,
+            1
+          ],
+          "norm_mm": 1.0,
+          "seated": true,
+          "height_mm": 10.0
+        },
+        "oblique-noheight/gpt-6.1-terra/direct": {
+          "action_mm": [
+            -2,
+            -26
+          ],
+          "residual_mm": [
+            -2,
+            -26
+          ],
+          "norm_mm": 26.08,
+          "seated": false,
+          "height_mm": 110.4
+        }
+      }
+    }
+  ]
+}

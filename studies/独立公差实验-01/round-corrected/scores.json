@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "round-test-00-4",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.66,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-4",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.7,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-4",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.66,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-4",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 135.46,
+    "lateral": 11.08,
+    "tilt": 12.8,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-4",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-4",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 130.17,
+    "lateral": 9.11,
+    "tilt": 20.91,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-4",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.47,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-4",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 130.17,
+    "lateral": 9.11,
+    "tilt": 20.91,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-4",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 129.53,
+    "lateral": 10.47,
+    "tilt": 22.81,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-4",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-4",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.38,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-4",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.32,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-4",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.38,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-4",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 135.8,
+    "lateral": 9.48,
+    "tilt": 11.46,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-4",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-4",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-4",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-4",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-4",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.26,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-4",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-4",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 137.19,
+    "lateral": 7.41,
+    "tilt": 1.71,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-4",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.64,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-4",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 137.19,
+    "lateral": 7.41,
+    "tilt": 1.71,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-4",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 10.12,
+    "lateral": 4.16,
+    "tilt": 0.23,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-4",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-4",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-4",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.29,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-4",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-4",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.9,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-4",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-4",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-4",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.41,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-4",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-4",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 136.22,
+    "lateral": 11.77,
+    "tilt": 10.67,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-4",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-4",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.61,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-4",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-4",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.61,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-4",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.82,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-4",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-2",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 136.13,
+    "lateral": 5.59,
+    "tilt": 8.34,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-2",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-2",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 136.13,
+    "lateral": 5.59,
+    "tilt": 8.34,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-2",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 136.98,
+    "lateral": 11.11,
+    "tilt": 10.14,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-2",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-2",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 138.61,
+    "lateral": 11.99,
+    "tilt": 4.65,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-2",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.66,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-2",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 138.61,
+    "lateral": 11.99,
+    "tilt": 4.65,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-2",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 138.09,
+    "lateral": 11.34,
+    "tilt": 6.48,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-2",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-2",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-2",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.3,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-2",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-2",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 136.8,
+    "lateral": 9.28,
+    "tilt": 10.41,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-2",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-2",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-2",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.09,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-2",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-2",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.99,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-2",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-2",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 136.15,
+    "lateral": 14.96,
+    "tilt": 13.39,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-2",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.48,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-2",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 136.15,
+    "lateral": 14.96,
+    "tilt": 13.39,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-2",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 135.38,
+    "lateral": 17.49,
+    "tilt": 15.95,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-2",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-2",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.83,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-2",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.86,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-2",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.83,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-2",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.77,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-2",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-2",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 137.93,
+    "lateral": 8.05,
+    "tilt": 6.58,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-2",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.22,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-2",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 137.93,
+    "lateral": 8.05,
+    "tilt": 6.58,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-2",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 136.89,
+    "lateral": 11.0,
+    "tilt": 10.44,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-2",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-2",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.33,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-2",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.53,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-2",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.33,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-2",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.82,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-2",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-1",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 138.73,
+    "lateral": 7.73,
+    "tilt": 4.33,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-1",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-1",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 1.06,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-1",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 137.43,
+    "lateral": 13.59,
+    "tilt": 9.56,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-1",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-1",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.16,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-1",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-1",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.19,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-1",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 139.1,
+    "lateral": 13.7,
+    "tilt": 4.72,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-1",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-1",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 10.22,
+    "lateral": 1.11,
+    "tilt": 0.35,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-1",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.93,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-1",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.93,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-1",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 137.57,
+    "lateral": 7.29,
+    "tilt": 8.26,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-1",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-1",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-1",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.36,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-1",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.36,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-1",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.74,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-1",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-1",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 137.58,
+    "lateral": 8.64,
+    "tilt": 8.5,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-1",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 10.56,
+    "lateral": 1.08,
+    "tilt": 0.78,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-1",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 10.56,
+    "lateral": 1.08,
+    "tilt": 0.78,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-1",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 137.67,
+    "lateral": 8.79,
+    "tilt": 8.19,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-1",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-1",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.46,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-1",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.37,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-1",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.37,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-1",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.28,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-1",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-1",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 137.38,
+    "lateral": 7.58,
+    "tilt": 8.92,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-1",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.68,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-1",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.68,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-1",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 137.68,
+    "lateral": 5.99,
+    "tilt": 0.89,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-1",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-1",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.25,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-1",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.35,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-1",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.35,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-1",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.21,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-1",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p5",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 118.56,
+    "lateral": 0.04,
+    "tilt": 3.98,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p5",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.45,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p5",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.45,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p5",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 139.77,
+    "lateral": 12.12,
+    "tilt": 0.79,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p5",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p5",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 138.26,
+    "lateral": 6.47,
+    "tilt": 6.04,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p5",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.49,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p5",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.49,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p5",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 138.33,
+    "lateral": 14.51,
+    "tilt": 8.87,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p5",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p5",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.32,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p5",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 139.89,
+    "lateral": 4.54,
+    "tilt": 0.3,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p5",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 139.89,
+    "lateral": 4.54,
+    "tilt": 0.3,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p5",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 137.67,
+    "lateral": 7.72,
+    "tilt": 8.39,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p5",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p5",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.05,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p5",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p5",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p5",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p5",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p5",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 86.31,
+    "lateral": 0.12,
+    "tilt": 4.37,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p5",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 12.6,
+    "lateral": 0.39,
+    "tilt": 2.05,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p5",
+    "mode": "on_demand",
+    "success": false,
+    "official": true,
+    "height": 12.6,
+    "lateral": 0.39,
+    "tilt": 2.05,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p5",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 10.46,
+    "lateral": 0.63,
+    "tilt": 0.6,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p5",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-0p5",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.15,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-0p5",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-0p5",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.23,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-0p5",
+    "mode": "terra",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.33,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-0p5",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p5",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 138.86,
+    "lateral": 24.32,
+    "tilt": 4.61,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p5",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.53,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p5",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.53,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p5",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 139.63,
+    "lateral": 14.18,
+    "tilt": 1.58,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p5",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p5",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.31,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p5",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.12,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p5",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.12,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p5",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 80.56,
+    "lateral": 0.09,
+    "tilt": 3.03,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p5",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p25",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 68.04,
+    "lateral": 0.17,
+    "tilt": 1.86,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p25",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 100.09,
+    "lateral": 0.06,
+    "tilt": 2.56,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p25",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 100.09,
+    "lateral": 0.06,
+    "tilt": 2.56,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p25",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 139.98,
+    "lateral": 11.98,
+    "tilt": 0.05,
+    "stable": true
+  },
+  {
+    "id": "round-test-00-0p25",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p25",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 137.7,
+    "lateral": 6.13,
+    "tilt": 8.11,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p25",
+    "mode": "always",
+    "success": false,
+    "official": true,
+    "height": 36.7,
+    "lateral": 0.11,
+    "tilt": 1.7,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p25",
+    "mode": "on_demand",
+    "success": false,
+    "official": true,
+    "height": 36.7,
+    "lateral": 0.11,
+    "tilt": 1.7,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p25",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 139.11,
+    "lateral": 10.98,
+    "tilt": 5.71,
+    "stable": true
+  },
+  {
+    "id": "round-test-01-0p25",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p25",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 123.04,
+    "lateral": 0.09,
+    "tilt": 2.3,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p25",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 119.77,
+    "lateral": 0.2,
+    "tilt": 2.71,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p25",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 119.77,
+    "lateral": 0.2,
+    "tilt": 2.71,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p25",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 137.91,
+    "lateral": 6.51,
+    "tilt": 7.47,
+    "stable": true
+  },
+  {
+    "id": "round-test-02-0p25",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p25",
+    "mode": "direct",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.14,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p25",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.09,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p25",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.09,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p25",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 76.61,
+    "lateral": 0.02,
+    "tilt": 2.26,
+    "stable": true
+  },
+  {
+    "id": "round-test-03-0p25",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p25",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 48.32,
+    "lateral": 0.06,
+    "tilt": 1.94,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p25",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 110.33,
+    "lateral": 0.02,
+    "tilt": 1.79,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p25",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 110.33,
+    "lateral": 0.02,
+    "tilt": 1.79,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p25",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 138.24,
+    "lateral": 9.71,
+    "tilt": 6.73,
+    "stable": true
+  },
+  {
+    "id": "round-test-04-0p25",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-0p25",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 10.07,
+    "lateral": 0.41,
+    "tilt": 0.43,
+    "stable": false
+  },
+  {
+    "id": "round-test-05-0p25",
+    "mode": "always",
+    "success": false,
+    "official": false,
+    "height": 118.86,
+    "lateral": 0.01,
+    "tilt": 1.68,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-0p25",
+    "mode": "on_demand",
+    "success": false,
+    "official": false,
+    "height": 118.86,
+    "lateral": 0.01,
+    "tilt": 1.68,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-0p25",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 69.62,
+    "lateral": 0.1,
+    "tilt": 1.94,
+    "stable": true
+  },
+  {
+    "id": "round-test-05-0p25",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.01,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p25",
+    "mode": "direct",
+    "success": false,
+    "official": true,
+    "height": 23.1,
+    "lateral": 0.0,
+    "tilt": 2.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p25",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.65,
+    "lateral": 0.05,
+    "tilt": 0.34,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p25",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.65,
+    "lateral": 0.05,
+    "tilt": 0.34,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p25",
+    "mode": "terra",
+    "success": false,
+    "official": false,
+    "height": 139.92,
+    "lateral": 7.41,
+    "tilt": 0.26,
+    "stable": true
+  },
+  {
+    "id": "round-test-06-0p25",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p25",
+    "mode": "direct",
+    "success": false,
+    "official": false,
+    "height": 86.22,
+    "lateral": 0.03,
+    "tilt": 2.82,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p25",
+    "mode": "always",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.24,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p25",
+    "mode": "on_demand",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.24,
+    "tilt": 0.0,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p25",
+    "mode": "terra",
+    "success": false,
+    "official": true,
+    "height": 49.27,
+    "lateral": 0.24,
+    "tilt": 2.05,
+    "stable": true
+  },
+  {
+    "id": "round-test-07-0p25",
+    "mode": "oracle",
+    "success": true,
+    "official": true,
+    "height": 9.99,
+    "lateral": 0.0,
+    "tilt": 0.0,
+    "stable": true
+  }
+]

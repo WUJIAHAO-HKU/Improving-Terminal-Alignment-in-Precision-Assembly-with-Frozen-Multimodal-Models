@@ -1,0 +1,18 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"anchor\":[[307,171],[324,171]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Blade clamp sandwich. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. backing in staging nest near world XY [42, -50] mm, profile slot, thickness 5 mm, destination M; 2. wear plate in staging nest near world XY [-30, 47] mm, profile slot, thickness 4 mm, destination M; 3. cap in staging nest near world XY [-83, 47] mm, profile slot, thickness 5 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 20.03 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Image 1 = initial, image 2 = live AFTER the first commanded component. Using the station and newly observed placement, command remaining assembly in BOM order (grasp targets saved). Report updated mating anchor in the FIRST image, accounting for the live image when helpful. Reply {\"op\":\"assemble\",\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "first",
+  "id": "N06-1",
+  "anchor": [
+    43.21289297790071,
+    -5.044502138737826,
+    1.676471046806924
+  ],
+  "inputs": [
+    "observations/N06-1/initial-eye.jpg",
+    "runs/gpt-6.1-terra/N06-1/live-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 8.13849719997961
+}

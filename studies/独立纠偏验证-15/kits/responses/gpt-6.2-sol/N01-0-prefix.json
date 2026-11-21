@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.2-sol",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[105,123],[127,121]],[[301,254],[329,256]]],\"anchor\":[[308,178],[316,178]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Keyed hub and thrust washer. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. hub in staging nest near world XY [-83, 47] mm, profile dflat, thickness 6 mm, destination M; 2. washer in staging nest near world XY [42, -50] mm, profile round, thickness 4 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.53 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "N01-0",
+  "anchor": [
+    41.539055612025514,
+    -6.853540265448615,
+    1.6764710468065402
+  ],
+  "inputs": [
+    "observations/N01-0/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 18.819531599991024,
+  "picks": [
+    [
+      -82.39798912864147,
+      46.8844953070474,
+      9.456426502975347
+    ],
+    [
+      41.56468821461788,
+      -51.19715300404424,
+      -3.181434439101295
+    ]
+  ]
+}

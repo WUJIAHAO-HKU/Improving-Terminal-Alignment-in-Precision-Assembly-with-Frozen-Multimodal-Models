@@ -1,0 +1,18 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"anchor\":[[302,166],[341,165]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Staggered indexing frame. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. left register in staging nest near world XY [-83, -47] mm, profile dflat, thickness 6 mm, destination L; 2. right foot in staging nest near world XY [-83, 47] mm, profile round, thickness 4 mm, destination R; 3. right shim in staging nest near world XY [-30, 47] mm, profile round, thickness 2 mm, destination R; 4. middle frame in staging nest near world XY [-30, -47] mm, profile bridge, thickness 4 mm, destination LR; 5. left cap in staging nest near world XY [-83, 0] mm, profile dflat, thickness 4 mm, destination L; 6. right cap in staging nest near world XY [-30, 0] mm, profile round, thickness 4 mm, destination R. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 21.37 mm. Target anchor means the MIDPOINT of the two fixed brass posts. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Image 1 = initial, image 2 = live AFTER the first commanded component. Using the station and newly observed placement, command remaining assembly in BOM order (grasp targets saved). Report updated mating anchor in the FIRST image, accounting for the live image when helpful. Reply {\"op\":\"assemble\",\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "repeat",
+  "id": "K17-2",
+  "anchor": [
+    46.93374718311141,
+    -0.6914996257832655,
+    3.6689478819046
+  ],
+  "inputs": [
+    "observations/K17-2/initial-eye.jpg",
+    "runs/gpt-6.1-terra/K17-2/live-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 8.24639520002529
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "C00P05",
+    "task": "round",
+    "gap": 2.0,
+    "mode": "direct",
+    "category": "挽回原动作",
+    "action": [
+      5.1,
+      -5.5
+    ]
+  },
+  {
+    "id": "C00P05",
+    "task": "round",
+    "gap": 2.0,
+    "mode": "always",
+    "category": "挽回原动作",
+    "action": [
+      6.0,
+      -40.0
+    ]
+  },
+  {
+    "id": "C23P03",
+    "task": "round",
+    "gap": 4.0,
+    "mode": "direct",
+    "category": "误拒补测动作",
+    "action": [
+      -8.0,
+      -8.7
+    ]
+  },
+  {
+    "id": "C23P03",
+    "task": "round",
+    "gap": 4.0,
+    "mode": "always",
+    "category": "误拒补测动作",
+    "action": [
+      -8.7,
+      2.4
+    ]
+  },
+  {
+    "id": "C05P05",
+    "task": "round",
+    "gap": 0.5,
+    "mode": "direct",
+    "category": "接受后反而失败",
+    "action": [
+      -8.6,
+      16.2
+    ]
+  },
+  {
+    "id": "C05P05",
+    "task": "round",
+    "gap": 0.5,
+    "mode": "always",
+    "category": "接受后反而失败",
+    "action": [
+      -7.2,
+      16.8
+    ]
+  },
+  {
+    "id": "C01P01",
+    "task": "square",
+    "gap": 0.5,
+    "mode": "direct",
+    "category": "漏测导致失败",
+    "action": [
+      -16.1,
+      -2.3
+    ]
+  },
+  {
+    "id": "C01P01",
+    "task": "square",
+    "gap": 0.5,
+    "mode": "always",
+    "category": "漏测导致失败",
+    "action": [
+      -16.4,
+      -3.7
+    ]
+  },
+  {
+    "id": "C00P02",
+    "task": "dual",
+    "gap": 0.25,
+    "mode": "direct",
+    "category": "两种动作都失败",
+    "action": [
+      -0.7,
+      2.3
+    ]
+  },
+  {
+    "id": "C00P02",
+    "task": "dual",
+    "gap": 0.25,
+    "mode": "always",
+    "category": "两种动作都失败",
+    "action": [
+      -0.9,
+      2.5
+    ]
+  }
+]

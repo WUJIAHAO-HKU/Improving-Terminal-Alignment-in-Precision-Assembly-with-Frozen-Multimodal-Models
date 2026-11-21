@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.1-terra",
+  "raw": "{\"op\":\"assemble\",\"picks\":[[[106,124],[122,124]],[[188,127],[204,127]]],\"anchor\":[[308,160],[322,160]]}",
+  "prompt": "You control a physical simulated XY-Z-yaw gantry and two opposed jaws. Order: Spacer collar and keeper. Parts are free bodies. World X right, Y away, positive yaw counterclockwise seen from above. Pixel resolution 480x360, origin upper left. Machined part edges and mating axes are unmarked. No tools. JSON only. Bill of materials and assembly order: 1. spacer in staging nest near world XY [-83, 47] mm, profile round, thickness 6 mm, destination M; 2. keeper in staging nest near world XY [-30, 47] mm, profile round, thickness 4 mm, destination M. Image scale: camera eye at (6,-205,239) mm looks at (0,0,5) mm, up oriented away, vertical FOV 38 deg. Two-column separation where relevant 22.07 mm. Target anchor means the center of the SINGLE fixed brass post. Define the anchor by two symmetric pixels on the mating X axis, left then right, over the top plane of the post (or centers of the two posts). For round single post take a horizontal diameter; for D-profile follow the direction to the flat; for blade follow its long axis. Unfilled holes and tray coordinates are for identifying the correct loose components. Using the initial oblique image, locate every loose part. Report two points on its upper surface, symmetric around its center and along its long X axis, so the jaws can grasp across the shorter Y dimension. Include all parts in listed order. Command first-stage assembly and store the remaining grasp targets. Return {\"op\":\"assemble\",\"picks\":[[[u,v],[u,v]],...],\"anchor\":[[u,v],[u,v]]}.",
+  "mode": "prefix",
+  "id": "K00-3",
+  "anchor": [
+    44.17747559881287,
+    7.3323026934002655,
+    1.6764710468065545
+  ],
+  "inputs": [
+    "observations/K00-3/initial-eye.jpg"
+  ],
+  "attempts": 1,
+  "seconds": 6.943506699986756,
+  "picks": [
+    [
+      -83.3618124861176,
+      44.93037026781302,
+      1.6764710468069381
+    ],
+    [
+      -29.864336472374546,
+      45.779722950259924,
+      1.676471046806867
+    ]
+  ]
+}

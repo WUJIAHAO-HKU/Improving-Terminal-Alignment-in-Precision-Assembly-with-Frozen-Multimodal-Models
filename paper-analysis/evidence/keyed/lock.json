@@ -1,0 +1,13 @@
+{
+  "protocol": "Additional keyed dual-port cohort, n=25, 5 mixed blocks of 5. A wrong socket has a second locating pin with radius 2.15 times nominal. Freeze the previous batch rank, acceptance and sensory comparisons and use unseen dimensions, fresh draws and an unmarked physical gripper. Same logical budgets. Separate exploratory cohort; no pooling with the prespecified 100-scene tests. Verify a perfect commanded grasp seizes and carries; the compatible socket seats, and identical approach to incompatible socket physically cannot reach the seated height. All outcomes retained.",
+  "sha256": {
+    "design.py": "4b7b617fe1fea7fab8535f25da64c2e2ac73c6f6818476687493657964611a3d",
+    "profiles.py": "11786686994cb843df0125916e36535f79266898c37444a4a79928582817754d",
+    "collect12.py": "74627abe035d36775c2295c58ca3b620b72db6684aa1518403f85115eb62388c",
+    "gantry.py": "dcc6bbcff6cfa9607e9701cea23b3e7570cfb37d1a820f1b5da5c3a5f853c1d1",
+    "server.py": "554f079592b369e7c5306249f116465826c8cc5fb218e6977a0b10ec35c2a3ca",
+    "policy.py": "9483b50ce27bc2bed69c87a04e9fffd926edc32717fd3c8e07dd8352bc00522b",
+    "decisions.py": "1326856faa361a89cdc654f1fe4fe534eb27f116eae8afb9dd2a773655157b69",
+    "analyze.py": "309e656996f7c439d1ff60a61d785228c9eb3569e0849323b3b6319d3d2a7d39"
+  }
+}

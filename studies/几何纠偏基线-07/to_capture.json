@@ -1,0 +1,90 @@
+[
+  {
+    "id": "E01P02",
+    "task": "square",
+    "gap": 4.0,
+    "category": "geometry_only",
+    "method": "cv",
+    "action": [
+      -13.365706262210008,
+      20.300726107164245
+    ]
+  },
+  {
+    "id": "E01P02",
+    "task": "square",
+    "gap": 4.0,
+    "category": "geometry_only",
+    "method": "sol",
+    "action": [
+      -14.4,
+      -7.5
+    ]
+  },
+  {
+    "id": "E00P05",
+    "task": "round",
+    "gap": 0.5,
+    "category": "sol_only",
+    "method": "cv",
+    "action": [
+      16.11604804099728,
+      -8.696108885748517
+    ]
+  },
+  {
+    "id": "E00P05",
+    "task": "round",
+    "gap": 0.5,
+    "category": "sol_only",
+    "method": "sol",
+    "action": [
+      16.1,
+      -7.4
+    ]
+  },
+  {
+    "id": "E00P01",
+    "task": "round",
+    "gap": 0.5,
+    "category": "both_fail",
+    "method": "cv",
+    "action": [
+      -18.13395195900271,
+      2.5984680963669486
+    ]
+  },
+  {
+    "id": "E00P01",
+    "task": "round",
+    "gap": 0.5,
+    "category": "both_fail",
+    "method": "sol",
+    "action": [
+      -17.2,
+      7.2
+    ]
+  },
+  {
+    "id": "E00P02",
+    "task": "square",
+    "gap": 4.0,
+    "category": "both_succeed",
+    "method": "cv",
+    "action": [
+      -10.365706262210008,
+      -10.585408109765392
+    ]
+  },
+  {
+    "id": "E00P02",
+    "task": "square",
+    "gap": 4.0,
+    "category": "both_succeed",
+    "method": "sol",
+    "action": [
+      -10.8,
+      -10.6
+    ]
+  }
+]

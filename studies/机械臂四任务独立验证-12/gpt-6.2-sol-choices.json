@@ -1,0 +1,1202 @@
+{
+  "B000": {
+    "batch": 0,
+    "task": "twin",
+    "pre": 2.7524055359976853,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B001": {
+    "batch": 0,
+    "task": "blade",
+    "pre": 4.9495159015056585,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B002": {
+    "batch": 0,
+    "task": "dshaft",
+    "pre": 3.823663796819991,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B003": {
+    "batch": 0,
+    "task": "connector",
+    "pre": 4.653719125791633,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B004": {
+    "batch": 0,
+    "task": "twin",
+    "pre": 4.090448846216915,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B005": {
+    "batch": 1,
+    "task": "blade",
+    "pre": 2.88839848499723,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B006": {
+    "batch": 1,
+    "task": "dshaft",
+    "pre": 8.520390594523654,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B007": {
+    "batch": 1,
+    "task": "connector",
+    "pre": 5.62307618178954,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B008": {
+    "batch": 1,
+    "task": "twin",
+    "pre": 2.726092763990245,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B009": {
+    "batch": 1,
+    "task": "blade",
+    "pre": 3.2267058918259415,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B010": {
+    "batch": 2,
+    "task": "dshaft",
+    "pre": 9.740204597114891,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B011": {
+    "batch": 2,
+    "task": "connector",
+    "pre": 3.824632381216336,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B012": {
+    "batch": 2,
+    "task": "twin",
+    "pre": 6.267996958336187,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B013": {
+    "batch": 2,
+    "task": "blade",
+    "pre": 3.347433612609955,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B014": {
+    "batch": 2,
+    "task": "dshaft",
+    "pre": 5.815534222415522,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B015": {
+    "batch": 3,
+    "task": "connector",
+    "pre": 2.3344348970522044,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B016": {
+    "batch": 3,
+    "task": "twin",
+    "pre": 3.8111968835305734,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B017": {
+    "batch": 3,
+    "task": "blade",
+    "pre": 7.935518015233736,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B018": {
+    "batch": 3,
+    "task": "dshaft",
+    "pre": 11.07196189004747,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B019": {
+    "batch": 3,
+    "task": "connector",
+    "pre": 6.033684666183732,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B020": {
+    "batch": 4,
+    "task": "twin",
+    "pre": 4.890170504637973,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B021": {
+    "batch": 4,
+    "task": "blade",
+    "pre": 6.24659052109845,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B022": {
+    "batch": 4,
+    "task": "dshaft",
+    "pre": 3.7589648227927994,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B023": {
+    "batch": 4,
+    "task": "connector",
+    "pre": 10.224066676510475,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B024": {
+    "batch": 4,
+    "task": "twin",
+    "pre": 3.020365356210822,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B025": {
+    "batch": 5,
+    "task": "blade",
+    "pre": 8.117316255236066,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B026": {
+    "batch": 5,
+    "task": "dshaft",
+    "pre": 4.858793585776168,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B027": {
+    "batch": 5,
+    "task": "connector",
+    "pre": 8.248865913810306,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B028": {
+    "batch": 5,
+    "task": "twin",
+    "pre": 5.9460390355264465,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B029": {
+    "batch": 5,
+    "task": "blade",
+    "pre": 2.7152536395960634,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B030": {
+    "batch": 6,
+    "task": "dshaft",
+    "pre": 2.937550156731185,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B031": {
+    "batch": 6,
+    "task": "connector",
+    "pre": 7.969529061073006,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B032": {
+    "batch": 6,
+    "task": "twin",
+    "pre": 7.6631857590271695,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B033": {
+    "batch": 6,
+    "task": "blade",
+    "pre": 5.985364942439722,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B034": {
+    "batch": 6,
+    "task": "dshaft",
+    "pre": 5.786513242084151,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B035": {
+    "batch": 7,
+    "task": "connector",
+    "pre": 10.146887105450693,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B036": {
+    "batch": 7,
+    "task": "twin",
+    "pre": 2.5389448979716627,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B037": {
+    "batch": 7,
+    "task": "blade",
+    "pre": 3.588462188613802,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B038": {
+    "batch": 7,
+    "task": "dshaft",
+    "pre": 6.905868440744042,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B039": {
+    "batch": 7,
+    "task": "connector",
+    "pre": 3.2477506050026745,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B040": {
+    "batch": 8,
+    "task": "twin",
+    "pre": 6.0996884660938315,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B041": {
+    "batch": 8,
+    "task": "blade",
+    "pre": 4.2867892046860065,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B042": {
+    "batch": 8,
+    "task": "dshaft",
+    "pre": 6.241141744761897,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B043": {
+    "batch": 8,
+    "task": "connector",
+    "pre": 5.715564606218042,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B044": {
+    "batch": 8,
+    "task": "twin",
+    "pre": 2.5772864499752104,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B045": {
+    "batch": 9,
+    "task": "blade",
+    "pre": 4.2602334301755524,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B046": {
+    "batch": 9,
+    "task": "dshaft",
+    "pre": 10.816845604359795,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B047": {
+    "batch": 9,
+    "task": "connector",
+    "pre": 8.700570534715274,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B048": {
+    "batch": 9,
+    "task": "twin",
+    "pre": 1000000.0,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": false,
+    "rank": 1
+  },
+  "B049": {
+    "batch": 9,
+    "task": "blade",
+    "pre": 3.217649061239335,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B050": {
+    "batch": 10,
+    "task": "dshaft",
+    "pre": 3.0083788437730448,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B051": {
+    "batch": 10,
+    "task": "connector",
+    "pre": 3.0568341351575596,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B052": {
+    "batch": 10,
+    "task": "twin",
+    "pre": 1000000.0,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": false,
+    "rank": 1
+  },
+  "B053": {
+    "batch": 10,
+    "task": "blade",
+    "pre": 2.4905886778864077,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B054": {
+    "batch": 10,
+    "task": "dshaft",
+    "pre": 19.198205747248274,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B055": {
+    "batch": 11,
+    "task": "connector",
+    "pre": 5.1810621144911435,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B056": {
+    "batch": 11,
+    "task": "twin",
+    "pre": 3.342468881034787,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B057": {
+    "batch": 11,
+    "task": "blade",
+    "pre": 7.4419178849981416,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B058": {
+    "batch": 11,
+    "task": "dshaft",
+    "pre": 3.3674974622672607,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B059": {
+    "batch": 11,
+    "task": "connector",
+    "pre": 3.4978524873549905,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B060": {
+    "batch": 12,
+    "task": "twin",
+    "pre": 3.4396907673717596,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B061": {
+    "batch": 12,
+    "task": "blade",
+    "pre": 8.873982949298354,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B062": {
+    "batch": 12,
+    "task": "dshaft",
+    "pre": 7.015407178665971,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B063": {
+    "batch": 12,
+    "task": "connector",
+    "pre": 2.3860598028910514,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B064": {
+    "batch": 12,
+    "task": "twin",
+    "pre": 2.8614116221980015,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B065": {
+    "batch": 13,
+    "task": "blade",
+    "pre": 8.185542118722228,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B066": {
+    "batch": 13,
+    "task": "dshaft",
+    "pre": 3.015075111057101,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B067": {
+    "batch": 13,
+    "task": "connector",
+    "pre": 3.0090558728671257,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B068": {
+    "batch": 13,
+    "task": "twin",
+    "pre": 8.145535139295706,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B069": {
+    "batch": 13,
+    "task": "blade",
+    "pre": 12.259341188528287,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B070": {
+    "batch": 14,
+    "task": "dshaft",
+    "pre": 3.6575506340809363,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B071": {
+    "batch": 14,
+    "task": "connector",
+    "pre": 2.3788718144613026,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B072": {
+    "batch": 14,
+    "task": "twin",
+    "pre": 8.92716707629079,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B073": {
+    "batch": 14,
+    "task": "blade",
+    "pre": 2.560550419137819,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B074": {
+    "batch": 14,
+    "task": "dshaft",
+    "pre": 2.571754044559295,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B075": {
+    "batch": 15,
+    "task": "connector",
+    "pre": 2.7603684698795115,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B076": {
+    "batch": 15,
+    "task": "twin",
+    "pre": 10.108417525272825,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B077": {
+    "batch": 15,
+    "task": "blade",
+    "pre": 2.8875765629161556,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B078": {
+    "batch": 15,
+    "task": "dshaft",
+    "pre": 10.280510954855506,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B079": {
+    "batch": 15,
+    "task": "connector",
+    "pre": 2.1567110154623537,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B080": {
+    "batch": 16,
+    "task": "twin",
+    "pre": 5.9391860115449395,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B081": {
+    "batch": 16,
+    "task": "blade",
+    "pre": 13.940627111793287,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B082": {
+    "batch": 16,
+    "task": "dshaft",
+    "pre": 9.72054341570986,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B083": {
+    "batch": 16,
+    "task": "connector",
+    "pre": 6.3064213875912145,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B084": {
+    "batch": 16,
+    "task": "twin",
+    "pre": 3.7222895826172064,
+    "accept": {
+      "repeat": false,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B085": {
+    "batch": 17,
+    "task": "blade",
+    "pre": 6.391700458346025,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B086": {
+    "batch": 17,
+    "task": "dshaft",
+    "pre": 3.997385234634942,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B087": {
+    "batch": 17,
+    "task": "connector",
+    "pre": 2.4276872920696357,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B088": {
+    "batch": 17,
+    "task": "twin",
+    "pre": 1000000.0,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": false,
+    "rank": 1
+  },
+  "B089": {
+    "batch": 17,
+    "task": "blade",
+    "pre": 6.046883633951559,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B090": {
+    "batch": 18,
+    "task": "dshaft",
+    "pre": 11.009021697740378,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B091": {
+    "batch": 18,
+    "task": "connector",
+    "pre": 2.8324719465858763,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B092": {
+    "batch": 18,
+    "task": "twin",
+    "pre": 3.2369350921009516,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  },
+  "B093": {
+    "batch": 18,
+    "task": "blade",
+    "pre": 3.6222216682580095,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B094": {
+    "batch": 18,
+    "task": "dshaft",
+    "pre": 4.477383807189078,
+    "accept": {
+      "repeat": false,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B095": {
+    "batch": 19,
+    "task": "connector",
+    "pre": 9.679518529688565,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 1
+  },
+  "B096": {
+    "batch": 19,
+    "task": "twin",
+    "pre": 2.6227491657700512,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 5
+  },
+  "B097": {
+    "batch": 19,
+    "task": "blade",
+    "pre": 5.527806932053494,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 3
+  },
+  "B098": {
+    "batch": 19,
+    "task": "dshaft",
+    "pre": 9.105202359626738,
+    "accept": {
+      "repeat": true,
+      "depth": false,
+      "overhead": false
+    },
+    "geometry_visible": true,
+    "rank": 2
+  },
+  "B099": {
+    "batch": 19,
+    "task": "connector",
+    "pre": 3.355053238445639,
+    "accept": {
+      "repeat": true,
+      "depth": true,
+      "overhead": true
+    },
+    "geometry_visible": true,
+    "rank": 4
+  }
+}

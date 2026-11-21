@@ -1,0 +1,26 @@
+{
+  "component": "front guide",
+  "pick": [
+    0.492,
+    -0.14200000000000002
+  ],
+  "target": [
+    0.504,
+    0.0625
+  ],
+  "lift_mm": 128.97122383002562,
+  "lift_contact": [
+    "left",
+    "right"
+  ],
+  "carry_contact": [
+    "left",
+    "right"
+  ],
+  "transport_mm": 204.7822307810435,
+  "xy_mm": 0.11812028001388927,
+  "z_mm": -0.0007038236706658624,
+  "tilt": 2.4148365394514667e-06,
+  "seated": true,
+  "ok": true
+}

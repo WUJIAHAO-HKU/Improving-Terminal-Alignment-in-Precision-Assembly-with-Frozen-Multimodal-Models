@@ -1,0 +1,1004 @@
+{
+  "n": 400,
+  "direct": 251,
+  "always": 305,
+  "strong": 327,
+  "oldstrong": 324,
+  "oracle": 400,
+  "strong_change": {
+    "diff": 0.75,
+    "lower": -1.3733043529573803,
+    "ci": [
+      -1.7990247792604763,
+      3.2990247792604763
+    ],
+    "boot": -1.25,
+    "p": 2.461659901123176e-05,
+    "wins": 10,
+    "losses": 7,
+    "cross": true
+  },
+  "budgets": {
+    "0": {
+      "measured": 0,
+      "ours": 251,
+      "old": 251,
+      "oldrank_newgate": 251,
+      "vs_strong": {
+        "diff": -19.0,
+        "lower": -22.455073878852673,
+        "ci": [
+          -23.147812780162397,
+          -14.852187219837603
+        ],
+        "boot": -22.5,
+        "p": 0.9999999814773595,
+        "wins": 5,
+        "losses": 81,
+        "cross": false
+      },
+      "vs_old": {
+        "diff": 0.0,
+        "lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "boot": 0.0,
+        "p": null,
+        "wins": 0,
+        "losses": 0,
+        "cross": false
+      },
+      "old_vs_oldstrong": {
+        "diff": -18.25,
+        "lower": -21.813324230911288,
+        "ci": [
+          -22.527767220926748,
+          -13.972232779073254
+        ],
+        "boot": -21.75,
+        "p": 0.9999998890612533,
+        "wins": 2,
+        "losses": 75,
+        "cross": false
+      },
+      "rank_effect": {
+        "diff": 0.0,
+        "lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "boot": 0.0,
+        "p": null,
+        "wins": 0,
+        "losses": 0,
+        "cross": false
+      },
+      "accepted": 0,
+      "kept": 0,
+      "good_keep": 0,
+      "wrong_reject": 0,
+      "skip_potential": 90,
+      "skip_shared_reject": 9,
+      "skip_relative_loss": 81,
+      "skip_relative_gain": 5,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 101,
+          "selected": 0,
+          "skip_loss": 22
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 94,
+          "selected": 0,
+          "skip_loss": 16
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 56,
+          "selected": 0,
+          "skip_loss": 43
+        }
+      }
+    },
+    "1": {
+      "measured": 40,
+      "ours": 262,
+      "old": 262,
+      "oldrank_newgate": 262,
+      "vs_strong": {
+        "diff": -16.25,
+        "lower": -19.307604690638453,
+        "ci": [
+          -19.920651412156232,
+          -12.57934858784377
+        ],
+        "boot": -19.25,
+        "p": 0.9999998630735134,
+        "wins": 2,
+        "losses": 67,
+        "cross": false
+      },
+      "vs_old": {
+        "diff": 0.0,
+        "lower": -1.0449151926870603,
+        "ci": [
+          -1.2544196571138075,
+          1.2544196571138075
+        ],
+        "boot": -1.0,
+        "p": 3.909441534656495e-10,
+        "wins": 7,
+        "losses": 7,
+        "cross": true
+      },
+      "old_vs_oldstrong": {
+        "diff": -15.5,
+        "lower": -18.68941713010571,
+        "ci": [
+          -19.3288921155904,
+          -11.6711078844096
+        ],
+        "boot": -18.75,
+        "p": 0.9999988975871134,
+        "wins": 0,
+        "losses": 62,
+        "cross": false
+      },
+      "rank_effect": {
+        "diff": 0.0,
+        "lower": -1.0449151926870603,
+        "ci": [
+          -1.2544196571138075,
+          1.2544196571138075
+        ],
+        "boot": -1.0,
+        "p": 3.909441534656495e-10,
+        "wins": 7,
+        "losses": 7,
+        "cross": true
+      },
+      "accepted": 40,
+      "kept": 0,
+      "good_keep": 0,
+      "wrong_reject": 0,
+      "skip_potential": 76,
+      "skip_shared_reject": 9,
+      "skip_relative_loss": 67,
+      "skip_relative_gain": 2,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 102,
+          "selected": 1,
+          "skip_loss": 21
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 96,
+          "selected": 6,
+          "skip_loss": 14
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 64,
+          "selected": 33,
+          "skip_loss": 32
+        }
+      }
+    },
+    "2": {
+      "measured": 80,
+      "ours": 274,
+      "old": 276,
+      "oldrank_newgate": 276,
+      "vs_strong": {
+        "diff": -13.25,
+        "lower": -16.10445509831828,
+        "ci": [
+          -16.676770527157554,
+          -9.823229472842446
+        ],
+        "boot": -16.0,
+        "p": 0.9999905598799612,
+        "wins": 2,
+        "losses": 55,
+        "cross": false
+      },
+      "vs_old": {
+        "diff": -0.5,
+        "lower": -2.4963076725958504,
+        "ci": [
+          -2.8965653898778467,
+          1.8965653898778467
+        ],
+        "boot": -2.5,
+        "p": 0.00024921826309435956,
+        "wins": 12,
+        "losses": 14,
+        "cross": true
+      },
+      "old_vs_oldstrong": {
+        "diff": -12.0,
+        "lower": -14.842476635492533,
+        "ci": [
+          -15.412390394362296,
+          -8.587609605637704
+        ],
+        "boot": -14.75,
+        "p": 0.9999125888811434,
+        "wins": 0,
+        "losses": 48,
+        "cross": false
+      },
+      "rank_effect": {
+        "diff": -0.5,
+        "lower": -2.4963076725958504,
+        "ci": [
+          -2.8965653898778467,
+          1.8965653898778467
+        ],
+        "boot": -2.5,
+        "p": 0.00024921826309435956,
+        "wins": 12,
+        "losses": 14,
+        "cross": true
+      },
+      "accepted": 77,
+      "kept": 3,
+      "good_keep": 1,
+      "wrong_reject": 1,
+      "skip_potential": 63,
+      "skip_shared_reject": 8,
+      "skip_relative_loss": 55,
+      "skip_relative_gain": 2,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 104,
+          "selected": 11,
+          "skip_loss": 19
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 102,
+          "selected": 29,
+          "skip_loss": 8
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 68,
+          "selected": 40,
+          "skip_loss": 28
+        }
+      }
+    },
+    "3": {
+      "measured": 120,
+      "ours": 280,
+      "old": 291,
+      "oldrank_newgate": 290,
+      "vs_strong": {
+        "diff": -11.75,
+        "lower": -14.572399560952318,
+        "ci": [
+          -15.138287886200061,
+          -8.361712113799939
+        ],
+        "boot": -14.5,
+        "p": 0.9998746512449708,
+        "wins": 2,
+        "losses": 49,
+        "cross": false
+      },
+      "vs_old": {
+        "diff": -2.75,
+        "lower": -5.447116182219191,
+        "ci": [
+          -5.987885313730683,
+          0.48788531373068267
+        ],
+        "boot": -5.25,
+        "p": 0.0838852232461913,
+        "wins": 16,
+        "losses": 27,
+        "cross": false
+      },
+      "old_vs_oldstrong": {
+        "diff": -8.25,
+        "lower": -10.801498043983742,
+        "ci": [
+          -11.313070882556486,
+          -5.186929117443514
+        ],
+        "boot": -10.75,
+        "p": 0.9809285814677025,
+        "wins": 0,
+        "losses": 33,
+        "cross": false
+      },
+      "rank_effect": {
+        "diff": -2.5,
+        "lower": -5.112287981717651,
+        "ci": [
+          -5.636049142784518,
+          0.6360491427845187
+        ],
+        "boot": -5.0,
+        "p": 0.05746393724417038,
+        "wins": 16,
+        "losses": 26,
+        "cross": false
+      },
+      "accepted": 105,
+      "kept": 15,
+      "good_keep": 5,
+      "wrong_reject": 4,
+      "skip_potential": 54,
+      "skip_shared_reject": 5,
+      "skip_relative_loss": 49,
+      "skip_relative_gain": 2,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 109,
+          "selected": 40,
+          "skip_loss": 14
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 103,
+          "selected": 40,
+          "skip_loss": 7
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 68,
+          "selected": 40,
+          "skip_loss": 28
+        }
+      }
+    },
+    "4": {
+      "measured": 160,
+      "ours": 296,
+      "old": 298,
+      "oldrank_newgate": 296,
+      "vs_strong": {
+        "diff": -7.75,
+        "lower": -10.124165971562702,
+        "ci": [
+          -10.600183904705547,
+          -4.899816095294453
+        ],
+        "boot": -10.0,
+        "p": 0.9709025889416402,
+        "wins": 2,
+        "losses": 33,
+        "cross": false
+      },
+      "vs_old": {
+        "diff": -0.5,
+        "lower": -2.909354807864294,
+        "ci": [
+          -3.392428067941574,
+          2.392428067941574
+        ],
+        "boot": -2.75,
+        "p": 0.0015785375584534591,
+        "wins": 13,
+        "losses": 15,
+        "cross": true
+      },
+      "old_vs_oldstrong": {
+        "diff": -6.5,
+        "lower": -8.63718579654401,
+        "ci": [
+          -9.06568943858025,
+          -3.9343105614197507
+        ],
+        "boot": -8.5,
+        "p": 0.8779249580959516,
+        "wins": 0,
+        "losses": 26,
+        "cross": false
+      },
+      "rank_effect": {
+        "diff": 0.0,
+        "lower": -2.2572748052105744,
+        "ci": [
+          -2.7098561749134285,
+          2.7098561749134285
+        ],
+        "boot": -2.25,
+        "p": 0.0003022507163338981,
+        "wins": 13,
+        "losses": 13,
+        "cross": true
+      },
+      "accepted": 144,
+      "kept": 16,
+      "good_keep": 5,
+      "wrong_reject": 4,
+      "skip_potential": 38,
+      "skip_shared_reject": 5,
+      "skip_relative_loss": 33,
+      "skip_relative_gain": 2,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 109,
+          "selected": 40,
+          "skip_loss": 14
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 103,
+          "selected": 41,
+          "skip_loss": 7
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 84,
+          "selected": 79,
+          "skip_loss": 12
+        }
+      }
+    },
+    "5": {
+      "measured": 200,
+      "ours": 307,
+      "old": 303,
+      "oldrank_newgate": 300,
+      "vs_strong": {
+        "diff": -5.0,
+        "lower": -7.089830385374121,
+        "ci": [
+          -7.508839314227615,
+          -2.491160685772385
+        ],
+        "boot": -7.0,
+        "p": 0.5,
+        "wins": 2,
+        "losses": 22,
+        "cross": false
+      },
+      "vs_old": {
+        "diff": 1.0,
+        "lower": -1.0723419575379918,
+        "ci": [
+          -1.487844473877709,
+          3.487844473877709
+        ],
+        "boot": -1.0,
+        "p": 9.190749051764542e-06,
+        "wins": 12,
+        "losses": 8,
+        "cross": true
+      },
+      "old_vs_oldstrong": {
+        "diff": -5.25,
+        "lower": -7.3387416484492904,
+        "ci": [
+          -7.757532286624331,
+          -2.7424677133756687
+        ],
+        "boot": -7.25,
+        "p": 0.5793852237579546,
+        "wins": 0,
+        "losses": 21,
+        "cross": false
+      },
+      "rank_effect": {
+        "diff": 1.75,
+        "lower": -0.048499093335370835,
+        "ci": [
+          -0.4090963857838332,
+          3.9090963857838332
+        ],
+        "boot": 0.0,
+        "p": 9.204402269211099e-08,
+        "wins": 12,
+        "losses": 5,
+        "cross": true
+      },
+      "accepted": 181,
+      "kept": 19,
+      "good_keep": 5,
+      "wrong_reject": 4,
+      "skip_potential": 27,
+      "skip_shared_reject": 5,
+      "skip_relative_loss": 22,
+      "skip_relative_gain": 2,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 110,
+          "selected": 44,
+          "skip_loss": 13
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 104,
+          "selected": 44,
+          "skip_loss": 6
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 93,
+          "selected": 112,
+          "skip_loss": 3
+        }
+      }
+    },
+    "6": {
+      "measured": 240,
+      "ours": 312,
+      "old": 306,
+      "oldrank_newgate": 303,
+      "vs_strong": {
+        "diff": -3.75,
+        "lower": -5.627700293276418,
+        "ci": [
+          -6.004177348112998,
+          -1.4958226518870017
+        ],
+        "boot": -5.5,
+        "p": 0.13443823758179985,
+        "wins": 2,
+        "losses": 17,
+        "cross": false
+      },
+      "vs_old": {
+        "diff": 1.5,
+        "lower": -0.45950621901130106,
+        "ci": [
+          -0.8523852811858621,
+          3.852385281185862
+        ],
+        "boot": -0.5,
+        "p": 9.635780667419992e-07,
+        "wins": 14,
+        "losses": 8,
+        "cross": true
+      },
+      "old_vs_oldstrong": {
+        "diff": -4.5,
+        "lower": -6.402970065545519,
+        "ci": [
+          -6.784513684771703,
+          -2.2154863152282975
+        ],
+        "boot": -6.5,
+        "p": 0.3302156202941435,
+        "wins": 0,
+        "losses": 18,
+        "cross": false
+      },
+      "rank_effect": {
+        "diff": 2.25,
+        "lower": 0.7134061106455092,
+        "ci": [
+          0.40532055300060543,
+          4.094679446999395
+        ],
+        "boot": 0.75,
+        "p": 5.525879959479348e-10,
+        "wins": 13,
+        "losses": 4,
+        "cross": true
+      },
+      "accepted": 210,
+      "kept": 30,
+      "good_keep": 10,
+      "wrong_reject": 4,
+      "skip_potential": 22,
+      "skip_shared_reject": 5,
+      "skip_relative_loss": 17,
+      "skip_relative_gain": 2,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 111,
+          "selected": 56,
+          "skip_loss": 12
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 107,
+          "selected": 60,
+          "skip_loss": 3
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 94,
+          "selected": 124,
+          "skip_loss": 2
+        }
+      },
+      "status": "未通过"
+    },
+    "7": {
+      "measured": 280,
+      "ours": 315,
+      "old": 312,
+      "oldrank_newgate": 307,
+      "vs_strong": {
+        "diff": -3.0,
+        "lower": -4.502160234621134,
+        "ci": [
+          -4.803341878490398,
+          -1.1966581215096015
+        ],
+        "boot": -4.5,
+        "p": 0.015316610912388205,
+        "wins": 0,
+        "losses": 12,
+        "cross": true
+      },
+      "vs_old": {
+        "diff": 0.75,
+        "lower": -1.6164887777456274,
+        "ci": [
+          -2.0909674411082997,
+          3.5909674411082997
+        ],
+        "boot": -1.5,
+        "p": 0.00010331989120598687,
+        "wins": 13,
+        "losses": 10,
+        "cross": true
+      },
+      "old_vs_oldstrong": {
+        "diff": -3.0,
+        "lower": -4.618775655790439,
+        "ci": [
+          -4.943338576462798,
+          -1.0566614235372023
+        ],
+        "boot": -4.75,
+        "p": 0.021991893458386078,
+        "wins": 0,
+        "losses": 12,
+        "cross": true
+      },
+      "rank_effect": {
+        "diff": 2.0,
+        "lower": 0.49783976537886576,
+        "ci": [
+          0.1966581215096015,
+          3.8033418784903983
+        ],
+        "boot": 0.5,
+        "p": 7.479399287917086e-10,
+        "wins": 12,
+        "losses": 4,
+        "cross": true
+      },
+      "accepted": 239,
+      "kept": 41,
+      "good_keep": 14,
+      "wrong_reject": 5,
+      "skip_potential": 16,
+      "skip_shared_reject": 4,
+      "skip_relative_loss": 12,
+      "skip_relative_gain": 0,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 113,
+          "selected": 72,
+          "skip_loss": 9
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 107,
+          "selected": 80,
+          "skip_loss": 2
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 95,
+          "selected": 128,
+          "skip_loss": 1
+        }
+      }
+    },
+    "8": {
+      "measured": 320,
+      "ours": 323,
+      "old": 315,
+      "oldrank_newgate": 310,
+      "vs_strong": {
+        "diff": -1.0,
+        "lower": -1.8093878278952196,
+        "ci": [
+          -1.9716692882313989,
+          -0.028330711768601136
+        ],
+        "boot": -1.75,
+        "p": 1.7443220903091625e-10,
+        "wins": 0,
+        "losses": 4,
+        "cross": true
+      },
+      "vs_old": {
+        "diff": 2.0,
+        "lower": -0.3520264986181023,
+        "ci": [
+          -0.8236054892951752,
+          4.823605489295176
+        ],
+        "boot": -0.25,
+        "p": 5.98283369892037e-06,
+        "wins": 16,
+        "losses": 8,
+        "cross": true
+      },
+      "old_vs_oldstrong": {
+        "diff": -2.25,
+        "lower": -3.5279758503962704,
+        "ci": [
+          -3.784208746579045,
+          -0.7157912534209552
+        ],
+        "boot": -3.5,
+        "p": 0.0004117941585416024,
+        "wins": 0,
+        "losses": 9,
+        "cross": true
+      },
+      "rank_effect": {
+        "diff": 3.25,
+        "lower": 1.6102820032779932,
+        "ci": [
+          1.281520163926476,
+          5.218479836073524
+        ],
+        "boot": 1.75,
+        "p": 1.1055565441928383e-10,
+        "wins": 15,
+        "losses": 2,
+        "cross": true
+      },
+      "accepted": 262,
+      "kept": 58,
+      "good_keep": 17,
+      "wrong_reject": 7,
+      "skip_potential": 6,
+      "skip_shared_reject": 2,
+      "skip_relative_loss": 4,
+      "skip_relative_gain": 0,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 119,
+          "selected": 94,
+          "skip_loss": 3
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 108,
+          "selected": 95,
+          "skip_loss": 1
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 96,
+          "selected": 131,
+          "skip_loss": 0
+        }
+      },
+      "status": "通过"
+    },
+    "9": {
+      "measured": 360,
+      "ours": 326,
+      "old": 322,
+      "oldrank_newgate": 320,
+      "vs_strong": {
+        "diff": -0.25,
+        "lower": -0.6712187804278062,
+        "ci": [
+          -0.7556727300091902,
+          0.2556727300091902
+        ],
+        "boot": -0.75,
+        "p": 1.286243570982309e-21,
+        "wins": 0,
+        "losses": 1,
+        "cross": true
+      },
+      "vs_old": {
+        "diff": 1.0,
+        "lower": -1.2410934151832866,
+        "ci": [
+          -1.6904304321625196,
+          3.6904304321625196
+        ],
+        "boot": -1.25,
+        "p": 2.890518472974599e-05,
+        "wins": 12,
+        "losses": 8,
+        "cross": true
+      },
+      "old_vs_oldstrong": {
+        "diff": -0.5,
+        "lower": -1.0880066246545255,
+        "ci": [
+          -1.205901372323794,
+          0.2059013723237938
+        ],
+        "boot": -1.0,
+        "p": 6.047764825097017e-16,
+        "wins": 0,
+        "losses": 2,
+        "cross": true
+      },
+      "rank_effect": {
+        "diff": 1.5,
+        "lower": 0.36332948959483136,
+        "ci": [
+          0.1354281745610939,
+          2.8645718254389063
+        ],
+        "boot": 0.5,
+        "p": 3.6293418493341796e-12,
+        "wins": 7,
+        "losses": 1,
+        "cross": true
+      },
+      "accepted": 273,
+      "kept": 87,
+      "good_keep": 22,
+      "wrong_reject": 9,
+      "skip_potential": 1,
+      "skip_shared_reject": 0,
+      "skip_relative_loss": 1,
+      "skip_relative_gain": 0,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 121,
+          "selected": 117,
+          "skip_loss": 1
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 109,
+          "selected": 112,
+          "skip_loss": 0
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 96,
+          "selected": 131,
+          "skip_loss": 0
+        }
+      }
+    },
+    "10": {
+      "measured": 400,
+      "ours": 327,
+      "old": 324,
+      "oldrank_newgate": 327,
+      "vs_strong": {
+        "diff": 0.0,
+        "lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "boot": 0.0,
+        "p": null,
+        "wins": 0,
+        "losses": 0,
+        "cross": false
+      },
+      "vs_old": {
+        "diff": 0.75,
+        "lower": -1.3733043529573803,
+        "ci": [
+          -1.7990247792604763,
+          3.2990247792604763
+        ],
+        "boot": -1.25,
+        "p": 2.461659901123176e-05,
+        "wins": 10,
+        "losses": 7,
+        "cross": true
+      },
+      "old_vs_oldstrong": {
+        "diff": 0.0,
+        "lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "boot": 0.0,
+        "p": null,
+        "wins": 0,
+        "losses": 0,
+        "cross": false
+      },
+      "rank_effect": {
+        "diff": 0.0,
+        "lower": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "boot": 0.0,
+        "p": null,
+        "wins": 0,
+        "losses": 0,
+        "cross": false
+      },
+      "accepted": 279,
+      "kept": 121,
+      "good_keep": 31,
+      "wrong_reject": 9,
+      "skip_potential": 0,
+      "skip_shared_reject": 0,
+      "skip_relative_loss": 0,
+      "skip_relative_gain": 0,
+      "by_task": {
+        "square": {
+          "n": 136,
+          "strong": 122,
+          "ours": 122,
+          "selected": 136,
+          "skip_loss": 0
+        },
+        "round": {
+          "n": 133,
+          "strong": 109,
+          "ours": 109,
+          "selected": 133,
+          "skip_loss": 0
+        },
+        "dual": {
+          "n": 131,
+          "strong": 96,
+          "ours": 96,
+          "selected": 131,
+          "skip_loss": 0
+        }
+      }
+    }
+  }
+}

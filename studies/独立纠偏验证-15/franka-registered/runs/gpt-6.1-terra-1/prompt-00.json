@@ -1,0 +1,6 @@
+{
+  "model": "gpt-6.1-terra",
+  "prompt": "You supervise a simulated Franka Panda from this current unmarked camera view and calibrated production records. Product Shimmed valve bonnet. The station accepts registered fixture skills. Input inventory (nest ID, stock number) [(0, 888), (1, 804), (2, 786)]. Full BOM in process order [('valve seat', 804), ('spacer ring', 786), ('bonnet', 888)]. No tools. Reply JSON only. Operation 1: grasp the stock belonging to valve seat, then place it at its CAD mating column. The runtime uses surveyed nest and fixture coordinates. Choose the nest ID corresponding to that stock. Return {\"op\":\"place\",\"nest\":integer}.",
+  "raw": "{\"op\":\"place\",\"nest\":1}",
+  "image": "live-00.jpg"
+}

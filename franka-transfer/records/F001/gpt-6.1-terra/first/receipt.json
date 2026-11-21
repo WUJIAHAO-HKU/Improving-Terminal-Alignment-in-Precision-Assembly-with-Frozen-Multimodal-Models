@@ -1,0 +1,51 @@
+{
+  "run_id": "franka-four-formal-v1",
+  "calibration_id": "franka-pilot-v1",
+  "model": "gpt-6.1-terra",
+  "batch_id": 0,
+  "scene_id": "F001",
+  "checkpoint_id": "3104e36ea5753deb2cd901c9094536b992a34fff9a1bd6d4f05dfa0f3c2df8d7",
+  "branch": "first",
+  "action": {
+    "x": 33.585,
+    "y": -11.572,
+    "yaw": -10.646
+  },
+  "lifted": true,
+  "carry_bilateral_samples": 27,
+  "margin_mm": -3.2138321374254386,
+  "drift_mm": 0.02549549518198775,
+  "endpoint": {
+    "time_s": 8.319999999999448,
+    "stage": "settle",
+    "part_mm": [
+      32.400943443569034,
+      -11.357174329132725,
+      12.185859715229224
+    ],
+    "part_quat": [
+      0.988912709255219,
+      -0.012385707638708332,
+      -0.1141459771613164,
+      -0.09417506898154578
+    ],
+    "tcp_mm": [
+      33.58724249007538,
+      -11.572202977733884,
+      74.99400316564049
+    ],
+    "left": false,
+    "right": false,
+    "contacts": [
+      "base_primary",
+      "pin_primary_0"
+    ],
+    "tilt_deg": 13.186022646713878
+  },
+  "success": false,
+  "failure_stage": "endpoint",
+  "controller_sha256": "813cd9e5f835db9afde9ecc33c1f5c270db415ee1f5a169f4709e853da09cd12",
+  "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+  "input_manifest_sha256": "356611ba08b966d81cabde92bf8f357c1f31d9d71e55f3645fe98614a0d228ac",
+  "reply_sha256": "53ca8b1975e000d858c9ceac463cd0014357966a3dc00dacf1bd10ad1c166f7f"
+}

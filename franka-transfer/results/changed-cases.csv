@@ -1,0 +1,10 @@
+model,measured,scene,task,change,first,overhead,old_measured,new_measured,old_selected,new_selected,checkpoint_id
+gpt-6.2-sol,80,F063,connector,new failure,0,1,1,0,overhead,first,ab5a03be4ada02a369e002c63cb51fc0aadd4e79dcb0e2f72dfaf3af061baafc
+gpt-6.2-sol,60,F063,connector,new failure,0,1,1,0,overhead,first,ab5a03be4ada02a369e002c63cb51fc0aadd4e79dcb0e2f72dfaf3af061baafc
+gpt-6.1-terra,80,F062,dshaft,new failure,0,1,1,0,overhead,first,3cbec45bb430bf5d95dff4518f391272fac8aa9ecd880b617cd147166db3e03b
+gpt-6.1-terra,80,F078,dshaft,new failure,0,1,1,0,overhead,first,882191eb4c810da152b8ece8760dc69cb48a120aa5115f6d7c3bab890eca9dfe
+gpt-6.1-terra,80,F082,dshaft,rescued,1,0,1,0,overhead,first,a1c09fd9546e435dddcc82bc5f0e53d292ccf428b85ec9b3f431b7e12e45e8d8
+gpt-6.1-terra,60,F014,dshaft,new failure,0,1,1,0,overhead,first,7c6b09df53a741f413694b4a4a9f036898f5685ffd26c6f1deffaee5e4de2d01
+gpt-6.1-terra,60,F074,dshaft,new failure,0,1,1,0,overhead,first,538782ff2c9f0b75e7651aa5ca5915a11381ec563f964eb6ed33e4d26cbab522
+gpt-6.1-terra,60,F078,dshaft,new failure,0,1,1,0,overhead,first,882191eb4c810da152b8ece8760dc69cb48a120aa5115f6d7c3bab890eca9dfe
+gpt-6.1-terra,60,F082,dshaft,rescued,1,0,1,0,overhead,first,a1c09fd9546e435dddcc82bc5f0e53d292ccf428b85ec9b3f431b7e12e45e8d8

@@ -31,3 +31,7 @@ Table 2 fixes revised acceptance and compares family-only, disagreement-only and
 The reviewer replay uses recorded actions and does not require model access, robot software or live inference. For independent-rule analyses inspect stage 15's analysis15.py, policy15.py and allocation_replay.py. Earlier translation and geometry studies retain their own analysis, policies and inputs under studies/. Run historical stage scripts from their own directory after reading the entry point. Dependencies vary by stage (e.g., NumPy, SciPy, OpenCV, MuJoCo and robosuite). Historical model names identify the requested service; a new call need not regenerate archived responses. The public clean-environment verification covers Tables 1 and 2, not a full simulator rerun.
 
 Live collection and transport utilities use example SSH aliases assembly-sim-a/b/c. Configure your own environment, directories, authentication and Python runtime before any live run. Local replay is sufficient to verify the paper tables. Publication hashes can be checked from the root with `sha256sum -c SHA256SUMS` on systems providing that utility.
+
+## Independent four-fixture Franka simulation
+
+From the same environment run `python franka-transfer/reproduce.py`. For the underlying 400 physical labels and all 1,800 decisions, follow the [archive audit instructions](franka-transfer/README.md).

@@ -1,0 +1,5 @@
+model,saving_pct,budget_success,full_success,difference_pp,lower_97_5_pp,nonzero_variance,status,batch_differences_pp
+gpt-6.2-sol,20,91,92,-1.0,-3.09302,True,pass,0 0 0 0 0 0 0 0 0 0 0 0 -20 0 0 0 0 0 0 0
+gpt-6.2-sol,40,91,92,-1.0,-3.09302,True,pass,0 0 0 0 0 0 0 0 0 0 0 0 -20 0 0 0 0 0 0 0
+gpt-6.1-terra,20,68,70,-2.0,-6.18605,True,did not pass,0 0 0 0 0 0 0 0 0 0 0 -20 -20 0 0 -20 20 0 0 0
+gpt-6.1-terra,40,66,70,-4.0,-8.89682,True,descriptive only,0 0 -20 0 0 0 0 0 0 0 0 -20 -20 0 -20 -20 20 0 0 0

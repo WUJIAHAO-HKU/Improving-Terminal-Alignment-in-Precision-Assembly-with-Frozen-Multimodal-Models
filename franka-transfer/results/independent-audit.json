@@ -1,0 +1,13 @@
+{
+  "archive_batches": 20,
+  "scenes": 100,
+  "model_grasps": 200,
+  "physical_branch_labels": 400,
+  "model_policy_decisions": 1800,
+  "logical_model_calls": {
+    "gpt-6.2-sol": 300,
+    "gpt-6.1-terra": 300
+  },
+  "actual_model_attempts": 600,
+  "checked": "Frozen hashes, input image identity, raw response parsing, common checkpoints, contact/released pose and CAD containment, ranks, gates, changes of outcome, batch-paired limits and sequential claims."
+}

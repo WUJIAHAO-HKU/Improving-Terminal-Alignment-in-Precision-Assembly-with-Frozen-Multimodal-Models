@@ -39,3 +39,7 @@ From the same environment run `python franka-transfer/reproduce.py`. For the und
 ### Fixed-list action acceptance after Table 15
 
 Run `python franka-transfer/retention.py` from the repository root (standard Python). The depth analysis joins the stage-06 locked selection list, depth acceptance flags and original/depth seating endpoints. The Franka analysis joins the revised four-of-five selection and branch decisions to paired physical outcomes. A rescue keeps a successful first action when the second fails; a false rejection keeps a failed first action when the second succeeds. The hindsight ceiling chooses the better endpoint only among measured parts and leaves the first action on every unmeasured part. It describes the two archived actions on each fixed list.
+
+## Independent 80% measurement lists
+
+Run `python franka-list/reproduce.py --audit` for the independent 64-batch comparison. [Data, dependencies, case images and replay instructions](franka-list/README.md).

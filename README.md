@@ -23,3 +23,7 @@ On four independent fixtures both models met the five-percentage-point noninferi
 ## Independent Franka transfer
 
 Run `python franka-transfer/reproduce.py` to reconstruct the budget comparison and the descriptive same-list action comparison. At 80 and 60 views Sol seated 91 parts versus 92 under full sensing with retention, meeting the margin twice. Terra seated 68 and 66 versus 70; the 80-view test did not establish noninferiority and 60 views is descriptive. Always switching on the same 80 selected parts seated 96 with Sol and 82 with Terra, compared with 91 and 68 when retention was allowed. See [archive contents and physical audit](franka-transfer/README.md).
+
+## Independent 80% measurement lists
+
+Run `python franka-list/reproduce.py --audit` for the independent 64-batch comparison. [Data, dependencies, case images and replay instructions](franka-list/README.md).

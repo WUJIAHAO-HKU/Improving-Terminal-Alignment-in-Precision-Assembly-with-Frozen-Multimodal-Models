@@ -1,0 +1,13 @@
+﻿model,gate,policy,success,starts,rate_per100,rescued,harmed
+gpt-6.2-sol,switch,random,302,320,94.375,0,0
+gpt-6.2-sol,switch,family,301,320,94.0625,0,0
+gpt-6.2-sol,switch,combined,302,320,94.375,0,0
+gpt-6.2-sol,retain,random,287,320,89.6875,0,15
+gpt-6.2-sol,retain,family,286,320,89.375,0,15
+gpt-6.2-sol,retain,combined,286,320,89.375,0,16
+gpt-6.1-terra,switch,random,251,320,78.4375,0,0
+gpt-6.1-terra,switch,family,245,320,76.5625,0,0
+gpt-6.1-terra,switch,combined,245,320,76.5625,0,0
+gpt-6.1-terra,retain,random,215,320,67.1875,3,39
+gpt-6.1-terra,retain,family,211,320,65.9375,2,36
+gpt-6.1-terra,retain,combined,212,320,66.25,2,35

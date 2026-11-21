@@ -35,3 +35,7 @@ Live collection and transport utilities use example SSH aliases assembly-sim-a/b
 ## Independent four-fixture Franka simulation
 
 From the same environment run `python franka-transfer/reproduce.py`. For the underlying 400 physical labels and all 1,800 decisions, follow the [archive audit instructions](franka-transfer/README.md).
+
+### Fixed-list action acceptance after Table 15
+
+Run `python franka-transfer/retention.py` from the repository root (standard Python). The depth analysis joins the stage-06 locked selection list, depth acceptance flags and original/depth seating endpoints. The Franka analysis joins the revised four-of-five selection and branch decisions to paired physical outcomes. A rescue keeps a successful first action when the second fails; a false rejection keeps a failed first action when the second succeeds. The hindsight ceiling chooses the better endpoint only among measured parts and leaves the first action on every unmeasured part. It describes the two archived actions on each fixed list.

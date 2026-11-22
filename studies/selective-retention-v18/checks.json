@@ -1,0 +1,22 @@
+{
+  "depth_requests": 576,
+  "depth_attempts": 578,
+  "gpt-6.2-sol": {
+    "calls": {
+      "first": 160,
+      "grip": 160,
+      "overhead": 128
+    },
+    "attempts": 448,
+    "endpoints": 288
+  },
+  "gpt-6.1-terra": {
+    "calls": {
+      "first": 160,
+      "grip": 160,
+      "overhead": 128
+    },
+    "attempts": 448,
+    "endpoints": 288
+  }
+}

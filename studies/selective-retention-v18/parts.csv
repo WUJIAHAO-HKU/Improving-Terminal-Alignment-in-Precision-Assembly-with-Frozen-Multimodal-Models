@@ -1,0 +1,641 @@
+stratum,batch,id,family,gap,listed,legacy_keep,first,second,first_failure,second_failure
+Sol-depth,0,V00P00,round,2.0,1,1,1,0,,strict seating failed
+Sol-depth,0,V00P01,dual,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,0,V00P02,square,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,0,V00P03,dual,4.0,1,0,1,0,,strict seating failed
+Sol-depth,0,V00P04,round,2.0,0,0,1,,,
+Sol-depth,0,V00P05,square,4.0,0,0,1,,,
+Sol-depth,0,V00P06,round,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,0,V00P07,square,2.0,1,0,1,1,,
+Sol-depth,0,V00P08,square,1.0,1,0,1,1,,
+Sol-depth,0,V00P09,square,1.0,1,1,1,0,,strict seating failed
+Sol-depth,1,V01P00,square,2.0,1,1,1,1,,
+Sol-depth,1,V01P01,square,4.0,0,0,1,,,
+Sol-depth,1,V01P02,round,0.5,1,0,1,0,,strict seating failed
+Sol-depth,1,V01P03,round,2.0,1,0,1,1,,
+Sol-depth,1,V01P04,round,0.25,1,1,0,1,strict seating failed,
+Sol-depth,1,V01P05,square,4.0,0,0,1,,,
+Sol-depth,1,V01P06,square,4.0,1,1,1,1,,
+Sol-depth,1,V01P07,square,4.0,1,1,1,0,,strict seating failed
+Sol-depth,1,V01P08,dual,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,1,V01P09,dual,4.0,1,0,1,1,,
+Sol-depth,2,V02P00,square,1.0,1,0,1,0,,strict seating failed
+Sol-depth,2,V02P01,square,1.0,1,0,1,0,,strict seating failed
+Sol-depth,2,V02P02,square,2.0,1,1,1,0,,strict seating failed
+Sol-depth,2,V02P03,dual,2.0,1,0,1,0,,strict seating failed
+Sol-depth,2,V02P04,round,2.0,1,0,1,0,,strict seating failed
+Sol-depth,2,V02P05,round,2.0,1,0,1,1,,
+Sol-depth,2,V02P06,square,4.0,0,0,1,,,
+Sol-depth,2,V02P07,round,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,2,V02P08,square,0.5,1,1,1,0,,strict seating failed
+Sol-depth,2,V02P09,dual,2.0,0,0,0,,strict seating failed,
+Sol-depth,3,V03P00,round,1.0,1,0,1,0,,strict seating failed
+Sol-depth,3,V03P01,square,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,3,V03P02,square,2.0,1,1,1,0,,strict seating failed
+Sol-depth,3,V03P03,round,1.0,1,1,1,0,,strict seating failed
+Sol-depth,3,V03P04,square,4.0,0,0,1,,,
+Sol-depth,3,V03P05,round,2.0,1,0,1,0,,strict seating failed
+Sol-depth,3,V03P06,dual,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,3,V03P07,dual,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,3,V03P08,square,2.0,0,0,0,,strict seating failed,
+Sol-depth,3,V03P09,square,4.0,1,1,1,0,,strict seating failed
+Sol-depth,4,V04P00,round,4.0,0,0,1,,,
+Sol-depth,4,V04P01,square,2.0,1,0,1,0,,strict seating failed
+Sol-depth,4,V04P02,square,2.0,1,0,0,1,strict seating failed,
+Sol-depth,4,V04P03,dual,1.0,1,0,1,0,,strict seating failed
+Sol-depth,4,V04P04,round,4.0,0,0,1,,,
+Sol-depth,4,V04P05,square,0.5,1,1,1,0,,strict seating failed
+Sol-depth,4,V04P06,round,2.0,1,0,1,0,,strict seating failed
+Sol-depth,4,V04P07,square,0.25,1,0,1,0,,strict seating failed
+Sol-depth,4,V04P08,dual,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,4,V04P09,square,0.25,1,1,1,0,,strict seating failed
+Sol-depth,5,V05P00,square,4.0,0,0,1,,,
+Sol-depth,5,V05P01,square,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,5,V05P02,round,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,5,V05P03,square,4.0,1,1,1,0,,strict seating failed
+Sol-depth,5,V05P04,round,2.0,1,0,1,0,,strict seating failed
+Sol-depth,5,V05P05,dual,2.0,1,0,1,0,,strict seating failed
+Sol-depth,5,V05P06,square,2.0,1,1,1,0,,strict seating failed
+Sol-depth,5,V05P07,dual,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,5,V05P08,round,1.0,0,0,0,,strict seating failed,
+Sol-depth,5,V05P09,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,6,V06P00,dual,4.0,1,1,1,0,,strict seating failed
+Sol-depth,6,V06P01,square,0.5,1,1,1,0,,strict seating failed
+Sol-depth,6,V06P02,square,4.0,0,0,1,,,
+Sol-depth,6,V06P03,square,1.0,1,1,1,0,,strict seating failed
+Sol-depth,6,V06P04,round,4.0,0,0,1,,,
+Sol-depth,6,V06P05,square,1.0,1,0,1,0,,strict seating failed
+Sol-depth,6,V06P06,round,4.0,1,0,1,1,,
+Sol-depth,6,V06P07,dual,0.5,1,0,0,1,strict seating failed,
+Sol-depth,6,V06P08,round,1.0,1,1,1,0,,strict seating failed
+Sol-depth,6,V06P09,square,4.0,1,1,1,0,,strict seating failed
+Sol-depth,7,V07P00,round,4.0,0,0,1,,,
+Sol-depth,7,V07P01,round,1.0,1,1,1,0,,strict seating failed
+Sol-depth,7,V07P02,square,4.0,1,0,1,1,,
+Sol-depth,7,V07P03,square,2.0,1,0,1,0,,strict seating failed
+Sol-depth,7,V07P04,square,0.5,1,0,1,1,,
+Sol-depth,7,V07P05,square,2.0,1,1,1,0,,strict seating failed
+Sol-depth,7,V07P06,dual,4.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,7,V07P07,square,0.25,0,0,0,,strict seating failed,
+Sol-depth,7,V07P08,round,1.0,1,0,1,1,,
+Sol-depth,7,V07P09,dual,2.0,1,0,1,0,,strict seating failed
+Sol-depth,8,V08P00,round,2.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,8,V08P01,square,0.5,1,0,1,0,,strict seating failed
+Sol-depth,8,V08P02,round,4.0,0,0,1,,,
+Sol-depth,8,V08P03,dual,1.0,1,0,1,0,,strict seating failed
+Sol-depth,8,V08P04,square,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,8,V08P05,square,2.0,1,0,1,1,,
+Sol-depth,8,V08P06,square,0.5,1,1,1,0,,strict seating failed
+Sol-depth,8,V08P07,round,4.0,1,1,1,0,,strict seating failed
+Sol-depth,8,V08P08,square,4.0,0,0,1,,,
+Sol-depth,8,V08P09,dual,0.25,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,9,V09P00,dual,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,9,V09P01,round,4.0,0,0,1,,,
+Sol-depth,9,V09P02,square,0.5,1,0,1,0,,strict seating failed
+Sol-depth,9,V09P03,round,2.0,1,0,1,0,,strict seating failed
+Sol-depth,9,V09P04,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,9,V09P05,square,4.0,0,0,1,,,
+Sol-depth,9,V09P06,round,4.0,1,1,1,0,,strict seating failed
+Sol-depth,9,V09P07,square,2.0,1,0,1,0,,strict seating failed
+Sol-depth,9,V09P08,square,0.5,1,1,0,1,strict seating failed,
+Sol-depth,9,V09P09,dual,4.0,1,0,1,0,,strict seating failed
+Sol-depth,10,V10P00,square,0.5,1,0,1,0,,strict seating failed
+Sol-depth,10,V10P01,dual,1.0,1,0,1,0,,strict seating failed
+Sol-depth,10,V10P02,round,2.0,1,1,1,0,,strict seating failed
+Sol-depth,10,V10P03,square,0.5,1,1,1,0,,strict seating failed
+Sol-depth,10,V10P04,round,0.25,0,0,0,,strict seating failed,
+Sol-depth,10,V10P05,square,0.25,0,0,1,,,
+Sol-depth,10,V10P06,round,0.5,1,1,1,0,,strict seating failed
+Sol-depth,10,V10P07,square,4.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,10,V10P08,dual,1.0,1,0,1,0,,strict seating failed
+Sol-depth,10,V10P09,square,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,11,V11P00,square,1.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,11,V11P01,round,0.25,1,0,0,1,strict seating failed,
+Sol-depth,11,V11P02,square,4.0,0,0,1,,,
+Sol-depth,11,V11P03,dual,4.0,1,0,1,1,,
+Sol-depth,11,V11P04,square,1.0,1,1,1,0,,strict seating failed
+Sol-depth,11,V11P05,round,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,11,V11P06,round,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,11,V11P07,dual,4.0,1,0,1,1,,
+Sol-depth,11,V11P08,square,0.5,0,0,0,,strict seating failed,
+Sol-depth,11,V11P09,square,1.0,1,1,1,0,,strict seating failed
+Sol-depth,12,V12P00,square,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,12,V12P01,square,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,12,V12P02,dual,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,12,V12P03,round,0.25,0,0,0,,strict seating failed,
+Sol-depth,12,V12P04,square,0.25,0,0,0,,strict seating failed,
+Sol-depth,12,V12P05,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,12,V12P06,round,1.0,1,0,1,0,,strict seating failed
+Sol-depth,12,V12P07,square,2.0,1,0,1,1,,
+Sol-depth,12,V12P08,dual,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,12,V12P09,round,2.0,1,1,1,1,,
+Sol-depth,13,V13P00,square,2.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,13,V13P01,dual,2.0,1,0,1,0,,strict seating failed
+Sol-depth,13,V13P02,square,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,13,V13P03,dual,4.0,1,0,1,0,,strict seating failed
+Sol-depth,13,V13P04,square,2.0,1,0,0,1,strict seating failed,
+Sol-depth,13,V13P05,round,0.25,0,0,0,,strict seating failed,
+Sol-depth,13,V13P06,square,4.0,0,0,1,,,
+Sol-depth,13,V13P07,round,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,13,V13P08,round,4.0,1,1,1,1,,
+Sol-depth,13,V13P09,square,1.0,1,0,1,0,,strict seating failed
+Sol-depth,14,V14P00,dual,2.0,1,0,1,0,,strict seating failed
+Sol-depth,14,V14P01,square,4.0,0,0,1,,,
+Sol-depth,14,V14P02,square,1.0,1,0,1,0,,strict seating failed
+Sol-depth,14,V14P03,square,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,14,V14P04,round,0.5,0,0,0,,strict seating failed,
+Sol-depth,14,V14P05,square,2.0,1,0,1,1,,
+Sol-depth,14,V14P06,round,0.25,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,14,V14P07,round,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,14,V14P08,dual,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,14,V14P09,square,0.25,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,15,V15P00,round,2.0,1,1,1,0,,strict seating failed
+Sol-depth,15,V15P01,square,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,15,V15P02,dual,4.0,1,0,1,1,,
+Sol-depth,15,V15P03,dual,2.0,1,0,1,0,,strict seating failed
+Sol-depth,15,V15P04,round,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,15,V15P05,square,1.0,1,0,1,0,,strict seating failed
+Sol-depth,15,V15P06,square,2.0,0,0,1,,,
+Sol-depth,15,V15P07,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,15,V15P08,round,2.0,0,0,1,,,
+Sol-depth,15,V15P09,square,2.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,16,V16P00,square,4.0,0,0,1,,,
+Sol-depth,16,V16P01,square,1.0,1,0,0,1,strict seating failed,
+Sol-depth,16,V16P02,dual,1.0,1,0,1,0,,strict seating failed
+Sol-depth,16,V16P03,dual,4.0,1,0,1,1,,
+Sol-depth,16,V16P04,square,2.0,1,1,1,0,,strict seating failed
+Sol-depth,16,V16P05,round,4.0,1,1,1,1,,
+Sol-depth,16,V16P06,round,4.0,0,0,1,,,
+Sol-depth,16,V16P07,square,4.0,1,1,1,0,,strict seating failed
+Sol-depth,16,V16P08,round,1.0,1,1,1,0,,strict seating failed
+Sol-depth,16,V16P09,square,1.0,1,0,1,0,,strict seating failed
+Sol-depth,17,V17P00,dual,4.0,1,0,1,1,,
+Sol-depth,17,V17P01,square,1.0,1,0,1,1,,
+Sol-depth,17,V17P02,round,1.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,17,V17P03,square,2.0,1,1,1,0,,strict seating failed
+Sol-depth,17,V17P04,square,2.0,0,0,1,,,
+Sol-depth,17,V17P05,square,0.25,1,1,0,1,strict seating failed,
+Sol-depth,17,V17P06,dual,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,17,V17P07,round,2.0,1,0,1,1,,
+Sol-depth,17,V17P08,round,4.0,0,0,1,,,
+Sol-depth,17,V17P09,square,2.0,1,1,1,0,,strict seating failed
+Sol-depth,18,V18P00,dual,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,18,V18P01,square,4.0,0,0,1,,,
+Sol-depth,18,V18P02,square,4.0,0,0,1,,,
+Sol-depth,18,V18P03,square,0.25,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,18,V18P04,square,2.0,1,0,1,0,,strict seating failed
+Sol-depth,18,V18P05,round,4.0,1,0,1,1,,
+Sol-depth,18,V18P06,square,4.0,1,1,1,1,,
+Sol-depth,18,V18P07,round,1.0,1,1,1,0,,strict seating failed
+Sol-depth,18,V18P08,dual,0.5,1,0,1,0,,strict seating failed
+Sol-depth,18,V18P09,round,1.0,1,0,1,0,,strict seating failed
+Sol-depth,19,V19P00,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,19,V19P01,square,0.25,0,0,0,,strict seating failed,
+Sol-depth,19,V19P02,dual,4.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,19,V19P03,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,19,V19P04,square,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,19,V19P05,round,2.0,0,0,1,,,
+Sol-depth,19,V19P06,round,2.0,1,0,1,1,,
+Sol-depth,19,V19P07,round,2.0,1,0,0,1,strict seating failed,
+Sol-depth,19,V19P08,square,4.0,1,1,1,0,,strict seating failed
+Sol-depth,19,V19P09,dual,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,20,V20P00,square,1.0,1,1,1,0,,strict seating failed
+Sol-depth,20,V20P01,square,2.0,1,1,1,1,,
+Sol-depth,20,V20P02,square,2.0,1,1,1,1,,
+Sol-depth,20,V20P03,round,2.0,1,0,1,0,,strict seating failed
+Sol-depth,20,V20P04,square,2.0,1,0,0,1,strict seating failed,
+Sol-depth,20,V20P05,round,1.0,0,0,0,,strict seating failed,
+Sol-depth,20,V20P06,round,4.0,0,0,0,,strict seating failed,
+Sol-depth,20,V20P07,dual,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,20,V20P08,dual,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,20,V20P09,square,4.0,1,1,1,1,,
+Sol-depth,21,V21P00,square,4.0,0,0,0,,strict seating failed,
+Sol-depth,21,V21P01,square,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,21,V21P02,square,4.0,0,0,1,,,
+Sol-depth,21,V21P03,round,1.0,1,0,1,0,,strict seating failed
+Sol-depth,21,V21P04,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,21,V21P05,square,1.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,21,V21P06,round,4.0,1,1,0,1,strict seating failed,
+Sol-depth,21,V21P07,dual,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,21,V21P08,round,0.25,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,21,V21P09,dual,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,22,V22P00,square,0.5,1,0,1,1,,
+Sol-depth,22,V22P01,dual,2.0,1,0,0,1,strict seating failed,
+Sol-depth,22,V22P02,square,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,22,V22P03,square,4.0,0,0,0,,strict seating failed,
+Sol-depth,22,V22P04,round,4.0,0,0,0,,strict seating failed,
+Sol-depth,22,V22P05,round,2.0,1,0,1,1,,
+Sol-depth,22,V22P06,square,4.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,22,V22P07,round,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,22,V22P08,dual,1.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,22,V22P09,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,23,V23P00,round,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,23,V23P01,round,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,23,V23P02,square,0.25,0,0,0,,strict seating failed,
+Sol-depth,23,V23P03,square,2.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,23,V23P04,square,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,23,V23P05,round,4.0,0,0,0,,strict seating failed,
+Sol-depth,23,V23P06,dual,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,23,V23P07,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,23,V23P08,square,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,23,V23P09,dual,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,24,V24P00,round,1.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,24,V24P01,square,1.0,1,0,0,1,strict seating failed,
+Sol-depth,24,V24P02,round,2.0,1,0,0,1,strict seating failed,
+Sol-depth,24,V24P03,square,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,24,V24P04,dual,0.25,0,0,0,,strict seating failed,
+Sol-depth,24,V24P05,round,0.25,0,0,0,,strict seating failed,
+Sol-depth,24,V24P06,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,24,V24P07,square,2.0,1,0,0,1,strict seating failed,
+Sol-depth,24,V24P08,dual,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,24,V24P09,square,4.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,25,V25P00,dual,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,25,V25P01,square,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,25,V25P02,square,2.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,25,V25P03,round,4.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,25,V25P04,square,0.25,0,0,0,,strict seating failed,
+Sol-depth,25,V25P05,square,2.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,25,V25P06,square,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,25,V25P07,dual,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,25,V25P08,round,1.0,0,0,0,,strict seating failed,
+Sol-depth,25,V25P09,round,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,26,V26P00,round,2.0,1,0,0,1,strict seating failed,
+Sol-depth,26,V26P01,round,2.0,1,0,0,1,strict seating failed,
+Sol-depth,26,V26P02,square,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,26,V26P03,square,4.0,0,0,0,,strict seating failed,
+Sol-depth,26,V26P04,dual,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,26,V26P05,square,1.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,26,V26P06,square,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,26,V26P07,square,4.0,0,0,0,,strict seating failed,
+Sol-depth,26,V26P08,dual,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,26,V26P09,round,2.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,27,V27P00,dual,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,27,V27P01,square,2.0,1,0,0,1,strict seating failed,
+Sol-depth,27,V27P02,square,2.0,0,0,0,,strict seating failed,
+Sol-depth,27,V27P03,round,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,27,V27P04,dual,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,27,V27P05,round,2.0,1,0,1,0,,strict seating failed
+Sol-depth,27,V27P06,square,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,27,V27P07,square,4.0,0,0,0,,strict seating failed,
+Sol-depth,27,V27P08,round,4.0,1,0,0,1,strict seating failed,
+Sol-depth,27,V27P09,square,4.0,1,1,1,1,,
+Sol-depth,28,V28P00,square,2.0,1,0,1,0,,strict seating failed
+Sol-depth,28,V28P01,round,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,28,V28P02,round,0.25,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,28,V28P03,square,0.25,0,0,0,,strict seating failed,
+Sol-depth,28,V28P04,square,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,28,V28P05,dual,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,28,V28P06,dual,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,28,V28P07,square,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,28,V28P08,square,4.0,0,0,0,,strict seating failed,
+Sol-depth,28,V28P09,round,1.0,1,0,1,0,,strict seating failed
+Sol-depth,29,V29P00,square,0.5,1,0,0,1,strict seating failed,
+Sol-depth,29,V29P01,dual,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,29,V29P02,dual,4.0,1,0,0,1,strict seating failed,
+Sol-depth,29,V29P03,square,2.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,29,V29P04,round,0.5,0,0,0,,strict seating failed,
+Sol-depth,29,V29P05,square,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,29,V29P06,round,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,29,V29P07,square,0.5,0,0,0,,strict seating failed,
+Sol-depth,29,V29P08,round,1.0,1,0,1,0,,strict seating failed
+Sol-depth,29,V29P09,square,4.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,30,V30P00,square,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,30,V30P01,square,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,30,V30P02,square,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,30,V30P03,round,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,30,V30P04,square,0.25,0,0,0,,strict seating failed,
+Sol-depth,30,V30P05,dual,4.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,30,V30P06,dual,0.5,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,30,V30P07,square,4.0,0,0,0,,strict seating failed,
+Sol-depth,30,V30P08,round,4.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,30,V30P09,round,1.0,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,31,V31P00,square,1.0,1,1,1,0,,strict seating failed
+Sol-depth,31,V31P01,dual,0.5,1,1,0,0,strict seating failed,strict seating failed
+Sol-depth,31,V31P02,square,4.0,0,0,0,,strict seating failed,
+Sol-depth,31,V31P03,square,2.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,31,V31P04,dual,1.0,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,31,V31P05,round,2.0,1,0,0,1,strict seating failed,
+Sol-depth,31,V31P06,square,0.25,1,0,0,0,strict seating failed,strict seating failed
+Sol-depth,31,V31P07,round,4.0,1,0,1,1,,
+Sol-depth,31,V31P08,round,4.0,1,1,0,1,strict seating failed,
+Sol-depth,31,V31P09,square,1.0,0,0,0,,strict seating failed,
+Sol-top,0,V000,twin,1.5,1,0,1,1,,
+Sol-top,0,V001,blade,1.1,1,1,1,1,,
+Sol-top,0,V002,dshaft,0.45,1,1,1,1,,
+Sol-top,0,V003,connector,1.1,0,0,1,,,
+Sol-top,0,V004,twin,1.1,1,1,1,1,,
+Sol-top,1,V005,blade,1.1,1,0,1,1,,
+Sol-top,1,V006,dshaft,0.45,1,1,0,0,endpoint,endpoint
+Sol-top,1,V007,connector,1.1,0,0,1,,,
+Sol-top,1,V008,twin,1.1,1,1,0,0,endpoint,endpoint
+Sol-top,1,V009,blade,1.5,1,1,1,1,,
+Sol-top,2,V010,dshaft,0.75,1,1,1,1,,
+Sol-top,2,V011,connector,1.5,0,0,1,,,
+Sol-top,2,V012,twin,0.75,1,0,0,0,endpoint,endpoint
+Sol-top,2,V013,blade,1.1,1,1,1,1,,
+Sol-top,2,V014,dshaft,1.1,1,1,1,1,,
+Sol-top,3,V015,connector,0.45,1,0,1,1,,
+Sol-top,3,V016,twin,1.1,1,1,1,1,,
+Sol-top,3,V017,blade,1.5,1,0,1,1,,
+Sol-top,3,V018,dshaft,1.1,1,1,1,1,,
+Sol-top,3,V019,connector,1.1,0,0,1,,,
+Sol-top,4,V020,twin,0.45,1,1,0,1,endpoint,
+Sol-top,4,V021,blade,0.45,1,0,1,1,,
+Sol-top,4,V022,dshaft,0.45,1,1,0,0,endpoint,endpoint
+Sol-top,4,V023,connector,1.1,0,0,1,,,
+Sol-top,4,V024,twin,1.1,1,1,1,1,,
+Sol-top,5,V025,blade,0.75,1,1,1,1,,
+Sol-top,5,V026,dshaft,0.45,1,1,0,1,endpoint,
+Sol-top,5,V027,connector,0.75,0,0,1,,,
+Sol-top,5,V028,twin,0.75,1,1,0,1,endpoint,
+Sol-top,5,V029,blade,1.1,1,1,1,1,,
+Sol-top,6,V030,dshaft,1.1,1,1,1,1,,
+Sol-top,6,V031,connector,0.45,0,0,1,,,
+Sol-top,6,V032,twin,1.1,1,1,1,1,,
+Sol-top,6,V033,blade,1.1,1,1,0,1,endpoint,
+Sol-top,6,V034,dshaft,0.75,1,0,1,1,,
+Sol-top,7,V035,connector,1.5,1,1,1,1,,
+Sol-top,7,V036,twin,1.5,1,1,1,1,,
+Sol-top,7,V037,blade,0.75,1,1,1,1,,
+Sol-top,7,V038,dshaft,0.45,1,1,0,0,endpoint,endpoint
+Sol-top,7,V039,connector,1.1,0,0,1,,,
+Sol-top,8,V040,twin,0.45,1,1,0,1,endpoint,
+Sol-top,8,V041,blade,1.1,1,0,1,1,,
+Sol-top,8,V042,dshaft,0.75,1,0,1,1,,
+Sol-top,8,V043,connector,1.5,0,0,1,,,
+Sol-top,8,V044,twin,1.1,1,1,1,1,,
+Sol-top,9,V045,blade,1.1,1,1,1,1,,
+Sol-top,9,V046,dshaft,0.45,1,1,1,1,,
+Sol-top,9,V047,connector,1.1,0,0,1,,,
+Sol-top,9,V048,twin,0.75,1,1,1,1,,
+Sol-top,9,V049,blade,1.5,1,1,1,1,,
+Sol-top,10,V050,dshaft,0.75,1,0,1,1,,
+Sol-top,10,V051,connector,0.75,0,0,1,,,
+Sol-top,10,V052,twin,0.45,1,1,0,1,endpoint,
+Sol-top,10,V053,blade,1.1,1,1,1,1,,
+Sol-top,10,V054,dshaft,0.45,1,1,1,1,,
+Sol-top,11,V055,connector,1.1,0,0,1,,,
+Sol-top,11,V056,twin,1.5,1,1,1,1,,
+Sol-top,11,V057,blade,1.5,1,1,1,1,,
+Sol-top,11,V058,dshaft,1.1,1,0,1,1,,
+Sol-top,11,V059,connector,1.1,1,1,1,1,,
+Sol-top,12,V060,twin,1.5,1,0,1,1,,
+Sol-top,12,V061,blade,0.75,1,1,1,1,,
+Sol-top,12,V062,dshaft,0.45,1,1,1,1,,
+Sol-top,12,V063,connector,0.45,0,0,0,,endpoint,
+Sol-top,12,V064,twin,0.75,1,1,1,1,,
+Sol-top,13,V065,blade,1.1,1,0,1,1,,
+Sol-top,13,V066,dshaft,1.5,1,1,1,1,,
+Sol-top,13,V067,connector,1.5,0,0,1,,,
+Sol-top,13,V068,twin,1.1,1,1,1,1,,
+Sol-top,13,V069,blade,1.5,1,1,1,1,,
+Sol-top,14,V070,dshaft,1.1,1,1,1,1,,
+Sol-top,14,V071,connector,1.5,0,0,1,,,
+Sol-top,14,V072,twin,0.75,1,1,1,1,,
+Sol-top,14,V073,blade,0.45,1,1,1,1,,
+Sol-top,14,V074,dshaft,1.1,1,1,0,1,endpoint,
+Sol-top,15,V075,connector,1.1,0,0,1,,,
+Sol-top,15,V076,twin,0.75,1,0,1,1,,
+Sol-top,15,V077,blade,1.5,1,1,1,1,,
+Sol-top,15,V078,dshaft,1.5,1,1,1,1,,
+Sol-top,15,V079,connector,0.75,1,0,1,1,,
+Sol-top,16,V080,twin,1.1,1,1,1,1,,
+Sol-top,16,V081,blade,0.45,1,1,1,1,,
+Sol-top,16,V082,dshaft,1.1,1,1,1,1,,
+Sol-top,16,V083,connector,1.5,0,0,1,,,
+Sol-top,16,V084,twin,0.45,1,1,0,0,endpoint,endpoint
+Sol-top,17,V085,blade,0.45,1,0,1,1,,
+Sol-top,17,V086,dshaft,0.45,1,0,1,1,,
+Sol-top,17,V087,connector,0.75,0,0,1,,,
+Sol-top,17,V088,twin,0.75,1,1,1,1,,
+Sol-top,17,V089,blade,1.1,1,1,0,1,endpoint,
+Sol-top,18,V090,dshaft,0.75,1,1,1,1,,
+Sol-top,18,V091,connector,1.5,0,0,1,,,
+Sol-top,18,V092,twin,1.1,1,0,1,1,,
+Sol-top,18,V093,blade,0.75,1,1,1,1,,
+Sol-top,18,V094,dshaft,1.5,1,0,1,1,,
+Sol-top,19,V095,connector,0.45,1,0,1,1,,
+Sol-top,19,V096,twin,0.45,1,1,1,1,,
+Sol-top,19,V097,blade,0.75,1,0,1,1,,
+Sol-top,19,V098,dshaft,1.5,1,1,1,1,,
+Sol-top,19,V099,connector,0.45,0,0,1,,,
+Sol-top,20,V100,twin,1.5,1,0,1,1,,
+Sol-top,20,V101,blade,0.45,1,1,0,0,endpoint,endpoint
+Sol-top,20,V102,dshaft,0.45,1,1,1,1,,
+Sol-top,20,V103,connector,0.75,0,0,1,,,
+Sol-top,20,V104,twin,1.5,1,0,1,1,,
+Sol-top,21,V105,blade,1.5,1,0,1,1,,
+Sol-top,21,V106,dshaft,0.45,1,1,1,1,,
+Sol-top,21,V107,connector,1.1,0,0,1,,,
+Sol-top,21,V108,twin,1.5,1,1,1,1,,
+Sol-top,21,V109,blade,1.1,1,1,1,1,,
+Sol-top,22,V110,dshaft,0.45,1,1,1,1,,
+Sol-top,22,V111,connector,1.1,0,0,1,,,
+Sol-top,22,V112,twin,1.5,1,1,1,1,,
+Sol-top,22,V113,blade,0.75,1,0,1,1,,
+Sol-top,22,V114,dshaft,1.1,1,1,1,1,,
+Sol-top,23,V115,connector,0.75,1,0,1,1,,
+Sol-top,23,V116,twin,1.1,1,0,1,1,,
+Sol-top,23,V117,blade,1.5,1,0,1,1,,
+Sol-top,23,V118,dshaft,0.75,1,0,1,1,,
+Sol-top,23,V119,connector,1.5,0,0,1,,,
+Sol-top,24,V120,twin,1.5,1,1,1,1,,
+Sol-top,24,V121,blade,0.75,1,1,1,1,,
+Sol-top,24,V122,dshaft,0.75,1,1,1,1,,
+Sol-top,24,V123,connector,1.1,0,0,1,,,
+Sol-top,24,V124,twin,1.5,1,1,1,1,,
+Sol-top,25,V125,blade,0.75,1,1,1,1,,
+Sol-top,25,V126,dshaft,1.1,1,1,0,1,endpoint,
+Sol-top,25,V127,connector,1.1,0,0,1,,,
+Sol-top,25,V128,twin,0.75,1,1,1,1,,
+Sol-top,25,V129,blade,1.5,1,0,1,1,,
+Sol-top,26,V130,dshaft,0.75,1,1,1,1,,
+Sol-top,26,V131,connector,0.45,0,0,0,,endpoint,
+Sol-top,26,V132,twin,1.1,1,0,1,1,,
+Sol-top,26,V133,blade,1.1,1,1,1,1,,
+Sol-top,26,V134,dshaft,0.75,1,1,1,1,,
+Sol-top,27,V135,connector,1.1,0,0,1,,,
+Sol-top,27,V136,twin,1.5,1,1,1,1,,
+Sol-top,27,V137,blade,1.5,1,1,1,1,,
+Sol-top,27,V138,dshaft,1.5,1,1,1,1,,
+Sol-top,27,V139,connector,0.45,1,1,1,1,,
+Sol-top,28,V140,twin,0.75,1,0,1,1,,
+Sol-top,28,V141,blade,1.1,1,0,1,1,,
+Sol-top,28,V142,dshaft,1.1,1,1,1,1,,
+Sol-top,28,V143,connector,0.45,0,0,1,,,
+Sol-top,28,V144,twin,0.45,1,1,1,1,,
+Sol-top,29,V145,blade,1.1,1,1,1,1,,
+Sol-top,29,V146,dshaft,1.5,1,1,1,1,,
+Sol-top,29,V147,connector,1.1,0,0,1,,,
+Sol-top,29,V148,twin,1.1,1,0,1,1,,
+Sol-top,29,V149,blade,1.1,1,0,1,1,,
+Sol-top,30,V150,dshaft,0.75,1,1,1,1,,
+Sol-top,30,V151,connector,0.45,0,0,1,,,
+Sol-top,30,V152,twin,0.75,1,1,1,1,,
+Sol-top,30,V153,blade,0.45,1,1,1,1,,
+Sol-top,30,V154,dshaft,1.1,1,1,1,1,,
+Sol-top,31,V155,connector,0.45,1,1,0,0,endpoint,endpoint
+Sol-top,31,V156,twin,0.45,1,1,1,1,,
+Sol-top,31,V157,blade,1.1,1,0,1,1,,
+Sol-top,31,V158,dshaft,1.5,1,1,1,1,,
+Sol-top,31,V159,connector,0.75,0,0,1,,,
+Terra-top,0,V000,twin,1.5,1,0,1,1,,
+Terra-top,0,V001,blade,1.1,1,1,1,1,,
+Terra-top,0,V002,dshaft,0.45,0,0,0,,endpoint,
+Terra-top,0,V003,connector,1.1,1,1,1,1,,
+Terra-top,0,V004,twin,1.1,1,1,0,0,endpoint,endpoint
+Terra-top,1,V005,blade,1.1,1,1,1,1,,
+Terra-top,1,V006,dshaft,0.45,0,0,0,,endpoint,
+Terra-top,1,V007,connector,1.1,1,0,1,1,,
+Terra-top,1,V008,twin,1.1,1,1,1,1,,
+Terra-top,1,V009,blade,1.5,1,1,1,1,,
+Terra-top,2,V010,dshaft,0.75,0,0,0,,endpoint,
+Terra-top,2,V011,connector,1.5,1,0,1,1,,
+Terra-top,2,V012,twin,0.75,1,1,0,0,endpoint,endpoint
+Terra-top,2,V013,blade,1.1,1,1,0,1,endpoint,
+Terra-top,2,V014,dshaft,1.1,1,1,1,1,,
+Terra-top,3,V015,connector,0.45,1,1,0,1,endpoint,
+Terra-top,3,V016,twin,1.1,1,1,1,1,,
+Terra-top,3,V017,blade,1.5,1,1,1,1,,
+Terra-top,3,V018,dshaft,1.1,0,0,1,,,
+Terra-top,3,V019,connector,1.1,1,0,1,1,,
+Terra-top,4,V020,twin,0.45,1,1,0,1,endpoint,
+Terra-top,4,V021,blade,0.45,1,1,1,0,,endpoint
+Terra-top,4,V022,dshaft,0.45,0,0,0,,endpoint,
+Terra-top,4,V023,connector,1.1,1,1,1,1,,
+Terra-top,4,V024,twin,1.1,1,1,1,0,,endpoint
+Terra-top,5,V025,blade,0.75,1,1,1,1,,
+Terra-top,5,V026,dshaft,0.45,0,0,1,,,
+Terra-top,5,V027,connector,0.75,1,1,1,1,,
+Terra-top,5,V028,twin,0.75,1,1,1,1,,
+Terra-top,5,V029,blade,1.1,1,1,1,1,,
+Terra-top,6,V030,dshaft,1.1,0,0,0,,endpoint,
+Terra-top,6,V031,connector,0.45,1,1,0,0,endpoint,endpoint
+Terra-top,6,V032,twin,1.1,1,1,1,1,,
+Terra-top,6,V033,blade,1.1,1,1,0,1,endpoint,
+Terra-top,6,V034,dshaft,0.75,1,1,1,1,,
+Terra-top,7,V035,connector,1.5,1,1,1,1,,
+Terra-top,7,V036,twin,1.5,1,1,1,1,,
+Terra-top,7,V037,blade,0.75,1,0,1,1,,
+Terra-top,7,V038,dshaft,0.45,0,0,0,,endpoint,
+Terra-top,7,V039,connector,1.1,1,1,0,1,endpoint,
+Terra-top,8,V040,twin,0.45,1,1,0,1,endpoint,
+Terra-top,8,V041,blade,1.1,1,0,0,1,endpoint,
+Terra-top,8,V042,dshaft,0.75,0,0,1,,,
+Terra-top,8,V043,connector,1.5,1,0,1,1,,
+Terra-top,8,V044,twin,1.1,1,1,1,1,,
+Terra-top,9,V045,blade,1.1,1,0,1,1,,
+Terra-top,9,V046,dshaft,0.45,0,0,1,,,
+Terra-top,9,V047,connector,1.1,1,0,1,1,,
+Terra-top,9,V048,twin,0.75,1,1,0,0,endpoint,endpoint
+Terra-top,9,V049,blade,1.5,1,1,1,1,,
+Terra-top,10,V050,dshaft,0.75,1,0,0,1,endpoint,
+Terra-top,10,V051,connector,0.75,1,1,0,0,endpoint,endpoint
+Terra-top,10,V052,twin,0.45,1,1,0,1,endpoint,
+Terra-top,10,V053,blade,1.1,1,1,1,1,,
+Terra-top,10,V054,dshaft,0.45,0,0,0,,endpoint,
+Terra-top,11,V055,connector,1.1,1,1,1,1,,
+Terra-top,11,V056,twin,1.5,1,1,1,1,,
+Terra-top,11,V057,blade,1.5,1,1,1,1,,
+Terra-top,11,V058,dshaft,1.1,0,0,0,,endpoint,
+Terra-top,11,V059,connector,1.1,1,1,1,1,,
+Terra-top,12,V060,twin,1.5,1,1,1,1,,
+Terra-top,12,V061,blade,0.75,1,1,1,1,,
+Terra-top,12,V062,dshaft,0.45,0,0,0,,endpoint,
+Terra-top,12,V063,connector,0.45,1,1,0,1,endpoint,
+Terra-top,12,V064,twin,0.75,1,1,0,0,endpoint,endpoint
+Terra-top,13,V065,blade,1.1,1,1,1,1,,
+Terra-top,13,V066,dshaft,1.5,0,0,0,,endpoint,
+Terra-top,13,V067,connector,1.5,1,0,1,1,,
+Terra-top,13,V068,twin,1.1,1,1,1,1,,
+Terra-top,13,V069,blade,1.5,1,1,1,1,,
+Terra-top,14,V070,dshaft,1.1,1,0,0,0,endpoint,endpoint
+Terra-top,14,V071,connector,1.5,1,1,1,1,,
+Terra-top,14,V072,twin,0.75,1,1,1,1,,
+Terra-top,14,V073,blade,0.45,1,1,0,1,endpoint,
+Terra-top,14,V074,dshaft,1.1,0,0,0,,endpoint,
+Terra-top,15,V075,connector,1.1,1,1,1,1,,
+Terra-top,15,V076,twin,0.75,1,0,1,1,,
+Terra-top,15,V077,blade,1.5,1,1,1,1,,
+Terra-top,15,V078,dshaft,1.5,0,0,0,,endpoint,
+Terra-top,15,V079,connector,0.75,1,1,0,1,endpoint,
+Terra-top,16,V080,twin,1.1,1,1,1,1,,
+Terra-top,16,V081,blade,0.45,1,1,1,1,,
+Terra-top,16,V082,dshaft,1.1,0,0,0,,endpoint,
+Terra-top,16,V083,connector,1.5,1,1,1,1,,
+Terra-top,16,V084,twin,0.45,1,1,1,1,,
+Terra-top,17,V085,blade,0.45,1,1,1,1,,
+Terra-top,17,V086,dshaft,0.45,0,0,0,,endpoint,
+Terra-top,17,V087,connector,0.75,1,0,0,1,endpoint,
+Terra-top,17,V088,twin,0.75,1,1,1,1,,
+Terra-top,17,V089,blade,1.1,1,1,0,1,endpoint,
+Terra-top,18,V090,dshaft,0.75,1,1,0,1,endpoint,
+Terra-top,18,V091,connector,1.5,1,1,1,1,,
+Terra-top,18,V092,twin,1.1,1,0,1,1,,
+Terra-top,18,V093,blade,0.75,1,0,1,1,,
+Terra-top,18,V094,dshaft,1.5,0,0,1,,,
+Terra-top,19,V095,connector,0.45,1,1,0,1,endpoint,
+Terra-top,19,V096,twin,0.45,1,1,1,1,,
+Terra-top,19,V097,blade,0.75,1,1,1,1,,
+Terra-top,19,V098,dshaft,1.5,0,0,0,,endpoint,
+Terra-top,19,V099,connector,0.45,1,1,0,0,endpoint,endpoint
+Terra-top,20,V100,twin,1.5,1,1,1,1,,
+Terra-top,20,V101,blade,0.45,1,0,1,1,,
+Terra-top,20,V102,dshaft,0.45,0,0,0,,endpoint,
+Terra-top,20,V103,connector,0.75,1,1,1,1,,
+Terra-top,20,V104,twin,1.5,1,1,1,1,,
+Terra-top,21,V105,blade,1.5,1,1,1,1,,
+Terra-top,21,V106,dshaft,0.45,0,0,0,,endpoint,
+Terra-top,21,V107,connector,1.1,1,1,1,1,,
+Terra-top,21,V108,twin,1.5,1,1,1,1,,
+Terra-top,21,V109,blade,1.1,1,1,1,1,,
+Terra-top,22,V110,dshaft,0.45,1,1,0,0,endpoint,endpoint
+Terra-top,22,V111,connector,1.1,1,1,1,1,,
+Terra-top,22,V112,twin,1.5,1,1,1,1,,
+Terra-top,22,V113,blade,0.75,1,0,1,1,,
+Terra-top,22,V114,dshaft,1.1,0,0,1,,,
+Terra-top,23,V115,connector,0.75,1,0,1,1,,
+Terra-top,23,V116,twin,1.1,1,1,1,1,,
+Terra-top,23,V117,blade,1.5,1,1,1,1,,
+Terra-top,23,V118,dshaft,0.75,0,0,0,,endpoint,
+Terra-top,23,V119,connector,1.5,1,1,1,1,,
+Terra-top,24,V120,twin,1.5,1,0,0,0,endpoint,endpoint
+Terra-top,24,V121,blade,0.75,1,1,1,1,,
+Terra-top,24,V122,dshaft,0.75,0,0,0,,endpoint,
+Terra-top,24,V123,connector,1.1,1,1,0,1,endpoint,
+Terra-top,24,V124,twin,1.5,1,1,1,1,,
+Terra-top,25,V125,blade,0.75,1,1,1,1,,
+Terra-top,25,V126,dshaft,1.1,0,0,0,,endpoint,
+Terra-top,25,V127,connector,1.1,1,1,1,1,,
+Terra-top,25,V128,twin,0.75,1,1,1,1,,
+Terra-top,25,V129,blade,1.5,1,1,1,1,,
+Terra-top,26,V130,dshaft,0.75,1,0,0,1,endpoint,
+Terra-top,26,V131,connector,0.45,1,1,0,0,endpoint,endpoint
+Terra-top,26,V132,twin,1.1,1,1,1,1,,
+Terra-top,26,V133,blade,1.1,1,0,1,1,,
+Terra-top,26,V134,dshaft,0.75,0,0,0,,endpoint,
+Terra-top,27,V135,connector,1.1,1,1,1,1,,
+Terra-top,27,V136,twin,1.5,1,1,1,1,,
+Terra-top,27,V137,blade,1.5,1,0,1,1,,
+Terra-top,27,V138,dshaft,1.5,0,0,1,,,
+Terra-top,27,V139,connector,0.45,1,1,1,1,,
+Terra-top,28,V140,twin,0.75,1,1,1,1,,
+Terra-top,28,V141,blade,1.1,1,0,1,1,,
+Terra-top,28,V142,dshaft,1.1,0,0,1,,,
+Terra-top,28,V143,connector,0.45,1,1,0,0,endpoint,endpoint
+Terra-top,28,V144,twin,0.45,1,1,0,1,endpoint,
+Terra-top,29,V145,blade,1.1,1,1,1,1,,
+Terra-top,29,V146,dshaft,1.5,0,0,1,,,
+Terra-top,29,V147,connector,1.1,1,1,1,1,,
+Terra-top,29,V148,twin,1.1,1,1,1,1,,
+Terra-top,29,V149,blade,1.1,1,1,1,1,,
+Terra-top,30,V150,dshaft,0.75,1,0,0,1,endpoint,
+Terra-top,30,V151,connector,0.45,1,1,0,1,endpoint,
+Terra-top,30,V152,twin,0.75,1,1,1,1,,
+Terra-top,30,V153,blade,0.45,1,1,1,1,,
+Terra-top,30,V154,dshaft,1.1,0,0,0,,endpoint,
+Terra-top,31,V155,connector,0.45,1,1,1,1,,
+Terra-top,31,V156,twin,0.45,1,1,1,1,,
+Terra-top,31,V157,blade,1.1,1,1,1,1,,
+Terra-top,31,V158,dshaft,1.5,0,0,0,,endpoint,
+Terra-top,31,V159,connector,0.75,1,1,1,1,,

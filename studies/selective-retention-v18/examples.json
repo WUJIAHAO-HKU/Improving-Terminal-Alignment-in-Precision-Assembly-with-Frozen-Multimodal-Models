@@ -1,0 +1,698 @@
+[
+  {
+    "stratum": "Sol-depth",
+    "batch": 0,
+    "id": "V00P00",
+    "family": "round",
+    "gap": 2.0,
+    "listed": 1,
+    "legacy_keep": 1,
+    "first": 1,
+    "second": 0,
+    "first_failure": "",
+    "second_failure": "strict seating failed",
+    "type": "saved",
+    "detail": {
+      "actions": {
+        "direct": [
+          -2.7,
+          8.8
+        ],
+        "measured": [
+          -2.0,
+          21.0
+        ]
+      },
+      "first": {
+        "id": "V00P00",
+        "mode": "direct",
+        "success": true,
+        "official": true,
+        "height": 9.99,
+        "lateral": 1.77,
+        "tilt": 0.0,
+        "stable": true
+      },
+      "second": {
+        "id": "V00P00",
+        "mode": "measured",
+        "success": false,
+        "official": false,
+        "height": 171.88,
+        "lateral": 14.94,
+        "tilt": 15.07,
+        "stable": true
+      },
+      "gate": {
+        "score": -0.021743949358550896,
+        "legacy_keep": true,
+        "adaptive_keep": true
+      },
+      "angle": 41.0,
+      "depth": {
+        "near": 186.75,
+        "far": 203.75,
+        "fov": 30,
+        "width": 320
+      }
+    }
+  },
+  {
+    "stratum": "Sol-depth",
+    "batch": 0,
+    "id": "V00P09",
+    "family": "square",
+    "gap": 1.0,
+    "listed": 1,
+    "legacy_keep": 1,
+    "first": 1,
+    "second": 0,
+    "first_failure": "",
+    "second_failure": "strict seating failed",
+    "type": "missed-rescue",
+    "detail": {
+      "actions": {
+        "direct": [
+          -10.5,
+          1.8
+        ],
+        "measured": [
+          -10.3,
+          -43.7
+        ]
+      },
+      "first": {
+        "id": "V00P09",
+        "mode": "direct",
+        "success": true,
+        "official": true,
+        "height": 9.99,
+        "lateral": 0.11,
+        "tilt": 0.0,
+        "stable": true
+      },
+      "second": {
+        "id": "V00P09",
+        "mode": "measured",
+        "success": false,
+        "official": false,
+        "height": 44.44,
+        "lateral": 46.69,
+        "tilt": 69.46,
+        "stable": true
+      },
+      "gate": {
+        "score": -0.10063562796731826,
+        "legacy_keep": true,
+        "adaptive_keep": false
+      },
+      "angle": 24.0,
+      "depth": {
+        "near": 235.75,
+        "far": 296.75,
+        "fov": 30,
+        "width": 320
+      }
+    }
+  },
+  {
+    "stratum": "Sol-depth",
+    "batch": 1,
+    "id": "V01P04",
+    "family": "round",
+    "gap": 0.25,
+    "listed": 1,
+    "legacy_keep": 1,
+    "first": 0,
+    "second": 1,
+    "first_failure": "strict seating failed",
+    "second_failure": "",
+    "type": "wrong-rejection",
+    "detail": {
+      "actions": {
+        "direct": [
+          -16.6,
+          -6.6
+        ],
+        "measured": [
+          -14.0,
+          -16.5
+        ]
+      },
+      "first": {
+        "id": "V01P04",
+        "mode": "direct",
+        "success": false,
+        "official": false,
+        "height": 100.63,
+        "lateral": 0.03,
+        "tilt": 2.81,
+        "stable": true
+      },
+      "second": {
+        "id": "V01P04",
+        "mode": "measured",
+        "success": true,
+        "official": true,
+        "height": 11.6,
+        "lateral": 0.28,
+        "tilt": 1.96,
+        "stable": true
+      },
+      "gate": {
+        "score": -0.04259579484842679,
+        "legacy_keep": true,
+        "adaptive_keep": true
+      },
+      "angle": 33.0,
+      "depth": {
+        "near": 232.75,
+        "far": 292.25,
+        "fov": 30,
+        "width": 320
+      }
+    }
+  },
+  {
+    "stratum": "Sol-depth",
+    "batch": 9,
+    "id": "V09P08",
+    "family": "square",
+    "gap": 0.5,
+    "listed": 1,
+    "legacy_keep": 1,
+    "first": 0,
+    "second": 1,
+    "first_failure": "strict seating failed",
+    "second_failure": "",
+    "type": "avoided-rejection",
+    "detail": {
+      "actions": {
+        "direct": [
+          -11.1,
+          14.1
+        ],
+        "measured": [
+          -7.0,
+          10.9
+        ]
+      },
+      "first": {
+        "id": "V09P08",
+        "mode": "direct",
+        "success": false,
+        "official": false,
+        "height": 161.1,
+        "lateral": 0.34,
+        "tilt": 5.27,
+        "stable": true
+      },
+      "second": {
+        "id": "V09P08",
+        "mode": "measured",
+        "success": true,
+        "official": true,
+        "height": 10.24,
+        "lateral": 0.67,
+        "tilt": 0.48,
+        "stable": true
+      },
+      "gate": {
+        "score": -0.0770230977355156,
+        "legacy_keep": true,
+        "adaptive_keep": false
+      },
+      "angle": 7.0,
+      "depth": {
+        "near": 266.25,
+        "far": 317.25,
+        "fov": 30,
+        "width": 320
+      }
+    }
+  },
+  {
+    "stratum": "Sol-top",
+    "batch": 4,
+    "id": "V020",
+    "family": "twin",
+    "gap": 0.45,
+    "listed": 1,
+    "legacy_keep": 1,
+    "first": 0,
+    "second": 1,
+    "first_failure": "endpoint",
+    "second_failure": "",
+    "type": "avoided-rejection",
+    "detail": {
+      "first": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.2-sol",
+        "batch_id": 4,
+        "scene_id": "V020",
+        "checkpoint_id": "000cd1f5548da8dad270287bf300118d1677579002e18668fb977e206b5b0695",
+        "branch": "first",
+        "action": {
+          "x": 39.945,
+          "y": 13.631,
+          "yaw": 6.351
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": -0.8592984000061716,
+        "drift_mm": 0.0023114843732915066,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            39.6163424120235,
+            18.23573351482595,
+            14.404361393978672
+          ],
+          "part_quat": [
+            0.9026075219488036,
+            -0.42715968275608246,
+            -0.022773496429619643,
+            0.04812104123492957
+          ],
+          "tcp_mm": [
+            39.947358671396316,
+            13.630957760376951,
+            74.99405990946345
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary",
+            "pin_primary_0",
+            "pin_primary_1"
+          ],
+          "tilt_deg": 50.65177732217445
+        },
+        "success": false,
+        "failure_stage": "endpoint",
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "2769d3c95ddaa02e8b8f1319b33c16ecc746b19de50bd9cb91ec7efa8db2ae5c",
+        "reply_sha256": "57cabd37b9bd8b4fbb3d6655cc6f7d0f1c5830dfe5fd5cadf4e94fddd23e5ad1"
+      },
+      "second": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.2-sol",
+        "batch_id": 4,
+        "scene_id": "V020",
+        "checkpoint_id": "000cd1f5548da8dad270287bf300118d1677579002e18668fb977e206b5b0695",
+        "branch": "overhead",
+        "action": {
+          "x": 40.333,
+          "y": 14.268,
+          "yaw": 6.242
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": 0.10191710624417638,
+        "drift_mm": 0.0,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            39.858249283122426,
+            14.220207581625981,
+            6.998481936218618
+          ],
+          "part_quat": [
+            0.9985178781469257,
+            -1.7406316633952537e-13,
+            -2.5094804603399646e-14,
+            0.05442469128034015
+          ],
+          "tcp_mm": [
+            40.335367483955274,
+            14.267960997770151,
+            74.99406428810217
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary"
+          ],
+          "tilt_deg": 2.4148365394514667e-06
+        },
+        "success": true,
+        "failure_stage": null,
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "ba05f618089759afa4447f2bb939cfcee25719b630da1999edff6044b3304b8e",
+        "reply_sha256": "1dfb5672d00065e14d79dff1de9654753fa095779565a8c0ac0bc372575c91f4"
+      },
+      "gates": {
+        "top": {
+          "x": 40.333,
+          "y": 14.268,
+          "yaw": 6.242
+        },
+        "top_ref": {
+          "x": 41.0,
+          "y": 0.0,
+          "yaw": 0.0
+        },
+        "top_valid": false,
+        "gates": {
+          "old": {
+            "selected": "first",
+            "action": {
+              "x": 39.945,
+              "y": 13.631,
+              "yaw": 6.351
+            },
+            "revised": false,
+            "distance_first_mm": 3.9133839257706526,
+            "distance_overhead_mm": 4.62261633495284
+          },
+          "new": {
+            "selected": "first",
+            "action": {
+              "x": 39.945,
+              "y": 13.631,
+              "yaw": 6.351
+            },
+            "revised": false,
+            "distance_first_mm": 3.9133839257706526,
+            "distance_overhead_mm": 4.622616334952839
+          }
+        }
+      }
+    }
+  },
+  {
+    "stratum": "Terra-top",
+    "batch": 2,
+    "id": "V013",
+    "family": "blade",
+    "gap": 1.1,
+    "listed": 1,
+    "legacy_keep": 1,
+    "first": 0,
+    "second": 1,
+    "first_failure": "endpoint",
+    "second_failure": "",
+    "type": "avoided-rejection",
+    "detail": {
+      "first": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.1-terra",
+        "batch_id": 2,
+        "scene_id": "V013",
+        "checkpoint_id": "07704f5ecf45d36930f5166d61084ad754a70240192be125e9fb826dd43937b0",
+        "branch": "first",
+        "action": {
+          "x": 34.805,
+          "y": -5.85,
+          "yaw": 7.56
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": -3.6954796461756256,
+        "drift_mm": 0.09248051161336991,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            35.05509550108987,
+            -8.78657451403371,
+            13.424514092088792
+          ],
+          "part_quat": [
+            0.9220954538053153,
+            0.3860840157823666,
+            -0.010102387446110283,
+            -0.02402183583369516
+          ],
+          "tcp_mm": [
+            34.80726631731634,
+            -5.850095405795938,
+            74.99401264125
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary",
+            "pin_primary_0"
+          ],
+          "tilt_deg": 45.43852398844302
+        },
+        "success": false,
+        "failure_stage": "endpoint",
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "5091c0cd179a818d2fdff1ced57f8bfab0dd86144a2ece1a23b4aa045750b168",
+        "reply_sha256": "70f7c8ee94f4cb99d95c0276e2a6f023309c45acfb040ee9a8b432521260fbf9"
+      },
+      "second": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.1-terra",
+        "batch_id": 2,
+        "scene_id": "V013",
+        "checkpoint_id": "07704f5ecf45d36930f5166d61084ad754a70240192be125e9fb826dd43937b0",
+        "branch": "overhead",
+        "action": {
+          "x": 38.687,
+          "y": -2.469,
+          "yaw": 4.764
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": 0.6539484758891021,
+        "drift_mm": 8.881784197001252e-16,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            38.617103949847746,
+            -2.4963978682759,
+            6.986340294575546
+          ],
+          "part_quat": [
+            0.9991148360129816,
+            2.6383237928054893e-17,
+            1.2524442291640532e-17,
+            0.04206595367695135
+          ],
+          "tcp_mm": [
+            38.68935713952981,
+            -2.4690475423449767,
+            74.99405863678405
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary"
+          ],
+          "tilt_deg": 3.1945284701301985e-06
+        },
+        "success": true,
+        "failure_stage": null,
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "e7be613b0e8d9909a499d0d8b07fe96aa6b84117dc1829530641ef34fcb82b28",
+        "reply_sha256": "aab8954be9f4b690b047952df4fed68908fe8ab63ee9681f0e7fe680281684eb"
+      },
+      "gates": {
+        "top": {
+          "x": 38.687,
+          "y": -2.469,
+          "yaw": 4.764
+        },
+        "top_ref": {
+          "x": 41.0,
+          "y": 0.0,
+          "yaw": 0.0
+        },
+        "top_valid": false,
+        "gates": {
+          "old": {
+            "selected": "first",
+            "action": {
+              "x": 34.805,
+              "y": -5.85,
+              "yaw": 7.56
+            },
+            "revised": false,
+            "distance_first_mm": 3.2352583480537125,
+            "distance_overhead_mm": 7.207815912671043
+          },
+          "new": {
+            "selected": "first",
+            "action": {
+              "x": 34.805,
+              "y": -5.85,
+              "yaw": 7.56
+            },
+            "revised": false,
+            "distance_first_mm": 3.235258348053713,
+            "distance_overhead_mm": 7.207815912671042
+          }
+        }
+      }
+    }
+  },
+  {
+    "stratum": "Terra-top",
+    "batch": 4,
+    "id": "V021",
+    "family": "blade",
+    "gap": 0.45,
+    "listed": 1,
+    "legacy_keep": 1,
+    "first": 1,
+    "second": 0,
+    "first_failure": "",
+    "second_failure": "endpoint",
+    "type": "missed-rescue",
+    "detail": {
+      "first": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.1-terra",
+        "batch_id": 4,
+        "scene_id": "V021",
+        "checkpoint_id": "eb34b69f3c917a8117d411a0aac58e9f10c1b043ff53aecc080e19900376abfe",
+        "branch": "first",
+        "action": {
+          "x": 40.569,
+          "y": 9.23,
+          "yaw": -1.99
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": -3.718413896791617e-07,
+        "drift_mm": 2.108860496070405e-07,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            40.198520829736296,
+            9.210290983958293,
+            6.986340311440277
+          ],
+          "part_quat": [
+            0.9998535215860115,
+            1.6591510227223281e-09,
+            -3.081066371468021e-11,
+            -0.017115354861937146
+          ],
+          "tcp_mm": [
+            40.57137754316409,
+            9.229931294625446,
+            74.99406955126443
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary",
+            "pin_primary_0"
+          ],
+          "tilt_deg": 2.831646840510158e-06
+        },
+        "success": true,
+        "failure_stage": null,
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "b1e724140e10c94be570c09b10902c4f6c396fa76c7bd97f47a859560bda3f4d",
+        "reply_sha256": "5bbf703d7b14a8c72e206dbe41379e29538ad702b16c79f6e3ec9b4e2e01d7d6"
+      },
+      "second": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.1-terra",
+        "batch_id": 4,
+        "scene_id": "V021",
+        "checkpoint_id": "eb34b69f3c917a8117d411a0aac58e9f10c1b043ff53aecc080e19900376abfe",
+        "branch": "overhead",
+        "action": {
+          "x": 43.9,
+          "y": 10.701,
+          "yaw": 0.0
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": -2.2146034983240703,
+        "drift_mm": 0.00015787370152921227,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            43.72646690003823,
+            9.449329469449351,
+            12.41722753929357
+          ],
+          "part_quat": [
+            0.9936867259700942,
+            0.0002463261813680168,
+            0.11217028782396068,
+            -0.0021110385446659057
+          ],
+          "tcp_mm": [
+            43.90245128407444,
+            10.70092412885947,
+            74.99410790737238
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary",
+            "pin_primary_0"
+          ],
+          "tilt_deg": 12.880907841523568
+        },
+        "success": false,
+        "failure_stage": "endpoint",
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "747de9820337329feb921215344f7fd8a04f9e279c2c1898a1782caea65894b5",
+        "reply_sha256": "a7380d49b7259c4d7c3a539ef843760137ea66b079394fe7681e463c10f5ab53"
+      },
+      "gates": {
+        "top": {
+          "x": 43.9,
+          "y": 10.701,
+          "yaw": 0.0
+        },
+        "top_ref": {
+          "x": 41.0,
+          "y": 0.0,
+          "yaw": 0.0
+        },
+        "top_valid": false,
+        "gates": {
+          "old": {
+            "selected": "first",
+            "action": {
+              "x": 40.569,
+              "y": 9.23,
+              "yaw": -1.99
+            },
+            "revised": false,
+            "distance_first_mm": 5.054991855461223,
+            "distance_overhead_mm": 7.413181918595152
+          },
+          "new": {
+            "selected": "first",
+            "action": {
+              "x": 40.569,
+              "y": 9.23,
+              "yaw": -1.99
+            },
+            "revised": false,
+            "distance_first_mm": 5.054991855461222,
+            "distance_overhead_mm": 7.413181918595152
+          }
+        }
+      }
+    }
+  }
+]

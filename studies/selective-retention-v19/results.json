@@ -1,0 +1,242 @@
+{
+  "Sol-depth": {
+    "diagnostics": {
+      "avoided_false_rejections": {
+        "per100measured": 0.0,
+        "ci": null
+      },
+      "forgone_rescues": {
+        "per100measured": 0.0,
+        "ci": null
+      }
+    },
+    "n": 320,
+    "measured": 256,
+    "seated": {
+      "direct": 38,
+      "switch": 61,
+      "legacy": 60,
+      "adaptive": 60,
+      "fixed": 60
+    },
+    "counts": {
+      "keep_old": {
+        "kept": 64,
+        "rescued": 5,
+        "wrongly_rejected": 6
+      },
+      "keep_ad": {
+        "kept": 62,
+        "rescued": 5,
+        "wrongly_rejected": 6
+      }
+    },
+    "pairs": {
+      "adaptive-fixed": {
+        "wins": 0,
+        "losses": 0,
+        "pp": 0.0,
+        "ci": null,
+        "identical_by_design": false
+      },
+      "adaptive-switch": {
+        "wins": 5,
+        "losses": 6,
+        "pp": -0.3125,
+        "ci": [
+          -2.4571148355818027,
+          1.8321148355818027
+        ],
+        "identical_by_design": false
+      },
+      "adaptive-legacy": {
+        "wins": 0,
+        "losses": 0,
+        "pp": 0.0,
+        "ci": null,
+        "identical_by_design": false
+      },
+      "legacy-switch": {
+        "wins": 5,
+        "losses": 6,
+        "pp": -0.3125,
+        "ci": [
+          -2.4571148355818027,
+          1.8321148355818027
+        ],
+        "identical_by_design": false
+      },
+      "adaptive-direct": {
+        "wins": 34,
+        "losses": 12,
+        "pp": 6.875,
+        "ci": [
+          3.7779280971018103,
+          9.97207190289819
+        ],
+        "identical_by_design": false
+      }
+    }
+  },
+  "Sol-top": {
+    "diagnostics": {
+      "avoided_false_rejections": {
+        "per100measured": 0.0,
+        "ci": null
+      },
+      "forgone_rescues": {
+        "per100measured": 0.0,
+        "ci": null
+      }
+    },
+    "n": 160,
+    "measured": 128,
+    "seated": {
+      "direct": 1,
+      "switch": 3,
+      "legacy": 3,
+      "adaptive": 3,
+      "fixed": 3
+    },
+    "counts": {
+      "keep_old": {
+        "kept": 64,
+        "rescued": 1,
+        "wrongly_rejected": 1
+      },
+      "keep_ad": {
+        "kept": 64,
+        "rescued": 1,
+        "wrongly_rejected": 1
+      }
+    },
+    "pairs": {
+      "adaptive-fixed": {
+        "wins": 1,
+        "losses": 1,
+        "pp": 0.0,
+        "ci": [
+          -1.8315371426384777,
+          1.8315371426384777
+        ],
+        "identical_by_design": true
+      },
+      "adaptive-switch": {
+        "wins": 1,
+        "losses": 1,
+        "pp": 0.0,
+        "ci": [
+          -1.8315371426384777,
+          1.8315371426384777
+        ],
+        "identical_by_design": true
+      },
+      "adaptive-legacy": {
+        "wins": 0,
+        "losses": 0,
+        "pp": 0.0,
+        "ci": null,
+        "identical_by_design": false
+      },
+      "legacy-switch": {
+        "wins": 1,
+        "losses": 1,
+        "pp": 0.0,
+        "ci": [
+          -1.8315371426384777,
+          1.8315371426384777
+        ],
+        "identical_by_design": false
+      },
+      "adaptive-direct": {
+        "wins": 2,
+        "losses": 0,
+        "pp": 1.25,
+        "ci": [
+          -0.5233782128497855,
+          3.0233782128497855
+        ],
+        "identical_by_design": false
+      }
+    }
+  },
+  "Terra-top": {
+    "diagnostics": {
+      "avoided_false_rejections": {
+        "per100measured": 0.0,
+        "ci": null
+      },
+      "forgone_rescues": {
+        "per100measured": 0.0,
+        "ci": null
+      }
+    },
+    "n": 160,
+    "measured": 128,
+    "seated": {
+      "direct": 0,
+      "switch": 2,
+      "legacy": 0,
+      "adaptive": 0,
+      "fixed": 2
+    },
+    "counts": {
+      "keep_old": {
+        "kept": 66,
+        "rescued": 0,
+        "wrongly_rejected": 2
+      },
+      "keep_ad": {
+        "kept": 66,
+        "rescued": 0,
+        "wrongly_rejected": 2
+      }
+    },
+    "pairs": {
+      "adaptive-fixed": {
+        "wins": 0,
+        "losses": 2,
+        "pp": -1.25,
+        "ci": [
+          -3.0233782128497855,
+          0.5233782128497855
+        ],
+        "identical_by_design": true
+      },
+      "adaptive-switch": {
+        "wins": 0,
+        "losses": 2,
+        "pp": -1.25,
+        "ci": [
+          -3.0233782128497855,
+          0.5233782128497855
+        ],
+        "identical_by_design": true
+      },
+      "adaptive-legacy": {
+        "wins": 0,
+        "losses": 0,
+        "pp": 0.0,
+        "ci": null,
+        "identical_by_design": false
+      },
+      "legacy-switch": {
+        "wins": 0,
+        "losses": 2,
+        "pp": -1.25,
+        "ci": [
+          -3.0233782128497855,
+          0.5233782128497855
+        ],
+        "identical_by_design": false
+      },
+      "adaptive-direct": {
+        "wins": 0,
+        "losses": 0,
+        "pp": 0.0,
+        "ci": null,
+        "identical_by_design": false
+      }
+    }
+  }
+}

@@ -1,0 +1,585 @@
+[
+  {
+    "stratum": "Sol-depth",
+    "batch": 1,
+    "id": "V01P04",
+    "family": "square",
+    "gap": 0.5,
+    "listed": 1,
+    "legacy_keep": 1,
+    "score": -0.9689750193672145,
+    "first": 1,
+    "second": 0,
+    "first_failure": "",
+    "second_failure": "strict seating failed",
+    "type": "saved",
+    "detail": {
+      "actions": {
+        "direct": [
+          5.2,
+          0.0
+        ],
+        "measured": [
+          4.2,
+          -46.6
+        ]
+      },
+      "first": {
+        "id": "V01P04",
+        "mode": "direct",
+        "success": true,
+        "official": true,
+        "height": 9.98,
+        "lateral": 0.29,
+        "tilt": 0.0,
+        "stable": true
+      },
+      "second": {
+        "id": "V01P04",
+        "mode": "measured",
+        "success": false,
+        "official": false,
+        "height": 119.41,
+        "lateral": 32.11,
+        "tilt": 88.47,
+        "stable": true
+      },
+      "gate": {
+        "score": -0.9689750193672145,
+        "threshold": 0.0,
+        "legacy_keep": true,
+        "adaptive_keep": true
+      },
+      "angle": 33.0,
+      "depth": {
+        "near": 238.75,
+        "far": 252.25,
+        "fov": 30,
+        "width": 320
+      }
+    }
+  },
+  {
+    "stratum": "Sol-depth",
+    "batch": 6,
+    "id": "V06P04",
+    "family": "round",
+    "gap": 4.0,
+    "listed": 1,
+    "legacy_keep": 1,
+    "score": -0.3974617965538223,
+    "first": 0,
+    "second": 1,
+    "first_failure": "strict seating failed",
+    "second_failure": "",
+    "type": "wrong-rejection",
+    "detail": {
+      "actions": {
+        "direct": [
+          -6.6,
+          0.0
+        ],
+        "measured": [
+          -7.5,
+          -20.0
+        ]
+      },
+      "first": {
+        "id": "V06P04",
+        "mode": "direct",
+        "success": false,
+        "official": false,
+        "height": 163.32,
+        "lateral": 16.92,
+        "tilt": 16.68,
+        "stable": true
+      },
+      "second": {
+        "id": "V06P04",
+        "mode": "measured",
+        "success": true,
+        "official": true,
+        "height": 9.99,
+        "lateral": 3.53,
+        "tilt": 0.0,
+        "stable": true
+      },
+      "gate": {
+        "score": -0.3974617965538223,
+        "threshold": -0.1,
+        "legacy_keep": true,
+        "adaptive_keep": true
+      },
+      "angle": 7.0,
+      "depth": {
+        "near": 282.25,
+        "far": 328.25,
+        "fov": 30,
+        "width": 320
+      }
+    }
+  },
+  {
+    "stratum": "Sol-top",
+    "batch": 4,
+    "id": "V022",
+    "family": "dshaft",
+    "gap": 1.1,
+    "listed": 1,
+    "legacy_keep": 1,
+    "score": 0.0,
+    "first": 1,
+    "second": 0,
+    "first_failure": "",
+    "second_failure": "endpoint",
+    "type": "saved",
+    "detail": {
+      "first": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.2-sol",
+        "batch_id": 4,
+        "scene_id": "V022",
+        "checkpoint_id": "116aeaae60a8da2f20d9705c8f7a8e9e337253014195217a8f03f44a56892bc1",
+        "branch": "first",
+        "action": {
+          "x": 39.072,
+          "y": -4.048,
+          "yaw": 2.01
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": 0.14326843745708293,
+        "drift_mm": 1.5547582178213958e-07,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            43.38335473390165,
+            -3.8960871970812954,
+            6.997931032967815
+          ],
+          "part_quat": [
+            0.9998459464273152,
+            -7.194151485637041e-07,
+            6.466506979679002e-06,
+            0.017552303852588668
+          ],
+          "tcp_mm": [
+            39.07436265429964,
+            -4.048193894320318,
+            74.99406467789497
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary"
+          ],
+          "tilt_deg": 0.0007455766264662081
+        },
+        "success": true,
+        "failure_stage": null,
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "b68bc149dad6b84eb5bcaf8581e3409bfcc819e919393375e51daf0a5a27abba",
+        "reply_sha256": "8dab62284b85e490be376fbced1bec191441c414458d5504c5aa2f5138591fd8"
+      },
+      "second": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.2-sol",
+        "batch_id": 4,
+        "scene_id": "V022",
+        "checkpoint_id": "116aeaae60a8da2f20d9705c8f7a8e9e337253014195217a8f03f44a56892bc1",
+        "branch": "overhead",
+        "action": {
+          "x": 37.864,
+          "y": -0.274,
+          "yaw": 0.0
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": -0.8886456327608033,
+        "drift_mm": 0.013437007043521236,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            42.801471730548826,
+            0.040537424912147346,
+            12.983852665588584
+          ],
+          "part_quat": [
+            0.9637831689903693,
+            -0.2660698489009488,
+            -0.004488909619332465,
+            0.017569529508097453
+          ],
+          "tcp_mm": [
+            37.86632804528944,
+            -0.2741660059659076,
+            74.99404587303783
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary",
+            "pin_primary_0"
+          ],
+          "tilt_deg": 30.865567318054804
+        },
+        "success": false,
+        "failure_stage": "endpoint",
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "4ddbebf14d9fd8522b7f73f172bf18ddf3088ba2fb19230fa309f88b0cb061d6",
+        "reply_sha256": "fc5b98b6b8377cb02b656858a052ae6269e64a3ca0c6dd025e6f968ee352d085"
+      },
+      "gates": {
+        "top": {
+          "x": 37.864,
+          "y": -0.274,
+          "yaw": 0.0
+        },
+        "top_ref": {
+          "x": 36.218,
+          "y": -3.018,
+          "yaw": -2.0
+        },
+        "top_valid": true,
+        "gates": {
+          "old": {
+            "selected": "overhead",
+            "action": {
+              "x": 37.864,
+              "y": -0.274,
+              "yaw": 0.0
+            },
+            "revised": true,
+            "distance_first_mm": 3.6115732316443934,
+            "distance_overhead_mm": 3.487799946551374
+          },
+          "new": {
+            "selected": "first",
+            "action": {
+              "x": 39.072,
+              "y": -4.048,
+              "yaw": 2.01
+            },
+            "revised": false,
+            "distance_first_mm": 1.6722937471262453,
+            "distance_overhead_mm": 3.1892713076925534
+          }
+        }
+      }
+    }
+  },
+  {
+    "stratum": "Sol-top",
+    "batch": 22,
+    "id": "V113",
+    "family": "blade",
+    "gap": 0.45,
+    "listed": 1,
+    "legacy_keep": 1,
+    "score": 0.0,
+    "first": 0,
+    "second": 1,
+    "first_failure": "endpoint",
+    "second_failure": "",
+    "type": "wrong-rejection",
+    "detail": {
+      "first": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.2-sol",
+        "batch_id": 22,
+        "scene_id": "V113",
+        "checkpoint_id": "b23a07a8f24f32195057663e04fa7e636613d7ffb7b666acaabc75a410c11fb6",
+        "branch": "first",
+        "action": {
+          "x": 35.932,
+          "y": -14.31,
+          "yaw": 0.213
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": 0.22945334922029662,
+        "drift_mm": 3.521082768647589,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            46.79702397125218,
+            -9.293173639727758,
+            10.042015985153109
+          ],
+          "part_quat": [
+            0.9988497236963138,
+            0.04726703054073326,
+            0.002139735201463125,
+            -0.007776813545774689
+          ],
+          "tcp_mm": [
+            35.934323409282264,
+            -14.310050952487101,
+            74.99404012988686
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [],
+          "tilt_deg": 5.423974876204225
+        },
+        "success": false,
+        "failure_stage": "endpoint",
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "192fed8cb558865f14336a0ad55d07cff9450b2e5ab7119f9dc384490a271a58",
+        "reply_sha256": "ae3c86e1cbc0a75f6993f4ceeaec98036127428dfe066d22aa33b38b717f1269"
+      },
+      "second": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.2-sol",
+        "batch_id": 22,
+        "scene_id": "V113",
+        "checkpoint_id": "b23a07a8f24f32195057663e04fa7e636613d7ffb7b666acaabc75a410c11fb6",
+        "branch": "overhead",
+        "action": {
+          "x": 35.395,
+          "y": -8.506,
+          "yaw": 0.0
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": 0.10361337091404721,
+        "drift_mm": 3.552713678800501e-15,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            46.27090673945622,
+            -9.144046818689688,
+            6.986340294649211
+          ],
+          "part_quat": [
+            0.999999576955935,
+            7.86349668859068e-13,
+            3.428243891459869e-12,
+            -0.0009198303917516672
+          ],
+          "tcp_mm": [
+            35.397298846609246,
+            -8.506012654456073,
+            74.99402705567958
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary"
+          ],
+          "tilt_deg": 3.078324659199975e-06
+        },
+        "success": true,
+        "failure_stage": null,
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "9c810036c7e125084c16d5db6d57a6d24fc9519f9c87207f7858f4ff558daae6",
+        "reply_sha256": "c74f8cfb96910945bd5ca8afb52a8fd4e6597d34dfa1cef1cb3d1008aa4e4df6"
+      },
+      "gates": {
+        "top": {
+          "x": 35.395,
+          "y": -8.506,
+          "yaw": 0.0
+        },
+        "top_ref": {
+          "x": 41.0,
+          "y": 0.0,
+          "yaw": 0.0
+        },
+        "top_valid": false,
+        "gates": {
+          "old": {
+            "selected": "first",
+            "action": {
+              "x": 35.932,
+              "y": -14.31,
+              "yaw": 0.213
+            },
+            "revised": false,
+            "distance_first_mm": 10.644988206409673,
+            "distance_overhead_mm": 12.20315844880526
+          },
+          "new": {
+            "selected": "first",
+            "action": {
+              "x": 35.932,
+              "y": -14.31,
+              "yaw": 0.213
+            },
+            "revised": false,
+            "distance_first_mm": 10.644988206409671,
+            "distance_overhead_mm": 12.20315844880526
+          }
+        }
+      }
+    }
+  },
+  {
+    "stratum": "Terra-top",
+    "batch": 22,
+    "id": "V113",
+    "family": "blade",
+    "gap": 0.45,
+    "listed": 1,
+    "legacy_keep": 1,
+    "score": 0.0,
+    "first": 0,
+    "second": 1,
+    "first_failure": "endpoint",
+    "second_failure": "",
+    "type": "wrong-rejection",
+    "detail": {
+      "first": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.1-terra",
+        "batch_id": 22,
+        "scene_id": "V113",
+        "checkpoint_id": "164a9594f82470d7b280d6b91c0ff87cd4bf5f0830f76c4507523a729c134fec",
+        "branch": "first",
+        "action": {
+          "x": 36.361,
+          "y": -11.094,
+          "yaw": 0.157
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": -4.478430002859932,
+        "drift_mm": 0.028554538433994945,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            48.72533996439265,
+            -14.513347380673107,
+            13.755928718247027
+          ],
+          "part_quat": [
+            0.9286830584356612,
+            0.36499597794434363,
+            0.02407984217227625,
+            0.06120354777295232
+          ],
+          "tcp_mm": [
+            36.36332695217437,
+            -11.094036059696124,
+            74.99404164248213
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary",
+            "pin_primary_0"
+          ],
+          "tilt_deg": 42.91234655556457
+        },
+        "success": false,
+        "failure_stage": "endpoint",
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "8f700a1baff16a4e745231af0776c34a91f176db088da09adf24cbaa53ef47ec",
+        "reply_sha256": "7212050113d835be25ceff73005c1c8adebe7e6553ebf6d1aa25d27c5f1902f7"
+      },
+      "second": {
+        "run_id": "franka-acceptance-v1",
+        "calibration_id": "franka-pilot-v1",
+        "model": "gpt-6.1-terra",
+        "batch_id": 22,
+        "scene_id": "V113",
+        "checkpoint_id": "164a9594f82470d7b280d6b91c0ff87cd4bf5f0830f76c4507523a729c134fec",
+        "branch": "overhead",
+        "action": {
+          "x": 35.669,
+          "y": -10.152,
+          "yaw": 0.0
+        },
+        "lifted": true,
+        "carry_bilateral_samples": 27,
+        "margin_mm": -5.5354473242452684e-05,
+        "drift_mm": 2.197930762344246e-05,
+        "endpoint": {
+          "time_s": 8.319999999999448,
+          "stage": "settle",
+          "part_mm": [
+            46.401952200087024,
+            -9.083276185106751,
+            6.986341868302447
+          ],
+          "part_quat": [
+            0.9998936627066464,
+            1.5568935098200157e-07,
+            -2.3533377980458232e-09,
+            -0.01458297908740588
+          ],
+          "tcp_mm": [
+            35.67130800514817,
+            -10.15202660117575,
+            74.99403198616392
+          ],
+          "left": false,
+          "right": false,
+          "contacts": [
+            "base_primary",
+            "pin_primary_0"
+          ],
+          "tilt_deg": 1.7724801500257912e-05
+        },
+        "success": true,
+        "failure_stage": null,
+        "controller_sha256": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+        "calibration_sha256": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a",
+        "input_manifest_sha256": "0f9ec3be6d70bd75588604d9dbf63ccdfdbe02c26c7c7dcaf7c8e9c5c07fc5c5",
+        "reply_sha256": "c5929ff81176352398976ac7a5282262fe6255b7d0910c5dec0fb9d6c4b1cf89"
+      },
+      "gates": {
+        "top": {
+          "x": 35.669,
+          "y": -10.152,
+          "yaw": 0.0
+        },
+        "top_ref": {
+          "x": 41.0,
+          "y": 0.0,
+          "yaw": 0.0
+        },
+        "top_valid": false,
+        "gates": {
+          "old": {
+            "selected": "first",
+            "action": {
+              "x": 36.361,
+              "y": -11.094,
+              "yaw": 0.157
+            },
+            "revised": false,
+            "distance_first_mm": 10.4682426668385,
+            "distance_overhead_mm": 11.346108388135029
+          },
+          "new": {
+            "selected": "first",
+            "action": {
+              "x": 36.361,
+              "y": -11.094,
+              "yaw": 0.157
+            },
+            "revised": false,
+            "distance_first_mm": 10.468242666838497,
+            "distance_overhead_mm": 11.346108388135029
+          }
+        }
+      }
+    }
+  }
+]

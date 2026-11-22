@@ -1,0 +1,185 @@
+{
+  "version": "selective-retention-v2",
+  "utc": "2026-11-22T15:37:55.901757+00:00",
+  "calibration": {
+    "case-outcomes.json": "246a8e3a044f836a46fa155281789c78ea409d32b5301a2d37f9f6758de19fb4",
+    "parts.csv": "ba5eafc52b9f5fdd85484decddbe7b8b16b79270ac8b18723e4763da44059b56"
+  },
+  "policy": {
+    "Sol-depth": {
+      "fixed": "legacy",
+      "families": {
+        "dual": {
+          "wins": 0,
+          "losses": 0,
+          "eligible": 2,
+          "p": 1,
+          "retain": false
+        },
+        "round": {
+          "wins": 9,
+          "losses": 1,
+          "eligible": 20,
+          "p": 0.0107421875,
+          "retain": true
+        },
+        "square": {
+          "wins": 9,
+          "losses": 3,
+          "eligible": 35,
+          "p": 0.072998046875,
+          "retain": false
+        }
+      },
+      "thresholds": {
+        "dual": 0.0,
+        "round": -0.1,
+        "square": 0.0
+      }
+    },
+    "Sol-top": {
+      "fixed": "switch",
+      "families": {
+        "blade": {
+          "wins": 0,
+          "losses": 5,
+          "eligible": 63,
+          "p": 1.0,
+          "retain": false
+        },
+        "connector": {
+          "wins": 0,
+          "losses": 2,
+          "eligible": 11,
+          "p": 1.0,
+          "retain": false
+        },
+        "dshaft": {
+          "wins": 0,
+          "losses": 3,
+          "eligible": 52,
+          "p": 1.0,
+          "retain": false
+        },
+        "twin": {
+          "wins": 0,
+          "losses": 6,
+          "eligible": 59,
+          "p": 1.0,
+          "retain": false
+        }
+      },
+      "thresholds": {
+        "dual": 0.0,
+        "round": -0.1,
+        "square": 0.0
+      }
+    },
+    "Terra-top": {
+      "fixed": "switch",
+      "families": {
+        "blade": {
+          "wins": 0,
+          "losses": 14,
+          "eligible": 66,
+          "p": 1.0,
+          "retain": false
+        },
+        "connector": {
+          "wins": 2,
+          "losses": 9,
+          "eligible": 58,
+          "p": 0.994140625,
+          "retain": false
+        },
+        "dshaft": {
+          "wins": 0,
+          "losses": 2,
+          "eligible": 4,
+          "p": 1.0,
+          "retain": false
+        },
+        "twin": {
+          "wins": 0,
+          "losses": 10,
+          "eligible": 64,
+          "p": 1.0,
+          "retain": false
+        }
+      },
+      "thresholds": {
+        "dual": 0.0,
+        "round": -0.1,
+        "square": 0.0
+      }
+    }
+  },
+  "size_calculation": {
+    "Sol-depth": {
+      "cal_sd": 0.05508613944197478,
+      "n_precision": 30
+    },
+    "Sol-top": {
+      "cal_sd": 0.0,
+      "n_precision": 0
+    },
+    "Terra-top": {
+      "cal_sd": 0.0,
+      "n_precision": 0
+    }
+  },
+  "batches": {
+    "depth": 32,
+    "franka": 32
+  },
+  "seeds": {
+    "depth": 656364025,
+    "franka": 87623725772690038
+  },
+  "allocation_seed": 87595089469962,
+  "sharing": "80% original stream 8/10 or combined 4/5 per model; run one shared candidate pair per listed part. Unlisted receives first only. All starts denominator.",
+  "rule": "Default switch. Retain only when the previous gate score is below a family threshold learned by leave-one-batch-out calibration. Threshold grid is sealed to -0.50..0.00 and ties choose the threshold closest to zero. The fixed comparator is the previous gate score <=0.",
+  "precision": "Independent batch Student 95% paired intervals in pp; same-batch part averaging. N=ceil4(max(32,(1.96*calibration batch SD/.02)^2)); same Franka scenes for both models. Primary Sol-depth adaptive minus fixed (only stratum with rule differences); structurally identical strata report exact policy contrast zero. Superiority lower 95% >0. Depth preservation additionally requires positive benefit over switch and lower 95% vs legacy > -2pp. Franka errors are selected retained-first failures with successful second. Secondary contrasts descriptive. With observed all-zero nonstructural contrasts flag t interval nonestimable. No early stopping or extension based on outcomes.",
+  "source_sha": {
+    "depth/model_client.py": "8bbba7e5193582536a938c4286a73ed393364ee4a52ec48f5adedb8c4e734670",
+    "depth/parent_policy.py": "4b464d56c8045e11e8dc494606e53867ad6fe9765e451c5b3c696c6c8298d562",
+    "depth/policy5.py": "9bc8357ede46ff3f4ae4dc1f361a48f68e111cbe336f2f332a1e743fd8276fd6",
+    "depth/ref.json": "83a00b096e5425cbc0ca268b365fb19921b11a8e500a7d7c226d29cc2a9f17e9",
+    "depth/rig_base.py": "d095e4ea7cb969dd4855c38a967c9f8ef846d385fb8242c58fc36997f98a6130",
+    "depth/rules4.py": "550e355f73ccffc7189cf2eb903fc23357567ce8d89424252397c7a08ab0aa8c",
+    "depth/server.py": "141f1eee2d785a5481aba91eb99b42aeb3e24a89842fe67a034fde0bc0130eb1",
+    "depth/weights.json": "495a24ed9857ec4eb8561bdddcba44bc5fd2590b691b6584a7f8d8ee38ad50f3",
+    "formal/design.py": "88eea64941b89554a5506a3ce92d29f1f22afbf7af65fec46a9ddb3eda10cb0f",
+    "formal/inference.py": "0accecba61ecdc4713a99778509f91d49068024c44eed1cb32a609cd75a5114e",
+    "formal/physics.py": "db0a3b8182e092a2ce5df57ef154965697354959ef727288e742184b2badf8a6",
+    "formal/simulation.py": "43ba6ebe3ff16246054fa677c4a0d2f2ccbd8eea082470ad835ed176d32dbdca",
+    "commissioning/audit_pair.py": "2f777e70f535a57742d13921b71952cfe565b10b5b30c23a9b5a72927748a266",
+    "commissioning/pilot.py": "263eb58bcb35f7362d50cd9cfc4952734ddc8cbb011fee0dee8308667c7180bc",
+    "commissioning/vendor/franka/episode.py": "5a84df426c4913413ff22182624d8ec5aed6f89cfa60300cbc4aaff6db2a0607",
+    "commissioning/vendor/franka/panda-LICENSE": "a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9",
+    "commissioning/vendor/franka/robot.py": "84fc42af73480dc893ba6cad9fb79dafceeb4c76184c5e39e039f0365022b023",
+    "commissioning/vendor/franka/station.py": "5f864408d5eeb233cc86419f0d1722b6ebdab122f58eed43d9145873bd3ff103",
+    "commissioning/vendor/franka/template.xml": "85e88c3192750070724479f3b8e63ec406b3faa93e2efaab07a7072168602480",
+    "commissioning/vendor/handoff/example.py": "a081cb2f53adc3f64ada2cf556820282d298483ff9129f372763d08f9513a16e",
+    "commissioning/vendor/handoff/gain.json": "44a4150ce9701034d72012a69e559a6df986d54df6b13c618e965c23dd7293d8",
+    "commissioning/vendor/handoff/policy_interface.py": "d5d374392acd9c66b22f268e107b44d14f7f17d6b9dd1cfde2ddc5cbea267601",
+    "commissioning/vendor/handoff/reference_geometry.py": "9483b50ce27bc2bed69c87a04e9fffd926edc32717fd3c8e07dd8352bc00522b",
+    "commissioning/vendor/handoff/策略接口.md": "c2c64dec42687162de02bb7cf43c64c7ad4cd74125c947b3a391cf5bce013f90",
+    "commissioning/vendor/round15/collect12.py": "e1e1467d588587ac994e3573dc3bbbe481a67124acd7de41893ec33c817b9ca1",
+    "commissioning/vendor/round15/gantry.py": "dcc6bbcff6cfa9607e9701cea23b3e7570cfb37d1a820f1b5da5c3a5f853c1d1",
+    "commissioning/vendor/round15/profiles.py": "34585b9129422633f3dc7cee39d0cdb83939533a1870e876a821b28c46ae4527",
+    "commissioning/vendor/franka/assets/finger_0.obj": "215098c0fcdf7192f6c503a37cf49e3efecf8a9e1320f02b17c5584d89cc5b2c",
+    "commissioning/vendor/franka/assets/hand.stl": "94493e94f30fe940f2c8ca2f155c3bbe67bbff406d3edf5e261670d2f0f6e2ed",
+    "commissioning/vendor/franka/assets/link0.stl": "dfc6d94330de8ddb005b311bfdba9f3b8e1aa7c256b71592ee7ff32cb9a9a5aa",
+    "commissioning/vendor/franka/assets/link1.stl": "e41a39a94108fcf56aacff603fc91ec80541f4c1af17b51a0de5617f5566e6d2",
+    "commissioning/vendor/franka/assets/link2.stl": "370f7605a0fae3529db169ded50f52f171024aa792d4d773bc84197301f6a039",
+    "commissioning/vendor/franka/assets/link3.stl": "0a8d638b9349c6c0eefc4e888636ac4838c4b27170f18a51699321118af709c1",
+    "commissioning/vendor/franka/assets/link4.stl": "0180ebb5772ec9840cb049750cffb29a9ddc90311752a16ea34757782ef9e48d",
+    "commissioning/vendor/franka/assets/link5_collision_0.obj": "3e5aa75fb13f193555c3dfb999df91d81df25006a5c3af5338297d78137c129b",
+    "commissioning/vendor/franka/assets/link5_collision_1.obj": "87cd8f621071df010f774cbde789282b8463840dfe704f8bdfa2e29be0142e15",
+    "commissioning/vendor/franka/assets/link5_collision_2.obj": "823ab6c8f7b1d79e0844fa071d82a03499ff68e34fddb1ba3451032c22736040",
+    "commissioning/vendor/franka/assets/link6.stl": "20b768e99a0e0440b5754dcca108016434e57937cc356acd9c352ccd3cb27f77",
+    "commissioning/vendor/franka/assets/link7.stl": "92ac6afcf7574c034d3170d8a68e95ac9048ab9d0dd5bbd8311b86e551b9ab1c",
+    "commissioning/runs/franka-pilot-v1/pilot-blade/calibration.json": "5cfe8150b06e87f117d88934a8c5a4ee665981e78ed9c40951205161da00177a"
+  }
+}

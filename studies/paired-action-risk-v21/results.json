@@ -1,0 +1,55 @@
+{
+  "version": "paired-action-risk-v4",
+  "n": 400,
+  "listed": 320,
+  "fixed": 95,
+  "chosen": 99,
+  "direct": 61,
+  "measured": 70,
+  "batch_count": 40,
+  "batch_size": 10,
+  "delta_seats_per_100": 1.0,
+  "delta_pp_ci": [
+    0.028330711768601025,
+    1.9716692882313993
+  ],
+  "one_sided_p": 0.02199189345838609,
+  "two_sided_p": 0.04398378691677218,
+  "by_task": {
+    "dual": {
+      "n": 80,
+      "fixed": 8,
+      "chosen": 8,
+      "delta_pp": 0.0,
+      "ci_pp": [
+        0.0,
+        0.0
+      ]
+    },
+    "round": {
+      "n": 120,
+      "fixed": 34,
+      "chosen": 35,
+      "delta_pp": 0.020833333333333332,
+      "ci_pp": [
+        -2.5567273000919015,
+        7.556727300091902
+      ]
+    },
+    "square": {
+      "n": 200,
+      "fixed": 53,
+      "chosen": 56,
+      "delta_pp": 0.0375,
+      "ci_pp": [
+        -1.0309759859057397,
+        16.030975985905737
+      ]
+    }
+  },
+  "changed": {
+    "n": 23,
+    "rescued": 4,
+    "rejected": 0
+  }
+}

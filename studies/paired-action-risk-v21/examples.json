@@ -1,0 +1,97 @@
+{
+  "rescued": [
+    {
+      "id": "X17P00",
+      "batch": 17,
+      "task": "square",
+      "gap": 2.0,
+      "listed": 1,
+      "direct": 1,
+      "measured": 0,
+      "fixed": 0,
+      "chosen": 1,
+      "p_direct": 0.25726118601666487,
+      "p_measured": 0.20127645653986354,
+      "fixed_rule": "measured",
+      "chosen_rule": "direct",
+      "direct_action": [
+        4.0,
+        0.0
+      ],
+      "measured_action": [
+        4.8,
+        -55.7
+      ]
+    },
+    {
+      "id": "X32P03",
+      "batch": 32,
+      "task": "square",
+      "gap": 2.0,
+      "listed": 1,
+      "direct": 0,
+      "measured": 1,
+      "fixed": 0,
+      "chosen": 1,
+      "p_direct": 0.5489491302245961,
+      "p_measured": 0.5909770869760119,
+      "fixed_rule": "direct",
+      "chosen_rule": "measured",
+      "direct_action": [
+        20.5,
+        0.0
+      ],
+      "measured_action": [
+        14.3,
+        0.0
+      ]
+    },
+    {
+      "id": "X14P01",
+      "batch": 14,
+      "task": "square",
+      "gap": 1.0,
+      "listed": 1,
+      "direct": 0,
+      "measured": 1,
+      "fixed": 0,
+      "chosen": 1,
+      "p_direct": 0.5396766303669925,
+      "p_measured": 0.5751990727101193,
+      "fixed_rule": "direct",
+      "chosen_rule": "measured",
+      "direct_action": [
+        -5.7,
+        0.0
+      ],
+      "measured_action": [
+        -3.4,
+        0.0
+      ]
+    },
+    {
+      "id": "X19P07",
+      "batch": 19,
+      "task": "round",
+      "gap": 4.0,
+      "listed": 1,
+      "direct": 0,
+      "measured": 1,
+      "fixed": 0,
+      "chosen": 1,
+      "p_direct": 0.30470605895610825,
+      "p_measured": 0.31184476011348367,
+      "fixed_rule": "direct",
+      "chosen_rule": "measured",
+      "direct_action": [
+        -14.2,
+        30.0
+      ],
+      "measured_action": [
+        -7.0,
+        -12.0
+      ]
+    }
+  ],
+  "rejected": []
+}
